@@ -437,6 +437,295 @@
           "title": "How to Build a React Application with Load More Functionality using React Hooks"
         }
       ]
+    },
+    {
+      "href": "http://feeds.dzone.com/publications",
+      "articles": [
+        {
+          "description": "The opportunities big data offers also come with very real challenges that many organizations are facing today. Often, it's finding the most cost-effective, scalable way to store and process boundless volumes of data in multiple formats that come from a growing number of sources. Then organizations need the analytical capabilities and flexibility to turn this data into insights that can meet their specific business objectives.\n\nThis Refcard dives into how a data lake helps tackle these challenges at both en…",
+          "link": "https://dzone.com/refcardz/getting-started-with-data-lakes",
+          "publishedOn": "2021-04-29T22:04:10.000Z",
+          "wordCount": 1652,
+          "sourceHref": "http://feeds.dzone.com/publications",
+          "sourceTitle": "Refcardz and Guides Feed",
+          "title": "Getting Started With Data Lakes"
+        }
+      ]
+    },
+    {
+      "href": "http://feeds.dzone.com/home",
+      "articles": [
+        {
+          "description": "Here I am again with another take from the field.\nRed Hat Single Sign-on (RH-SSO) is the enterprise-ready version of Keycloak, and one thing that is most commonly asked, especially for big customers is, \"How do we audit all the events?\"",
+          "link": "https://dzone.com/articles/integrating-red-hat-single-sign-on-with-amq-stream",
+          "publishedOn": "2021-05-01T18:08:22.000Z",
+          "wordCount": 1203,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Integrating Red Hat Single Sign-On With AMQ Streams for Auditing Events"
+        },
+        {
+          "description": "Abstract\nPresto is an open-source distributed SQL&nbsp;query engine for big data. Presto provides a connector API&nbsp;to interact with different data sources, including RDBMSs, NoSQL products, Hadoop, and stream processing systems. Created by Facebook, Presto received wide adoption by the open-source world (Presto, Trino) commercial companies (e.g., Ahana, Qubole).\nPresto comes with a sophisticated query optimizer that applies various rewrites to the query plan. In this blog post series, we investigate the…",
+          "link": "https://dzone.com/articles/inside-presto-optimizer",
+          "publishedOn": "2021-05-01T16:34:28.000Z",
+          "wordCount": 1622,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Inside Presto Optimizer"
+        },
+        {
+          "description": "The terms runbooks&nbsp;and&nbsp;playbooks are often used interchangeably. They are&nbsp;similar--they both offer a method of documenting tactical and strategic executions of the goals and processes of your organization. But there are important differences between the two, and each has its place. Once you understand that difference, you will be able to effectively use them individually, but even more importantly, you will be able to pair the two techniques together, creating a powerful weapon in your arsena…",
+          "link": "https://dzone.com/articles/runbooks-vs-playbooks-explaining-the-difference",
+          "publishedOn": "2021-05-01T16:07:39.000Z",
+          "wordCount": 1384,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Runbooks vs. Playbooks: Explaining the Difference"
+        },
+        {
+          "description": "Why Do I Need Tracing if I Have a Good Logging and Monitoring Framework?\nApplication logs are beneficial for displaying important events if something is not working as expected (failure, error, incorrect config, etc.). Although it is a very crucial element in application design, one should log thriftily. This is because log collection, transformation, and storage are costly.\nUnlike logging, which is event triggered and discrete, tracing provides a broader and continuous application view. Tracing helps us un…",
+          "link": "https://dzone.com/articles/tracing-in-grafana-with-tempo-and-jaeger",
+          "publishedOn": "2021-05-01T15:37:33.000Z",
+          "wordCount": 2525,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Tracing in Grafana With Tempo and Jaeger"
+        },
+        {
+          "description": "Industry: Logistics\nAuthors:",
+          "link": "https://dzone.com/articles/choosing-a-mysql-alternative-over-vitess-and-crdb",
+          "publishedOn": "2021-05-01T15:09:43.000Z",
+          "wordCount": 2985,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Choosing a MySQL Alternative to Scale Out Databases on K8s"
+        },
+        {
+          "description": "I've recently become acquainted with Adobe's PDF Embed API. As you can probably guess by the name, it's a library for embedded PDFs on a web page. Not just a simple viewer, it has APIs for interacting with the PDF as well really good mobile support. This is a part of the Document Cloud service which provides other PDF tools as well (extraction, conversion, and so forth). I've been playing with the viewer a bit and wanted to see what Vue.js integration would look like. Here's my solution, but note that I'm s…",
+          "link": "https://dzone.com/articles/using-the-pdf-embed-api-with-vuejs",
+          "publishedOn": "2021-05-01T14:41:14.000Z",
+          "wordCount": 1341,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Using the PDF Embed API With Vue.js"
+        },
+        {
+          "description": "Most enterprises are somewhere along their DevOps journey to address software delivery challenges concerning cost, speed, and quality.\nDevOps is founded on solving these issues by marrying development and operations and automating activities. While it has frequently proven to achieve the benefits touted, there are many learnings from those who have worked their way down the DevOps path.",
+          "link": "https://dzone.com/articles/5-devops-mistakes-to-avoid",
+          "publishedOn": "2021-05-01T14:28:40.000Z",
+          "wordCount": 1407,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "5 DevOps Mistakes to Avoid"
+        },
+        {
+          "description": "Think of a leader who constantly gives you advice, occasionally asks a question only to respond with their own opinion without giving you a chance to speak up your mind, interrupts you and doesn’t let you complete your thoughts, pretends to listen by nodding their head or making sounds like “aha..hmm…” when you can see that they are clearly distracted or those who don’t bother to ask a single question and leave you wondering what to make out of the one-sided conversation.&nbsp;\nDon’t such leaders drive you …",
+          "link": "https://dzone.com/articles/how-effective-listening-can-make-you-a-better-lead",
+          "publishedOn": "2021-05-01T14:08:14.000Z",
+          "wordCount": 2787,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How Effective Listening Can Make You A Better Leader"
+        },
+        {
+          "description": "With Flutter 2.0, you can build apps on mobile, web and desktop. &nbsp;Graphics performance is fantastic and the development tools are great. The main barrier to learning Flutter is an understanding of state management. &nbsp;This tutorial covers the Provider package, one of the most popular and easiest tools to manage state in Flutter.\nA video version of this tutorial is available. Code and image files are on GitHub.&nbsp;",
+          "link": "https://dzone.com/articles/flutter-20-state-management-introduction-with-prov",
+          "publishedOn": "2021-05-01T01:12:12.000Z",
+          "wordCount": 1522,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Flutter 2.0 State Management Introduction With Provider 5.0"
+        },
+        {
+          "description": "Apache Kafka and MQTT are a perfect combination for many Industrial IoT use cases. This blog series covers the pros and cons of both technologies. Various use cases across industries, including connected vehicles, manufacturing, mobility services, and smart city are explored. The examples use different architectures, including lightweight edge scenarios, hybrid integrations, and serverless cloud solutions. This post is part three: Manufacturing, Industrial IoT, and Industry 4.0.\nApache Kafka + MQTT Blog Ser…",
+          "link": "https://dzone.com/articles/apache-kafka-and-mqtt-part-3-of-5-manufacturing-40",
+          "publishedOn": "2021-05-01T00:58:29.000Z",
+          "wordCount": 1237,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Apache Kafka and MQTT (Part 3 of 5) – Manufacturing 4.0 and Industrial IoT"
+        },
+        {
+          "description": "Milvus is an open-source vector database designed to manage massive million, billion, or even trillion vector datasets. Milvus has broad applications spanning new drug discovery, computer vision, autonomous driving, recommendation engines, chatbots, and much more.\nIn March 2021, Zilliz, the company behind Milvus released the platform's first long-term support version — Milvus v1.0. After months of extensive testing, a stable, production-ready version of the world's most popular vector database is ready for …",
+          "link": "https://dzone.com/articles/whats-inside-milvus-10",
+          "publishedOn": "2021-05-01T00:37:26.000Z",
+          "wordCount": 1041,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "What's Inside Milvus 1.0?"
+        },
+        {
+          "description": "Do you use BitBucket Pipeline as your CI server? Are you struggling with slow E2E tests in Cypress? Did you know BitBucket Pipeline can run parallel steps? You can use it to distribute your browser tests across several parallel steps to execute end-to-end Cypress tests in a short amount of time.\nHow to Run Tests in Parallel\nDistributing tests across parallel steps to spread the workload and run tests faster might be more challenging than you think. The question is how to divide Cypress test files across the…",
+          "link": "https://dzone.com/articles/how-to-run-parallel-cypress-tests-on-bitbucket-pip-2",
+          "publishedOn": "2021-05-01T00:29:32.000Z",
+          "wordCount": 950,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Run Parallel Cypress Tests on BitBucket Pipeline"
+        },
+        {
+          "description": "Part 1 || Part 2 || Part 3\nThis blog is part two of my three blogs on how to build a hybrid multi-cloud event mesh with Camel. In this part, I am going over the more technical aspects. Going through how I set up the event mesh demo.&nbsp;",
+          "link": "https://dzone.com/articles/building-hybrid-multi-cloud-event-mesh-with-apache",
+          "publishedOn": "2021-05-01T00:18:16.000Z",
+          "wordCount": 1879,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Building Hybrid Multi-Cloud Event Mesh With Apache Camel and Kubernetes"
+        },
+        {
+          "description": "Introduction\nWelcome to a new DZone weekly feature where we highlight the most popular articles on DZone. Are you ready to find out the most popular articles across all of DZone for the past week (April 23-29)? We compiled our top 10 trending and most popular DZone articles for our developer and software professional audiences!\nLet us know in the comments which of these articles is your favorite and what article you hope to see next on DZone!",
+          "link": "https://dzone.com/articles/top-10-most-popular-posts-on-dzone-april-23-29",
+          "publishedOn": "2021-04-30T22:11:20.000Z",
+          "wordCount": 662,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Top 10 Most Popular Posts on DZone: April 23-29"
+        },
+        {
+          "description": "Cybersecurity remains a persistent threat to both individuals and businesses, with data privacy concerns increasing for 86% of companies in 2020 and just 23% of consumers believing their personal data is very secure. As malware becomes steadily more omnipresent and sophisticated, a proactive approach to threat detection has become essential. Trend Micro is a global leader in hybrid cloud security, network defense, small business security, and endpoint security. To protect Android devices from viruses, the c…",
+          "link": "https://dzone.com/articles/detecting-viruses-in-real-time-at-scale",
+          "publishedOn": "2021-04-30T22:00:37.000Z",
+          "wordCount": 1621,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Detecting Viruses in Real-Time at Scale"
+        },
+        {
+          "description": "Database Replication\nDatabase replication is a process in which we run a set of database instances that maintain the same datasets and it provides redundancy and promises high availability of database servers. In case your one database falls down then you still will be able to use the other available database from the cluster and have the same datasets that you had in your previous replica.&nbsp;\nIn this post, I am going to demonstrate the replication setup in MongoDB. If you're using some other database yo…",
+          "link": "https://dzone.com/articles/setting-up-mongodb-cluster-and-replica-set",
+          "publishedOn": "2021-04-30T21:31:20.000Z",
+          "wordCount": 861,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Setting up MongoDB Cluster and Replica-Set"
+        },
+        {
+          "description": "Perceptual image hashing is a relatively new process used primarily in the multimedia industry for content identification and authentication. The process itself uses an algorithm to extract specific features from an image and calculate a hash value based on that information. The hash value that is generated acts as a kind of ‘fingerprint’ for the image; it is a distinct identifier that is unique to its parent image.&nbsp;\nAs you may have guessed by the fingerprint comparison, perceptual image hashing is par…",
+          "link": "https://dzone.com/articles/how-to-generate-and-compare-perceptual-image-hashe",
+          "publishedOn": "2021-04-30T20:12:29.000Z",
+          "wordCount": 1104,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Generate and Compare Perceptual Image Hashes in Java"
+        },
+        {
+          "description": "More Focus on Container Technologies in IoT Platforms\nGartner projects that over 75% of global organizations will be using containerized apps in production by 2022. So far, container technologies have been part of traditional enterprise IT environments and cloud architectures. Recent developments in industrial IoT platforms and the increased demand for vendor-neutral IoT technologies, however, have made containers increasingly relevant for the Internet of Things.&nbsp;\nDefining Containers\nWhat is a containe…",
+          "link": "https://dzone.com/articles/top-iot-app-development-trends-in-2021",
+          "publishedOn": "2021-04-30T18:35:49.000Z",
+          "wordCount": 1121,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Top IoT App Development Trends in 2021"
+        },
+        {
+          "description": "The Scaled Agile Framework® (SAFe®) came into being to help modern enterprises implement Lean-Agile development at scale more effectively and smoothly. So, if an enterprise wants to implement this framework to reap the maximum benefits of the Lean-Agile Development at scale, it is essential for it to absorb Lean-Agile culture, Lean-Agile mindset, and Lean-Agile principles at the personal, intellectual, and leadership levels. This thorough absorption at all these levels forms the base on which SAFe can be im…",
+          "link": "https://dzone.com/articles/top-10-key-elements-for-successful-safe-implementa-1",
+          "publishedOn": "2021-04-30T18:19:08.000Z",
+          "wordCount": 2057,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Top 10 Key Elements for Successful SAFe Implementation"
+        },
+        {
+          "description": "Recently, my app needed to use cross-platform sharing links. App Linking of AppGallery Connect met my requirements. If you want to quickly experience this service, see the demo on GitHub.\nPerform the following steps for service integration:",
+          "link": "https://dzone.com/articles/how-can-i-quickly-integrate-app-linking-of-appgall-2",
+          "publishedOn": "2021-04-30T17:27:38.000Z",
+          "wordCount": 1096,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Quickly Integrate App Linking of AppGallery Connect Into My Android App"
+        },
+        {
+          "description": "One of my greatest privileges building Stepsize has been hearing from hundreds of the best engineering teams in the world about how they ship software at pace while maintaining a healthy codebase.\nThat's right, these teams go faster because they manage technical debt properly. We're so used to the quality vs. cost trade-off that this statement sounds like a lie—you can't both be fast and maintain a healthy codebase.",
+          "link": "https://dzone.com/articles/how-to-maintain-a-healthy-codebase-while-shipping",
+          "publishedOn": "2021-04-30T17:09:47.000Z",
+          "wordCount": 1472,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Maintain a Healthy Codebase While Shipping Fast"
+        },
+        {
+          "description": "For the last few years, you have heard the terms \"data integration\" and \"data management\" dozens of times. Your business may already invest in these practices, but are you benefitting from this data gathering?&nbsp;\nToo often, companies hire specialists, collect data from many sources and analyze it for no clear purpose. And without a clear purpose, all your efforts are in vain. You can take in more customer information than all your competitors and still fail to make practical use of it. &nbsp;",
+          "link": "https://dzone.com/articles/5-customer-data-integration-best-practices",
+          "publishedOn": "2021-04-30T17:03:33.000Z",
+          "wordCount": 1269,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "5 Customer Data Integration Best Practices"
+        },
+        {
+          "description": "Debt is a complicated subject. The world often carries negative connotations with images of student loans, medical bills, or mortgage payments often coming to mind. In reality, though, some financial debt can actually help people.&nbsp;\nThe same thing is true with technical debt.",
+          "link": "https://dzone.com/articles/the-engineers-complete-guide-to-technical-debt-1",
+          "publishedOn": "2021-04-30T16:41:52.000Z",
+          "wordCount": 3016,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "The Engineer’s Complete Guide to Technical Debt"
+        },
+        {
+          "description": "In this tweet, I was asked if I had a list of resources for developers who are new to Java. I didn't at the time, but I've spent some time researching, and here is that list.\nI've listed content that is both free and paid. It's not that one type is superior; it’s just to give you plenty of choices. These are the resources that I've used and do still use to re-learn Java. So, if you're new to Java or looking to pick it up again after a break, this blog is for you.",
+          "link": "https://dzone.com/articles/new-to-java-some-resources",
+          "publishedOn": "2021-04-30T16:40:21.000Z",
+          "wordCount": 1754,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "New to Java? Here Are Some Resources"
+        },
+        {
+          "description": "Introduction\nAre you familiar with the fact that utilization of artificial intelligence across businesses will tend to create $2.9 trillion of business value in 2021 as well as 6.2 billion hours of productivity? Keeping in view this up-pacing technology, the artificial intelligence market is projected to grow to $190 billion by the year 2025.&nbsp;\nWithout any uncertainty, it is clear this whole globe is accommodated with synergizing human intelligence and artificial intelligence. The immense acquisition is…",
+          "link": "https://dzone.com/articles/securing-the-future-of-remote-working-with-augment",
+          "publishedOn": "2021-04-30T16:32:43.000Z",
+          "wordCount": 1280,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Securing the Future of Remote Working With Augmented Intelligence"
+        },
+        {
+          "description": "Introduction\nMicrosoft SharePoint has undoubtedly revolutionized the way business enterprises are using the intranet to optimally extract value from it. Using SharePoint as an intranet makes it easy for employees to work collaboratively as a team while encouraging team cohesiveness and employee engagement. So, let’s get into the top 10 benefits of having a SharePoint intranet in your enterprise.\nBenefits of SharePoint Intranet Portal\n1. Easy Storage of Information\nBusiness-related and sensitive information …",
+          "link": "https://dzone.com/articles/top-10-sharepoint-intranet-portal-benefits",
+          "publishedOn": "2021-04-30T16:25:46.000Z",
+          "wordCount": 980,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Top 10 SharePoint Intranet Portal Benefits"
+        },
+        {
+          "description": "Introduction\nIoT is flawed. If a smart, imaginative team built the service, there’s a smarter and more imaginative attacker waiting for you. Whatever appears Smart may also be fully vulnerable to serious threats. When more untested devices join an IoT network, it gets increasingly complicated to track potential blind spots leaving the system open for cybercriminals.&nbsp;\n98% of all IoT traffic is NOT encrypted, making it the lowest hanging fruit for attacks. In all honesty, attackers have been innovative i…",
+          "link": "https://dzone.com/articles/resolving-data-theft-in-iot-networks-to-grow-your",
+          "publishedOn": "2021-04-30T16:10:24.000Z",
+          "wordCount": 1129,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Resolving Data Theft in IoT Networks To Grow Your Business"
+        },
+        {
+          "description": "Introduction\nMobile app performance testing is carried out to assess the performance of applications under real-world conditions. The end goal is to predict the user’s experience after the public release of the application. For testers working with mobile app performance testing tools, performance assessment usually means running multiple parallel tests to measure the system’s response for critical user journeys across a wide range of devices, locations, and networks. Performance testing also assesses the a…",
+          "link": "https://dzone.com/articles/important-uses-of-mobile-app-performance-testing-t",
+          "publishedOn": "2021-04-30T15:55:13.000Z",
+          "wordCount": 884,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Important Uses of Mobile App Performance Testing Tools"
+        },
+        {
+          "description": "Why Should I Care?\nHave you ever wanted to know:\nHow distributed databases handle network failures?\nWhat tradeoffs we must make when designing distributed data stores?\nIn 5 Minutes or Less\nEric Brewer's CAP Theorem tells us that a distributed data store must choose no more than two of the following:",
+          "link": "https://dzone.com/articles/what-is-cap-theorem",
+          "publishedOn": "2021-04-30T15:38:01.000Z",
+          "wordCount": 857,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "What is CAP Theorem?"
+        },
+        {
+          "description": "Anypoint VPC\nMany developers, consultants, or architects are fronted by challenging architecture designs where particular security, availability, and/or network restrictions must be considered while designing integration solutions.\nAnypoint Platform, among its components, provides the Anypoint VPC: an AWS VPC (virtual private cloud) in the requested AWS region, assigned exclusively to its owning Anypoint Platform organization where only authorized users from the organization may deploy Mule applications to …",
+          "link": "https://dzone.com/articles/anypoint-vpc-connection",
+          "publishedOn": "2021-04-30T15:31:02.000Z",
+          "wordCount": 1407,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Anypoint VPC Connection Tutorial"
+        }
+      ]
     }
   ],
   "cliVersion": "1.2.3"
