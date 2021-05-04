@@ -4,6 +4,33 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-8-css/",
+          "publishedOn": "2021-05-03T21:52:08.000Z",
+          "wordCount": 6272,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Chapter 8: CSS"
+        },
+        {
+          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
+          "publishedOn": "2021-05-03T14:35:07.000Z",
+          "wordCount": 908,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Swipey Image Grids"
+        },
+        {
+          "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/webpagetest-api/",
+          "publishedOn": "2021-05-03T14:34:53.000Z",
+          "wordCount": 8905,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "WebPageTest API"
+        },
+        {
           "description": "Yay, it&#8217;s here! Safari 14.1 reportedly adds support for the gap property in flexbox layouts. We&#8217;ve had grid-gap support for some time, but true to its name, it&#8217;s limited to grid layouts. Now we can use gap in either type &#8230;\nThe post Safari 14.1 Adds Support for Flexbox Gaps appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-14-1-adds-support-for-flexbox-gaps/",
           "publishedOn": "2021-04-30T21:51:08.000Z",
@@ -143,6 +170,15 @@
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
+          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
+          "publishedOn": "2021-05-03T07:00:00.000Z",
+          "wordCount": 2141,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "The Evolution Of Jamstack"
+        },
         {
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
@@ -347,6 +383,42 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
+          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
+          "publishedOn": "2021-05-03T17:20:56.000Z",
+          "wordCount": 2495,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Fetch Data in React from a GraphQL API"
+        },
+        {
+          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
+          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
+          "publishedOn": "2021-05-03T16:40:08.000Z",
+          "wordCount": 1158,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+        },
+        {
+          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
+          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
+          "publishedOn": "2021-05-03T16:13:55.000Z",
+          "wordCount": 1398,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
+        },
+        {
+          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
+          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
+          "publishedOn": "2021-05-03T15:31:42.000Z",
+          "wordCount": 890,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
+        },
+        {
           "description": "These days, computers can pretty much do anything. Now if you are a frequent computer user like I am, I'm sure you interact with the keyboard all the time. And in this article, I'm going to show you some helpful keyboard shortcuts that will make your work easier",
           "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
           "publishedOn": "2021-04-30T18:37:37.000Z",
@@ -455,6 +527,132 @@
     {
       "href": "http://feeds.dzone.com/home",
       "articles": [
+        {
+          "description": "Introduction\nSince the invention of the Java language, there has been a long-standing debate about checked versus unchecked/runtime exceptions. Some people argue that checked exceptions promote a better design. Others feel that checked exceptions get in the way, especially as systems mature and refactor over time, and therefore unchecked exceptions are better. The Effective Java Exceptions article, settles this debate once and for all: both checked and unchecked exceptions are acceptable, and each has its p…",
+          "link": "https://dzone.com/articles/contingencies-vs-faults",
+          "publishedOn": "2021-05-03T22:27:15.000Z",
+          "wordCount": 1999,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Contingencies vs. Faults"
+        },
+        {
+          "description": "At We Are Developers I gave a talk about my application modernization example which shows how to modernize 10+-year-old Java applications with modern cloud-based technologies.\nAbstract\nAre you curious to understand what application modernization has to do with rabbits? Do you want to learn how to modernize 10-year-old Java applications to gain benefits from the cloud? Do you want to try this yourself, following step-by-step instructions? Then you should attend this session!\nApplication modernization doesn’t…",
+          "link": "https://dzone.com/articles/application-modernization-and-rabbits-webinar",
+          "publishedOn": "2021-05-03T22:10:07.000Z",
+          "wordCount": 580,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Application Modernization and Rabbits [Webinar]"
+        },
+        {
+          "description": "XML (Extensible Markup Language) is an incredibly popular data format that can be used in a variety of ways; from documents to images to videos, XML does them all. However, the very design of XML requires that an application parse the request to create an output, which provides an opening for XML External Entity (XXE) attacks. XXE attacks can exploit vulnerabilities within Document Type Definitions (DTD) in XML parsers to replace entities and cause a denial of service or utilize Server Side Request Forgery …",
+          "link": "https://dzone.com/articles/how-to-detect-xxe-attacks-from-text-input-in-java",
+          "publishedOn": "2021-05-03T21:57:09.000Z",
+          "wordCount": 1181,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Detect XXE Attacks from Text Input in Java"
+        },
+        {
+          "description": "According to a report by Statista, retail e-commerce revenues are projected to grow to $6.54 trillion USD in 2022. E-commerce was already a huge online activity but has become even more pronounced during the pandemic-induced lockdown.\nWith the growing number of online buyers, your e-commerce website needs to be robust to meet the demands of your customers. Having a good e-commerce website is not enough today; you need to update the website to meet your business's new requirements and goals. Your e-commerce …",
+          "link": "https://dzone.com/articles/complete-guide-to-ecommerce-website-testing-for-be",
+          "publishedOn": "2021-05-03T21:36:27.000Z",
+          "wordCount": 2195,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Complete Guide to eCommerce Website Testing for a Better Website Experience"
+        },
+        {
+          "description": "Let’s say you scan a piece of paper and convert it to a PDF. Did you know your PDF can have its text and images processed to make it easy to search through? This also makes it easy for other applications like SharePoint, BOX, Dropbox, and others to index your content, so you can search for them in those applications.\nDepending on which PDF engine you use, you might run into issues. Some PDF engines just take an image and create a PDF wrapper around it. Then, your file repositories can’t index it because it’…",
+          "link": "https://dzone.com/articles/make-pdfs-searchable-ocr-after-importing-into-shar",
+          "publishedOn": "2021-05-03T21:18:05.000Z",
+          "wordCount": 1072,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Make PDFs Searchable (OCR) After Importing Into Sharepoint"
+        },
+        {
+          "description": "Got a brilliant startup idea but not sure if it will succeed? Develop a minimal viable product that will help you validate your idea. If it works, go ahead and get it developed. If it doesn't, for some reason, then you can rework your concept. A no-code MVP is the best way toward improving product development and growing into a successful venture.\nWhat Is an MVP?\nAn MVP is the basic version of your product that you build in order to understand your audience better. It helps the audience get to know the prod…",
+          "link": "https://dzone.com/articles/how-to-build-a-no-code-mvp",
+          "publishedOn": "2021-05-03T18:42:37.000Z",
+          "wordCount": 2530,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Build a No-Code MVP"
+        },
+        {
+          "description": "According to some surveys such as that of JetBrains, version 8 of Java is currently the most used by developers all over the world, despite being a 2014 release. What you are reading is one in a series of articles titled “Going beyond Java 8”, inspired by the contents of my book “Java for Aliens”. These articles will guide the reader step-by-step to explore the most important features introduced starting from version 9. The aim is to make the reader aware of how important it is to move forward from Java 8, …",
+          "link": "https://dzone.com/articles/going-beyond-java-8-create-custom-java-runtimes-wi",
+          "publishedOn": "2021-05-03T18:29:01.000Z",
+          "wordCount": 1605,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Going Beyond Java 8: Create Custom Java Runtimes with jlink"
+        },
+        {
+          "description": "Public key cryptography has a lot of highly interesting features. By utilising its asymmetric parts, you can even implement authentication based upon asking the server for a \"cryptography challenge\". Basically the way it works is as follows.\nThe client asks the server for a challenge\nThe server returns the challenge to the client\nThe client cryptographically signs the challenge and submits it back to the server\nThe server returns a valid JWT token the user can use for consecutive requests, but only if the c…",
+          "link": "https://dzone.com/articles/zero-username-and-password-authentication",
+          "publishedOn": "2021-05-03T18:09:56.000Z",
+          "wordCount": 710,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Zero Username and Password Authentication"
+        },
+        {
+          "description": "Node.js has become famous in the past few years. It is used in many server programming projects. So now the query is what is Node.js? It is a JavaScript runtime for executing JavaScript code. It is written in C++ and can run JavaScript code on the server. The js extension in Node is JavaScript, so Javascript is on the backend server. If you are also looking for Node.js web development services, then you are in the right place. \nFactors for Adopting Node\nWrapper around V8 (execute JavaScript)\nIt has built-in…",
+          "link": "https://dzone.com/articles/trends-you-may-have-missed-about-nodejs-developmen",
+          "publishedOn": "2021-05-03T17:59:44.000Z",
+          "wordCount": 1160,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Trends You May Have Missed in Node.js Development"
+        },
+        {
+          "description": "When it comes to the question “how do I improve my net promoter score?” there isn’t one correct answer, but there are several common truths that you can weave together to increase your business strategies’ success. We’re going to take you through the complete guide to net promoter score for your SaaS business and the why, where, and how you can better them.\nNPS&nbsp;Basics\nNet promoter scores are helpful across all industries, particularly B2B industries like SaaS. Before we outline how to make them work fo…",
+          "link": "https://dzone.com/articles/net-promoter-scores-for-saas",
+          "publishedOn": "2021-05-03T17:53:10.000Z",
+          "wordCount": 2492,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Net Promoter Scores for SaaS"
+        },
+        {
+          "description": "As the app revolution has developed into a custom, it looks like businesses are competing hard for screen space on mobile phones or tablets. However, developing a mobile application for your business is not predictably as inexpensive and straightforward as you might believe. Mobile apps characterize an enormous opportunity for creating a mobile-based organization, but accomplishments take far more than just an immense idea.\nBuilding a mobile app for your business comes with a set of involvedness and stakeho…",
+          "link": "https://dzone.com/articles/8-essential-questions-you-need-to-answer-before-de",
+          "publishedOn": "2021-05-03T17:09:30.000Z",
+          "wordCount": 1493,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "8 Questions to Answer Before Developing a Mobile App"
+        },
+        {
+          "description": "Social media apps are perfect candidates for using graph databases and GraphQL APIs. The combinations of complex data queries and relationships are endless.\n \n \nTake Reddit for example. The app consists of “subreddits”, or topics. Users can create posts in these subreddits, which means that there is a many-to-one relationship between posts and subreddits. Each post belongs to exactly one subreddit, and each subreddit can contain many posts. Users can comment on posts, leading to another many-to-one relation…",
+          "link": "https://dzone.com/articles/build-a-reddit-clone-with-react-and-slash-graphql",
+          "publishedOn": "2021-05-03T12:21:58.000Z",
+          "wordCount": 3681,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Build a Reddit Clone with React and Dgraph Cloud"
+        },
+        {
+          "description": "Welcome to a new series exploring a retail architecture blueprint. It's focusing on presenting access to ways of mapping successful implementations for specific use cases.\nIt's an interesting challenge creating architectural content based on common customer adoption patterns. That's very different from most of the traditional marketing activities usually associated with generating content for the sole purpose of positioning products for solutions. When you're basing the content on actual execution in soluti…",
+          "link": "https://dzone.com/articles/store-health-and-safety-an-architectural-introduct",
+          "publishedOn": "2021-05-03T08:55:12.000Z",
+          "wordCount": 786,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Store health and safety - An architectural introduction"
+        },
+        {
+          "description": "You can expose your app to the public by setting up a Kubernetes LoadBalancer service in your IBM Cloud Kubernetes Service cluster. When you expose your app, a Load Balancer for VPC that routes requests to your app is automatically created for you in your VPC outside of your cluster.\nIn this post, you will provision an IBM Cloud Kubernetes Service cluster spanning two private subnets (each subnet in a different zone), deploy an application using a container image stored in an IBM Cloud Container Registry an…",
+          "link": "https://dzone.com/articles/multizone-kubernetes-and-vpc-load-balancer-setup",
+          "publishedOn": "2021-05-03T04:19:13.000Z",
+          "wordCount": 1041,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Multizone Kubernetes and VPC Load Balancer Setup"
+        },
         {
           "description": "Currently, most software teams that are using Azure DevOps to build their software choose to use Azure-hosted agents as their build server. This comes with a lot of benefits. Many libraries are already installed on these agents so it's quite compatible with most projects' specifications. For every build, you get a new agent that is provisioned and after the build will be destroyed. However, this has its own limitations. Azure Hosted Agents are using a specific type of VM so it is not possible to increase ha…",
           "link": "https://dzone.com/articles/how-to-create-azure-pipelines-agent-fully-automated",
@@ -831,6 +1029,249 @@
       "articles": [
         {
           "description": "Comments",
+          "link": "http://dotorgdoesntmeancredible.org/",
+          "publishedOn": "2021-05-03T23:18:50.000Z",
+          "wordCount": 878,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": ".org Doesn't Mean Credible"
+        },
+        {
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/",
+          "publishedOn": "2021-05-03T23:08:15.000Z",
+          "wordCount": 721,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Google AI leader has defected to Apple"
+        },
+        {
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/andrew-ng-xrays-the-ai-hype",
+          "publishedOn": "2021-05-03T21:59:36.000Z",
+          "wordCount": 44,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Andrew Ng says AI has a proof-of-concept-to-production gap"
+        },
+        {
+          "description": "Comments",
+          "link": "https://twitter.com/EricLengyel/status/1389106103179378689",
+          "publishedOn": "2021-05-03T21:53:22.000Z",
+          "wordCount": 196,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Back in 1993, I was taking a number theory class"
+        },
+        {
+          "description": "Comments",
+          "link": "https://replpad.com/",
+          "publishedOn": "2021-05-03T21:49:40.000Z",
+          "wordCount": 50,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: ReplPad – Javascript Repl/Scratchpad"
+        },
+        {
+          "description": "Comments",
+          "link": "https://mux.com/jobs?hnj=full-stack",
+          "publishedOn": "2021-05-03T21:00:14.000Z",
+          "wordCount": 425,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.shellcheck.net/",
+          "publishedOn": "2021-05-03T20:54:43.000Z",
+          "wordCount": 354,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "ShellCheck: Finds bugs in your shell scripts"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.mercatus.org/publications/urban-economics/liberalizing-land-use-regulations-case-houston",
+          "publishedOn": "2021-05-03T20:45:02.000Z",
+          "wordCount": 2614,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Liberalizing Land Use Regulations: The Case of Houston (2020)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://soundshader.github.io/hss/gallery/index.html",
+          "publishedOn": "2021-05-03T20:22:51.000Z",
+          "wordCount": 471,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Highres Spectrograms with the DFT Shift Theorem"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/kpdemetriou/fuuid",
+          "publishedOn": "2021-05-03T20:14:59.000Z",
+          "wordCount": 800,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Sortable Collision-Free UUIDs"
+        },
+        {
+          "description": "Comments",
+          "link": "https://thoughtspile.github.io/grafar?new",
+          "publishedOn": "2021-05-03T19:42:44.000Z",
+          "wordCount": 3,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: I built Grafar, a visualization library"
+        },
+        {
+          "description": "Comments",
+          "link": "https://mattbutterfield.com/blog/2021-05-02-adding-video-chat",
+          "publishedOn": "2021-05-03T19:19:40.000Z",
+          "wordCount": 1335,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Building video chat into my personal website using WebRTC, WebSockets, and Go"
+        },
+        {
+          "description": "Comments",
+          "link": "https://wejn.org/2021/04/multi-weekend-project-reversing-yamaha-yas-207-remote-control/",
+          "publishedOn": "2021-05-03T19:17:32.000Z",
+          "wordCount": 498,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Putting the fear of AirPlay into Yamaha YAS-207 soundbar"
+        },
+        {
+          "description": "Comments",
+          "link": "https://jpmens.net/2021/04/09/the-unix-magic-poster/",
+          "publishedOn": "2021-05-03T18:54:49.000Z",
+          "wordCount": 335,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Unix Magic Poster"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.femfosec.com/what-nobody-says-about-startup-moms/",
+          "publishedOn": "2021-05-03T17:40:30.000Z",
+          "wordCount": 832,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "What nobody says about startup moms"
+        },
+        {
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27025922",
+          "publishedOn": "2021-05-03T15:01:19.000Z",
+          "wordCount": 38608,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Ask HN: Who is hiring? (May 2021)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27025920",
+          "publishedOn": "2021-05-03T15:01:18.000Z",
+          "wordCount": 12885,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Ask HN: Who wants to be hired? (May 2021)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://hakibenita.com/sql-for-data-analysis",
+          "publishedOn": "2021-05-03T14:55:14.000Z",
+          "wordCount": 9858,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Practical SQL for Data Analysis"
+        },
+        {
+          "description": "Comments",
+          "link": "https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5",
+          "publishedOn": "2021-05-03T14:10:32.000Z",
+          "wordCount": 2412,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Programming in Z3 by learning to think like a compiler"
+        },
+        {
+          "description": "Comments",
+          "link": "https://plzoo.andrej.com/",
+          "publishedOn": "2021-05-03T13:28:20.000Z",
+          "wordCount": 471,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Programming Languages Zoo"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201",
+          "publishedOn": "2021-05-03T12:45:07.000Z",
+          "wordCount": 1216,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Microsoft bids $44.6B to buy Yahoo (2008)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html",
+          "publishedOn": "2021-05-03T12:20:07.000Z",
+          "wordCount": 1410,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Verizon Sells AOL and Yahoo to Apollo for $5B"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.politico.eu/article/amazon-seller-data-company-sales/",
+          "publishedOn": "2021-05-03T10:28:41.000Z",
+          "wordCount": 2510,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Amazon knew seller data was used to boost company sales"
+        },
+        {
+          "description": "Comments",
+          "link": "https://seeingbothsides.com/2021/05/02/venture-capital-and-velocity-11/",
+          "publishedOn": "2021-05-03T10:19:24.000Z",
+          "wordCount": 1817,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Venture Capital and Velocity: 11"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/tweag/clodl",
+          "publishedOn": "2021-05-03T10:11:50.000Z",
+          "wordCount": 1132,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Clodl: Turn dynamically linked ELF binaries into self-contained closures"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/fosslinux/live-bootstrap",
+          "publishedOn": "2021-05-03T09:25:54.000Z",
+          "wordCount": 1257,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Bootstrapping from Hex to Bison to GCC"
+        },
+        {
+          "description": "Comments",
+          "link": "https://z.haskell.world/design/2021/04/20/introduce-BIO-a-simple-streaming-abstraction.html",
+          "publishedOn": "2021-05-03T09:20:40.000Z",
+          "wordCount": 1668,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "BIO: A Simple Streaming Abstraction"
+        },
+        {
+          "description": "Comments",
           "link": "https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/",
           "publishedOn": "2021-05-02T22:56:59.000Z",
           "wordCount": 1433,
@@ -873,6 +1314,24 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing"
+        },
+        {
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27017776",
+          "publishedOn": "2021-05-02T18:50:35.000Z",
+          "wordCount": 14857,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Ask HN: Mobile phone addiction help?"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.outsideonline.com/2421919/paul-fugate-park-ranger-search",
+          "publishedOn": "2021-05-02T18:39:30.000Z",
+          "wordCount": 9540,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Search for a Ranger Who Was Lost and Never Found"
         },
         {
           "description": "Comments",
@@ -1008,6 +1467,15 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Modern Microprocessors a 90-Minute Guide"
+        },
+        {
+          "description": "Comments",
+          "link": "https://joelcalifa.com/blog/tiny-wins/",
+          "publishedOn": "2021-05-02T10:22:10.000Z",
+          "wordCount": 2355,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Tiny Wins"
         },
         {
           "description": "Comments",
