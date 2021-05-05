@@ -4,6 +4,42 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
+          "publishedOn": "2021-05-04T21:16:04.000Z",
+          "wordCount": 590,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "16px or Larger Text Prevents iOS Form Zoom"
+        },
+        {
+          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
+          "publishedOn": "2021-05-04T21:15:57.000Z",
+          "wordCount": 450,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
+        },
+        {
+          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
+          "publishedOn": "2021-05-04T14:19:55.000Z",
+          "wordCount": 861,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Let’s use (X, X, X, X) for talking about specificity"
+        },
+        {
+          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
+          "publishedOn": "2021-05-04T14:19:48.000Z",
+          "wordCount": 1279,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Creating Colorful, Smart Shadows"
+        },
+        {
           "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/chapter-8-css/",
           "publishedOn": "2021-05-03T21:52:08.000Z",
@@ -170,6 +206,24 @@
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "publishedOn": "2021-05-04T14:30:00.000Z",
+          "wordCount": 1791,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Guide To Undoing Mistakes With Git"
+        },
+        {
+          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
+          "publishedOn": "2021-05-04T05:00:00.000Z",
+          "wordCount": 6993,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+        },
         {
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
@@ -367,21 +421,30 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Don’t Lose Your Head: Evaluating Headless"
-        },
-        {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2018,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "A complete guide to Node.js async await",
+          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
+          "publishedOn": "2021-05-04T16:07:17.000Z",
+          "wordCount": 2235,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+        },
+        {
+          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
+          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
+          "publishedOn": "2021-05-04T15:33:12.000Z",
+          "wordCount": 1012,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+        },
         {
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
@@ -527,6 +590,132 @@
     {
       "href": "http://feeds.dzone.com/home",
       "articles": [
+        {
+          "description": "Introduction\nWhile developing applications using Spring batch, especially in a micro-service project, we sometimes face one or most of the following cases:\nThe necessity of getting the security context inside the batch items to call methods that require authorizations inside the same micro-service or perform remote processing by calling other micro-services using Feign Client (HTTP) or &nbsp;Spring Cloud Stream (broker like Kafka, RabbitMq ...)\nPropagating Sleuth trace Id and span Id in order to enhance log…",
+          "link": "https://dzone.com/articles/spring-batch-context-how-to-propagate-context-info",
+          "publishedOn": "2021-05-04T17:22:16.000Z",
+          "wordCount": 1036,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How To Propagate Context Information Throw Spring Batch"
+        },
+        {
+          "description": "Introduction\nFrom a business perspective, compliance is a vital subject. Compliance ensures that your business operates under the regulatory laws. As such, maintaining compliance helps you build trust with your customers. Compliant organizations thrive in their businesses and have significantly lower legal expenses by avoiding costly fines and damages. \nOsano, one of the world’s most trusted data privacy software platforms, discovered that companies enabling compliance technology can save on an average of&n…",
+          "link": "https://dzone.com/articles/google-cloud-compliance-a-complete-guide",
+          "publishedOn": "2021-05-04T17:19:15.000Z",
+          "wordCount": 1711,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Google Cloud Compliance: A Complete Guide"
+        },
+        {
+          "description": "Introduction\nAs a business chief, you as of now comprehend the upsides of your new bound-together interchanges as part of the \"an administration (UCaaS) stage.\" UCaaS arrangements can change office correspondences, spanning devices and empowering the sort of portability, versatility, and open adaptability any business couldn't imagine anything better than to have. This is the reason Grand View Research anticipated that cloud-based brought together interchanges (UC) items will appreciate an accumulated yearl…",
+          "link": "https://dzone.com/articles/how-to-successfully-integrating-ucaas-solutions-in",
+          "publishedOn": "2021-05-04T16:09:28.000Z",
+          "wordCount": 1090,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How To Successfully Integrate UCaaS Solutions in Your Company"
+        },
+        {
+          "description": "It was Monday morning and I was anxiously waiting in my cubicle for Bob to come to the office. I had made up my mind to tell him clearly that the new project timelines are very rigid and there’s no way we would be able to pull it off. I was at the client site in Massachusetts and Bob was handling the entire program from the customer’s side.&nbsp;\nAt the first sign of his appearance, I marched to him hoping to convey my discomfort in signing up for the project. This is how our conversation went:",
+          "link": "https://dzone.com/articles/communication-design-for-avoiding-uncertainty",
+          "publishedOn": "2021-05-04T15:44:59.000Z",
+          "wordCount": 3262,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Communication Design for Avoiding Uncertainty"
+        },
+        {
+          "description": "MuleSoft Anypoint Platform can be configured for Single Sign-On (SSO) using Okta, OpenAM, or PingFederate. SSO is useful to authenticate and access multiple applications/websites by logging in only once. Identity Management can be configured using one of the below SSO standards:\nOpenID Connect\nSAML 2.0\nConfiguring Okta\nCreate an account on&nbsp;Okta&nbsp;if you do not have one already.\nOnce you log in, create a new application by clicking on the Application menu tab.",
+          "link": "https://dzone.com/articles/setup-okta-as-identity-provider-on-mulesoft-anypoi",
+          "publishedOn": "2021-05-04T15:25:20.000Z",
+          "wordCount": 625,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Set Up Okta as Identity Provider on Mulesoft Anypoint Platform"
+        },
+        {
+          "description": "The Cloud Spectrum\nTo understand more easily the wider context of migrating legacy systems into a serverless form, we should first understand the cloud spectrum. This spectrum ranges from on-premises workloads to virtual machines, containers, and cloud functions. Serverless typically falls within the cloud functions area, as function as a service (FaaS), but now it’s an umbrella term growing to include back-end as a service (BaaS), such as fully managed databases.\nThe first thing when looking at legacy tran…",
+          "link": "https://dzone.com/articles/migrating-to-serverless-and-making-it-work-post-tr",
+          "publishedOn": "2021-05-04T15:09:30.000Z",
+          "wordCount": 2003,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Migrating to Serverless and Making It Work Post-Transition"
+        },
+        {
+          "description": "Ian Nowland, the SVP of Core Engineering at DataDog, joins the Dev Interrupted podcast to discuss how he takes his ego out of being a manager and the seven categories he uses when coaching his teams.\nCoaching Managers at Datadog",
+          "link": "https://dzone.com/articles/the-7-categories-of-engineering-management",
+          "publishedOn": "2021-05-04T13:43:39.000Z",
+          "wordCount": 454,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "The 7 Categories Of Engineering Management"
+        },
+        {
+          "description": "When working with pages in several automating projects I noticed that the fields like login ID, search fields, etc., are getting saved on the page. Thus, when my Selenium test runs, I need to put additional code to clear those fields if those are populated. I needed a way to clear the browsing data through my test before I went to the page.\nI attempted a few solutions from here&nbsp;and here. However, these worked on older versions of the Chrome browser. Next, I tried out the solution from here. It worked i…",
+          "link": "https://dzone.com/articles/using-selenium-to-clear-browsing-data-in-chrome",
+          "publishedOn": "2021-05-04T11:53:24.000Z",
+          "wordCount": 795,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Using Selenium To Clear Browsing Data In Chrome"
+        },
+        {
+          "description": "In the video below, we take a closer look at the How to Import the Gradle spring boot Application in eclipse? | Spring Boot Tutorial. Let's get started!",
+          "link": "https://dzone.com/articles/how-to-import-the-gradle-spring-boot-application-i-1",
+          "publishedOn": "2021-05-04T11:40:32.000Z",
+          "wordCount": 306,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Import the Gradle Spring Boot Application in Eclipse? | Spring Boot Tutorial [Video]"
+        },
+        {
+          "description": "In the article Code Quality Control And Why You Need It I described shortly importance of keeping high quality of code. This time, you will learn what are the 7 crucial elements that should be a foundation of any&nbsp;Automated Code Quality Control Process. This process can help you to keep your head calm and focus on important things.\nThe mentioned essential areas of the code quality control process are:",
+          "link": "https://dzone.com/articles/how-to-keep-code-quality-under-control-in-7-steps",
+          "publishedOn": "2021-05-04T10:06:24.000Z",
+          "wordCount": 2992,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How To Keep Code Quality Under Control In 7 Steps"
+        },
+        {
+          "description": "If you’ve never heard of ReBAC (relationship-based access control), that’s fine. It’s not too difficult and we’ll walk you through it. Chances are, you’re already using this model in your current applications! Allow us to tell you why ReBAC is such an interesting model for access control and how you can start implementing it.\nWhat is ReBAC?&nbsp;\nRelationship-based access control is a model where access decisions are based on the relationships a subject has. When the subject (often a user, but possibly also…",
+          "link": "https://dzone.com/articles/the-developers-guide-to-relationship-based-access",
+          "publishedOn": "2021-05-04T09:50:19.000Z",
+          "wordCount": 1626,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "The Developer's Guide to Relationship-based Access Control"
+        },
+        {
+          "description": "Automation is woven into the strands of DevOps DNA. Any disruption such as manual deployment and configuration could significantly damage automation and speed, bringing an end to a DevOps process.\nUnfortunately, security doesn’t make it easier on development and operations teams. Incorporating security into the DevOps process can be complicated, cumbersome, and riddled with manual tasks and configurations. The delays can cause tension between security and DevOps teams, causing the latter to avoid or bypass …",
+          "link": "https://dzone.com/articles/how-breaking-up-with-legacy-security-solutions-can",
+          "publishedOn": "2021-05-04T09:42:49.000Z",
+          "wordCount": 1129,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Breaking Up With Legacy Security Solutions Can Create Peace Between Security and DevOps"
+        },
+        {
+          "description": "Mulesoft has 5 popular data integration patterns.\nBroadcast pattern.\nBi-direction Sync pattern.\nCorrelation pattern.\nAggregation.\nMigration.\nAs part of this series, we will be analyzing and migrating the Mulesoft application which follows each of the above-mentioned patterns to a Serverless world using Kumologica. In this article, we will focus on the Broadcast pattern.",
+          "link": "https://dzone.com/articles/migration-from-mulesoft-to-kumologica-broadcast-pa",
+          "publishedOn": "2021-05-04T09:06:52.000Z",
+          "wordCount": 702,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Migration from Mulesoft to Kumologica: Analyzing Broadcast Pattern"
+        },
+        {
+          "description": "When running Azure Kubernetes Service (AKS), it can be hard to understand and allocate costs in environments with multiple teams, projects, or even departments. With Kubecost, you gain full transparency into your Kubernetes usage and cost within minutes of installation. Officially launched in 2019 and built on open source, Kubecost now monitors over one billion dollars in Kubernetes spend, and enables startups and global enterprises alike to understand their spend and identify cost savings ranging from 30% …",
+          "link": "https://dzone.com/articles/monitoring-and-governance-for-aks-costs-with-kubec",
+          "publishedOn": "2021-05-04T00:24:28.000Z",
+          "wordCount": 3036,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Monitoring and Governance for AKS Costs With Kubecost"
+        },
         {
           "description": "Introduction\nSince the invention of the Java language, there has been a long-standing debate about checked versus unchecked/runtime exceptions. Some people argue that checked exceptions promote a better design. Others feel that checked exceptions get in the way, especially as systems mature and refactor over time, and therefore unchecked exceptions are better. The Effective Java Exceptions article, settles this debate once and for all: both checked and unchecked exceptions are acceptable, and each has its p…",
           "link": "https://dzone.com/articles/contingencies-vs-faults",
@@ -1029,6 +1218,249 @@
       "articles": [
         {
           "description": "Comments",
+          "link": "https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548",
+          "publishedOn": "2021-05-04T23:16:19.000Z",
+          "wordCount": 316,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Berkshire Hathaway’s stock price is too high for Nasdaq computers"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.exim.org/static/doc/security/CVE-2020-qualys/21nails.txt",
+          "publishedOn": "2021-05-04T22:20:22.000Z",
+          "wordCount": 9635,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "21Nails: Multiple Critical Vulnerabilities in Exim Mail Server"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.drewolson.org/declarative-validation",
+          "publishedOn": "2021-05-04T22:19:17.000Z",
+          "wordCount": 1459,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Declarative Validation in Python"
+        },
+        {
+          "description": "Comments",
+          "link": "https://jcs.org/2021/04/23/wifistation",
+          "publishedOn": "2021-05-04T21:53:18.000Z",
+          "wordCount": 1526,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "WiFiStation: A WiFi Interface for the Cidco MailStation"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/facebookincubator/cinder",
+          "publishedOn": "2021-05-04T21:38:14.000Z",
+          "wordCount": 2708,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Cinder: Instagram's performance-oriented fork of CPython"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.neotree.uber.space/posts/kolmogorov-complexity",
+          "publishedOn": "2021-05-04T21:32:37.000Z",
+          "wordCount": 978,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Kolmogorov Complexity: Extensions and Applications"
+        },
+        {
+          "description": "Comments",
+          "link": "https://compose-web.ui.pages.jetbrains.team/",
+          "publishedOn": "2021-05-04T21:23:30.000Z",
+          "wordCount": 15,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Compose for Web"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead",
+          "publishedOn": "2021-05-04T21:00:47.000Z",
+          "wordCount": 670,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "TrueVault (YC W14) is hiring an engineering lead to lead new privacy product"
+        },
+        {
+          "description": "Comments",
+          "link": "https://neal.fun/logos-from-memory/",
+          "publishedOn": "2021-05-04T20:56:20.000Z",
+          "wordCount": 9,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Draw Logos from Memory"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/rastapasta/mapscii",
+          "publishedOn": "2021-05-04T20:40:58.000Z",
+          "wordCount": 1300,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "MapSCII – The Whole World in Your Console"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li",
+          "publishedOn": "2021-05-04T20:35:48.000Z",
+          "wordCount": 468,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/",
+          "publishedOn": "2021-05-04T19:56:44.000Z",
+          "wordCount": 935,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Multitasking hurts performance and may even damage the brain (2018)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/rururu/sail-pro",
+          "publishedOn": "2021-05-04T19:15:59.000Z",
+          "wordCount": 881,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Sail-pro – Simulation and modelling environment for virtual sailing"
+        },
+        {
+          "description": "Comments",
+          "link": "https://petapixel.com/2018/08/02/this-guy-flipped-an-element-in-an-old-lens-and-got-magic-bokeh/",
+          "publishedOn": "2021-05-04T19:03:17.000Z",
+          "wordCount": 1147,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Flipped an element in an old lens and got 'magic' bokeh (2018)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw",
+          "publishedOn": "2021-05-04T18:31:26.000Z",
+          "wordCount": 1635,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "D(?)A(?)O – Decentralization and Autonomy in “DAOs”"
+        },
+        {
+          "description": "Comments",
+          "link": "https://jmw.name/projects/linear-clock/",
+          "publishedOn": "2021-05-04T18:17:11.000Z",
+          "wordCount": 2033,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Linear Clock: Solar"
+        },
+        {
+          "description": "Comments",
+          "link": "https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/",
+          "publishedOn": "2021-05-04T16:39:31.000Z",
+          "wordCount": 1936,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "A CBP contract shows the risks in connecting your vehicle and your smartphone"
+        },
+        {
+          "description": "Comments",
+          "link": "https://mattnakama.com/blog/go-branchless-coding/",
+          "publishedOn": "2021-05-04T15:26:53.000Z",
+          "wordCount": 2705,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Branchless Coding in Go"
+        },
+        {
+          "description": "Comments",
+          "link": "https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/",
+          "publishedOn": "2021-05-04T15:10:51.000Z",
+          "wordCount": 2195,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Dell patches 12-year-old driver vulnerability impacting millions of PCs"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/world-europe-56978344",
+          "publishedOn": "2021-05-04T14:01:06.000Z",
+          "wordCount": 880,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Belgian farmer accidentally moves French border"
+        },
+        {
+          "description": "Comments",
+          "link": "https://wh0rd.ca/humor/text/Adequacy_org%20%20Is%20Your%20Son%20a%20Computer%20Hacker.htm",
+          "publishedOn": "2021-05-04T13:46:25.000Z",
+          "wordCount": 9172,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Is your son a computer hacker? (2001)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://gir.st/chiptunes.html",
+          "publishedOn": "2021-05-04T12:24:20.000Z",
+          "wordCount": 2127,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Chiptunes on an ATtiny4 and the 3 Cent Micro"
+        },
+        {
+          "description": "Comments",
+          "link": "https://observablehq.com/@observablehq/introducing-observable-plot",
+          "publishedOn": "2021-05-04T12:20:29.000Z",
+          "wordCount": 9,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Observable Plot"
+        },
+        {
+          "description": "Comments",
+          "link": "https://fs.blog/2021/05/slack/",
+          "publishedOn": "2021-05-04T12:09:54.000Z",
+          "wordCount": 2403,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Efficiency Is the Enemy"
+        },
+        {
+          "description": "Comments",
+          "link": "http://www.ulisp.com/",
+          "publishedOn": "2021-05-04T11:17:24.000Z",
+          "wordCount": 1971,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "uLisp"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/",
+          "publishedOn": "2021-05-04T10:46:40.000Z",
+          "wordCount": 3096,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "How Big Tech got so big: hundreds of acquisitions"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.platformer.news/p/-how-basecamp-blew-up",
+          "publishedOn": "2021-05-04T00:21:11.000Z",
+          "wordCount": 3828,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "How Basecamp Blew Up"
+        },
+        {
+          "description": "Comments",
           "link": "http://dotorgdoesntmeancredible.org/",
           "publishedOn": "2021-05-03T23:18:50.000Z",
           "wordCount": 878,
@@ -1074,12 +1506,30 @@
         },
         {
           "description": "Comments",
+          "link": "https://www.hakaimagazine.com/article-short/the-unlikely-prevailing-success-of-fish-sticks/",
+          "publishedOn": "2021-05-03T21:31:30.000Z",
+          "wordCount": 1645,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Unlikely Success of Fish Sticks"
+        },
+        {
+          "description": "Comments",
           "link": "https://mux.com/jobs?hnj=full-stack",
           "publishedOn": "2021-05-03T21:00:14.000Z",
           "wordCount": 425,
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Mux (YC W16) is hiring full-stack developers to focus on Elixir and TS/React apps"
+        },
+        {
+          "description": "Comments",
+          "link": "https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf",
+          "publishedOn": "2021-05-03T20:56:18.000Z",
+          "wordCount": 8847,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf]"
         },
         {
           "description": "Comments",
@@ -1233,6 +1683,15 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Amazon knew seller data was used to boost company sales"
+        },
+        {
+          "description": "Comments",
+          "link": "https://staysaasy.com/product/2021/05/02/competition.html",
+          "publishedOn": "2021-05-03T10:21:53.000Z",
+          "wordCount": 1021,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Competitive Analysis for Engineers"
         },
         {
           "description": "Comments",
@@ -1840,5 +2299,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
