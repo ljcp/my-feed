@@ -4,6 +4,33 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/astro/",
+          "publishedOn": "2021-05-05T21:49:23.000Z",
+          "wordCount": 840,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Astro"
+        },
+        {
+          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://infrequently.org/2021/04/progress-delayed/",
+          "publishedOn": "2021-05-05T16:51:23.000Z",
+          "wordCount": 6690,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Progress Delayed Is Progress Denied"
+        },
+        {
+          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
+          "publishedOn": "2021-05-05T14:18:28.000Z",
+          "wordCount": 3080,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Is Vendor Prefixing Dead?"
+        },
+        {
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
@@ -206,6 +233,15 @@
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "publishedOn": "2021-05-05T10:30:00.000Z",
+          "wordCount": 2296,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Reducing HTML Payload With Next.js (Case Study)"
+        },
         {
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
@@ -428,6 +464,15 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
+          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
+          "publishedOn": "2021-05-05T21:11:40.000Z",
+          "wordCount": 352,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Create Computer Vision Apps in the Cloud With OpenCV and Python"
+        },
+        {
           "description": "A complete guide to Node.js async await",
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
@@ -590,6 +635,222 @@
     {
       "href": "http://feeds.dzone.com/home",
       "articles": [
+        {
+          "description": "Introduction to SQLite and Embedded Databases\nSQLite is a small, self-contained, client/embedded database written in the C Programming language and can be summarized using the following points:\nApplication library.\nDirectly writes to disk.\nCross-platform, stable, and the most widely deployed and used database engine.\nZero configuration.\nAutomatic recovery.\nPublic domain license.\nIn this article, we are going to see many of these features in action. Features such as data replication, network access, etc., ar…",
+          "link": "https://dzone.com/articles/a-hitchhickers-guide-to-sqlite-with-python",
+          "publishedOn": "2021-05-05T23:11:35.000Z",
+          "wordCount": 3549,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "A Hitchhicker's Guide to SQLite With Python"
+        },
+        {
+          "description": "Announcing the first-ever DZone monthly community awards! The DZone monthly community awards celebrate our amazing developer contributors from around the world and their amazing achievements!\nMay fan voting is now live! Vote now for your favorites.",
+          "link": "https://dzone.com/articles/dzone-monthly-community-awards-april-2021",
+          "publishedOn": "2021-05-05T23:00:47.000Z",
+          "wordCount": 1221,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "DZone Monthly Community Awards: April 2021"
+        },
+        {
+          "description": "Data visualization is a valuable tool in today’s scenario, with data everywhere and various opportunities to tap into that data to find insights. Visual charts are imperative to communicate ideas, identify patterns, and make the most of the available data.\nSo then, would you like to quickly and easily learn how to create a really cool chart that showcases data interestingly?",
+          "link": "https://dzone.com/articles/how-to-create-a-mosaic-chart-using-javascript",
+          "publishedOn": "2021-05-05T22:40:11.000Z",
+          "wordCount": 2533,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Create a Mosaic Chart Using JavaScript"
+        },
+        {
+          "description": "In the video below, we take a closer look at the XML Tutorial for Beginners | What is XML? | Learn XML. Let's get started!",
+          "link": "https://dzone.com/articles/xml-tutorial-for-beginners-what-is-xml-learn-xml",
+          "publishedOn": "2021-05-05T22:25:18.000Z",
+          "wordCount": 295,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "XML Tutorial for Beginners | What is XML? [Video]"
+        },
+        {
+          "description": "In the video below, we take a closer look at the JSON Crash Course | What is JSON? | JSON Tutorial For Beginners | JSON vs XML | JSON with Examples. Let's get started!",
+          "link": "https://dzone.com/articles/json-crash-course-what-is-json-json-tutorial-for-b",
+          "publishedOn": "2021-05-05T22:25:15.000Z",
+          "wordCount": 309,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "JSON Crash Course | What is JSON? | JSON Tutorial For Beginners [Video]"
+        },
+        {
+          "description": "In the video below, we take a closer look at the What is LinkedList? | LinkedList Introduction and Sample Programs | Java Collections Framework. Let's get started!",
+          "link": "https://dzone.com/articles/what-is-linkedlist-linkedlist-introduction-and-sam",
+          "publishedOn": "2021-05-05T22:25:12.000Z",
+          "wordCount": 284,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "LinkedList Introduction | Java Collections Framework [Video]"
+        },
+        {
+          "description": "Apache Kafka and MQTT are a perfect combination for many IoT use cases. This blog series covers the pros and cons of both technologies. Various use cases across industries, including connected vehicles, manufacturing, mobility services, and smart city are explored. The examples use different architectures, including lightweight edge scenarios, hybrid integrations, and serverless cloud solutions. This post is part four: Mobility Services and Transportation.\nApache Kafka + MQTT Blog Series",
+          "link": "https://dzone.com/articles/apache-kafka-and-mqtt-part-4-of-5-mobility-service",
+          "publishedOn": "2021-05-05T22:10:45.000Z",
+          "wordCount": 1680,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Apache Kafka and MQTT (Part 4 of 5) – Mobility Services and Transportation"
+        },
+        {
+          "description": "Apps that give users a good reason to keep coming back tend to operate with up-to-the-minute data to do everything from guiding a drone to tracking a global health pandemic’s path. That data is increasingly location-based, be it maps, demographics, routing, or geocoding. A developer might only need one or two of these location services to give users what they want, and that’s where pay-as-you-go location services have entered the market.\nAs location data is increasingly necessary for in-demand apps, develop…",
+          "link": "https://dzone.com/articles/its-about-location-developers-draw-on-geospatial-t",
+          "publishedOn": "2021-05-05T22:07:55.000Z",
+          "wordCount": 1121,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "It’s About Location: Developers Draw on Geospatial Tech One Service at a Time"
+        },
+        {
+          "description": "This is the second part of a short blog-series about using CDK and AWS services to build and deploy a personal solution for monitoring electricity usage. In this part, we’ll look more closely at the Golang-based lambdas.\nThe full CDK and Go source code for this project can be found here: https://github.com/eriklupander/powertracker",
+          "link": "https://dzone.com/articles/energy-monitoring-with-aws-services-and-go-part-2",
+          "publishedOn": "2021-05-05T21:52:32.000Z",
+          "wordCount": 3697,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Energy Monitoring With AWS Services and Go: Part 2"
+        },
+        {
+          "description": "As a personal exercise learning AWS Lambda and CDK, I developed a solution that helps me monitor how much electricity my house uses.\nThe solution is built around the Watty energy monitor, the Tibber API, and various AWS services.",
+          "link": "https://dzone.com/articles/home-electricity-usage-monitoring-with-aws-service",
+          "publishedOn": "2021-05-05T21:52:27.000Z",
+          "wordCount": 2666,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Home Electricity Usage Monitoring With AWS Services and Go: Part 1"
+        },
+        {
+          "description": "Developers take advantage of the JVM argument&nbsp;-XX:+UseGCLogFileRotation to rotate GC log files.\nExample:",
+          "link": "https://dzone.com/articles/try-to-avoid-xxusegclogfilerotation",
+          "publishedOn": "2021-05-05T21:46:46.000Z",
+          "wordCount": 744,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Try to Avoid -XX:+UseGCLogFileRotation"
+        },
+        {
+          "description": "JSON Web Tokens, or JWTs, are used almost everywhere — even when they shouldn't be! This tutorial will go over the basics of JWT as well as the specifications in the JOSE, or Javascript Object Signing and Encryption family.&nbsp;\nWhat Is a JWT?\nA JWT is a structured security token format used to encode JSON data. The main reason to use JWT is to exchange JSON data in a way that can be cryptographically verified. There are two types of JWTs:",
+          "link": "https://dzone.com/articles/guide-to-jwts-for-beginners",
+          "publishedOn": "2021-05-05T21:41:06.000Z",
+          "wordCount": 1373,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Guide to JWTs for Beginners"
+        },
+        {
+          "description": "In the previous post, you learnt how to execute an automated penetration test by means of Zed Attack Proxy (ZAP). This time, you will learn how to execute the test via a Command Line Interface (CLI) which will make it possible to add the test to your CI/CD pipeline.\n1. Introduction\nIn the&nbsp;previous post, the different steps were explained how to execute an automated penetration test. The application under test being used was WebGoat, a vulnerable application developed by OWASP in order to learn security…",
+          "link": "https://dzone.com/articles/automated-pen-testing-with-zap-cli",
+          "publishedOn": "2021-05-05T18:44:34.000Z",
+          "wordCount": 2026,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Automated Pen Testing With ZAP CLI"
+        },
+        {
+          "description": "According to the GraphQL Foundation, GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. Like many influential technologies, GraphQL was developed by Facebook in 2012. In their own words they “needed a data-fetching API powerful enough to describe all of Facebook, yet simple enough to be easy to learn” by their developers.\nFor a few years, GraphQL was used internally for their mobile applications. The first GraphQL repos were open-sourced in 2015. One of …",
+          "link": "https://dzone.com/articles/restful-apis-are-good-but-graphql-apis-are-usually",
+          "publishedOn": "2021-05-05T17:47:22.000Z",
+          "wordCount": 647,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "RESTful APIs Are Good, But GraphQL APIs Are Usually Better"
+        },
+        {
+          "description": "Introduction\nA Channel Interceptor is a means to capture a message before being sent or received in order to view it or modify it. The channel interceptor allows having a structured code when we want to add extra message processing or embed additional data that are basically related to a technical aspect without affecting the business code.\nThe Message Interceptor is used in frameworks like Spring Cloud Sleuth and Spring Security to propagate tracing and security context through message queue by adding head…",
+          "link": "https://dzone.com/articles/spring-cloud-stream-channel-interceptor",
+          "publishedOn": "2021-05-05T16:48:52.000Z",
+          "wordCount": 1333,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Spring Cloud Stream Channel Interceptor"
+        },
+        {
+          "description": "I wrote&nbsp;The Future of DevSecOps&nbsp;in June 2019 after gathering insights from professionals who foresaw:\n  \ngreater adoption,\n    \n\n   \nsecurity ingrained in development, and,\n    \n\n   \nAI/ML-driven automation.\n    \n\n  \nFor this article, I wanted to go back and see how the adoption of DevSecOps has proceeded over the past two years. In a subsequent article, I‘ll share what these IT professionals now see as the future for DevSecOps.\n \nI received input from more than 40 IT professionals. Based on their…",
+          "link": "https://dzone.com/articles/the-evolution-of-devsecops",
+          "publishedOn": "2021-05-05T16:36:50.000Z",
+          "wordCount": 1849,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "The Evolution of DevSecOps"
+        },
+        {
+          "description": "I wrote&nbsp;The Future of DevSecOps&nbsp;in June 2019 after gathering insights from IT professionals who foresaw:\n  \ngreater adoption,\n    \n\n   \nsecurity being ingrained in development, and,\n    \n\n   \nAI/ML-driven automation.\n    \n\n  \nFor this article, I’m sharing what IT professionals now see as the potential for DevSecOps. I previously shared how these IT professionals have seen&nbsp;the recent evolution of DevSecOps, as well.\n  \n\n  \nI received input from more than 40 IT professionals. Based on their fee…",
+          "link": "https://dzone.com/articles/opportunities-for-devsecops-in-2021",
+          "publishedOn": "2021-05-05T16:14:37.000Z",
+          "wordCount": 1854,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Opportunities for DevSecOps in 2021"
+        },
+        {
+          "description": "Live Diagnostics\nAnytime, every time or sometime you would have heard someone going around with data analysis and saying maybe this could have happened because of this, maybe users did not like the feature or maybe we were wrong all the time. Any analysis and prediction in data analytics across industries experience what I call maybe syndrome. Your best bet to overcome this is to have the right set of data and tools in your arsenal.\nWith A/B or A/A test experiments to understand the impact of a new product …",
+          "link": "https://dzone.com/articles/live-diagnostics",
+          "publishedOn": "2021-05-05T15:49:39.000Z",
+          "wordCount": 1264,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Live Diagnostics"
+        },
+        {
+          "description": "Researching Earlier Java/Go Benchmarks\nEarlier I blogged that Go is better than Java, but it lacked evidence and datapoints. I wanted to start from some earlier work, to prove to my colleagues that Go is as fast as Java and quick to start up. Speed is critical for serverless since the process can be stopped when not in use and started again from cold to serve a request!\nSo after searching https://dzone.com/ for “Java Go” comparisons I was surprised to find a benchmark article by Ivan Nikitsenka (original au…",
+          "link": "https://dzone.com/articles/java-vs-go-multiple-users-load-test-2",
+          "publishedOn": "2021-05-05T15:13:56.000Z",
+          "wordCount": 1185,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Is Java Really Faster Than Go?"
+        },
+        {
+          "description": "Imagine a large-scale IT infrastructure made up of networks, databases, servers, storage, operating systems, and other elements. How do you provision, configure, manage, and scale up these various elements on-demand?\nTraditionally, system administrators, often a dedicated team of specialists, manually performed these tasks as and when the need arose. Consequently, resource provisioning used to be a complex task that “wasn’t” characterized by responsiveness. Agility, flexibility, and cost-effectiveness all c…",
+          "link": "https://dzone.com/articles/5-principles-of-infrastructure-as-code-iac",
+          "publishedOn": "2021-05-05T14:43:54.000Z",
+          "wordCount": 1632,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "5 Principles of Infrastructure-as-Code (IaC)"
+        },
+        {
+          "description": "In the video below, we take a closer look at annotations in Java. Let's get started!",
+          "link": "https://dzone.com/articles/annotations-in-java-java-annotations-with-examples",
+          "publishedOn": "2021-05-05T13:23:58.000Z",
+          "wordCount": 266,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Java Annotations Tutorial"
+        },
+        {
+          "description": "In the video below, we take a closer look at the Spring Boot REST API Request Body Validation Example using Custom Validator. Let's get started!",
+          "link": "https://dzone.com/articles/spring-boot-rest-api-request-body-validation-examp-1",
+          "publishedOn": "2021-05-05T13:18:56.000Z",
+          "wordCount": 296,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Spring Boot REST API Request Body Validation Example Using a Custom Validator"
+        },
+        {
+          "description": "Whether you are working with contracts, invoices, statements of work, or proposals, you need to enter data into these documents. These may be data points from your ERP, your CRM system, or another database.\nMany organizations create contracts or statements of work manually in Microsoft Word, Google Docs, or elsewhere. Invoices may be auto-generated by systems that output as a PDF. However, these methods may run into a few challenges:",
+          "link": "https://dzone.com/articles/introducing-to-new-adobe-document-generation-servi",
+          "publishedOn": "2021-05-05T13:11:52.000Z",
+          "wordCount": 1324,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Introducing New Adobe Document Generation Service"
+        },
+        {
+          "description": "Are you an SRE or on-call engineer struggling to manage toil?\nToil is any repetitive or monotonous activity that can lead to frustration within an incident management team. Also, at the business level, toil doesn't add any functional value towards growth and productivity.",
+          "link": "https://dzone.com/articles/reduce-toil-with-better-alerting-systems",
+          "publishedOn": "2021-05-05T12:45:17.000Z",
+          "wordCount": 2324,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Reduce Toil With Better Alerting Systems"
+        },
         {
           "description": "Introduction\nWhile developing applications using Spring batch, especially in a micro-service project, we sometimes face one or most of the following cases:\nThe necessity of getting the security context inside the batch items to call methods that require authorizations inside the same micro-service or perform remote processing by calling other micro-services using Feign Client (HTTP) or &nbsp;Spring Cloud Stream (broker like Kafka, RabbitMq ...)\nPropagating Sleuth trace Id and span Id in order to enhance log…",
           "link": "https://dzone.com/articles/spring-batch-context-how-to-propagate-context-info",
@@ -1218,6 +1479,249 @@
       "articles": [
         {
           "description": "Comments",
+          "link": "https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies",
+          "publishedOn": "2021-05-05T22:49:45.000Z",
+          "wordCount": 2569,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Dependency Managers Don’t Manage Your Dependencies"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.spacex.com/vehicles/starship/index.html",
+          "publishedOn": "2021-05-05T22:24:47.000Z",
+          "wordCount": 1072,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Live feed of Starship SN15 flight test [video]"
+        },
+        {
+          "description": "Comments",
+          "link": "https://pxlnv.com/linklog/california-exception/",
+          "publishedOn": "2021-05-05T21:52:35.000Z",
+          "wordCount": 405,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The California Exception"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.workatastartup.com/jobs/43771",
+          "publishedOn": "2021-05-05T21:00:24.000Z",
+          "wordCount": 395,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Zumo Labs (YC W20) Is Hiring a Product Manager"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.google/inside-google/life-at-google/hybrid-approach-work/",
+          "publishedOn": "2021-05-05T20:53:18.000Z",
+          "wordCount": 1756,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "A Hybrid Approach to Work"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.forbes.com/sites/johannaread/2021/05/05/the-sheba-hope-reef-brings-hope-to-coral-reefs-everywhere-you-can-help-too/",
+          "publishedOn": "2021-05-05T20:52:41.000Z",
+          "wordCount": 2109,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Indonesia coral reef partially restored in extensive project"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.px.dev/open-source-release/",
+          "publishedOn": "2021-05-05T20:32:46.000Z",
+          "wordCount": 1257,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Open sourcing Pixie under Apache 2.0 license"
+        },
+        {
+          "description": "Comments",
+          "link": "https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/",
+          "publishedOn": "2021-05-05T19:47:02.000Z",
+          "wordCount": 3136,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Blizzard has lost almost 29% of its overall active playerbase in three years"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.csweapons.com",
+          "publishedOn": "2021-05-05T19:15:41.000Z",
+          "wordCount": 7,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app"
+        },
+        {
+          "description": "Comments",
+          "link": "https://markodenic.com/posts/html-tips/",
+          "publishedOn": "2021-05-05T19:14:40.000Z",
+          "wordCount": 605,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "HTML Tips (2020)"
+        },
+        {
+          "description": "Comments",
+          "link": "http://www.macflim.com",
+          "publishedOn": "2021-05-05T18:20:35.000Z",
+          "wordCount": 1106,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "MacFlim: Full-motion video on B&W Macs"
+        },
+        {
+          "description": "Comments",
+          "link": "https://man7.org/tlpi/api_changes/index.html",
+          "publishedOn": "2021-05-05T17:34:55.000Z",
+          "wordCount": 13375,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Linux and Glibc API Changes"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/timvisee/send",
+          "publishedOn": "2021-05-05T17:25:43.000Z",
+          "wordCount": 1219,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Send: A Fork of Mozilla's Firefox Send"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.replit.com/clui",
+          "publishedOn": "2021-05-05T17:00:36.000Z",
+          "wordCount": 2360,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "CLUI: Building a Graphical Command Line (2020)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://ptsjs.org/",
+          "publishedOn": "2021-05-05T16:47:37.000Z",
+          "wordCount": 222,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Pts.js: a modular librairy for visualization and creative coding"
+        },
+        {
+          "description": "Comments",
+          "link": "https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3",
+          "publishedOn": "2021-05-05T16:42:32.000Z",
+          "wordCount": 2433,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Learning About the GeoTIFF File Format with a Hex Editor (2018)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://felleisen.org/matthias/7480-s21/index.html",
+          "publishedOn": "2021-05-05T15:52:32.000Z",
+          "wordCount": 311,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "History of Programming Languages"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/andymatuschak/orbit",
+          "publishedOn": "2021-05-05T15:50:53.000Z",
+          "wordCount": 1512,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Orbit: an experimental platform for small tasks repeated over time"
+        },
+        {
+          "description": "Comments",
+          "link": "http://mobileatscale.com/",
+          "publishedOn": "2021-05-05T15:05:40.000Z",
+          "wordCount": 2611,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: I wrote the book Building Mobile Apps at Scale"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.playcanvas.com/introducing-the-anim-state-graph/",
+          "publishedOn": "2021-05-05T15:00:34.000Z",
+          "wordCount": 870,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "PlayCanvas Launches Node-Based Animation Editor for WebGL"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/slidevjs/slidev",
+          "publishedOn": "2021-05-05T14:57:59.000Z",
+          "wordCount": 936,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Slidev – Presentation Slides for Developers"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blubrry.com/microsoftresearch/76856095/120-advancing-excel-as-a-programming-language-with-andy-gordon-and-simon-peyton-jones/",
+          "publishedOn": "2021-05-05T11:42:48.000Z",
+          "wordCount": 270,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Advancing Excel as a programming language [audio]"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.ai.gov/",
+          "publishedOn": "2021-05-05T09:56:55.000Z",
+          "wordCount": 736,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "National Artificial Intelligence Initiative"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/ClearURLs/Addon/",
+          "publishedOn": "2021-05-05T07:46:54.000Z",
+          "wordCount": 1352,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "ClearURLs – automatically remove tracking elements from URLs"
+        },
+        {
+          "description": "Comments",
+          "link": "https://theamericanscholar.org/obscura-no-more/",
+          "publishedOn": "2021-05-05T06:05:25.000Z",
+          "wordCount": 3882,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Obscura No More"
+        },
+        {
+          "description": "Comments",
+          "link": "https://furbo.org/2013/06/28/the-origin-of-tweet/",
+          "publishedOn": "2021-05-05T03:16:30.000Z",
+          "wordCount": 1894,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The origin of “tweet” at Twitter (2013)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+          "publishedOn": "2021-05-05T02:24:01.000Z",
+          "wordCount": 3124,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "1700 Cascadia Earthquake"
+        },
+        {
+          "description": "Comments",
           "link": "https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548",
           "publishedOn": "2021-05-04T23:16:19.000Z",
           "wordCount": 316,
@@ -1434,6 +1938,15 @@
         },
         {
           "description": "Comments",
+          "link": "https://github.com/jendrikseipp/vulture",
+          "publishedOn": "2021-05-04T11:59:06.000Z",
+          "wordCount": 1815,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Vulture: Find Dead Python Code"
+        },
+        {
+          "description": "Comments",
           "link": "http://www.ulisp.com/",
           "publishedOn": "2021-05-04T11:17:24.000Z",
           "wordCount": 1971,
@@ -1449,6 +1962,24 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "How Big Tech got so big: hundreds of acquisitions"
+        },
+        {
+          "description": "Comments",
+          "link": "https://medium.com/lessons-from-history/i-found-my-grandfathers-notes-20-years-after-he-died-here-s-what-i-learnt-b550a65069d7",
+          "publishedOn": "2021-05-04T04:30:46.000Z",
+          "wordCount": 1512,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "I found my Grandpa’s notes 20 years after he died (2020)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://maisonneuve.org/article/2021/04/12/genetic-mapping/",
+          "publishedOn": "2021-05-04T01:00:53.000Z",
+          "wordCount": 7031,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Genetic Mapping"
         },
         {
           "description": "Comments",
@@ -2299,5 +2830,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
