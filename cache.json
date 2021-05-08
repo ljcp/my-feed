@@ -4,6 +4,42 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/is-css-a-programming-language/",
+          "publishedOn": "2021-05-07T13:56:17.000Z",
+          "wordCount": 1568,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Is CSS a Programming Language?"
+        },
+        {
+          "description": "These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-typography/",
+          "publishedOn": "2021-05-07T13:54:01.000Z",
+          "wordCount": 952,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Links on Typography"
+        },
+        {
+          "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.caniemail.com/",
+          "publishedOn": "2021-05-07T02:38:56.000Z",
+          "wordCount": 324,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Can I Email…"
+        },
+        {
+          "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
+          "publishedOn": "2021-05-06T20:03:26.000Z",
+          "wordCount": 1550,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
+        },
+        {
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://aws.amazon.com/route53/",
           "publishedOn": "2021-05-06T20:03:26.000Z",
@@ -261,6 +297,15 @@
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
         {
+          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
+          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "publishedOn": "2021-05-07T10:00:00.000Z",
+          "wordCount": 4127,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Organize Product-Related Assets And Collaborate Better"
+        },
+        {
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
@@ -466,21 +511,30 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
-        },
-        {
-          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
-          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
-          "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1858,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Better Documentation And Team Communication With Product Design Docs"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
+          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
+          "publishedOn": "2021-05-07T21:07:57.000Z",
+          "wordCount": 1065,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
+        },
+        {
+          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
+          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
+          "publishedOn": "2021-05-07T16:59:53.000Z",
+          "wordCount": 1278,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
+        },
         {
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
@@ -680,6 +734,168 @@
     {
       "href": "http://feeds.dzone.com/home",
       "articles": [
+        {
+          "description": "There are plenty of Product Owner failures. Given that Scrum is a framework with a precise and concise yet short “manual,” this effect should not surprise anyone.\nExplore with me three widespread examples of how Product Owners fail their team in three short video clips, totaling 6 minutes and 9 seconds.",
+          "link": "https://dzone.com/articles/three-wide-spread-product-owner-failures-in-609-mi",
+          "publishedOn": "2021-05-07T23:43:18.000Z",
+          "wordCount": 1063,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Three Wide-Spread Product Owner Failures in 6:09 Minutes"
+        },
+        {
+          "description": "Redis stands for REmote DIctionary Server, created in 2009 by Salvatore Sanfilippo. Memcached, on the other hand, was created in 2003 by Brad Fitzpatrick. Both Redis and Memcached are:\nNoSQL in-memory data structures\nWritten in C\nOpen source\nUsed to speed up applications\nSupport sub-millisecond latency\nIn 2014, Salvatore wrote an excellent StackOverflow post on when it makes more sense to use Memcached than Redis. In this post, we provide a current and detailed comparison between Redis and Memcached so that…",
+          "link": "https://dzone.com/articles/redis-vs-memcached-2021-comparison",
+          "publishedOn": "2021-05-07T23:27:14.000Z",
+          "wordCount": 2525,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Redis vs. Memcached: 2021 Comparison"
+        },
+        {
+          "description": "We Always Want to Be Fast at Code Reviews...\nHow frequent is it for you to be reviewing code at 3 am?\nWhen code reviewing, do you find yourself thinking: “I mentioned this before.. We should have some sort of process”.\nWe keep learning a lot at Codacy with our user base which currently supports more than 200 000 developers.",
+          "link": "https://dzone.com/articles/top-10-ways-to-perform-fast-code-reviews",
+          "publishedOn": "2021-05-07T23:24:19.000Z",
+          "wordCount": 1553,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Top 10 Ways to Perform Fast Code Reviews"
+        },
+        {
+          "description": "Most email platforms, including Office 365, incorporate a basic email filtering service that blocks most spam emails and many phishing threats. These services also incorporate antivirus protection which blocks all known malware threats. They can be viewed as the first line of defense that will keep businesses reasonably well protected, but they are usually not sufficiently advanced and fail to identify and block zero-day threats such as new phishing emails and malware that has not previously been classified…",
+          "link": "https://dzone.com/articles/importance-of-using-an-email-filter-security-measu",
+          "publishedOn": "2021-05-07T22:09:08.000Z",
+          "wordCount": 836,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Importance of Using an Email Filter Security Measure"
+        },
+        {
+          "description": "Smartphones are advancing at a rapid pace, and so are mobile applications. That’s why there has been a significant increase in the demand for mobile app developers. The market is indeed brimming with mobile applications of all kinds. Today, you can find an application for almost anything — whether you need to shop for clothes or find a doctor.\n \n   \nIn this cut-throat and competitive market, every company is aiming to provide the best-in-class applications to their customers. Applications need to be innovat…",
+          "link": "https://dzone.com/articles/a-quick-guide-to-mobile-application-testing",
+          "publishedOn": "2021-05-07T22:01:41.000Z",
+          "wordCount": 1073,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "A Quick Guide To Mobile Application Testing"
+        },
+        {
+          "description": "Introduction\nAt the very beginning of most development endeavors lies an important question: What database to choose? There is such an abundance of database technologies at this moment, it’s no wonder many developers don’t have the time or energy to research new ones. If you are one of those developers and you aren’t very familiar with graph databases in general, you’ve come to the right place!\nIn this article, you will learn about the main differences between a graph database and a relational database, wha…",
+          "link": "https://dzone.com/articles/graph-database-vs-relational-database",
+          "publishedOn": "2021-05-07T21:48:56.000Z",
+          "wordCount": 1798,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Graph Database vs. Relational Database"
+        },
+        {
+          "description": "It is a challenge for any company to achieve fast, sustainable growth. Companies must balance long-term objectives with their available resources. In today’s market, companies must be flexible, agile, and perform well to earn success. Team collaboration is a key area for company growth. With high-performing teams, a company can boost productivity and achieve its goals.\nCollaborative teams are 60% faster at completing work and show higher emotional wellbeing. By creating effective teams, a company creates wi…",
+          "link": "https://dzone.com/articles/how-to-build-an-effective-team-for-faster-growth",
+          "publishedOn": "2021-05-07T21:43:12.000Z",
+          "wordCount": 1737,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "How to Build an Effective Team For Faster Growth"
+        },
+        {
+          "description": "In the last decade, advances in processing power and speed have allowed us to move from tedious and time-consuming manual practices to fast and easy automated data analysis. The more complex the data sets collected, the greater the potential to uncover relevant information. Retailers, banks, manufacturers, healthcare companies, etc., are using data mining to uncover the relationships between everything from price optimization, promotions, and demographics to how economics, risk, competition, and online pres…",
+          "link": "https://dzone.com/articles/data-mining-use-cases-amp-benefits",
+          "publishedOn": "2021-05-07T09:01:16.000Z",
+          "wordCount": 4089,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Data Mining: Use Cases, Benefits, and Tools"
+        },
+        {
+          "description": "Every day quintillion bytes of data are created, and this pace is accelerating at a daily rate. With so much information at our disposal, it is becoming increasingly important for organizations and enterprises to access and analyze the relevant data to predict outcomes and improve services. In order to access the data properly and extract the most out of it, it is essential to model your data correctly. Data modeling tools become critical here because they enable organizations to make data-driven decisions …",
+          "link": "https://dzone.com/articles/key-data-modeling-tools",
+          "publishedOn": "2021-05-07T08:44:25.000Z",
+          "wordCount": 1167,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "4 Key Data Modeling Tools"
+        },
+        {
+          "description": "We are very much aware that the traditional data storage mechanism is incapable to hold the massive volume of lightning speed generated data for further utilization even though perform vertical scaling. And going forward we have anticipated only one fuel which is nothing but DATA to accelerate the movement across all the sectors starting from business to natural resources including medical towards rapid growth. But the question is how to persist this massive volume of data to process? The answer is storing …",
+          "link": "https://dzone.com/articles/a-snapshot-about-data-governance-amp-security-mech",
+          "publishedOn": "2021-05-07T08:39:18.000Z",
+          "wordCount": 903,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Snapshot: Data Governance and Security Mechanism in Distributed Data Storage System"
+        },
+        {
+          "description": "Refactoring&nbsp;is&nbsp;the&nbsp;process&nbsp;of&nbsp;modifying&nbsp;a software system&nbsp;without&nbsp;changing&nbsp;its&nbsp;desirable&nbsp;behavior. It&nbsp;was&nbsp;necessary&nbsp;to&nbsp;have&nbsp;an&nbsp;application&nbsp;integrated&nbsp;with&nbsp;the&nbsp;relational&nbsp;database&nbsp;using&nbsp;the&nbsp;Spring JDBC&nbsp;Template&nbsp;in&nbsp;the&nbsp;first&nbsp;parts. The Spring JDBC&nbsp;Template&nbsp;is&nbsp;a&nbsp;powerful&nbsp;tool&nbsp;that&nbsp;facilitates&nbsp;productivity.&nbsp;However,&nbs…",
+          "link": "https://dzone.com/articles/introduction-to-spring-boot-and-jdbctemplate-refac",
+          "publishedOn": "2021-05-07T08:34:39.000Z",
+          "wordCount": 809,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Introduction to Spring Boot and JDBCTemplate: Refactoring to SpringData JPA"
+        },
+        {
+          "description": "In our primitive blogs, we learned about the basics of Blockchain Technology, what are public and private blockchains. We understood the details of public blockchains like Bitcoin, Ethereum as well as private blockchains Hyperledger Fabric and Hyperledger Fabric 2, the private blockchains of the Hyperledger family. While each blockchain has its own features and advantages, not everything can be applied and implemented for a particular project or business. Every business has its own set of requirements, the …",
+          "link": "https://dzone.com/articles/hyperledger-vs-quorum-vs-corda-which-is-correct-fo",
+          "publishedOn": "2021-05-07T05:13:34.000Z",
+          "wordCount": 942,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Private Blockchains: Hyperledger vs. Quorum vs. Corda"
+        },
+        {
+          "description": "In this blog, we’re going to look at how to use Payara Server with IntelliJ IDEA Ultimate. We’ll cover how to create a simple web application that runs on a Payara server. We’ll also explore some of the features available to help you develop your enterprise applications.\nPayara Server Support in IntelliJ IDEA\nIntelliJ IDEA provides great tooling for developing with Payara servers. By default, IntelliJ IDEA Ultimate comes with the Glassfish plugin installed and enabled. You can use the Glassfish plugin to st…",
+          "link": "https://dzone.com/articles/fast-and-efficient-development-with-payara-server",
+          "publishedOn": "2021-05-07T04:51:27.000Z",
+          "wordCount": 1371,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Fast and Efficient Development With Payara Server and IntelliJ IDEA Ultimate"
+        },
+        {
+          "description": "The financial services industry has seen a prolific rise in the use of applications in the last couple of years. Globally millions of customers already use a wide range of mobile app services, and it is estimated that the financial application industry will grow at a rate of 30% in the coming years.\nIn 2020 there were 26% more mobile app sessions as compared to 2019. Using applications for different financial and banking services is a rapid and convenient way to effectively manage your monetary resources li…",
+          "link": "https://dzone.com/articles/why-application-security-is-still-important-for-fi",
+          "publishedOn": "2021-05-07T04:36:23.000Z",
+          "wordCount": 1475,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Why Application Security is Still Important for Financial Services?"
+        },
+        {
+          "description": "AWS S3 Client-side Encryption in AWS SDK .NET Core\nWhen you upload the data into the S3 bucket, you need to ensure that the sensitive data is secure by using proper encryption. Amazon S3 allows encrypting the data or objects either on the server-side or client-side.\nHere, I will use client-side encryption for data before sending it to Amazon S3 using AWS SDK .Net Core. The advantage of client-side encryption is, encryption is performed locally, and the data never leaves the execution environment unencrypted…",
+          "link": "https://dzone.com/articles/aws-s3-client-side-encryption-in-aws-sdk-net-core",
+          "publishedOn": "2021-05-07T04:28:59.000Z",
+          "wordCount": 1050,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "AWS S3 Client-side Encryption in AWS SDK .NET Core"
+        },
+        {
+          "description": "There are millions of mobile app available on app stores across various platforms. Lack of quality user experience and poor performance are key reasons why apps become unsuccessful. However, there are quite a few considerations that make an app better than the rest.\nIn this post, we would try to look at few best practices and technical considerations that can help you make the right decisions to create flexible and efficient apps.",
+          "link": "https://dzone.com/articles/recommendations-effective-app-development",
+          "publishedOn": "2021-05-07T04:08:50.000Z",
+          "wordCount": 824,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "11 Recommendations for Effective App Development"
+        },
+        {
+          "description": "With the introduction of Continuous Integration (CI) and Continuous Delivery (CD), the archaic development process is now completely changed. Let’s deep dive into how CI/CD has completely revolutionized the application development process and how we can make this even better.\nThe archaic or the traditional way of the application development process was mostly linear. The biggest disadvantage was that it was based on a sequence philosophy which indirectly implied that the bugs in the ongoing build can not be…",
+          "link": "https://dzone.com/articles/faster-container-deployment-with-cicd-truth-or-blu",
+          "publishedOn": "2021-05-07T03:58:10.000Z",
+          "wordCount": 1333,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Faster Container Deployment With CI/CD: Truth or Bluff?"
+        },
+        {
+          "description": "This article is contributed by Jiayi98, a Nebula Graph user. She shared her experience in deploying Nebula Graph offline and preprocessing a dataset provided by LDBC. It is a beginner-friendly step-by-step guide to learn Nebula Graph.\nThis is not standard stress testing, but a small-scale test. Through this test, I got familiar with the deployment of Nebula Graph, its data import tool, its graph query language, Java API, and data migration. Additionally, now I have a basic understanding of its cluster perfo…",
+          "link": "https://dzone.com/articles/step-by-step-tutorial-from-data-preprocessing-to-u",
+          "publishedOn": "2021-05-07T03:21:11.000Z",
+          "wordCount": 1194,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Step-by-Step Tutorial: From Data Preprocessing to Using Graph Database"
+        },
         {
           "description": "In 2020, managers had to supplement their skill sets to meet the needs of changing workplaces. People had little choice but to adjust to a remote set-up. The working world as we know it shifted. Both employees and managers had to change the way they operated. This prompted a rise in project planning software and video calling.&nbsp;\nProduct managers have always required communication, organization, and technical skills. Now more so than ever, their vast skill sets are in demand to keep businesses on their f…",
           "link": "https://dzone.com/articles/10-skills-product-managers-should-have-in-2021",
@@ -1740,6 +1956,204 @@
       "articles": [
         {
           "description": "Comments",
+          "link": "https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter",
+          "publishedOn": "2021-05-07T23:24:13.000Z",
+          "wordCount": 1249,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The digital currencies that matter"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/california-population-declines-for-first-time-in-more-than-a-century-11620416887",
+          "publishedOn": "2021-05-07T22:56:45.000Z",
+          "wordCount": 1161,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "California Population Declines for First Time in More Than a Century"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/",
+          "publishedOn": "2021-05-07T22:29:45.000Z",
+          "wordCount": 1793,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "WhatsApp will progressively kill features until users accept new privacy policy"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming",
+          "publishedOn": "2021-05-07T22:16:04.000Z",
+          "wordCount": 1715,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Back-ups for GPS: Satellite-navigation systems at risk of jamming"
+        },
+        {
+          "description": "Comments",
+          "link": "https://tedium.co/2021/05/07/linux-live-cd-history/",
+          "publishedOn": "2021-05-07T22:03:57.000Z",
+          "wordCount": null,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Distribution Vector That Changed Linux Forever"
+        },
+        {
+          "description": "Comments",
+          "link": "https://awslabs.github.io/smithy/",
+          "publishedOn": "2021-05-07T21:31:58.000Z",
+          "wordCount": 704,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Smithy: A language for defining services and SDKs"
+        },
+        {
+          "description": "Comments",
+          "link": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/",
+          "publishedOn": "2021-05-07T21:06:19.000Z",
+          "wordCount": 1558,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "A New AWS SDK for Rust"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/kraftful/",
+          "publishedOn": "2021-05-07T21:00:32.000Z",
+          "wordCount": 81,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Kraftful (YC S19) hiring founding engineers to build the standard IoT platform"
+        },
+        {
+          "description": "Comments",
+          "link": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
+          "publishedOn": "2021-05-07T20:47:12.000Z",
+          "wordCount": 434,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Be in a field where tech is the limit"
+        },
+        {
+          "description": "Comments",
+          "link": "https://findstarlink.com",
+          "publishedOn": "2021-05-07T20:26:00.000Z",
+          "wordCount": 727,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Starlink Satellites Tracker"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/NixOS/patchelf",
+          "publishedOn": "2021-05-07T18:59:07.000Z",
+          "wordCount": 1301,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries"
+        },
+        {
+          "description": "Comments",
+          "link": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
+          "publishedOn": "2021-05-07T18:35:12.000Z",
+          "wordCount": 4673,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Complete Hypercard Handbook"
+        },
+        {
+          "description": "Comments",
+          "link": "https://crossbar.io/",
+          "publishedOn": "2021-05-07T17:57:39.000Z",
+          "wordCount": 1314,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Crossbar.io – an open source platform for distributed and microservice apps"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
+          "publishedOn": "2021-05-07T17:41:14.000Z",
+          "wordCount": 6511,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
+          "publishedOn": "2021-05-07T17:34:01.000Z",
+          "wordCount": 1446,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Honeywell gets hit with $13M fine for defense export violations"
+        },
+        {
+          "description": "Comments",
+          "link": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
+          "publishedOn": "2021-05-07T16:27:01.000Z",
+          "wordCount": 841,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Pinecone Overlay Network"
+        },
+        {
+          "description": "Comments",
+          "link": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
+          "publishedOn": "2021-05-07T15:51:14.000Z",
+          "wordCount": 1215,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Where the top of the stack is on x86 (2011)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://github.com/MisterHW/44780HD",
+          "publishedOn": "2021-05-07T15:06:50.000Z",
+          "wordCount": 2532,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Towards an HD44780-Based Video Mode"
+        },
+        {
+          "description": "Comments",
+          "link": "https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/",
+          "publishedOn": "2021-05-07T12:26:30.000Z",
+          "wordCount": 2151,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Decentralized trust graph for online value exchange without a blockchain (2017)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/",
+          "publishedOn": "2021-05-07T11:49:04.000Z",
+          "wordCount": 1925,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Cryptographic Shuffle"
+        },
+        {
+          "description": "Comments",
+          "link": "https://quickwit.io/blog/commoncrawl/",
+          "publishedOn": "2021-05-07T10:48:26.000Z",
+          "wordCount": 1278,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Searching the web for under $1000/month"
+        },
+        {
+          "description": "Comments",
+          "link": "https://soundshader.github.io/hss/gallery/",
+          "publishedOn": "2021-05-07T09:13:12.000Z",
+          "wordCount": 473,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Bird song sonographs show distinct drawing patterns"
+        },
+        {
+          "description": "Comments",
           "link": "https://kylebarron.dev/usgs-topo-mosaic",
           "publishedOn": "2021-05-06T22:12:42.000Z",
           "wordCount": 15,
@@ -1764,6 +2178,15 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Literably (YC IK12) Is Hiring a Senior Software Engineer (Remote)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blog.asrpo.com/jit_programming",
+          "publishedOn": "2021-05-06T20:54:11.000Z",
+          "wordCount": 1374,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Instruction level just-in-time programming"
         },
         {
           "description": "Comments",
@@ -1827,6 +2250,15 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Playlist for iOS"
+        },
+        {
+          "description": "Comments",
+          "link": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
+          "publishedOn": "2021-05-06T19:08:12.000Z",
+          "wordCount": 1802,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Sovietisation of the Mongolian language and challenges of reversal (2020)"
         },
         {
           "description": "Comments",
@@ -1956,6 +2388,15 @@
         },
         {
           "description": "Comments",
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-05-06T12:16:11.000Z",
+          "wordCount": 3194,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "I spent some time exploring how to improve the UX of code blocks on the web"
+        },
+        {
+          "description": "Comments",
           "link": "http://paulgraham.com/newideas.html",
           "publishedOn": "2021-05-06T11:44:27.000Z",
           "wordCount": 1285,
@@ -1974,6 +2415,15 @@
         },
         {
           "description": "Comments",
+          "link": "https://github.com/msxie92/MangaRestoration",
+          "publishedOn": "2021-05-06T10:58:02.000Z",
+          "wordCount": 828,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Exploiting Aliasing for Manga Restoration"
+        },
+        {
+          "description": "Comments",
           "link": "https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip",
           "publishedOn": "2021-05-06T10:11:27.000Z",
           "wordCount": 3408,
@@ -1989,6 +2439,33 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Why I Work on Ads"
+        },
+        {
+          "description": "Comments",
+          "link": "https://scholar.google.com/scholar?q=%22to+our+surprise%22",
+          "publishedOn": "2021-05-06T09:18:00.000Z",
+          "wordCount": 44,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "\"To our surprise\""
+        },
+        {
+          "description": "Comments",
+          "link": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
+          "publishedOn": "2021-05-06T08:56:33.000Z",
+          "wordCount": 2518,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "How to Teach Math?"
+        },
+        {
+          "description": "Comments",
+          "link": "https://oldcomputers.net/grid1101.html",
+          "publishedOn": "2021-05-06T08:32:55.000Z",
+          "wordCount": 947,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Grid Compass 1101 (2016)"
         },
         {
           "description": "Comments",
@@ -2214,6 +2691,15 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "The original “Hello World”: B. W. Kernighan's intro to B (1973)"
+        },
+        {
+          "description": "Comments",
+          "link": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
+          "publishedOn": "2021-05-05T08:04:16.000Z",
+          "wordCount": 1303,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Generating more interesting image previews using imagemagick"
         },
         {
           "description": "Comments",
