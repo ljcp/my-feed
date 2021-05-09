@@ -735,6 +735,171 @@
       "href": "http://feeds.dzone.com/home",
       "articles": [
         {
+          "id": "https://dzone.com/articles/3119370",
+          "author": "Sidharth Jain",
+          "description": "What is Deno?\nDeno a pristine method to compose worker-side JavaScript. It solves many of the problems that Node does. It was created by the same person as Node. It uses the V8 JavaScript engine under the hood but the rest of the runtime is implemented in Rust and Typescript.\nWhat Reason Does Deno Utilize Rust?\nDeno may be a safe TypeScript run-time on Chrome V8. It had been initially written in Go and now has been revamped in Rust to remain far away from potential garbage collector issues. Deno is like Nod…",
+          "link": "https://dzone.com/articles/deno-vs-node-a-detailed-comparison",
+          "publishedOn": "2021-05-08T23:44:35.000Z",
+          "wordCount": 1033,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Deno vs. Node: A Detailed Comparison"
+        },
+        {
+          "id": "https://dzone.com/articles/3119386",
+          "author": "Nishant Choudhary",
+          "description": "It is no secret that the website is the backbone of every business. If you want your business to be successful in this COVID-19 era, you’ve got to have a well-designed website. As, due to social distancing, more and more potential customers are searching for information via the company’s website.\nA well-designed website can help you grow your business as a flawless design creates a great impression on your potential customers inducing them to take the desired action. Common web design mistakes, however, can…",
+          "link": "https://dzone.com/articles/12-common-web-design-mistakes-to-avoid-in-2021",
+          "publishedOn": "2021-05-08T23:35:21.000Z",
+          "wordCount": 3074,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "12 Common Web Design Mistakes To Avoid in 2021"
+        },
+        {
+          "id": "https://dzone.com/articles/3119393",
+          "author": "Cameron HUNT",
+          "description": "Virtually every software developer in the world has heard of the ‘Model-View-Controller’ (MVC) Design Pattern, which is not entirely surprising given that it was “first introduced by Trygve Reenskaug, a Smalltalk developer at the Xerox Palo Alto Research Center in 1979.” Today, Oracle provides us with a nice representation of a 'Common MVC Implementation:'\n\nNow, more than forty years later, and in the context of an emerging star in software integration — ‘Event-Driven Architecture’ — it seems high time for …",
+          "link": "https://dzone.com/articles/eda-model-view-broker-pattern-the-new-mvc",
+          "publishedOn": "2021-05-08T23:25:34.000Z",
+          "wordCount": 710,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "EDA 'Model-View-Broker' Pattern: The New MVC"
+        },
+        {
+          "id": "https://dzone.com/articles/3120378",
+          "author": "Kristi Anderson",
+          "description": "You sit down at your desk to compile a report and within a few minutes, you have checked your email, scheduled a doctor’s appointment, and have Netflix going in the background. Our environments and priorities are constantly pulling us in different directions. With so much to juggle, it feels as if the only way we can get everything done is to multitask.\nRight?",
+          "link": "https://dzone.com/articles/3-single-tasking-tips-to-improve-your-focus",
+          "publishedOn": "2021-05-08T23:13:16.000Z",
+          "wordCount": 2025,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "3 Single-Tasking Tips to Improve Your Focus"
+        },
+        {
+          "id": "https://dzone.com/articles/3119408",
+          "author": "Nadya Knyazeva",
+          "description": "In this article, we will show you how to encrypt your local documents, spreadsheets, and presentations. This will be the first in the series: we will move from a simple symmetric encryption plugin to encrypting cloud files during real-time collaboration.\nTools\nWe will use ONLYOFFICE Desktop Editors, an open-source office suite for Linux, Windows, and macOS. It is distributed under AGPLv3 and has a publicly available API.",
+          "link": "https://dzone.com/articles/encrypting-office-documents-pt-1-protecting-local",
+          "publishedOn": "2021-05-08T22:43:46.000Z",
+          "wordCount": 1378,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Encrypting Office Documents, Part 1: Protecting Local Files"
+        },
+        {
+          "id": "https://dzone.com/articles/3117359",
+          "author": "Anahit Ghazaryan",
+          "description": "This article is about the prospects of IoT and why we need to build IoT projects. You may think the reason is new technologies like 5G but that is not the case. After the pandemic of last year, we witness an unprecedented usage of the internet and heavy reliance on network-based applications. Today, in 2021, we can say that consumer behavior has changed and it has changed for good. Consumers start relying on IoT devices and that's why you need to build one today. Here is why.\nTechnology Diversity Drives IoT…",
+          "link": "https://dzone.com/articles/iot-world-today-why-do-we-need-to-build-iot-projec",
+          "publishedOn": "2021-05-08T21:57:46.000Z",
+          "wordCount": 1530,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "IoT World Today: Why Do We Need to Build IoT Projects?"
+        },
+        {
+          "id": "https://dzone.com/articles/3119034",
+          "author": "Sudip Sengupta",
+          "description": "Kubernetes needs no introduction in this cloud-native world. It was born when I was a middle-aged man. Years later, I am still as young as earlier (take with a pinch of salt) while Kubernetes grew out to be a fine tool that outperformed other platforms in enabling operational efficiency and application resilience.&nbsp;\nIn the past, I wrote several articles and guides on Kubernetes and supported platforms. But then, in the pursuit of appyness, there is no end to innovation.&nbsp;",
+          "link": "https://dzone.com/articles/appops-with-kubernetes-and-devtron-the-perfect-fit",
+          "publishedOn": "2021-05-08T20:02:20.000Z",
+          "wordCount": 3307,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "AppOps with Kubernetes and Devtron - The Perfect Fit"
+        },
+        {
+          "id": "https://dzone.com/articles/3119358",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at RESTful web services in Spring Boot that receive XML responses. Let's get started!",
+          "link": "https://dzone.com/articles/spring-boot-example-of-restful-web-service-with-xm-2",
+          "publishedOn": "2021-05-08T14:41:53.000Z",
+          "wordCount": 269,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Spring Boot: RESTful Web Services With XML Responses [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3122386",
+          "author": "Joaquin Azcarate",
+          "description": "Time for another in the series. Check out other languages we’ve explored in the past at:\nDiscovering Vue 3\nAnalyzing functionalities in Rust\nA bit of background about me before we begin our exploration of a new programming language.",
+          "link": "https://dzone.com/articles/discovering-crystal",
+          "publishedOn": "2021-05-08T14:34:54.000Z",
+          "wordCount": 1498,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Discovering Crystal"
+        },
+        {
+          "id": "https://dzone.com/articles/3122429",
+          "author": "Dmitry Sotnikov",
+          "description": "This week, we take a look at the recent API vulnerabilities at Experian, Facebook, and possibly DigitalOcean and Geico. There is also a review of Burp plugins for API vulnerability discovery, and a new API security penetration testing lab.\nVulnerability: Experian\nBill Demirkapi found an unprotected Experian API that returned a credit score based simply on someone’s name and address.",
+          "link": "https://dzone.com/articles/api-security-weekly-issue-132",
+          "publishedOn": "2021-05-08T13:56:06.000Z",
+          "wordCount": 1256,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "API Security Weekly: Issue #132"
+        },
+        {
+          "id": "https://dzone.com/articles/3124390",
+          "author": "Vinita Bansal",
+          "description": "Navigating the culture of a team is more art than science. Unspoken expectations, individual preferences, past experiences, a sense of shared purpose, and relationships between team members dictate a large part of how a team communicates and collaborates.&nbsp;\nWithout stating, each team develops its own implicit language that determines:",
+          "link": "https://dzone.com/articles/do-you-have-a-language-for-your-team",
+          "publishedOn": "2021-05-08T13:40:36.000Z",
+          "wordCount": 3118,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Do You Have a Language for Your Team?"
+        },
+        {
+          "id": "https://dzone.com/articles/3124421",
+          "author": "Vladimir Ozerov",
+          "description": "The goal of the query optimizer is to find the query execution plan that computes the requested result efficiently. In this blog post, we discuss rule-based optimization - a common pattern to explore equivalent plans used by modern optimizers. Then we explore the implementation of several state-of-the-art rule-based optimizers. Then we analyze the rule-based optimization in Apache Calcite, Presto, and CockroachDB.\nTransformations\nA query optimizer must explore the space equivalent execution plans and pick t…",
+          "link": "https://dzone.com/articles/rule-based-query-optimization",
+          "publishedOn": "2021-05-08T12:47:39.000Z",
+          "wordCount": 1714,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Rule-Based Query Optimization"
+        },
+        {
+          "id": "https://dzone.com/articles/3121406",
+          "author": "Nicolas Fränkel",
+          "description": "Java Stream's Collectors methods fit most use-cases. They allow returning either a Collection or a scalar. For the former, you use one of the toXXX() method, for the latter, one of the reducing() one.\nLet's imagine an e-commerce platform that implements a shopping cart. The cart is modeled as the following:",
+          "link": "https://dzone.com/articles/a-real-world-example-of-a-stream-collector",
+          "publishedOn": "2021-05-08T12:24:22.000Z",
+          "wordCount": 1257,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "A Real-World Example of a Stream Collector"
+        },
+        {
+          "id": "https://dzone.com/articles/3120576",
+          "author": "Dariusz Suchojad",
+          "description": "One of the additions in the upcoming Zato 3.2 release is an extension to its publish/subscribe mechanism that lets services publish messages directly to other services. Let’s check how to use it and how it compares to other means of invoking one’s API services.&nbsp;\nHow Does It Work?\nIn your Zato service, you can publish a message to any other services as below. Simply point self.pubsub.publish to the target service by the latter’s name and it will receive your message.",
+          "link": "https://dzone.com/articles/api-publishsubscribe-between-zato-services-2",
+          "publishedOn": "2021-05-08T12:02:02.000Z",
+          "wordCount": 1115,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "API Publish/Subscribe Between Zato Services"
+        },
+        {
+          "id": "https://dzone.com/articles/3119230",
+          "author": "Vito Clover",
+          "description": "We all love containers for their scalability. But it might easily become your overhead if you end up managing a large cluster.\nThis is where container orchestration comes in. When operating at scale, you need a platform that automates all the tasks related to the management, deployment, and scaling of container clusters.&nbsp;",
+          "link": "https://dzone.com/articles/aws-eks-vs-ecs-vs-fargate-where-to-manage-your-kub",
+          "publishedOn": "2021-05-08T11:47:06.000Z",
+          "wordCount": 2677,
+          "sourceHref": "http://feeds.dzone.com/home",
+          "sourceTitle": "DZone.com Feed",
+          "title": "Managing Kubernetes: AWS EKS vs. ECS vs. Fargate"
+        },
+        {
           "description": "There are plenty of Product Owner failures. Given that Scrum is a framework with a precise and concise yet short “manual,” this effect should not surprise anyone.\nExplore with me three widespread examples of how Product Owners fail their team in three short video clips, totaling 6 minutes and 9 seconds.",
           "link": "https://dzone.com/articles/three-wide-spread-product-owner-failures-in-609-mi",
           "publishedOn": "2021-05-07T23:43:18.000Z",
@@ -1955,6 +2120,292 @@
       "href": "https://news.ycombinator.com/rss",
       "articles": [
         {
+          "id": "https://crawl.develz.org/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://crawl.develz.org/",
+          "publishedOn": "2021-05-08T22:43:32.000Z",
+          "wordCount": 123,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Dungeon Crawl Stone Soup – An open-source roguelike adventure"
+        },
+        {
+          "id": "https://github.com/joouha/euporie",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://github.com/joouha/euporie",
+          "publishedOn": "2021-05-08T22:02:53.000Z",
+          "wordCount": 1157,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Show HN: Euporie, a Tui for Jupyter Notebooks"
+        },
+        {
+          "id": "https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.alextoussaint.com/2021-04-28_How-I-built-an-ultrasonic-3d-scanner.html",
+          "publishedOn": "2021-05-08T21:19:03.000Z",
+          "wordCount": 2983,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "How I built the world's first 3D ultrasonic scanner"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/token-transit/jobs/Rx4iZh5is-senior-software-engineer",
+          "publishedOn": "2021-05-08T21:00:51.000Z",
+          "wordCount": 934,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Token Transit (YC W17) is hiring to improve public transit payment"
+        },
+        {
+          "id": "http://www.hidmacros.eu/whatisit.php",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "http://www.hidmacros.eu/whatisit.php",
+          "publishedOn": "2021-05-08T19:17:51.000Z",
+          "wordCount": 280,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "HIDmacros"
+        },
+        {
+          "id": "https://www.sciencedaily.com/releases/2021/04/210421200133.htm",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.sciencedaily.com/releases/2021/04/210421200133.htm",
+          "publishedOn": "2021-05-08T18:55:39.000Z",
+          "wordCount": null,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Higher mushroom consumption is associated with a lower risk of cancer"
+        },
+        {
+          "id": "https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/",
+          "publishedOn": "2021-05-08T18:33:59.000Z",
+          "wordCount": 602,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "People who live past 105 years old have genes that stop DNA damage"
+        },
+        {
+          "id": "https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/",
+          "publishedOn": "2021-05-08T18:28:14.000Z",
+          "wordCount": 2991,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Lessons on Writing JavaScript and React from ClojureScript"
+        },
+        {
+          "id": "https://github.com/lucidrains/x-transformers",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://github.com/lucidrains/x-transformers",
+          "publishedOn": "2021-05-08T17:38:27.000Z",
+          "wordCount": 4196,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "X-Transformers: A fully-featured transformer with experimental features"
+        },
+        {
+          "id": "https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html",
+          "publishedOn": "2021-05-08T17:34:31.000Z",
+          "wordCount": 772,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "ABI Mistakes"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
+          "publishedOn": "2021-05-08T17:03:27.000Z",
+          "wordCount": 1502,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Apple brass discussed disclosing 128M iPhone hack, then decided not to"
+        },
+        {
+          "id": "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus",
+          "publishedOn": "2021-05-08T16:25:47.000Z",
+          "wordCount": 2483,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Restaurant menu tricks (2020)"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2021/05/google-will-soon-start-automatically-enrolling-users-in-2fa/",
+          "publishedOn": "2021-05-08T15:57:45.000Z",
+          "wordCount": 717,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Google is going to turn on 2FA by default"
+        },
+        {
+          "id": "https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791",
+          "publishedOn": "2021-05-08T15:56:29.000Z",
+          "wordCount": 1186,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Inefficient Efficiency (2019)"
+        },
+        {
+          "id": "https://bychgroup.com/i-make-200000-year-by-writing-order-notes/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://bychgroup.com/i-make-200000-year-by-writing-order-notes/",
+          "publishedOn": "2021-05-08T14:56:05.000Z",
+          "wordCount": 1806,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "My service to check whether an item is counterfeit or not"
+        },
+        {
+          "id": "https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258",
+          "publishedOn": "2021-05-08T14:35:38.000Z",
+          "wordCount": 528,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "If I fits I sits: illusory contour susceptibility in domestic cats"
+        },
+        {
+          "id": "https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388",
+          "publishedOn": "2021-05-08T14:06:41.000Z",
+          "wordCount": 967,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Apple tries to get Epic to admit there's porn on its store"
+        },
+        {
+          "id": "https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://natureecoevocommunity.nature.com/posts/16369-fungus-like-organisms-in-deep-time-and-deep-rock",
+          "publishedOn": "2021-05-08T14:04:55.000Z",
+          "wordCount": 1538,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Fungus-like organisms in deep time and deep rock"
+        },
+        {
+          "id": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
+          "publishedOn": "2021-05-08T12:52:06.000Z",
+          "wordCount": 1073,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Linux Foundation starts AgStack, an open-source agtech initiative"
+        },
+        {
+          "id": "https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj",
+          "publishedOn": "2021-05-08T12:35:31.000Z",
+          "wordCount": 304,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Chrome extension recommends local businesses while shopping on Amazon or eBay"
+        },
+        {
+          "id": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+          "publishedOn": "2021-05-08T11:04:40.000Z",
+          "wordCount": 18637,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Dark Matter: The Situation Has Changed"
+        },
+        {
+          "id": "https://justine.lol/endian.html",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://justine.lol/endian.html",
+          "publishedOn": "2021-05-08T11:00:12.000Z",
+          "wordCount": 1579,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "The Byte Order Fiasco"
+        },
+        {
+          "id": "https://twitter.com/jjcollinsworth/status/1390328342533054472",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://twitter.com/jjcollinsworth/status/1390328342533054472",
+          "publishedOn": "2021-05-08T10:17:49.000Z",
+          "wordCount": 196,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Afraid to Google a thing because I don't want the algorithm to think I like it"
+        },
+        {
+          "id": "https://github.com/ZXDunny/SpecBAS",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://github.com/ZXDunny/SpecBAS",
+          "publishedOn": "2021-05-08T10:01:17.000Z",
+          "wordCount": 1042,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "SpecBAS: An enhanced Sinclair BASIC interpreter for modern PCs"
+        },
+        {
+          "id": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python",
+          "publishedOn": "2021-05-08T07:43:44.000Z",
+          "wordCount": 1119,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "TI-84 Plus CE Python Graphing Calculator"
+        },
+        {
+          "id": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
+          "publishedOn": "2021-05-08T00:12:35.000Z",
+          "wordCount": 6128,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Bob Dylan lays down what killed rock n roll (2016)"
+        },
+        {
           "description": "Comments",
           "link": "https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter",
           "publishedOn": "2021-05-07T23:24:13.000Z",
@@ -1980,6 +2431,17 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "WhatsApp will progressively kill features until users accept new privacy policy"
+        },
+        {
+          "id": "https://physicsworld.com/indestructible-light-waves-travel-through-opaque-material-as-if-it-isnt-there/",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://physicsworld.com/indestructible-light-waves-travel-through-opaque-material-as-if-it-isnt-there/",
+          "publishedOn": "2021-05-07T22:26:40.000Z",
+          "wordCount": 1676,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Indestructible light waves travel through opaque material as if it isn’t there"
         },
         {
           "description": "Comments",
@@ -2126,6 +2588,17 @@
           "title": "Decentralized trust graph for online value exchange without a blockchain (2017)"
         },
         {
+          "id": "https://arxiv.org/abs/2104.14553",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2104.14553",
+          "publishedOn": "2021-05-07T12:09:34.000Z",
+          "wordCount": 534,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "MarioNette: Self-Supervised Sprite Learning"
+        },
+        {
           "description": "Comments",
           "link": "https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/",
           "publishedOn": "2021-05-07T11:49:04.000Z",
@@ -2133,6 +2606,28 @@
           "sourceHref": "https://news.ycombinator.com/rss",
           "sourceTitle": "Hacker News",
           "title": "Cryptographic Shuffle"
+        },
+        {
+          "id": "https://homes.cs.washington.edu/~vegaluis/pubs/pldi21_vega_reticle.pdf",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://homes.cs.washington.edu/~vegaluis/pubs/pldi21_vega_reticle.pdf",
+          "publishedOn": "2021-05-07T11:32:17.000Z",
+          "wordCount": 49732,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "Reticle: Virtual Machine for Programming Modern FPGAs [pdf]"
+        },
+        {
+          "id": "https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware",
+          "author": "Hacker News",
+          "description": "Comments",
+          "link": "https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware",
+          "publishedOn": "2021-05-07T11:19:43.000Z",
+          "wordCount": 5074,
+          "sourceHref": "https://news.ycombinator.com/rss",
+          "sourceTitle": "Hacker News",
+          "title": "A unified theory of low/no code and middleware"
         },
         {
           "description": "Comments",
@@ -3847,5 +4342,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
