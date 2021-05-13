@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=339960",
+          "author": "Sandrina Pereira",
+          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
+          "publishedOn": "2021-05-12T14:31:07.000Z",
+          "wordCount": 2583,
+          "title": "Making Disabled Buttons More Inclusive"
+        },
+        {
           "id": "https://css-tricks.com/?p=340359",
           "author": "Chris Coyier",
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -183,6 +192,24 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "publishedOn": "2021-05-12T12:42:00.000Z",
+          "wordCount": 3443,
+          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
+          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "publishedOn": "2021-05-12T08:00:00.000Z",
+          "wordCount": 1993,
+          "title": "Little Smashing Stories"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
@@ -407,15 +434,6 @@
           "publishedOn": "2021-04-13T14:00:00.000Z",
           "wordCount": 3154,
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
-          "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 3142,
-          "title": "A Complete Guide To HTML Email"
         }
       ]
     },
@@ -424,6 +442,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5fde208ae6787e09839407c3",
+          "author": "",
+          "description": "In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single",
+          "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
+          "publishedOn": "2021-05-12T20:53:20.000Z",
+          "wordCount": 25100,
+          "title": "How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify"
+        },
+        {
+          "id": "609c215862ab9107fe5a9fa9",
+          "author": "",
+          "description": "Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform",
+          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
+          "publishedOn": "2021-05-12T18:49:36.000Z",
+          "wordCount": 571,
+          "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
+        },
         {
           "id": "6096aafe2cd0545b5e944430",
           "author": "",
@@ -609,6 +645,168 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3122623",
+          "author": "Nicolas Fränkel",
+          "description": "Last week, I described a use-case for a custom Stream Collector. I received a intriguing comment on Twitter:\nHats off to you, Miguel! Your comment revealed a method I didn't know!",
+          "link": "https://dzone.com/articles/teeing-a-hidden-gem-in-the-java-api",
+          "publishedOn": "2021-05-12T22:49:45.000Z",
+          "wordCount": 705,
+          "title": "Teeing, a Hidden Gem in The Java API"
+        },
+        {
+          "id": "https://dzone.com/articles/3123629",
+          "author": "Ashutosh Bhatawadekar",
+          "description": "Introduction\nIn the traditional world of Project and Program Management, Project Management Office (PMO) played a very crucial way in standardizing and unifying the various Project Management processes and activities. With the software industry transforming its working into an Agile Way of Working, one gets a sense that the PMO has become anachronistic and is more or less become extinct. &nbsp;However, that's not the case and we have many organizations creating Agility Office / Agile Program Office / Agile …",
+          "link": "https://dzone.com/articles/agility-office-the-backbone-of-any-transformation",
+          "publishedOn": "2021-05-12T22:24:33.000Z",
+          "wordCount": 708,
+          "title": "Agility Office: The Backbone of Any Transformation"
+        },
+        {
+          "id": "https://dzone.com/articles/3120223",
+          "author": "Alex Duecode",
+          "description": "\"Employing these Metrics to excel the performance of code directly impacts the profitability of the business. Achieving high-quality standards ultimately increases the ROI of the software. Consider it as a matter of choosing between investing excess time as well as resources initially or wasting the same later in fixing issues\"\nFor the developers, practicing to write a good quality code in the initial phase of the coding job not only prevents the efforts and hours spent in précising the errors but also the …",
+          "link": "https://dzone.com/articles/code-quality-metrics",
+          "publishedOn": "2021-05-12T22:06:58.000Z",
+          "wordCount": 2621,
+          "title": "Code Quality Metrics"
+        },
+        {
+          "id": "https://dzone.com/articles/3121114",
+          "author": "John Lafleur",
+          "description": "Today, we’re celebrating three important milestones for Airbyte. Within just 7 months of the release of our very first product (MVP), which had only 6 connectors, we became the most active Slack community of data professionals around data integration. This is our first milestone.\nAs you might already know, we are a transparent company. Every month or so, we publish information on our project and company that would be confidential in other companies, such as:",
+          "link": "https://dzone.com/articles/how-user-success-helps-us-become-the-most-active-s",
+          "publishedOn": "2021-05-12T21:47:00.000Z",
+          "wordCount": 1798,
+          "title": "How “User Success” Helps Us Become the Most Active Slack Community"
+        },
+        {
+          "id": "https://dzone.com/articles/3123625",
+          "author": "Mir Ali",
+          "description": "IaC Overview\nAs everything is digitized now, especially after the Covid pandemic, it is now even more important to properly manage the IT infrastructure of an organization.\nEarlier, this management of IT infrastructure was done manually by the system administrators. They managed all the hardware and software that was required for an application to run. Tech has progressed a lot in the past few years, and now there is an alternative to this manual management, called Infrastructure as Code or IaC in short.",
+          "link": "https://dzone.com/articles/iac-methodologies-approach-best-practices",
+          "publishedOn": "2021-05-12T21:39:41.000Z",
+          "wordCount": 1633,
+          "title": "Infrastructure-as-Code (IaC): Methodologies, Approach, and Best Practices"
+        },
+        {
+          "id": "https://dzone.com/articles/3123570",
+          "author": "Ochuko Onojakpor",
+          "description": "Introduction\nAs Python's premier web framework, Django provides the foundation upon which many web applications have been built, facilitating rapid development without sacrificing stability. &nbsp;Amongst other versatile functionalities, Django integrates seamlessly with SQL databases, so today, we'll be using the framework to implement basic site analytics data recording. &nbsp;Then, we'll use this data to create gorgeous visualizations in an Arctype dashboard, which will keep track of the following:\nRegis…",
+          "link": "https://dzone.com/articles/build-an-analytics-dashboard-with-django-and-arcty",
+          "publishedOn": "2021-05-12T21:24:23.000Z",
+          "wordCount": 2656,
+          "title": "Build an Analytics Dashboard With Django and Arctype"
+        },
+        {
+          "id": "https://dzone.com/articles/3114556",
+          "author": "gong tom",
+          "description": "Background &nbsp;&nbsp;\nHi guys! In the mainstream web architecture, protecting the REST API provided by the back-end through effective and fast authentication has become particularly important. &nbsp; &nbsp;\nFor existing frameworks, whether it is apache shiro which does not natively support rest or deeply bound spring of spring security is not our ideal framework.",
+          "link": "https://dzone.com/articles/sureness-focusing-on-protection-of-restful-api",
+          "publishedOn": "2021-05-12T20:56:22.000Z",
+          "wordCount": 615,
+          "title": "Sureness: Focusing on the Protection of REST API"
+        },
+        {
+          "id": "https://dzone.com/articles/3117036",
+          "author": "Kevin Vu",
+          "description": "An Introduction to the Most Common Neural Networks\nNeural Nets have become pretty popular today, but there remains a dearth of understanding about them. For one, we've seen a lot of people not being able to recognize the various types of neural networks and the problems they solve, let alone distinguish between each of them. And second, which is somehow even worse, is when people indiscriminately use the words Deep Learning when talking about any neural network without breaking down the differences.\nIn this…",
+          "link": "https://dzone.com/articles/six-types-of-neural-networks-you-need-to-know-abou",
+          "publishedOn": "2021-05-12T20:50:30.000Z",
+          "wordCount": 2115,
+          "title": "6 Important Types of Neural Networks"
+        },
+        {
+          "id": "https://dzone.com/articles/3082962",
+          "author": "Amaan T",
+          "description": "Technological innovations including mobile apps, AI, ML, and &nbsp;IoT, have eased operation for multiple industries. However, in a bid to channel all high-end use cases in apps, stakeholders at times overlook the very basic yet remarkably impactful integration in their apps. One such integration we’ve found is an inbuilt calendar in apps.&nbsp;\nIn this blog, we will talk about how an integrated calendar app API can do wonders in accelerating the UI/UX designing of your apps.",
+          "link": "https://dzone.com/articles/how-integrating-calendar-apis-in-apps-can-skyrocke",
+          "publishedOn": "2021-05-12T20:45:13.000Z",
+          "wordCount": 816,
+          "title": "How Integrating Calendar APIs in Apps Can Skyrocket UI"
+        },
+        {
+          "id": "https://dzone.com/articles/3038809",
+          "author": "Keshav Murthy",
+          "description": "SQL is the only 22nd-century language available for developers today.\nAbstract\nIn relational database systems, SQL is more than a declarative query language. It includes procedural language (T-SQL, PL/SQL, etc) and defines transactions and their semantics. SQL as a query language has been unreasonably effective even in NoSQL database systems. However, few NoSQL database systems support transactions. The ones that support come with a long list of limitations and/or were unable to support SQL operations withi…",
+          "link": "https://dzone.com/articles/couchbase-n1ql-transaction-an-elastic-and-scalable",
+          "publishedOn": "2021-05-12T20:42:20.000Z",
+          "wordCount": 1741,
+          "title": "Couchbase N1QL Transaction: An Elastic and Scalable Distributed Transaction"
+        },
+        {
+          "id": "https://dzone.com/articles/3075198",
+          "author": "Abe Dearmer",
+          "description": "In the past, software systems ran in highly controlled environments on-premise and managed by an army of sysadmins. Today, migration to the cloud is relentless; the stage has completely shifted. Systems are no longer monolithic and localized; they depend on many globalized uncoupled systems working in unison, often in the form of ethereal microservices.\nIt is no surprise that Site Reliability Engineers have risen to prominence in the last decade. Modern IT infrastructure requires robust systems thinking and…",
+          "link": "https://dzone.com/articles/what-is-chaos-engineering",
+          "publishedOn": "2021-05-12T20:28:12.000Z",
+          "wordCount": 1555,
+          "title": "What Is Chaos Engineering?"
+        },
+        {
+          "id": "https://dzone.com/articles/3122630",
+          "author": "Venkatesh Rajendran",
+          "description": "Future, A Token of Task Submission\nI believe, the title is very abstract but clearly explains the purpose. The concurrency package is the boss when it's come to asynchronous programming. Of course, this is the continuation of my previous articles on asynchronous programming.\nWe have seen creating Threads and make use of Executor Framework for the Thread management. Also, We look at how to submit a task and how is it processed internally in the executor. But we haven't seen how to check the status or getting…",
+          "link": "https://dzone.com/articles/future-a-token-of-task-submission",
+          "publishedOn": "2021-05-12T19:51:02.000Z",
+          "wordCount": 1525,
+          "title": "Future, A Token of Task Submission"
+        },
+        {
+          "id": "https://dzone.com/articles/3118039",
+          "author": "Kamlesh Kumar",
+          "description": "Introduction\nStorage accounts are one of the fundamental pieces of cloud technology. They contain all of our Azure Storage data objects: blobs, files, queues, tables, and disks. Microsoft offers several options to store data on the cloud. Storage can be used for two purposes:\nOne is to actually store files, just as we do on a hard disk.\nThe other is to use it as the backend of a Virtual Machine. Many services within Azure need a storage account, sometimes for logging and sometimes as a fundamental piece of …",
+          "link": "https://dzone.com/articles/azure-create-azure-blob-storage-account-and-upload",
+          "publishedOn": "2021-05-12T18:55:47.000Z",
+          "wordCount": 2001,
+          "title": "Create an Azure Blob Storage Account and Upload a File"
+        },
+        {
+          "id": "https://dzone.com/articles/3118040",
+          "author": "Kamlesh Kumar",
+          "description": "Introduction\nMicrosoft BizTalk Server 2020 is one of the world's leading integration tools, with full support for newly released features. On January 15, 2020, Microsoft announced the release of BizTalk Server 2020. The whole community was excited to see the new set of features that were shipped in this release, it's the beginning of a new era!\nWhat Are the New Features?\nThere are many new features released with BizTalk Server 2020, let’s have a look at some of the them:",
+          "link": "https://dzone.com/articles/biztalk-server-2020-introduction",
+          "publishedOn": "2021-05-12T17:54:16.000Z",
+          "wordCount": 652,
+          "title": "BizTalk Server 2020 Introduction"
+        },
+        {
+          "id": "https://dzone.com/articles/3118037",
+          "author": "Kamlesh Kumar",
+          "description": "Introduction\nI recently encountered an error during some troubleshooting related to BizTalk. The was new to me and I wanted to share the solution with the community. So, in the future, if anyone faces this issue then they can try this option as well.\nWhen I was trying to expand the applications, the below error popped up and it was failed to load the applications.",
+          "link": "https://dzone.com/articles/biztalk-server-administration-error-failed-to-enab",
+          "publishedOn": "2021-05-12T17:24:02.000Z",
+          "wordCount": 480,
+          "title": "BizTalk Server Administration Error: Troubleshooting and Finding a Solution"
+        },
+        {
+          "id": "https://dzone.com/articles/3123693",
+          "author": "Sudip Sengupta",
+          "description": "Overview\nElastic Stack is a group of open-source tools that includes Elasticsearch for supporting data ingestion, storage, enrichment, visualization, and analysis for containerized applications. As a distributed search and analytics engine, Elasticsearch is an open-source tool that ingests application data, indexes it then stores it for analytics.\nSince it gathers large volumes of data while indexing different data types, Elasticsearch is often considered write-heavy. To manage such dynamic volumes of data,…",
+          "link": "https://dzone.com/articles/deploy-elasticsearch-on-kubernetes-using-openebs-l",
+          "publishedOn": "2021-05-12T17:12:00.000Z",
+          "wordCount": 930,
+          "title": "Deploy Elasticsearch on Kubernetes Using OpenEBS LocalPV"
+        },
+        {
+          "id": "https://dzone.com/articles/3120377",
+          "author": "Shahmeer Khan",
+          "description": "Lead developers are the main people behind product development. They have a unique perspective and insight to share with those who are looking for career advice. So, I decided to start interviewing CTOs and Lead Developers instead of CEOs and CMOs, all of whom have had their own diverse career paths before arriving at this position.&nbsp;\nThe first person I interviewed was Amit Debnath, a lead developer who has been in the industry for 12 years now. He says that he loves coding because it's \"a series of puz…",
+          "link": "https://dzone.com/articles/building-a-defi-ecosystem-guiding-principles-from",
+          "publishedOn": "2021-05-12T16:54:21.000Z",
+          "wordCount": 1625,
+          "title": "Building a DeFi Ecosystem: Guiding Principles From an Aspiring CTO"
+        },
+        {
+          "id": "https://dzone.com/articles/3119384",
+          "author": "Pavel Ponec",
+          "description": "Today I’d like to show you a simple table HTML report created with only thirteen lines of source code, written in a single command line using the Java programming language. Let’s pretend the data provision service already exists. If we wanted to offer our users some simple (sequential) content filtering for a table with column sorting, our implementation will have to add a few extra lines of code. To optimize this filtering, we’ll need to dig deeper into the backend. The web component takes its data from an…",
+          "link": "https://dzone.com/articles/java-html-report-in-a-few-lines-of-code",
+          "publishedOn": "2021-05-12T16:32:35.000Z",
+          "wordCount": 1114,
+          "title": "Java HTML Report in a Few Lines of Code"
+        },
         {
           "id": "https://dzone.com/articles/3122679",
           "author": "Laura Bouchard",
@@ -994,6 +1192,267 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://evertpot.com/jwt-is-a-bad-default/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://evertpot.com/jwt-is-a-bad-default/",
+          "publishedOn": "2021-05-12T23:35:09.000Z",
+          "wordCount": 1729,
+          "title": "JWT should not be your default for sessions"
+        },
+        {
+          "id": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
+          "publishedOn": "2021-05-12T22:35:52.000Z",
+          "wordCount": 956,
+          "title": "Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue"
+        },
+        {
+          "id": "https://twitter.com/elonmusk/status/1392602041025843203",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/elonmusk/status/1392602041025843203",
+          "publishedOn": "2021-05-12T22:13:07.000Z",
+          "wordCount": 196,
+          "title": "Tesla has suspended vehicle purchases using Bitcoin"
+        },
+        {
+          "id": "https://kobra.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kobra.dev/",
+          "publishedOn": "2021-05-12T21:50:35.000Z",
+          "wordCount": 130,
+          "title": "Kobra – visual programming language for machine learning"
+        },
+        {
+          "id": "https://github.com/TomHarte/CP-M-for-OS-X",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/TomHarte/CP-M-for-OS-X",
+          "publishedOn": "2021-05-12T21:34:36.000Z",
+          "wordCount": 613,
+          "title": "CP/M for OS X"
+        },
+        {
+          "id": "https://relationshiphero.com/careers?role=coach",
+          "author": null,
+          "description": "Comments",
+          "link": "https://relationshiphero.com/careers?role=coach",
+          "publishedOn": "2021-05-12T21:00:11.000Z",
+          "wordCount": 74,
+          "title": "Relationship Hero is hiring coaches – Full Time Remote"
+        },
+        {
+          "id": "https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.torh.net/2021/05/12/the-digital-natives-are-not-who-you-think-it-is/",
+          "publishedOn": "2021-05-12T20:57:07.000Z",
+          "wordCount": 498,
+          "title": "The digital natives are not who you think they are"
+        },
+        {
+          "id": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
+          "publishedOn": "2021-05-12T20:48:55.000Z",
+          "wordCount": 709,
+          "title": "Instagram, Twitter blame glitches for deleting Palestinian posts"
+        },
+        {
+          "id": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/",
+          "publishedOn": "2021-05-12T20:46:54.000Z",
+          "wordCount": 1435,
+          "title": "Avoid Git LFS if possible"
+        },
+        {
+          "id": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/",
+          "publishedOn": "2021-05-12T19:56:34.000Z",
+          "wordCount": 661,
+          "title": "Air Pollution Linked to Increased Mental Health Outpatient Visits"
+        },
+        {
+          "id": "https://github.com/kalkayan/dotfiles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/kalkayan/dotfiles",
+          "publishedOn": "2021-05-12T19:31:59.000Z",
+          "wordCount": 1590,
+          "title": "A Way to Manage Dotfiles"
+        },
+        {
+          "id": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/",
+          "publishedOn": "2021-05-12T19:14:18.000Z",
+          "wordCount": 1322,
+          "title": "Neural implant lets paralyzed person type by imagining writing"
+        },
+        {
+          "id": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
+          "publishedOn": "2021-05-12T18:52:32.000Z",
+          "wordCount": 802,
+          "title": "Benchmarking division and libdivide on Apple M1 and Intel AVX512"
+        },
+        {
+          "id": "https://blog.replit.com/apps",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.replit.com/apps",
+          "publishedOn": "2021-05-12T17:37:01.000Z",
+          "wordCount": 519,
+          "title": "Replit Apps"
+        },
+        {
+          "id": "https://github.com/eduard-permyakov/permafrost-engine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/eduard-permyakov/permafrost-engine",
+          "publishedOn": "2021-05-12T16:44:44.000Z",
+          "wordCount": 1311,
+          "title": "Show HN: I wrote my own RTS game engine in C"
+        },
+        {
+          "id": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
+          "publishedOn": "2021-05-12T16:06:23.000Z",
+          "wordCount": 781,
+          "title": "CSS Houdini"
+        },
+        {
+          "id": "https://www.bbc.com/news/world-europe-57055163",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/world-europe-57055163",
+          "publishedOn": "2021-05-12T15:53:03.000Z",
+          "wordCount": 1083,
+          "title": "Vesuvius ancient eruption rescuer identified at Herculaneum, says expert"
+        },
+        {
+          "id": "https://positive.security/blog/send-my",
+          "author": null,
+          "description": "Comments",
+          "link": "https://positive.security/blog/send-my",
+          "publishedOn": "2021-05-12T13:57:04.000Z",
+          "wordCount": 2796,
+          "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network"
+        },
+        {
+          "id": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
+          "publishedOn": "2021-05-12T13:05:16.000Z",
+          "wordCount": 1009,
+          "title": "Google Docs will now use canvas based rendering"
+        },
+        {
+          "id": "https://jmtirado.net/writing-a-programming-book-in-2021/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jmtirado.net/writing-a-programming-book-in-2021/",
+          "publishedOn": "2021-05-12T12:34:28.000Z",
+          "wordCount": 1791,
+          "title": "Writing a Programming Book in 2021"
+        },
+        {
+          "id": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
+          "author": null,
+          "description": "Comments",
+          "link": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
+          "publishedOn": "2021-05-12T12:04:37.000Z",
+          "wordCount": 469,
+          "title": "Haiku OS ported and running on RISC-V"
+        },
+        {
+          "id": "http://blog.erlang.org/My-OTP-24-Highlights/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
+          "publishedOn": "2021-05-12T11:18:17.000Z",
+          "wordCount": 2869,
+          "title": "Erlang/OTP 24 highlights"
+        },
+        {
+          "id": "https://madned.substack.com/p/thin-pipe-part-i",
+          "author": null,
+          "description": "Comments",
+          "link": "https://madned.substack.com/p/thin-pipe-part-i",
+          "publishedOn": "2021-05-12T11:01:50.000Z",
+          "wordCount": 3003,
+          "title": "My multi-decade quest for rural broadband"
+        },
+        {
+          "id": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
+          "publishedOn": "2021-05-12T09:56:06.000Z",
+          "wordCount": 12287,
+          "title": "Reverse Engineering an Unknown Microcontroller"
+        },
+        {
+          "id": "https://build.mmm.page",
+          "author": null,
+          "description": "Comments",
+          "link": "https://build.mmm.page",
+          "publishedOn": "2021-05-12T09:37:28.000Z",
+          "wordCount": 1,
+          "title": "Show HN: Mmm.page – Drag and drop personal website creator"
+        },
+        {
+          "id": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
+          "publishedOn": "2021-05-12T07:21:35.000Z",
+          "wordCount": 20970,
+          "title": "An analysis of Bitcoin's throughput bottlenecks"
+        },
+        {
+          "id": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
+          "publishedOn": "2021-05-12T06:51:53.000Z",
+          "wordCount": 1847,
+          "title": "Building a Space-Based ISP"
+        },
+        {
+          "id": "https://openmovement.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openmovement.org/",
+          "publishedOn": "2021-05-12T06:40:19.000Z",
+          "wordCount": null,
+          "title": "Open source mechanical Swiss watch movement"
+        },
+        {
+          "id": "http://booktwo.org/notebook/network-realism/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://booktwo.org/notebook/network-realism/",
+          "publishedOn": "2021-05-12T03:16:10.000Z",
+          "wordCount": 1625,
+          "title": "Network Realism: William Gibson and new forms of fiction (2010)"
+        },
         {
           "id": "https://www.airgradient.com/diy/",
           "author": null,
@@ -1389,6 +1848,15 @@
           "publishedOn": "2021-05-10T15:34:29.000Z",
           "wordCount": 148,
           "title": "Perverse Downstream Consequences of Debunking"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
+          "publishedOn": "2021-05-10T15:16:57.000Z",
+          "wordCount": 5782,
+          "title": "The disappearance of a Soviet skiing party in 1959"
         },
         {
           "id": "https://epirhandbook.com/",
