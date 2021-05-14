@@ -2,10 +2,570 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T00:33:01.676Z</updated>
+    <updated>2021-05-14T00:33:00.306Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veeva Nitro and AWS SageMaker for Life Sciences Data Scientists]]></title>
+        <id>https://dzone.com/articles/3123342</id>
+        <link href="https://dzone.com/articles/veeva-nitro-and-aws-sagemaker-for-pharma-data-scie"/>
+        <updated>2021-05-14T00:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+There is a rise in industry-specific data analytics solutions because building up and maintaining custom data warehouses is difficult. It requires extensive development and operational efforts to define the appropriate industry-specific data model for the business intelligence tools, follow all the shape changes over time (new tables, new columns, new relationships) and design the ETL processes for a wide variety of data sources. It is just hard to build a solution on top of a generic data ware…]]></summary>
+        <author>
+            <name>Istvan Szegedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
+&#8230;
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BackBlaze: Privacy Update: Third-Party Tracking]]></title>
+        <id>https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13</id>
+        <link href="https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13"/>
+        <updated>2021-05-13T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brain Maps Out Ideas and Memories Like Spaces]]></title>
+        <id>https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/</id>
+        <link href="https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/"/>
+        <updated>2021-05-13T22:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts]]></title>
+        <id>https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce</id>
+        <link href="https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce"/>
+        <updated>2021-05-13T22:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kumologica: Iteration Support — Split and Join Nodes [Videos]]]></title>
+        <id>https://dzone.com/articles/3123719</id>
+        <link href="https://dzone.com/articles/kumologica-iteration-split-and-join-node-support-v"/>
+        <updated>2021-05-13T22:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Clay Banks on Unsplash.
+ 
+Working with a collection of values (key/value pairs, arrays) is an oft-repeated need in programming. Kumologica provides the Split and Join nodes that can be paired together to loop through data collections.
+In this article, we will look into the scenarios in which Split and Join nodes can be used in Kumologica flows.]]></summary>
+        <author>
+            <name>Giridhar Mogarala Pandurangam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Spring Security Concurrent Session Control Works: Part 1]]></title>
+        <id>https://dzone.com/articles/3122756</id>
+        <link href="https://dzone.com/articles/how-spring-security-concurrent-session-control-wor"/>
+        <updated>2021-05-13T22:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Spring security provides a mechanism to control and limit the maximum number of single-user open sessions. This mechanism prevents users from exceeding the number of allowed simultaneous connections. For example, Netflix limits the number of screens you can watch at the same time according to your subscription plan.
+In part 1, we will understand how this mechanism works, how to use it, and being aware of the default spring security implementation limitations. In part 2, we will see how to overc…]]></summary>
+        <author>
+            <name>ZAHID Mohammed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How SpaceX lands Starship (sort of)]]></title>
+        <id>https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b</id>
+        <link href="https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b"/>
+        <updated>2021-05-13T22:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating a Data Integration Platform: The ROI Way]]></title>
+        <id>https://dzone.com/articles/3121222</id>
+        <link href="https://dzone.com/articles/evaluating-a-data-integration-platform-the-roi-way"/>
+        <updated>2021-05-13T22:07:25.000Z</updated>
+        <summary type="html"><![CDATA[How many of you look into the nutritional information and ingredients before you buy a packaged food product? As consumers, we perceive value based on how much we can decode the ingredient labels and match it to the price at which it is offered. While it’s easy to relate an ingredient like refined sugar to unhealthiness, it’s another thing to rightly estimate the hidden price that you pay for consuming that sugary food.
+In IT things are not getting any different. When you focus on the upfront price you lose…]]></summary>
+        <author>
+            <name>Sudipta Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send]]></title>
+        <id>609414f32cd0545b5e943526</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/"/>
+        <updated>2021-05-13T21:19:40.000Z</updated>
+        <summary type="html"><![CDATA[If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly’s Prometheus Metrics]]></title>
+        <id>https://fly.io/blog/measuring-fly/</id>
+        <link href="https://fly.io/blog/measuring-fly/"/>
+        <updated>2021-05-13T21:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack is hiring engineers to build a better business model for writing]]></title>
+        <id>https://substack.com/jobs</id>
+        <link href="https://substack.com/jobs"/>
+        <updated>2021-05-13T21:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new era of personalised medicine: or how I got myself sequenced for free]]></title>
+        <id>https://souradip.mookerj.ee/blog/free-sequencing</id>
+        <link href="https://souradip.mookerj.ee/blog/free-sequencing"/>
+        <updated>2021-05-13T20:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be a better Java developer, learn faster and get more results by Bruno Souza]]></title>
+        <id>https://dzone.com/articles/3122920</id>
+        <link href="https://dzone.com/articles/be-a-better-java-developer-learn-faster-and-get-mo"/>
+        <updated>2021-05-13T20:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Struggling to keep up with technology, or feeling overwhelmed with so many things to learn? Do you feel you are a competent developer, but you don't see the results in your career? Maybe you feel like you don't belong or that you are not good enough? Those are common symptoms, you are not alone! This talk will show you what's behind those feelings, why you can't keep up, and how to solve that. Come learn what the last 10 years of brain science have shown about our career and what the best developers do diff…]]></summary>
+        <author>
+            <name>Otavio Santana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects]]></title>
+        <id>609952396008950828b3ea8d</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-testing/"/>
+        <updated>2021-05-13T19:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor]]></title>
+        <id>https://fingerprintjs.com/blog/external-protocol-flooding/</id>
+        <link href="https://fingerprintjs.com/blog/external-protocol-flooding/"/>
+        <updated>2021-05-13T18:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous Configuration Essentials]]></title>
+        <id>https://dzone.com/refcardz/3124720</id>
+        <link href="https://dzone.com/refcardz/continuous-configuration-essentials"/>
+        <updated>2021-05-13T18:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Continuous configuration occurs when a configuration platform is used to automate, monitor, design, and manage otherwise manual processes, which are essential components of improving the overall efficiency and success of your team's SDLC. There are several areas to prioritize in a continuous configuration methodology — the right tools for building a continuous deployment pipeline, effective pipeline maintenance and management, and, of course, widespread automation.
+
+In addition to covering key benefits of c…]]></summary>
+        <author>
+            <name>Melissa Habit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous Configuration Essentials]]></title>
+        <id>https://dzone.com/refcardz/3124720</id>
+        <link href="https://dzone.com/refcardz/continuous-configuration-essentials"/>
+        <updated>2021-05-13T18:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Continuous configuration occurs when a configuration platform is used to automate, monitor, design, and manage otherwise manual processes, which are essential components of improving the overall efficiency and success of your team's SDLC. There are several areas to prioritize in a continuous configuration methodology — the right tools for building a continuous deployment pipeline, effective pipeline maintenance and management, and, of course, widespread automation.
+
+In addition to covering key benefits of c…]]></summary>
+        <author>
+            <name>Melissa Habit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataflow, a self-hosted Observable notebook editor]]></title>
+        <id>https://observablehq.com/@asg017/introducing-dataflow</id>
+        <link href="https://observablehq.com/@asg017/introducing-dataflow"/>
+        <updated>2021-05-13T18:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Recap of the Mars Terraforming Debate]]></title>
+        <id>https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap</id>
+        <link href="https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap"/>
+        <updated>2021-05-13T18:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
+        <id>609bcc6a62ab9107fe5a9f08</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/"/>
+        <updated>2021-05-13T18:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon surveilling Americans without a warrant, Senator Wyden reveals]]></title>
+        <id>https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing</id>
+        <link href="https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing"/>
+        <updated>2021-05-13T18:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin]]></title>
+        <id>https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html</id>
+        <link href="https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html"/>
+        <updated>2021-05-13T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three things to never build yourself: auth, notifications, payments]]></title>
+        <id>https://www.courier.com/blog/the-three-things-to-never-build-in-your-app</id>
+        <link href="https://www.courier.com/blog/the-three-things-to-never-build-in-your-app"/>
+        <updated>2021-05-13T17:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?]]></title>
+        <id>https://stefanzukin.com/enigma/</id>
+        <link href="https://stefanzukin.com/enigma/"/>
+        <updated>2021-05-13T17:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion API – public beta]]></title>
+        <id>https://developers.notion.so</id>
+        <link href="https://developers.notion.so"/>
+        <updated>2021-05-13T17:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Scrum Master Success Principles]]></title>
+        <id>https://dzone.com/articles/3123711</id>
+        <link href="https://dzone.com/articles/four-scrum-master-success-principles"/>
+        <updated>2021-05-13T16:39:56.000Z</updated>
+        <summary type="html"><![CDATA[TL; DR: Four Scrum Master Success Principles
+Contrary to popular belief, the Scrum Master success principles are tangible, when we guide the analysis with an outside perspective.
+Read on and discover four Scrum Master success principles, from when not to use Scrum to product quality to supporting the Product Owner to putting self-management at the center.]]></summary>
+        <author>
+            <name>Stefan Wolpers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills]]></title>
+        <id>609ccb0d62ab9107fe5aa0ce</id>
+        <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
+        <updated>2021-05-13T16:25:03.000Z</updated>
+        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Handcuffs]]></title>
+        <id>https://avc.com/2021/05/golden-handcuffs-2/</id>
+        <link href="https://avc.com/2021/05/golden-handcuffs-2/"/>
+        <updated>2021-05-13T16:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Ditto (YC W20) – Keep product text in sync from design to production]]></title>
+        <id>https://news.ycombinator.com/item?id=27142930</id>
+        <link href="https://news.ycombinator.com/item?id=27142930"/>
+        <updated>2021-05-13T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Memory athletes" and the techniques they use [audio]]]></title>
+        <id>https://www.bbc.co.uk/programmes/m000tmm1</id>
+        <link href="https://www.bbc.co.uk/programmes/m000tmm1"/>
+        <updated>2021-05-13T14:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colonial Pipeline Paid Hackers Nearly $5M in Ransom]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom"/>
+        <updated>2021-05-13T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=340036</id>
+        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+        <updated>2021-05-13T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
+The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
+        <id>https://css-tricks.com/?p=340118</id>
+        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
+        <updated>2021-05-13T14:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
+The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a platform to publish my Google Docs files as blogs]]></title>
+        <id>https://hexo.press</id>
+        <link href="https://hexo.press"/>
+        <updated>2021-05-13T13:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Learn Python the Right Way – free introduction to Python book]]></title>
+        <id>https://learnpythontherightway.com</id>
+        <link href="https://learnpythontherightway.com"/>
+        <updated>2021-05-13T13:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[By eating them, hyenas gathered 9 Neanderthal skeletons in one cave]]></title>
+        <id>https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/</id>
+        <link href="https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/"/>
+        <updated>2021-05-13T12:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lets Lisp like it's 1959 (2019) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=hGY3uBHVVr4</id>
+        <link href="https://www.youtube.com/watch?v=hGY3uBHVVr4"/>
+        <updated>2021-05-13T12:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting started with edge development on Linux using open source]]></title>
+        <id>https://dzone.com/articles/3124645</id>
+        <link href="https://dzone.com/articles/getting-started-with-edge-development-on-linux-usi"/>
+        <updated>2021-05-13T12:25:24.000Z</updated>
+        <summary type="html"><![CDATA[There are many reasons why Linux is such a popular platform for processing Internet of Things (IoT) edge applications. A major one is a transparency. Linux security capabilities are built on open source projects, giving users a transparent view of security risks and threats and enables them to apply fixes quickly with security module patches or kernel-level updates. Another Linux advantage is that developers can choose from various programming languages to develop, test, and run device communications over v…]]></summary>
+        <author>
+            <name>Daniel Oh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 3 drops IE11 support plan]]></title>
+        <id>https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md</id>
+        <link href="https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md"/>
+        <updated>2021-05-13T11:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I learnt roasting 200 landing pages]]></title>
+        <id>https://blog.roastmylandingpage.com/landing-page-roasts/</id>
+        <link href="https://blog.roastmylandingpage.com/landing-page-roasts/"/>
+        <updated>2021-05-13T10:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster CPython Ideas – Issue Tracker for Faster CPython Project]]></title>
+        <id>https://github.com/faster-cpython/ideas</id>
+        <link href="https://github.com/faster-cpython/ideas"/>
+        <updated>2021-05-13T10:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Data and R2DBC by Example]]></title>
+        <id>https://dzone.com/articles/3119430</id>
+        <link href="https://dzone.com/articles/spring-data-and-r2dbc-by-example"/>
+        <updated>2021-05-13T08:01:18.000Z</updated>
+        <summary type="html"><![CDATA[R2DBC&nbsp;is a project that enables us to develop reactive programs API with relational databases, as we can do with databases that natively offer reactive drivers, like for example, Mongo or Cassandra.
+Spring Data R2DBC is an abstraction of Spring to use repositories that support R2DBC and allows us a functional approach to interact with a relational database.]]></summary>
+        <author>
+            <name>moises zapata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Mistakes to Avoid When Implementing DevOps]]></title>
+        <id>https://dzone.com/articles/3120391</id>
+        <link href="https://dzone.com/articles/four-mistakes-to-avoid-when-implementing-devops"/>
+        <updated>2021-05-13T07:46:44.000Z</updated>
+        <summary type="html"><![CDATA[While many companies are starting to reap the benefits of DevOps, there are also a number of pitfalls companies might step in resulting in a lack of business outcome.
+Before digging into the mistakes we tend to see in the market, I want to give you a small primer.]]></summary>
+        <author>
+            <name>Soren Pedersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lisperati1000 is a cyberdeck terminal dedicated to Lisp programming]]></title>
+        <id>https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff</id>
+        <link href="https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff"/>
+        <updated>2021-05-13T07:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intention, Inertia, and Introspection]]></title>
+        <id>https://dzone.com/articles/3120196</id>
+        <link href="https://dzone.com/articles/intention-inertia-and-introspection"/>
+        <updated>2021-05-13T07:15:18.000Z</updated>
+        <summary type="html"><![CDATA[The best tech leaders I’ve seen and who remain remarkable over the years are those who are never "done." They evolve, learn, experiment, and change their minds routinely. The constant need to undergo personal growth is both the most fascinating thing about leadership and a source of anxiety and fatigue. It can feel like a never-ending struggle where you can’t stop. Issues and problems keep piling on your plate, and what used to work for you last year no longer seems to be cutting it.&nbsp;
+I’ve seen this st…]]></summary>
+        <author>
+            <name>Aviv Ben-yosef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Arduino's New Oplà Kit to Read Remote Sensors and Display the Data in Your Home]]></title>
+        <id>https://dzone.com/articles/3123599</id>
+        <link href="https://dzone.com/articles/how-to-build-a-robust-iot-prototype-in-less-than-a-2"/>
+        <updated>2021-05-13T05:57:12.000Z</updated>
+        <summary type="html"><![CDATA[(Click here for Part 1 and Part 2)&nbsp;
+Recently, I received the new Arduino Oplà&nbsp;Kit  for testing. To try it out, I decided to create an IoT project with multiple environmental sensors that remotely collect data, then report that data over the cloud and back to my home IoT device. It sounds complicated, but the setup was easy, and it allows for many advanced customizations in the future.]]></summary>
+        <author>
+            <name>Luca Cipriani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of Making Debts: Accounting for an Obsession in 19th-Century France]]></title>
+        <id>https://publicdomainreview.org/essay/the-art-of-making-debts</id>
+        <link href="https://publicdomainreview.org/essay/the-art-of-making-debts"/>
+        <updated>2021-05-13T05:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Flutter Barcode Scanner From Scratch]]></title>
+        <id>https://dzone.com/articles/3120137</id>
+        <link href="https://dzone.com/articles/how-to-implement-flutter-barcode-scanner-from-scra"/>
+        <updated>2021-05-13T04:49:13.000Z</updated>
+        <summary type="html"><![CDATA[About two years ago, I wrote an article sharing how to build a Flutter barcode plugin with Dynamsoft Barcode Reader step by step. At that time, Flutter was still under development and only supported Android and iOS. Nowadays, Google has released Flutter 2, which allows developers to build apps for mobile, web, and desktop from a single codebase. If you want to build cross-platform apps, it is worth putting much effort into Flutter from now on. Since the new Flutter is not compatible with the old one, I deci…]]></summary>
+        <author>
+            <name>Xiao Ling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Mesh: Defining a New Data Architecture Paradigm With Zhamak Dehghani [Podcast]]]></title>
+        <id>https://dzone.com/articles/3122757</id>
+        <link href="https://dzone.com/articles/data-mesh-defining-a-new-data-architecture-paradig"/>
+        <updated>2021-05-13T04:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Becoming data-driven is one of the many key goals that companies today are striving towards. By empowering their employees and stakeholders with data, organizations can foster insightful decision-making and create a competitive advantage. But how can we effectively achieve this and unlock the full potential of our data? Our guest for today may have the answer.
+In this episode of&nbsp;Cocktails, we’re joined by the creator of the Data Mesh who shares with us her journey on how she came up with the concept an…]]></summary>
+        <author>
+            <name>David Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Security Weekly: Issue #133]]></title>
+        <id>https://dzone.com/articles/3122853</id>
+        <link href="https://dzone.com/articles/api-security-weekly-issue-133"/>
+        <updated>2021-05-13T04:21:43.000Z</updated>
+        <summary type="html"><![CDATA[This week, we take a look at the API vulnerabilities discovered at Peloton, how India is locking down the APIs for their COVID vaccination portal, how API contracts can be generated from .NET code, and what API security sessions the upcoming RSA Conference (RSAC) offers.
+Vulnerability: Peloton
+Peloton is a producer of popular treadmills and stationary bicycles, as wells as a subscription service for training on the equipment. Jan Masters from Pen Test Partners found that the APIs behind the service were hig…]]></summary>
+        <author>
+            <name>Dmitry Sotnikov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wake Turbulence from a Paper Airplane (2020) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=jYbRARW9q2s</id>
+        <link href="https://www.youtube.com/watch?v=jYbRARW9q2s"/>
+        <updated>2021-05-13T02:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JWT should not be your default for sessions]]></title>
         <id>https://evertpot.com/jwt-is-a-bad-default/</id>
@@ -269,6 +829,16 @@ We have seen creating Threads and make use of Executor Framework for the Thread 
         <id>https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/</id>
         <link href="https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/"/>
         <updated>2021-05-12T19:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting High-Speed Rail Wrong]]></title>
+        <id>https://pedestrianobservations.com/2021/05/12/randal-otoole-gets-high-speed-rail-wrong/</id>
+        <link href="https://pedestrianobservations.com/2021/05/12/randal-otoole-gets-high-speed-rail-wrong/"/>
+        <updated>2021-05-12T19:06:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -2297,26 +2867,6 @@ This Refcard dives into how a data lake helps tackle these challenges at both en
         <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overflow Issues In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/04/css-overflow-issues/</id>
-        <link href="https://smashingmagazine.com/2021/04/css-overflow-issues/"/>
-        <updated>2021-04-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Video Streaming App With Nuxt.js, Node And Express]]></title>
-        <id>https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</id>
-        <link href="https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/"/>
-        <updated>2021-04-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Deven Rathore)</name>
         </author>
     </entry>
 </feed>
