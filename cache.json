@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 1881,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 749,
+          "title": "HTML Boilerplates"
+        },
+        {
           "id": "https://css-tricks.com/?p=340490",
           "author": "Chris Coyier",
           "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -229,6 +256,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
+          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "publishedOn": "2021-05-14T10:30:00.000Z",
+          "wordCount": 2393,
+          "title": "Tree-Shaking: A Reference Guide"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
@@ -434,24 +470,6 @@
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "author": "hello@smashingmagazine.com (Stephen Roe)",
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "title": "How To Get Web Design Clients Fast (Part 2)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
         }
       ]
     },
@@ -460,6 +478,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "609d63e962ab9107fe5aa2ce",
+          "author": "",
+          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
+          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
+          "publishedOn": "2021-05-14T20:31:30.000Z",
+          "wordCount": 1293,
+          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+        },
+        {
+          "id": "609ea83362ab9107fe5aa920",
+          "author": "",
+          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
+          "publishedOn": "2021-05-14T20:17:37.000Z",
+          "wordCount": 3252,
+          "title": "React for Beginners: Complete React Cheatsheet for 2021"
+        },
+        {
+          "id": "609e8c2162ab9107fe5aa77d",
+          "author": "",
+          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
+          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
+          "publishedOn": "2021-05-14T17:13:14.000Z",
+          "wordCount": 1598,
+          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+        },
         {
           "id": "609414f32cd0545b5e943526",
           "author": "",
@@ -708,6 +753,42 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3124776",
+          "author": "Daniel Oh",
+          "description": "The serverless journey started with functions - small snippets of code running on-demand and a short period in Figure 1. &nbsp;AWS Lambda in the “1.0” phase made this paradigm very popular, but it had its limitations around execution time, protocols, and poor local development experience.&nbsp;\nSince then, developers realized that the same serverless traits and benefits could be applied to microservices and Linux containers. This leads us into what we're calling the “1.5” phase in Figure 1. &nbsp;Some serve…",
+          "link": "https://dzone.com/articles/getting-started-with-java-serverless-functions-usi",
+          "publishedOn": "2021-05-14T12:36:35.000Z",
+          "wordCount": 1082,
+          "title": "Getting started with Java Serverless Functions using Quarkus and AWS Lambda"
+        },
+        {
+          "id": "https://dzone.com/articles/3122547",
+          "author": "Ruchi Jain",
+          "description": "Many large healthcare organizations are adopting RPA leading to digitalization which can lead to healthy competition between medical services. The use of disruptive science and technology can make the healthcare industry more efficient. Using RPA can perfectly automate the query tasks of Electronic Health Record data, partner ecosystem, financial and accounting systems, and payment personnel letter, thereby reducing the workload of medical personnel.\nIn different industries, RPA is considered to be an explo…",
+          "link": "https://dzone.com/articles/rpa-use-cases-in-the-field-of-healthcare-14",
+          "publishedOn": "2021-05-14T02:34:33.000Z",
+          "wordCount": 1148,
+          "title": "RPA Use Cases in The Field of Healthcare"
+        },
+        {
+          "id": "https://dzone.com/articles/3124777",
+          "author": "Fernando Moitinho",
+          "description": "We don't really think about this much, but the fact is applications are just empty shells without integration. That's because we live in a highly competitive world where, in order to become a leader, organizations need a differentiator that sets them apart. That could mean presenting new services, better user experience, different approaches for different audiences, finding new channels to convey their message, keeping their audience engaged in a consistent manner, and more.\nAn effective \"digital presence\" …",
+          "link": "https://dzone.com/articles/application-integration-the-ever-growing-need-to-i",
+          "publishedOn": "2021-05-14T01:04:38.000Z",
+          "wordCount": 1086,
+          "title": "Application Integration: The Ever-Growing Need to Integrate With Everything"
+        },
+        {
+          "id": "https://dzone.com/articles/3120366",
+          "author": "Sherlock Xu",
+          "description": "As you create resources in a Kubernetes cluster, you may have encountered the following scenarios:\n \n \nNo CPU requests or low CPU requests specified for workloads, which means more Pods “seem” to be able to work on the same node. During traffic bursts, your CPU is maxed out with a longer delay while some of your machines may have a CPU soft lockup.\n \n \nLikewise, no memory requests or low memory requests specified for workloads. Some Pods, especially those running Java business apps, will keep restarting whi…",
+          "link": "https://dzone.com/articles/dive-deep-into-resource-requests-and-limits-in-kub",
+          "publishedOn": "2021-05-14T00:26:47.000Z",
+          "wordCount": 3259,
+          "title": "Dive Deep Into Resource Requests and Limits in Kubernetes"
+        },
         {
           "id": "https://dzone.com/articles/3123342",
           "author": "Istvan Szegedi",
@@ -1390,6 +1471,276 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
+          "publishedOn": "2021-05-15T00:03:01.000Z",
+          "wordCount": 529,
+          "title": "The Return of Fancy Tools"
+        },
+        {
+          "id": "https://rodencrater.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rodencrater.com/",
+          "publishedOn": "2021-05-14T23:27:21.000Z",
+          "wordCount": 77,
+          "title": "Roden Crater"
+        },
+        {
+          "id": "https://jerseyfonseca.com/blogs/wewatchgrowth",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jerseyfonseca.com/blogs/wewatchgrowth",
+          "publishedOn": "2021-05-14T22:22:43.000Z",
+          "wordCount": null,
+          "title": "I got 22k app downloads in one weekend with a $0 budget"
+        },
+        {
+          "id": "https://desk.glitchy.website",
+          "author": null,
+          "description": "Comments",
+          "link": "https://desk.glitchy.website",
+          "publishedOn": "2021-05-14T21:45:13.000Z",
+          "wordCount": 90,
+          "title": "Show HN: A Windows 7 web desktop recreation"
+        },
+        {
+          "id": "https://github.com/ec-/Quake3e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ec-/Quake3e",
+          "publishedOn": "2021-05-14T21:29:34.000Z",
+          "wordCount": 1305,
+          "title": "Quake3e, a modern Quake III Arena engine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27159629",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27159629",
+          "publishedOn": "2021-05-14T21:00:29.000Z",
+          "wordCount": 100,
+          "title": "MagicBus (YC W16) Is Hiring Front End/Back End/DevOps"
+        },
+        {
+          "id": "https://secret.club/2021/05/13/source-engine-rce-join.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://secret.club/2021/05/13/source-engine-rce-join.html",
+          "publishedOn": "2021-05-14T20:13:46.000Z",
+          "wordCount": 2586,
+          "title": "Counter-Strike Global Offsets: reliable remote code execution"
+        },
+        {
+          "id": "https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/",
+          "publishedOn": "2021-05-14T19:17:57.000Z",
+          "wordCount": 1181,
+          "title": "Study in zebrafish examines how tumors alter whole-body metabolism"
+        },
+        {
+          "id": "https://www.hyperion-entertainment.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hyperion-entertainment.com/",
+          "publishedOn": "2021-05-14T18:53:21.000Z",
+          "wordCount": 1405,
+          "title": "AmigaOS 3.2"
+        },
+        {
+          "id": "http://www.paulgraham.com/corpdev.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.paulgraham.com/corpdev.html",
+          "publishedOn": "2021-05-14T18:38:50.000Z",
+          "wordCount": 1275,
+          "title": "Don't Talk to Corp Dev (2015)"
+        },
+        {
+          "id": "https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.bl.uk/sound-and-vision/2018/04/an-elegant-sufficiency-or-the-curious-case-of-a-victorian-meme.html",
+          "publishedOn": "2021-05-14T18:23:42.000Z",
+          "wordCount": 1057,
+          "title": "An Elegant Sufficiency, or the Curious Case of a Victorian Meme (2018)"
+        },
+        {
+          "id": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
+          "publishedOn": "2021-05-14T17:39:15.000Z",
+          "wordCount": null,
+          "title": "Overcoming Tab Overload"
+        },
+        {
+          "id": "https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/",
+          "publishedOn": "2021-05-14T17:37:27.000Z",
+          "wordCount": 3629,
+          "title": "Forth: Stack-Manipulation Operators"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-021-01299-y",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-021-01299-y",
+          "publishedOn": "2021-05-14T17:17:27.000Z",
+          "wordCount": 1370,
+          "title": "Delaying a Covid vaccine’s second dose boosts immune response"
+        },
+        {
+          "id": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
+          "publishedOn": "2021-05-14T16:28:21.000Z",
+          "wordCount": 265,
+          "title": "A URL Lengthener"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
+          "publishedOn": "2021-05-14T15:47:30.000Z",
+          "wordCount": 2049,
+          "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
+        },
+        {
+          "id": "https://bfi.uchicago.edu/working-paper/2021-56/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
+          "publishedOn": "2021-05-14T13:58:39.000Z",
+          "wordCount": 362,
+          "title": "Work from Home and Productivity"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154309",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27154309",
+          "publishedOn": "2021-05-14T13:52:58.000Z",
+          "wordCount": 4234,
+          "title": "Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies"
+        },
+        {
+          "id": "https://news.yahoo.com/online-mug-shots-forever-states-181700675.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.yahoo.com/online-mug-shots-forever-states-181700675.html",
+          "publishedOn": "2021-05-14T13:04:57.000Z",
+          "wordCount": 3844,
+          "title": "Online, mug shots are forever – some states want to change that"
+        },
+        {
+          "id": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
+          "publishedOn": "2021-05-14T11:57:05.000Z",
+          "wordCount": 1600,
+          "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
+        },
+        {
+          "id": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
+          "publishedOn": "2021-05-14T11:01:06.000Z",
+          "wordCount": 886,
+          "title": "Rust Weird Expressions"
+        },
+        {
+          "id": "https://elderguide.com/tech/elderjs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://elderguide.com/tech/elderjs/",
+          "publishedOn": "2021-05-14T10:38:29.000Z",
+          "wordCount": 12943,
+          "title": "Elder.js – An Opinionated, SEO Focused, Svelte Framework"
+        },
+        {
+          "id": "http://antirez.com/news/135",
+          "author": null,
+          "description": "Comments",
+          "link": "http://antirez.com/news/135",
+          "publishedOn": "2021-05-14T09:56:38.000Z",
+          "wordCount": 795,
+          "title": "Programming and Writing"
+        },
+        {
+          "id": "https://commoncog.com/blog/highest-order-bit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://commoncog.com/blog/highest-order-bit/",
+          "publishedOn": "2021-05-14T09:49:12.000Z",
+          "wordCount": 1888,
+          "title": "Prioritise the Highest Order Bit"
+        },
+        {
+          "id": "https://github.com/AkihiroSuda/lima/tree/master",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/AkihiroSuda/lima/tree/master",
+          "publishedOn": "2021-05-14T08:19:47.000Z",
+          "wordCount": 1626,
+          "title": "Lima: Linux-on-Mac"
+        },
+        {
+          "id": "https://github.com/antonlopezr/mpl_plotter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/antonlopezr/mpl_plotter",
+          "publishedOn": "2021-05-14T08:14:45.000Z",
+          "wordCount": 3568,
+          "title": "Show HN: MPL Plotter – Python library to make technical plots more efficiently"
+        },
+        {
+          "id": "https://fruct.org/publications/fruct29/files/Nam.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fruct.org/publications/fruct29/files/Nam.pdf",
+          "publishedOn": "2021-05-14T08:05:00.000Z",
+          "wordCount": 18262,
+          "title": "On the New Architecture of Location-Based Services [pdf]"
+        },
+        {
+          "id": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/",
+          "publishedOn": "2021-05-14T07:03:02.000Z",
+          "wordCount": 1551,
+          "title": "Baseline implementations should be predictable"
+        },
+        {
+          "id": "http://jellyandmarshmallows.co.uk/blog/projects/paper-aeroplane-wind-tunnel/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://jellyandmarshmallows.co.uk/blog/projects/paper-aeroplane-wind-tunnel/",
+          "publishedOn": "2021-05-14T06:50:31.000Z",
+          "wordCount": null,
+          "title": "Paper Aeroplane Wind Tunnel"
+        },
+        {
+          "id": "https://www.historytoday.com/miscellanies/spanish-witches-cartagena",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/miscellanies/spanish-witches-cartagena",
+          "publishedOn": "2021-05-14T06:32:29.000Z",
+          "wordCount": 1728,
+          "title": "The Spanish Witches of Cartagena"
+        },
         {
           "id": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13",
           "author": null,
