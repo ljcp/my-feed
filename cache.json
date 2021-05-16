@@ -461,15 +461,6 @@
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "author": "hello@smashingmagazine.com (Emma Bostian)",
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         }
       ]
     },
@@ -753,6 +744,168 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3123015",
+          "author": "Rahul Rai",
+          "description": "In This Series:\n \n \n \n  \nDistributed Tracing With Jaeger\n \n  \nSimplifying the Setup With Tye (this article)\n \n \n \n \n \n \nTye is an experimental dotnet tool from Microsoft that aims to make developing, testing, and deploying microservices easier. Tye's opinionated nature greatly simplifies the lifecycle of development and deployment of .NET Core microservices.\n \n \nTo understand the benefits of Tye, let's enumerate the steps involved in the development and deployment of the DCalculator application to Kubernete…",
+          "link": "https://dzone.com/articles/distributed-tracing-in-aspnet-core-with-jaeger-and-1",
+          "publishedOn": "2021-05-16T00:04:15.000Z",
+          "wordCount": 2441,
+          "title": "Distributed Tracing in ASP.NET Core With Jaeger and Tye, Part 2: Project Tye"
+        },
+        {
+          "id": "https://dzone.com/articles/3124758",
+          "author": "Himanshu Sheth",
+          "description": "Selenium WebDriver is among one of the most popular tools when it comes to Web UI automation. The Selenium framework can be used with a wide range of programming languages such as Python, Java, C#, and more. As per the Stack Overflow Developer Survey, Python is the third-most loved programming language with 66.7%. It is also the most wanted programming language. So if you’re planning to perform test automation with Selenium and Python, you’re at the right place!\nIn this detailed Selenium Python tutorial, we…",
+          "link": "https://dzone.com/articles/how-to-set-up-selenium-with-python-for-modern-web",
+          "publishedOn": "2021-05-15T21:28:19.000Z",
+          "wordCount": 3804,
+          "title": "How to Set Up Selenium With Python for Modern Web Automation"
+        },
+        {
+          "id": "https://dzone.com/articles/3117086",
+          "author": "Vijay Thakare",
+          "description": "Why Message Queue? \n\nIn the days of monolithic architecture, application components were tightly coupled, which means they were directly connected.",
+          "link": "https://dzone.com/articles/message-queue-rabbit-mq-beginners-introduction",
+          "publishedOn": "2021-05-15T21:15:28.000Z",
+          "wordCount": 1132,
+          "title": "Message Queue (Rabbit MQ): A Beginners Introduction"
+        },
+        {
+          "id": "https://dzone.com/articles/3115021",
+          "author": "Naimish Kakkad",
+          "description": "As part of this article, let's deep dive into Continuous Integration and Continuous Delivery with the AnyPoint Platform, CloudHub.\nBefore we begin to understand CICD in CloudHub, let's first touch base on a few jargon terms used in this article.",
+          "link": "https://dzone.com/articles/deep-dive-on-continuous-integration-and-continuous-1",
+          "publishedOn": "2021-05-15T20:49:02.000Z",
+          "wordCount": 707,
+          "title": "A Deep Dive on Continuous Integration and Continuous Delivery: Part 1"
+        },
+        {
+          "id": "https://dzone.com/articles/3123580",
+          "author": "Himanshu Sheth",
+          "description": "Cross-browser testing has become an integral part of the test process to ensure the product experience and behavior remain consistent across different combinations of web browsers, devices, and operating systems. As testing has to be performed on varied combinations, it can lead to code duplication as a lot of test methods will be doing the same thing but on different input combinations. I have come across many such situations during the code optimization process when I felt that a part of the code is eithe…",
+          "link": "https://dzone.com/articles/nunit-tutorial-parameterized-tests-with-examples",
+          "publishedOn": "2021-05-15T20:38:06.000Z",
+          "wordCount": 3899,
+          "title": "NUnit Tutorial: Parameterized Tests With Examples"
+        },
+        {
+          "id": "https://dzone.com/articles/3123014",
+          "author": "Niranjan Limbachiya",
+          "description": "Microservices, or generally called microservice architecture, the architectural platforms that come out from the world of continuous development, scalable systems, decoupled applications, and polyglot programming. It segregates the platform with the aid of service boundaries, which makes it simpler to employ and manage each service individually. As every component is independent of each other, adding up advanced features or scaling solutions becomes a lot effective and easier.\nCore Features of Microservices…",
+          "link": "https://dzone.com/articles/performance-testing-of-microservices",
+          "publishedOn": "2021-05-15T20:18:06.000Z",
+          "wordCount": 1474,
+          "title": "Performance Testing of Microservices"
+        },
+        {
+          "id": "https://dzone.com/articles/3116955",
+          "author": "Blockchian X",
+          "description": "Cryptocurrencies are the newest form of digital money and exist in a distributed form on decentralized blockchains around the world.\nToken cryptocurrency iconTokens on the other hand represent an asset or utility. They are transferable goods and can represent coins, loyalty points, assets in a game, etc. They can even be redeemed for a service that an issuer will provide at a later date.",
+          "link": "https://dzone.com/articles/what-is-the-difference-between-a-cryptocurrency-an",
+          "publishedOn": "2021-05-15T20:16:21.000Z",
+          "wordCount": 1012,
+          "title": "What Is the Difference Between a Cryptocurrency and a Token?"
+        },
+        {
+          "id": "https://dzone.com/articles/3122911",
+          "author": "Kai Wähner",
+          "description": "Apache Kafka and MQTT are a perfect combination for many IoT use cases. This blog series covers the pros and cons of both technologies. Various use cases across industries, including connected vehicles, manufacturing, mobility services, and smart city are explored. The examples use different architectures, including lightweight edge scenarios, hybrid integrations, and serverless cloud solutions. This post is part five: Smart City and 5G.\nApache Kafka + MQTT Blog Series",
+          "link": "https://dzone.com/articles/apache-kafka-and-mqtt-part-5-of-5-smart-city-and-5",
+          "publishedOn": "2021-05-15T19:46:00.000Z",
+          "wordCount": 1465,
+          "title": "Apache Kafka and MQTT (Part 5 of 5): Smart City and 5G"
+        },
+        {
+          "id": "https://dzone.com/articles/3123790",
+          "author": "Ivan Petrenko",
+          "description": "A web form is probably the main communication channel between a user and a web application. It commonly serves for gathering important information from end-users that can trigger updates on the client-side or be stored in the database on the server-side. Poorly designed or confusing forms can cause a lot of inconvenience to end-users and application owners. Therefore, it is necessary to pay serious attention to the proper implementation of forms and their features such as labels, notifications, validation r…",
+          "link": "https://dzone.com/articles/overview-of-javascript-form-widgets",
+          "publishedOn": "2021-05-15T19:27:33.000Z",
+          "wordCount": 1627,
+          "title": "Overview of JavaScript Form Widgets"
+        },
+        {
+          "id": "https://dzone.com/articles/3114579",
+          "author": "Tim Spann",
+          "description": "Cloudera SQL Stream Builder (SSB)\n\nThe initial release of Cloudera SQL Stream Builder as part of the CSA 1.3.0 release of Apache Flink and friends from Cloudera shows an integrated environment well integrated into Cloudera's Data Platform. SSB is an improved release of Eventador's SQL Stream Builder with integration into Cloudera Manager, Cloudera Flink, and other streaming tools.",
+          "link": "https://dzone.com/articles/introducing-cloudera-sql-stream-builder-ssb",
+          "publishedOn": "2021-05-15T19:04:41.000Z",
+          "wordCount": 982,
+          "title": "Introducing Cloudera SQL Stream Builder (SSB)"
+        },
+        {
+          "id": "https://dzone.com/articles/3122886",
+          "author": "Nicolas Fränkel",
+          "description": "An in-memory data grid (IMDG) is a set of networked/clustered computers that pool together their random access memory (RAM) to let applications share data with other applications running in the cluster. Though IMDGs are sometimes generically described as a distributed in-memory data store, IMDGs offer more than just storage. IMDGs are built for data processing at extremely high speeds. They are designed for building and running large-scale applications that need more RAM than is typically available in a sin…",
+          "link": "https://dzone.com/articles/querying-your-imdg",
+          "publishedOn": "2021-05-15T18:46:28.000Z",
+          "wordCount": 2244,
+          "title": "Querying Your In-Memory-Data-Grid"
+        },
+        {
+          "id": "https://dzone.com/articles/3123002",
+          "author": "Alexsandro Souza",
+          "description": "Technical debt is widely used and discussed within engineering teams. However, in people's mind, it looks like it accumulates because of some nasty, dirty practices.\nTechnical debt piles up even when you work with the best engineers and follow the best practices.",
+          "link": "https://dzone.com/articles/have-you-ever-reflected-on-technical-debt",
+          "publishedOn": "2021-05-15T18:06:00.000Z",
+          "wordCount": 486,
+          "title": "Have You Ever Reflected on Technical Debt?"
+        },
+        {
+          "id": "https://dzone.com/articles/3123767",
+          "author": "Amit Nijhawan",
+          "description": "Introduction\nTesting an asset is a crucial phase for most human activities. As humans, we are able to define very complex algorithms and to design intricate domains with several different possible states. There are no boundaries on what we can create and design. On the other side, as humans, we make mistakes. It represents the main friction to our creativity. Usually, during a creative activity, questions like the following may arise:\nAm I doing it correctly?\nAm I considering all reachable status?\nAm I cons…",
+          "link": "https://dzone.com/articles/how-to-use-test-scenario-editor-to-test-your-dmn-a",
+          "publishedOn": "2021-05-15T17:57:38.000Z",
+          "wordCount": 1658,
+          "title": "How to Use Test Scenario Editor to Test Your DMN Asset in VSCode"
+        },
+        {
+          "id": "https://dzone.com/articles/3122921",
+          "author": "James Konik",
+          "description": "If you’re selling products online, there’s a good chance you’re using a one-size-fits-all platform. These platforms offer many advantages but they also have limitations. If you want to move beyond these limitations, microservices can help.\nShopify Plus is a one-size-fits-all platform that allows you to use headless systems while retaining most of its features. So if you already have a Shopify Plus setup, you can keep the frontend and migrate the backend to a microservices-based alternative for more flexibil…",
+          "link": "https://dzone.com/articles/moving-from-shopify-plus-to-microservices-based-co",
+          "publishedOn": "2021-05-15T17:36:09.000Z",
+          "wordCount": 1820,
+          "title": "Moving From Shopify Plus to Microservices-Based Commerce"
+        },
+        {
+          "id": "https://dzone.com/articles/3124811",
+          "author": "Vinita Bansal",
+          "description": "Work-life balance is always a struggle at every stage of our life. When we are just starting out, we put all our energy and waking hours into our career to prove ourselves, and then as we grow and take on more responsibilities, we continue to invest more and more time into our work. \nThoughts about unfulfilled personal commitments keep us distracted at work and when at home, our mind is still occupied with work. The desire to advance our career and the guilt of not pursuing other goals that add meaning to o…",
+          "link": "https://dzone.com/articles/how-to-make-work-life-balance-work",
+          "publishedOn": "2021-05-15T17:13:50.000Z",
+          "wordCount": 4022,
+          "title": "How to Make Work-Life Balance Work"
+        },
+        {
+          "id": "https://dzone.com/articles/3120642",
+          "author": "Raymond Camden",
+          "description": "I’ve been having a fun time playing around with our Adobe Document Generation API service (be sure to see my intro and follow up on complex conditional logic). It provides an easy-to-use API for generating PDFs and Microsoft Word docs based on a template and your data. Today I’m going to give you a deep dive into another topic — formatting.\nWhen I talk about formatting, I’m talking about ways to display information nicer in your documents. Imagine for a moment the following text in your Microsoft Word docum…",
+          "link": "https://dzone.com/articles/formatting-tips-and-tricks-for-adobe-document-gene",
+          "publishedOn": "2021-05-15T16:02:04.000Z",
+          "wordCount": 1521,
+          "title": "Formatting Tips and Tricks for Adobe Document Generation API"
+        },
+        {
+          "id": "https://dzone.com/articles/3124589",
+          "author": "Denis Jannot",
+          "description": "Gloo Edge is our Kubernetes native API gateway based on Envoy.\nIt provides authentication (with OAuth, JWT, API keys, and JWT), authorization (with OPA or custom approaches), a Web Application Firewall (based on ModSecurity), function discovery (with OpenAPI and AWS Lambda), advanced transformations, and much more.",
+          "link": "https://dzone.com/articles/kubernetes-native-gateway-series-part-2-security-a",
+          "publishedOn": "2021-05-15T15:40:09.000Z",
+          "wordCount": 2123,
+          "title": "Kubernetes Native Gateway Series (Part 2): Security at Scale With Envoy"
+        },
+        {
+          "id": "https://dzone.com/articles/3122988",
+          "author": "Thomas Hansen",
+          "description": "Let me ask you a question; When was the last time you implemented Quick Sort? If you're an experienced developer, there's a 99% statistical probability of that you'll answer \"at university.\" Still, no job interview seems to be complete unless you can correctly describe the pivot value in a multiple choice type of question. Ignoring the fact of that you could probably program your calculator to answer these questions, the relevance of these types of questions is; ZIP, NADA, NOTHING, NULL!\n98% of my job as an…",
+          "link": "https://dzone.com/articles/we-need-to-talk-about-job-interview-questions",
+          "publishedOn": "2021-05-15T07:47:20.000Z",
+          "wordCount": 817,
+          "title": "We need to talk about Job Interview Questions"
+        },
         {
           "id": "https://dzone.com/articles/3124776",
           "author": "Daniel Oh",
@@ -1472,6 +1625,240 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://schoolofdecorating.com/2014/06/why-i-quit-diy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://schoolofdecorating.com/2014/06/why-i-quit-diy/",
+          "publishedOn": "2021-05-15T23:15:12.000Z",
+          "wordCount": 13023,
+          "title": "Why I Quit DIY"
+        },
+        {
+          "id": "https://jobs.lever.co/buildzoom",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-05-15T21:00:51.000Z",
+          "wordCount": 109,
+          "title": "BuildZoom (better way to build custom homes) Is hiring a Principal Engineer"
+        },
+        {
+          "id": "https://www.pagetable.com/?p=1520",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pagetable.com/?p=1520",
+          "publishedOn": "2021-05-15T19:17:45.000Z",
+          "wordCount": 2029,
+          "title": "Commodore’s Assemblers: Part 1: MOS Cross-Assembler"
+        },
+        {
+          "id": "https://til-lang.github.io/til/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://til-lang.github.io/til/",
+          "publishedOn": "2021-05-15T18:40:30.000Z",
+          "wordCount": 1973,
+          "title": "TIL: Tcl-inspired command language on top of D"
+        },
+        {
+          "id": "https://bibliogram.art",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bibliogram.art",
+          "publishedOn": "2021-05-15T18:37:11.000Z",
+          "wordCount": 142,
+          "title": "Show HN: Bibliogram – Open-source front-end for Instagram"
+        },
+        {
+          "id": "http://kai.sub.blue/en/africa.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://kai.sub.blue/en/africa.html",
+          "publishedOn": "2021-05-15T18:22:20.000Z",
+          "wordCount": 1003,
+          "title": "The True Size of Africa (2015)"
+        },
+        {
+          "id": "https://futureofcoding.org/episodes/044",
+          "author": null,
+          "description": "Comments",
+          "link": "https://futureofcoding.org/episodes/044",
+          "publishedOn": "2021-05-15T17:40:22.000Z",
+          "wordCount": 9956,
+          "title": "Making Your Own Tools"
+        },
+        {
+          "id": "https://www.bbc.com/news/stories-50435014",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/stories-50435014",
+          "publishedOn": "2021-05-15T15:49:40.000Z",
+          "wordCount": 8404,
+          "title": "Cryptoqueen: A woman scammed the world, then vanished (2019)"
+        },
+        {
+          "id": "https://github.com/parsix/parsix",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/parsix/parsix",
+          "publishedOn": "2021-05-15T15:38:43.000Z",
+          "wordCount": 3025,
+          "title": "Parsix: Parse Don't Validate"
+        },
+        {
+          "id": "https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cox.com/residential/support/cox-hotspots-with-panoramic-wifi.html",
+          "publishedOn": "2021-05-15T15:27:44.000Z",
+          "wordCount": 1459,
+          "title": "Cox Hotspots with Panoramic Wifi"
+        },
+        {
+          "id": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+          "publishedOn": "2021-05-15T15:15:57.000Z",
+          "wordCount": 1493,
+          "title": "Modern Javascript: Everything you missed over the last 10 years (2020)"
+        },
+        {
+          "id": "https://forum.nim-lang.org/t/7983",
+          "author": null,
+          "description": "Comments",
+          "link": "https://forum.nim-lang.org/t/7983",
+          "publishedOn": "2021-05-15T14:08:12.000Z",
+          "wordCount": 4,
+          "title": "Nim 2.0 thoughts"
+        },
+        {
+          "id": "https://www.pine64.org/2021/05/15/may-update-connection-established/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pine64.org/2021/05/15/may-update-connection-established/",
+          "publishedOn": "2021-05-15T14:05:19.000Z",
+          "wordCount": 5752,
+          "title": "May Update: Connection Established"
+        },
+        {
+          "id": "https://rdcu.be/ckFPK",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rdcu.be/ckFPK",
+          "publishedOn": "2021-05-15T13:59:34.000Z",
+          "wordCount": 24,
+          "title": "ML model can classify sex from retinal photograph, clinicians can't"
+        },
+        {
+          "id": "https://github.com/lana-k/sqliteviz",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/lana-k/sqliteviz",
+          "publishedOn": "2021-05-15T13:48:01.000Z",
+          "wordCount": 691,
+          "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite"
+        },
+        {
+          "id": "http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf",
+          "publishedOn": "2021-05-15T13:41:47.000Z",
+          "wordCount": 14573,
+          "title": "Multiplying Integers Using Fourier Transforms [pdf]"
+        },
+        {
+          "id": "https://icepanel.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://icepanel.io/",
+          "publishedOn": "2021-05-15T12:55:52.000Z",
+          "wordCount": 19,
+          "title": "Design structured diagrams, built to increase your team's trust in your docs"
+        },
+        {
+          "id": "https://www.rbth.com/longreads/soviet-watches/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rbth.com/longreads/soviet-watches/",
+          "publishedOn": "2021-05-15T11:55:52.000Z",
+          "wordCount": 1916,
+          "title": "Watches from the Soviet Union"
+        },
+        {
+          "id": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
+          "publishedOn": "2021-05-15T11:04:34.000Z",
+          "wordCount": 2194,
+          "title": "Was cancer less likely in a pre-industrial world?"
+        },
+        {
+          "id": "https://www.bbc.com/news/uk-england-london-56281464",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/uk-england-london-56281464",
+          "publishedOn": "2021-05-15T10:57:34.000Z",
+          "wordCount": 2623,
+          "title": "Drain brain: The secret life of a gutter enthusiast"
+        },
+        {
+          "id": "http://www.mytoos.com/main.shtml",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.mytoos.com/main.shtml",
+          "publishedOn": "2021-05-15T10:55:16.000Z",
+          "wordCount": 4892,
+          "title": "All About Cockatoos (2002)"
+        },
+        {
+          "id": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/",
+          "publishedOn": "2021-05-15T10:27:44.000Z",
+          "wordCount": 1969,
+          "title": "Things you can’t do in Rust (and what to do instead)"
+        },
+        {
+          "id": "https://midnight.pub/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://midnight.pub/",
+          "publishedOn": "2021-05-15T09:59:06.000Z",
+          "wordCount": 550,
+          "title": "The Midnight Pub"
+        },
+        {
+          "id": "https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/",
+          "publishedOn": "2021-05-15T08:11:03.000Z",
+          "wordCount": 872,
+          "title": "FLOSS and Linguistic Diversity"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/uk-england-london-56281464",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/uk-england-london-56281464",
+          "publishedOn": "2021-05-15T07:32:28.000Z",
+          "wordCount": 2624,
+          "title": "Drain-spotting: The people who keep their minds in the gutter"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ME_e06ApxJA",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=ME_e06ApxJA",
+          "publishedOn": "2021-05-15T04:26:17.000Z",
+          "wordCount": 23,
+          "title": "MicroFPGA – A coming revolution in small electronics (2019) [video]"
+        },
+        {
           "id": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
           "author": null,
           "description": "Comments",
@@ -1535,6 +1922,15 @@
           "title": "Counter-Strike Global Offsets: reliable remote code execution"
         },
         {
+          "id": "http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig",
+          "author": null,
+          "description": "Comments",
+          "link": "http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig",
+          "publishedOn": "2021-05-14T19:26:44.000Z",
+          "wordCount": 28,
+          "title": "Shirts of Peter Norvig"
+        },
+        {
           "id": "https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/",
           "author": null,
           "description": "Comments",
@@ -1542,6 +1938,24 @@
           "publishedOn": "2021-05-14T19:17:57.000Z",
           "wordCount": 1181,
           "title": "Study in zebrafish examines how tumors alter whole-body metabolism"
+        },
+        {
+          "id": "https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds",
+          "publishedOn": "2021-05-14T19:14:21.000Z",
+          "wordCount": 2078,
+          "title": "The Strangeness of Our Animal Bonds"
+        },
+        {
+          "id": "https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1",
+          "publishedOn": "2021-05-14T18:53:23.000Z",
+          "wordCount": 6424,
+          "title": "The Filing Cabinet"
         },
         {
           "id": "https://www.hyperion-entertainment.com/",
@@ -1650,6 +2064,15 @@
           "publishedOn": "2021-05-14T11:57:05.000Z",
           "wordCount": 1600,
           "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
+        },
+        {
+          "id": "https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/",
+          "publishedOn": "2021-05-14T11:55:58.000Z",
+          "wordCount": 340,
+          "title": "Apple Support: How to hear image descriptions in the Camera app"
         },
         {
           "id": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
@@ -2824,5 +3247,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
