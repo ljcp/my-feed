@@ -2,10 +2,586 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:34:19.698Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T00:30:56.260Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Are Micro-apps and Why Businesses Need Them?]]></title>
+        <id>https://dzone.com/articles/3121307</id>
+        <link href="https://dzone.com/articles/what-are-micro-apps-and-why-businesses-need-them"/>
+        <updated>2021-05-16T23:33:36.000Z</updated>
+        <summary type="html"><![CDATA[The idea behind building a mobile app has been to offer a faster, easier, and innovative experience on various devices to users, doing away with their need to browse websites. However, in a bid to stay relevant to consumers amidst competition, companies try to bundle up a million features together rather than offer a full-proof and specific solution for a certain user need. Being overwhelmed with numerous unnecessary features and functionalities, an app poses various inhibitions to a great user experience. …]]></summary>
+        <author>
+            <name>Amaan T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Customer Data Integration Best Practices]]></title>
+        <id>https://dzone.com/articles/3115142</id>
+        <link href="https://dzone.com/articles/5-customer-data-integration-best-practices"/>
+        <updated>2021-05-16T23:28:01.000Z</updated>
+        <summary type="html"><![CDATA[For the last few years, you have heard the terms "data integration" and "data management" dozens of times. Your business may already invest in these practices, but are you benefitting from this data gathering? 
+Too often, companies hire specialists, collect data from many sources and analyze it for no clear purpose. And without a clear purpose, all your efforts are in vain. You can take in more customer information than all your competitors and still fail to make practical use of it.]]></summary>
+        <author>
+            <name>Abe Dearmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Automated Data Lineage in 2021]]></title>
+        <id>https://dzone.com/articles/3119327</id>
+        <link href="https://dzone.com/articles/the-future-of-automated-data-lineage-in-2021"/>
+        <updated>2021-05-16T23:23:54.000Z</updated>
+        <summary type="html"><![CDATA[As 2021 is now upon us (finally!), businesses are gearing up their strategy based on learnings from the past year. While insights help inform future plans, such as where to place budget and effort, there is one essential tool that each company should have at its disposal. If you’ve read the title, this shouldn’t come to you as such a surprise. We’re speaking about automated data lineage. With the ability to fully understand how data flows from one place to another, data lineage allows business processes to …]]></summary>
+        <author>
+            <name>Or Hillel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Microservices Interview Questions You Must Know]]></title>
+        <id>https://dzone.com/articles/3119464</id>
+        <link href="https://dzone.com/articles/microservices-interview-questions-answers"/>
+        <updated>2021-05-16T23:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to get a job as a microservices developer? Are you looking for some practical microservices interview questions? If so, this article is for you, wherein you will get to know about the most important microservices interview questions around the day-to-day job responsibilities of a microservices developer. You will also get an insight about how to answer them and an interviewer's perspective to the answers (something unique which you may have never seen before). Isn't that cool?
+Ready? Let's get s…]]></summary>
+        <author>
+            <name>Ramesh Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Achilles Heel of the Coronavirus]]></title>
+        <id>https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html</id>
+        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html"/>
+        <updated>2021-05-16T22:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Atkinson's Polaroids of the Lisa UI Under Development]]></title>
+        <id>https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt</id>
+        <link href="https://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Busy_Being_Born.txt"/>
+        <updated>2021-05-16T22:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile App Architecture Design and Development]]></title>
+        <id>https://dzone.com/articles/3120280</id>
+        <link href="https://dzone.com/articles/mobile-app-architecture-design-and-development"/>
+        <updated>2021-05-16T22:30:36.000Z</updated>
+        <summary type="html"><![CDATA[You might have contemplated the ramifications of mobility around us. From an airplane ticket booking to shopping from the solace of your lounge chair, you can use mobile apps. Ordering your favorite food or learning desired courses online, mobile apps are used. With mobile applications, you can pay your bills in a few snaps of your finger. So, every part of your life is moved by the abilities of phone apps.
+Many organizations today have enhanced their business effectiveness with mobile architecture design. …]]></summary>
+        <author>
+            <name>Oleh Sieroochenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Performance Batch Processing Using Apache Spark and Spring Batch]]></title>
+        <id>https://dzone.com/articles/3116080</id>
+        <link href="https://dzone.com/articles/using-apache-spark-and-spring-batch-for-processing"/>
+        <updated>2021-05-16T22:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Batch processing is dealing with a large amount of data; it actually is a method of running high-volume, repetitive data jobs and each job does a specific task without user interaction. This kind of processing started from the beginning of computation and still continues and perhaps new methods, algorithms, and tools are still being introduced. The entry point of Batch Processing Systems is offline data that gathered in any type like CSV, RDBMS, or well-formed JSON or XML files, after processing data and do…]]></summary>
+        <author>
+            <name>Reza Ganji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There have been 7m-13m excess deaths worldwide during the pandemic]]></title>
+        <id>https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic</id>
+        <link href="https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic"/>
+        <updated>2021-05-16T22:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning 10 Key Concepts of Java Programming Using Coding Problems [Videos]]]></title>
+        <id>https://dzone.com/articles/3111726</id>
+        <link href="https://dzone.com/articles/how-to-solve-hackerrank-java-problems"/>
+        <updated>2021-05-16T21:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Below is my video series on how to solve Java Practice Challenge Problems from HackerRank with detailed explanations.
+These videos will help you in building up your understanding of key concepts of the Java programming language.]]></summary>
+        <author>
+            <name>Tarun Telang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Processing Using Functions in Prosto: An Alternative to Map-Reduce and SQL]]></title>
+        <id>https://dzone.com/articles/3097005</id>
+        <link href="https://dzone.com/articles/data-processing-using-functions-in-prosto-an-alter"/>
+        <updated>2021-05-16T21:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Why Prosto? Having Only Set Operations Is Not Enough
+Typical data processing tasks have to access and analyze data stored in multiple tables. They could be called relations, collections, or sets in different systems but we will refer to them as tables for simplicity. The general task of data processing is to derive new data from these multiple tables and each solid data (processing) model must answer the following three important questions: how to compute new columns within one table, how to link tables and…]]></summary>
+        <author>
+            <name>Alexandr Savinov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Agile Tips From a Startup to Startups]]></title>
+        <id>https://dzone.com/articles/3114534</id>
+        <link href="https://dzone.com/articles/3-agile-tips-from-a-startup-to-startups"/>
+        <updated>2021-05-16T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+When we developed our startup, agile was a must-do. We are a tech and data driver startup working as a marketplace for the moving industry. The funny thing is that nobody on our team has ever had anything to do with this industry; this means there was a lot each member had to learn and master from the start. Agile was, in my opinion, the greatest tool for us. It calls for continuous development — it welcomes change and tweaks, and it's a bridge between business-focused founders and development-…]]></summary>
+        <author>
+            <name>Amel Islamagic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?]]></title>
+        <id>https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?</id>
+        <link href="https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?"/>
+        <updated>2021-05-16T20:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City to pay $350K to settle blog lawsuit, take back criminal hacking accusations]]></title>
+        <id>https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/</id>
+        <link href="https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/"/>
+        <updated>2021-05-16T20:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The search for a perfect access control system]]></title>
+        <id>https://goteleport.com/blog/access-controls/</id>
+        <link href="https://goteleport.com/blog/access-controls/"/>
+        <updated>2021-05-16T19:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemd: The Good Parts]]></title>
+        <id>https://christine.website/talks/systemd-the-good-parts-2021-05-16</id>
+        <link href="https://christine.website/talks/systemd-the-good-parts-2021-05-16"/>
+        <updated>2021-05-16T18:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An iOS app update that annoys me]]></title>
+        <id>https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/</id>
+        <link href="https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/"/>
+        <updated>2021-05-16T18:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency]]></title>
+        <id>https://coincarboncap.com/</id>
+        <link href="https://coincarboncap.com/"/>
+        <updated>2021-05-16T18:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orphan Utopia: John Ballou Newbrough’s desert colony (2017)]]></title>
+        <id>https://www.cabinetmagazine.org/issues/63/mcconnell.php</id>
+        <link href="https://www.cabinetmagazine.org/issues/63/mcconnell.php"/>
+        <updated>2021-05-16T18:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing line in a smart contract leads to $10M hack]]></title>
+        <id>https://www.rekt.news/value-rekt2/</id>
+        <link href="https://www.rekt.news/value-rekt2/"/>
+        <updated>2021-05-16T17:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bette Graham, inventor and founder of Liquid Paper]]></title>
+        <id>https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/</id>
+        <link href="https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/"/>
+        <updated>2021-05-16T17:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing Elasticsearch with Rust and SQLite (2017)]]></title>
+        <id>https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite</id>
+        <link href="https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite"/>
+        <updated>2021-05-16T17:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinTracker (YC W18) is hiring people passionate about cryptocurrency]]></title>
+        <id>https://www.cointracker.io/careers</id>
+        <link href="https://www.cointracker.io/careers"/>
+        <updated>2021-05-16T17:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Notepad – HTML WYSIWYG editor]]></title>
+        <id>https://html-notepad.com/</id>
+        <link href="https://html-notepad.com/"/>
+        <updated>2021-05-16T15:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Awful German Language (1880)]]></title>
+        <id>https://faculty.georgetown.edu/jod/texts/twain.german.html</id>
+        <link href="https://faculty.georgetown.edu/jod/texts/twain.german.html"/>
+        <updated>2021-05-16T14:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Datalog Today]]></title>
+        <id>http://www.learndatalogtoday.org</id>
+        <link href="http://www.learndatalogtoday.org"/>
+        <updated>2021-05-16T14:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The man who didn't invent Flamin' Hot Cheetos]]></title>
+        <id>https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1</id>
+        <link href="https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1"/>
+        <updated>2021-05-16T14:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Multi-Tenancy Best Practices With Amazon EKS]]></title>
+        <id>https://dzone.com/articles/3120345</id>
+        <link href="https://dzone.com/articles/kubernetes-multi-tenancy-best-practices-with-amazon-eks"/>
+        <updated>2021-05-16T14:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Applications running on the cloud are diving deeper towards the most critical changes in how they are developed and deployed. Perhaps, the most useful and trendy tool which has come in this space is Kubernetes. There are certain best practices that you should consider for your Kubernetes multi-tenancy SaaS application with Amazon EKS.
+Kubernetes has been deployed on AWS practically since its inception. On AWS, it is popularly known as EKS. The Amazon-managed Kubernetes service provides a flexible platform f…]]></summary>
+        <author>
+            <name>Alfonso Valdes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a personal website in 2021]]></title>
+        <id>https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021</id>
+        <link href="https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021"/>
+        <updated>2021-05-16T13:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeaGlass: City-Wide IMSI-Catcher Detection (2017)]]></title>
+        <id>https://seaglass.cs.washington.edu/</id>
+        <link href="https://seaglass.cs.washington.edu/"/>
+        <updated>2021-05-16T13:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mxGraph Usage in TypeScript Projects]]></title>
+        <id>https://dzone.com/articles/3119418</id>
+        <link href="https://dzone.com/articles/mxgraph-usage-in-typescript-projects"/>
+        <updated>2021-05-16T13:46:33.000Z</updated>
+        <summary type="html"><![CDATA[This article is the first one of a series about mxGraph, the JavaScript diagramming library. 
+Over the last few months, my team has used it on a day-to-day basis as the rendering foundation of bpmn-visualization, an open-source TypeScript library for visualizing process execution data on BPMN diagrams.]]></summary>
+        <author>
+            <name>Thomas Bouffard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half a million lines of Go]]></title>
+        <id>https://blog.khanacademy.org/half-a-million-lines-of-go/</id>
+        <link href="https://blog.khanacademy.org/half-a-million-lines-of-go/"/>
+        <updated>2021-05-16T13:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quality Sense Podcast: Simon Prior – #MakeATester]]></title>
+        <id>https://dzone.com/articles/3119479</id>
+        <link href="https://dzone.com/articles/quality-sense-podcast-simon-prior-makeatester"/>
+        <updated>2021-05-16T13:24:05.000Z</updated>
+        <summary type="html"><![CDATA[In this Quality Sense episode, our host Federico has the pleasure of interviewing Simon Prior, who has worked across the cyber security, Retail, gaming and airline industries. Simon is a passionate software quality leader, advocate of the importance of teaching testing at universities and co-host of the Testing Peers podcast.
+Episode Highlights
+How Simon got started in his testing career and why
+Why universities don’t teach the top skills needed in software testing (hint, the most critical ones aren’t techn…]]></summary>
+        <author>
+            <name>Kalei White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL to Redshift: 4 Ways to Replicate Your Data]]></title>
+        <id>https://dzone.com/articles/3122914</id>
+        <link href="https://dzone.com/articles/mysql-to-redshift-data-replication"/>
+        <updated>2021-05-16T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[MySQL is the most popular open-source cloud database in the world, and for good reason. It’s powerful, flexible, and extremely reliable. Tens of thousands of companies use MySQL to power their web-based applications and services every day.
+But when it comes to data analytics, it’s a different story. MySQL is quickly bogged down by even the smallest analytical queries, putting your entire application at risk of crashing. As one FlyData customer said to us, “I have nightmares about our MySQL production databa…]]></summary>
+        <author>
+            <name>Ben Putano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaufmann's Posographe: a pocketable analog exposure calculator]]></title>
+        <id>https://www.nzeldes.com/HOC/Posographe.htm</id>
+        <link href="https://www.nzeldes.com/HOC/Posographe.htm"/>
+        <updated>2021-05-16T12:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C#9.0 Is Here: Dealing With Record Keyword Errors]]></title>
+        <id>https://dzone.com/articles/3121558</id>
+        <link href="https://dzone.com/articles/c90-is-here"/>
+        <updated>2021-05-16T12:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Make sure you are ready for it! Today when I started to try out some of the features of C#9.0 I was immediately blocked by an error in Visual Studio 2019 (which I have been working with for a while now).
+The new record keyword gave me an error :]]></summary>
+        <author>
+            <name>Suparna Shaligram</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Open-Source IaC Testing]]></title>
+        <id>https://dzone.com/articles/3121101</id>
+        <link href="https://dzone.com/articles/a-guide-to-open-source-iac-testing"/>
+        <updated>2021-05-16T12:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Over the past several years, Infrastructure-as-Code (IaC) platforms, such as Terraform, CloudFormation, and Kubernetes, have rapidly gained traction as the preferred mechanism to provision and manage cloud infrastructure. And for good reason.
+It wasn’t that long ago that ClickOps was the dominant approach for cloud management. Everyone is sympathetic to the need for agility when there is a business-critical change required. “Just log onto the console” can seem like a perfectly justifiable actio…]]></summary>
+        <author>
+            <name>Rob Schoening</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vandal – an alternate navigator to Wayback Machine]]></title>
+        <id>https://vegetableman.github.io/vandal/</id>
+        <link href="https://vegetableman.github.io/vandal/"/>
+        <updated>2021-05-16T12:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localizing Dates in a Perl Web App With JavaScript]]></title>
+        <id>https://dzone.com/articles/3119685</id>
+        <link href="https://dzone.com/articles/localizing-dates-in-a-perl-web-application-with-ja"/>
+        <updated>2021-05-16T12:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Last week's article received a comment on a private Facebook group that amounted to "just use JavaScript's built-in formatting." So what would that look like?
+ 
+   
+render( template => 'index', date => DateTime->today ) };
+
+helper localize_date => sub ( $c, $date = DateTime->today, $style = 'full' ) {
+    my $date_params = join ',' => $date->year, $date->month_0, $date->day;
+    return
+        qq;
+};
+
+app->start;
+__DATA__
+
+@@ index.html.ep
+% layout 'default';
+% title 'Today';
+
+
+    
+
+    % for my $style ( q…]]></summary>
+        <author>
+            <name>Mark Gardner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What App Developers Should Know About GDPR Compliance]]></title>
+        <id>https://dzone.com/articles/3122917</id>
+        <link href="https://dzone.com/articles/what-app-developers-should-know-about-gdpr-complia"/>
+        <updated>2021-05-16T07:58:36.000Z</updated>
+        <summary type="html"><![CDATA[There is a price for everything, and the loss of privacy is the price for downloading and using apps on smartphones. As security technologist and cryptographer Bruce Schneier, aptly observes, walking around with a smartphone is like carrying a tracking device 24/7.
+The smartphone revolution also brought on app development, with contemporary life revolving around mobile applications. This is especially true for Millennials and Gen Zers, whose desire for information at the press of a button remains unchanged …]]></summary>
+        <author>
+            <name>Anton Lucanus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What are some tools / libraries you built yourself?]]></title>
+        <id>https://news.ycombinator.com/item?id=27171970</id>
+        <link href="https://news.ycombinator.com/item?id=27171970"/>
+        <updated>2021-05-16T07:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checklists: System is Hacked (Part 2) Preventive Steps for Infra (OS Hardening)]]></title>
+        <id>https://dzone.com/articles/3122965</id>
+        <link href="https://dzone.com/articles/checklists-system-is-hacked-part-2-preventive-step"/>
+        <updated>2021-05-16T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+In the last article, we described a list of checks which can determine if a system is compromised or hacked.  In this article, we will talk about preventive steps (especially infra-related) that can be taken care of to avoid hacking or to make the system more secure. There are many directions in which we can secure our application as follows:
+OS Hardening (Infra Level Security).
+Secure Coding Guidelines.
+Encryption Of Sensitive Data.
+Ensure No Vulnerability Exists in System.
+In this blog, we wi…]]></summary>
+        <author>
+            <name>Sahil Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checklists: System is Hacked (Part 1) Confirming a Compromise]]></title>
+        <id>https://dzone.com/articles/3121400</id>
+        <link href="https://dzone.com/articles/checklists-system-is-compromised-or-hacked-part-1"/>
+        <updated>2021-05-16T07:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+As in my previous blog where I explained how I came to know if my system is hacked or compromised (link here). Here in this blog, I will explain what basic things we can check on our system when we have doubt if our system is compromised.
+This blog has 3 parts. In this part, we look at a list of checks which can determine if a system is compromised or hacked.]]></summary>
+        <author>
+            <name>Sahil Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observing my cellphone switch towers]]></title>
+        <id>https://fabiensanglard.net/lte/index.html</id>
+        <link href="https://fabiensanglard.net/lte/index.html"/>
+        <updated>2021-05-16T07:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security and GitOps]]></title>
+        <id>https://dzone.com/articles/3120528</id>
+        <link href="https://dzone.com/articles/security-and-gitops"/>
+        <updated>2021-05-16T06:48:11.000Z</updated>
+        <summary type="html"><![CDATA[As we all know and firmly believe, applications and infrastructures need to be secured, but the shipping processes of this whole ecosystem also need to be.
+In a previous article, we introduced GitOps as a methodology to improve the velocity of the development and the management of an entire infrastructure. But there are many other benefits from GitOps, and one of them is the potential improvement of security.]]></summary>
+        <author>
+            <name>Hicham Bouissoumer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Considering Microservices? Here’s Why You Shouldn’t Dismiss Monoliths Just Yet]]></title>
+        <id>https://dzone.com/articles/3119536</id>
+        <link href="https://dzone.com/articles/considering-microservices-heres-why-you-shouldnt-d"/>
+        <updated>2021-05-16T06:39:09.000Z</updated>
+        <summary type="html"><![CDATA[In a Cloud Microservices Market report, it was found that the cloud microservices market was valued at USD 831.45 billion in 2020, and it is expected to reach USD 2,701.36 billion by 2026. This is a clear indication of how microservices are currently driving the market, encouraging organizations to break their applications into smaller components and leave their "traditional" monolithic architecture behind.
+However, before we dismiss monoliths entirely, cloud architect and author Rahul Rai argues how micros…]]></summary>
+        <author>
+            <name>Kevin Montalbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Simple Ideas to Make Your Life Easier With Kafka]]></title>
+        <id>https://dzone.com/articles/3120537</id>
+        <link href="https://dzone.com/articles/three-simple-ideas-to-make-your-life-easier-with-k"/>
+        <updated>2021-05-16T06:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Apache Kafka was open-sourced by LinkedIn in early 2011. Despite all the initial limitations, it was a huge success and it became the de-facto standard for streaming data. The performance, possibility to replay events and multiple consumers independently were some of the features which disrupted the streaming arena.
+But Kafka has been also known for its difficult learning curve and difficulties with the operation. In my experience, both things are improved a lot in the last few years but the original gotcha…]]></summary>
+        <author>
+            <name>Anton Rodriguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Test Script in Selenium?]]></title>
+        <id>https://dzone.com/articles/3120557</id>
+        <link href="https://dzone.com/articles/how-to-write-test-script-in-selenium"/>
+        <updated>2021-05-16T06:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Selenium is one of the essential automation testing tools for web applications or websites. So, it is quite efficient for you to learn the right process to code and write the Selenium test scripts with the help of the right Selenium testing tutorial. The people who want to automate the website or web application testing process always think of Selenium, and conducting this test is also an easy process.
+Today I am going to share the important steps that you need to follow to understand how to write a Seleniu…]]></summary>
+        <author>
+            <name>Parimal Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Tooling for Kubernetes in 2021: IntelliJ, VSCode, Gitpod, and Lens (Part 3)]]></title>
+        <id>https://dzone.com/articles/3119604</id>
+        <link href="https://dzone.com/articles/developer-tooling-for-kubernetes-in-2021-intellij"/>
+        <updated>2021-05-16T05:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few days, I have been hard at work writing an up-to-date comparison of Kubernetes tooling (check out the first and second posts if you haven’t already, which cover tools that help you reproduce issues locally). Going through the sprawling Kubernetes ecosystem and curating the knowledge that would be the most interesting to fellow developers and engineering managers has been no small task. That’s why section 3 will cover the heart of cloud-native development: the IDE.
+Some of the questions I ha…]]></summary>
+        <author>
+            <name>Liran_Last</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js and Symfony — User Authentication]]></title>
+        <id>https://dzone.com/articles/3119528</id>
+        <link href="https://dzone.com/articles/vuejs-and-symfony-user-authentication"/>
+        <updated>2021-05-16T05:29:06.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will skip the Symfony authentication process as this can be found in the official documentation (it’s more about presenting the solutions in case of using Vue.js):
+Symfony Authentication,
+Symfony Login Form,
+Symfony Guard Authentication,
+JWT Token-based Authentication — Does It Have to Be This Way?
+Vue.js allows us to either create a SPA (Single-Page Application) or to be used in the form of hybrid where we can inject the components into already existing code or use Vue.js as an extension …]]></summary>
+        <author>
+            <name>Dariusz Włodarczyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pushing Rails Validations Down to The Database?]]></title>
+        <id>https://dzone.com/articles/3120455</id>
+        <link href="https://dzone.com/articles/pushing-rails-validations-down-to-the-database"/>
+        <updated>2021-05-16T04:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Ever open up a Rails console to debug a problem and come away wondering how the data got so funky? Despite our best efforts, the database will accept plenty of garbage data if you let it. There are tons of methods to bypass the Rails callbacks and validations while still updating your database. If you are like me you have probably used these methods in the Rails console to fix some of that funky data you found after some other code created it in the first place.
+Active Record Validations are a good place to…]]></summary>
+        <author>
+            <name>John Maddux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Product-Led Growth Produce Better Companies?]]></title>
+        <id>https://dzone.com/articles/3123817</id>
+        <link href="https://dzone.com/articles/does-product-led-growth-produce-better-companies"/>
+        <updated>2021-05-16T04:34:05.000Z</updated>
+        <summary type="html"><![CDATA[After serving two years in the Peace Corps, I knew I wanted to join a startup, but I immediately faced a dilemma — there are too many startups from which to choose. Some early teams, like Arctype, do distinguish themselves through their overwhelming focus on product experience, which is why today, I'm going to use SQL to analyze the performance of public SaaS companies that have historically shared this focus. Through this analysis, I hope to answer the following question: are these so-called 'product-led g…]]></summary>
+        <author>
+            <name>Zach Naimon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distributed Tracing in ASP.NET Core With Jaeger and Tye, Part 2: Project Tye]]></title>
         <id>https://dzone.com/articles/3123015</id>
@@ -393,6 +969,16 @@ It provides authentication (with OAuth, JWT, API keys, and JWT), authorization (
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JPL's Design for a Clockwork Rover to Explore Venus (2017)]]></title>
+        <id>https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus</id>
+        <link href="https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus"/>
+        <updated>2021-05-15T11:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Was cancer less likely in a pre-industrial world?]]></title>
         <id>https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world</id>
         <link href="https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world"/>
@@ -423,10 +1009,30 @@ It provides authentication (with OAuth, JWT, API keys, and JWT), authorization (
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The stack monoid revisited]]></title>
+        <id>https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html</id>
+        <link href="https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html"/>
+        <updated>2021-05-15T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things you can’t do in Rust (and what to do instead)]]></title>
         <id>https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/</id>
         <link href="https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/"/>
         <updated>2021-05-15T10:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabyte Brix Pro: A Compact PC for Basic Computing Needs]]></title>
+        <id>https://www.overclockers.com/gigabyte-brix-pro-a-compact-pc-for-basic-computing-needs/</id>
+        <link href="https://www.overclockers.com/gigabyte-brix-pro-a-compact-pc-for-basic-computing-needs/"/>
+        <updated>2021-05-15T10:17:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -447,6 +1053,16 @@ It provides authentication (with OAuth, JWT, API keys, and JWT), authorization (
         <id>https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/</id>
         <link href="https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/"/>
         <updated>2021-05-15T08:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great books on classic video games]]></title>
+        <id>https://bossfightbooks.com</id>
+        <link href="https://bossfightbooks.com"/>
+        <updated>2021-05-15T07:49:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -478,6 +1094,16 @@ It provides authentication (with OAuth, JWT, API keys, and JWT), authorization (
         <id>https://www.youtube.com/watch?v=ME_e06ApxJA</id>
         <link href="https://www.youtube.com/watch?v=ME_e06ApxJA"/>
         <updated>2021-05-15T04:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons some languages are harder to learn]]></title>
+        <id>https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn</id>
+        <link href="https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn"/>
+        <updated>2021-05-15T00:16:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

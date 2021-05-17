@@ -745,6 +745,249 @@
       "siteUrl": "https://dzone.com",
       "articles": [
         {
+          "id": "https://dzone.com/articles/3121307",
+          "author": "Amaan T",
+          "description": "The idea behind building a mobile app has been to offer a faster, easier, and innovative experience on various devices to users, doing away with their need to browse websites. However, in a bid to stay relevant to consumers amidst competition, companies try to bundle up a million features together rather than offer a full-proof and specific solution for a certain user need. Being overwhelmed with numerous unnecessary features and functionalities, an app poses various inhibitions to a great user experience. …",
+          "link": "https://dzone.com/articles/what-are-micro-apps-and-why-businesses-need-them",
+          "publishedOn": "2021-05-16T23:33:36.000Z",
+          "wordCount": 705,
+          "title": "What Are Micro-apps and Why Businesses Need Them?"
+        },
+        {
+          "id": "https://dzone.com/articles/3115142",
+          "author": "Abe Dearmer",
+          "description": "For the last few years, you have heard the terms \"data integration\" and \"data management\" dozens of times. Your business may already invest in these practices, but are you benefitting from this data gathering? \nToo often, companies hire specialists, collect data from many sources and analyze it for no clear purpose. And without a clear purpose, all your efforts are in vain. You can take in more customer information than all your competitors and still fail to make practical use of it.",
+          "link": "https://dzone.com/articles/5-customer-data-integration-best-practices",
+          "publishedOn": "2021-05-16T23:28:01.000Z",
+          "wordCount": 1279,
+          "title": "5 Customer Data Integration Best Practices"
+        },
+        {
+          "id": "https://dzone.com/articles/3119327",
+          "author": "Or Hillel",
+          "description": "As 2021 is now upon us (finally!), businesses are gearing up their strategy based on learnings from the past year. While insights help inform future plans, such as where to place budget and effort, there is one essential tool that each company should have at its disposal. If you’ve read the title, this shouldn’t come to you as such a surprise. We’re speaking about automated data lineage. With the ability to fully understand how data flows from one place to another, data lineage allows business processes to …",
+          "link": "https://dzone.com/articles/the-future-of-automated-data-lineage-in-2021",
+          "publishedOn": "2021-05-16T23:23:54.000Z",
+          "wordCount": 1285,
+          "title": "The Future of Automated Data Lineage in 2021"
+        },
+        {
+          "id": "https://dzone.com/articles/3119464",
+          "author": "Ramesh Chauhan",
+          "description": "Do you want to get a job as a microservices developer? Are you looking for some practical microservices interview questions? If so, this article is for you, wherein you will get to know about the most important microservices interview questions around the day-to-day job responsibilities of a microservices developer. You will also get an insight about how to answer them and an interviewer's perspective to the answers (something unique which you may have never seen before). Isn't that cool?\nReady? Let's get s…",
+          "link": "https://dzone.com/articles/microservices-interview-questions-answers",
+          "publishedOn": "2021-05-16T23:01:35.000Z",
+          "wordCount": 1849,
+          "title": "10 Microservices Interview Questions You Must Know"
+        },
+        {
+          "id": "https://dzone.com/articles/3120280",
+          "author": "Oleh Sieroochenko",
+          "description": "You might have contemplated the ramifications of mobility around us. From an airplane ticket booking to shopping from the solace of your lounge chair, you can use mobile apps. Ordering your favorite food or learning desired courses online, mobile apps are used. With mobile applications, you can pay your bills in a few snaps of your finger. So, every part of your life is moved by the abilities of phone apps.\nMany organizations today have enhanced their business effectiveness with mobile architecture design. …",
+          "link": "https://dzone.com/articles/mobile-app-architecture-design-and-development",
+          "publishedOn": "2021-05-16T22:30:36.000Z",
+          "wordCount": 1563,
+          "title": "Mobile App Architecture Design and Development"
+        },
+        {
+          "id": "https://dzone.com/articles/3116080",
+          "author": "Reza Ganji",
+          "description": "Batch processing is dealing with a large amount of data; it actually is a method of running high-volume, repetitive data jobs and each job does a specific task without user interaction. This kind of processing started from the beginning of computation and still continues and perhaps new methods, algorithms, and tools are still being introduced. The entry point of Batch Processing Systems is offline data that gathered in any type like CSV, RDBMS, or well-formed JSON or XML files, after processing data and do…",
+          "link": "https://dzone.com/articles/using-apache-spark-and-spring-batch-for-processing",
+          "publishedOn": "2021-05-16T22:22:07.000Z",
+          "wordCount": 2676,
+          "title": "High-Performance Batch Processing Using Apache Spark and Spring Batch"
+        },
+        {
+          "id": "https://dzone.com/articles/3111726",
+          "author": "Tarun Telang",
+          "description": "Below is my video series on how to solve Java Practice Challenge Problems from HackerRank with detailed explanations.\nThese videos will help you in building up your understanding of key concepts of the Java programming language.",
+          "link": "https://dzone.com/articles/how-to-solve-hackerrank-java-problems",
+          "publishedOn": "2021-05-16T21:44:56.000Z",
+          "wordCount": 606,
+          "title": "Learning 10 Key Concepts of Java Programming Using Coding Problems [Videos]"
+        },
+        {
+          "id": "https://dzone.com/articles/3097005",
+          "author": "Alexandr Savinov",
+          "description": "Why Prosto? Having Only Set Operations Is Not Enough\nTypical data processing tasks have to access and analyze data stored in multiple tables. They could be called relations, collections, or sets in different systems but we will refer to them as tables for simplicity. The general task of data processing is to derive new data from these multiple tables and each solid data (processing) model must answer the following three important questions: how to compute new columns within one table, how to link tables and…",
+          "link": "https://dzone.com/articles/data-processing-using-functions-in-prosto-an-alter",
+          "publishedOn": "2021-05-16T21:43:09.000Z",
+          "wordCount": 2393,
+          "title": "Data Processing Using Functions in Prosto: An Alternative to Map-Reduce and SQL"
+        },
+        {
+          "id": "https://dzone.com/articles/3114534",
+          "author": "Amel Islamagic",
+          "description": "Introduction\nWhen we developed our startup, agile was a must-do. We are a tech and data driver startup working as a marketplace for the moving industry. The funny thing is that nobody on our team has ever had anything to do with this industry; this means there was a lot each member had to learn and master from the start. Agile was, in my opinion, the greatest tool for us. It calls for continuous development — it welcomes change and tweaks, and it's a bridge between business-focused founders and development-…",
+          "link": "https://dzone.com/articles/3-agile-tips-from-a-startup-to-startups",
+          "publishedOn": "2021-05-16T21:20:00.000Z",
+          "wordCount": 939,
+          "title": "3 Agile Tips From a Startup to Startups"
+        },
+        {
+          "id": "https://dzone.com/articles/3120345",
+          "author": "Alfonso Valdes",
+          "description": "Applications running on the cloud are diving deeper towards the most critical changes in how they are developed and deployed. Perhaps, the most useful and trendy tool which has come in this space is Kubernetes. There are certain best practices that you should consider for your Kubernetes multi-tenancy SaaS application with Amazon EKS.\nKubernetes has been deployed on AWS practically since its inception. On AWS, it is popularly known as EKS. The Amazon-managed Kubernetes service provides a flexible platform f…",
+          "link": "https://dzone.com/articles/kubernetes-multi-tenancy-best-practices-with-amazon-eks",
+          "publishedOn": "2021-05-16T14:13:57.000Z",
+          "wordCount": 2277,
+          "title": "Kubernetes Multi-Tenancy Best Practices With Amazon EKS"
+        },
+        {
+          "id": "https://dzone.com/articles/3119418",
+          "author": "Thomas Bouffard",
+          "description": "This article is the first one of a series about mxGraph, the JavaScript diagramming library. \nOver the last few months, my team has used it on a day-to-day basis as the rendering foundation of bpmn-visualization, an open-source TypeScript library for visualizing process execution data on BPMN diagrams.",
+          "link": "https://dzone.com/articles/mxgraph-usage-in-typescript-projects",
+          "publishedOn": "2021-05-16T13:46:33.000Z",
+          "wordCount": 1501,
+          "title": "mxGraph Usage in TypeScript Projects"
+        },
+        {
+          "id": "https://dzone.com/articles/3119479",
+          "author": "Kalei White",
+          "description": "In this Quality Sense episode, our host Federico has the pleasure of interviewing Simon Prior, who has worked across the cyber security, Retail, gaming and airline industries. Simon is a passionate software quality leader, advocate of the importance of teaching testing at universities and co-host of the Testing Peers podcast.\nEpisode Highlights\nHow Simon got started in his testing career and why\nWhy universities don’t teach the top skills needed in software testing (hint, the most critical ones aren’t techn…",
+          "link": "https://dzone.com/articles/quality-sense-podcast-simon-prior-makeatester",
+          "publishedOn": "2021-05-16T13:24:05.000Z",
+          "wordCount": 4754,
+          "title": "Quality Sense Podcast: Simon Prior – #MakeATester"
+        },
+        {
+          "id": "https://dzone.com/articles/3122914",
+          "author": "Ben Putano",
+          "description": "MySQL is the most popular open-source cloud database in the world, and for good reason. It’s powerful, flexible, and extremely reliable. Tens of thousands of companies use MySQL to power their web-based applications and services every day.\nBut when it comes to data analytics, it’s a different story. MySQL is quickly bogged down by even the smallest analytical queries, putting your entire application at risk of crashing. As one FlyData customer said to us, “I have nightmares about our MySQL production databa…",
+          "link": "https://dzone.com/articles/mysql-to-redshift-data-replication",
+          "publishedOn": "2021-05-16T13:03:17.000Z",
+          "wordCount": 2490,
+          "title": "MySQL to Redshift: 4 Ways to Replicate Your Data"
+        },
+        {
+          "id": "https://dzone.com/articles/3121558",
+          "author": "Suparna Shaligram",
+          "description": "Make sure you are ready for it! Today when I started to try out some of the features of C#9.0 I was immediately blocked by an error in Visual Studio 2019 (which I have been working with for a while now).\nThe new record keyword gave me an error :",
+          "link": "https://dzone.com/articles/c90-is-here",
+          "publishedOn": "2021-05-16T12:34:15.000Z",
+          "wordCount": 465,
+          "title": "C#9.0 Is Here: Dealing With Record Keyword Errors"
+        },
+        {
+          "id": "https://dzone.com/articles/3121101",
+          "author": "Rob Schoening",
+          "description": "Introduction\nOver the past several years, Infrastructure-as-Code (IaC) platforms, such as Terraform, CloudFormation, and Kubernetes, have rapidly gained traction as the preferred mechanism to provision and manage cloud infrastructure. And for good reason.\nIt wasn’t that long ago that ClickOps was the dominant approach for cloud management. Everyone is sympathetic to the need for agility when there is a business-critical change required. “Just log onto the console” can seem like a perfectly justifiable actio…",
+          "link": "https://dzone.com/articles/a-guide-to-open-source-iac-testing",
+          "publishedOn": "2021-05-16T12:22:25.000Z",
+          "wordCount": 1582,
+          "title": "A Guide to Open-Source IaC Testing"
+        },
+        {
+          "id": "https://dzone.com/articles/3119685",
+          "author": "Mark Gardner",
+          "description": "Last week's article received a comment on a private Facebook group that amounted to \"just use JavaScript's built-in formatting.\" So what would that look like?\n \n   \nrender( template => 'index', date => DateTime->today ) };\n\nhelper localize_date => sub ( $c, $date = DateTime->today, $style = 'full' ) {\n    my $date_params = join ',' => $date->year, $date->month_0, $date->day;\n    return\n        qq;\n};\n\napp->start;\n__DATA__\n\n@@ index.html.ep\n% layout 'default';\n% title 'Today';\n\n\n    \n\n    % for my $style ( q…",
+          "link": "https://dzone.com/articles/localizing-dates-in-a-perl-web-application-with-ja",
+          "publishedOn": "2021-05-16T12:07:36.000Z",
+          "wordCount": 859,
+          "title": "Localizing Dates in a Perl Web App With JavaScript"
+        },
+        {
+          "id": "https://dzone.com/articles/3122917",
+          "author": "Anton Lucanus",
+          "description": "There is a price for everything, and the loss of privacy is the price for downloading and using apps on smartphones. As security technologist and cryptographer Bruce Schneier, aptly observes, walking around with a smartphone is like carrying a tracking device 24/7.\nThe smartphone revolution also brought on app development, with contemporary life revolving around mobile applications. This is especially true for Millennials and Gen Zers, whose desire for information at the press of a button remains unchanged …",
+          "link": "https://dzone.com/articles/what-app-developers-should-know-about-gdpr-complia",
+          "publishedOn": "2021-05-16T07:58:36.000Z",
+          "wordCount": 1197,
+          "title": "What App Developers Should Know About GDPR Compliance"
+        },
+        {
+          "id": "https://dzone.com/articles/3122965",
+          "author": "Sahil Aggarwal",
+          "description": "Introduction\nIn the last article, we described a list of checks which can determine if a system is compromised or hacked.  In this article, we will talk about preventive steps (especially infra-related) that can be taken care of to avoid hacking or to make the system more secure. There are many directions in which we can secure our application as follows:\nOS Hardening (Infra Level Security).\nSecure Coding Guidelines.\nEncryption Of Sensitive Data.\nEnsure No Vulnerability Exists in System.\nIn this blog, we wi…",
+          "link": "https://dzone.com/articles/checklists-system-is-hacked-part-2-preventive-step",
+          "publishedOn": "2021-05-16T07:22:00.000Z",
+          "wordCount": 827,
+          "title": "Checklists: System is Hacked (Part 2) Preventive Steps for Infra (OS Hardening)"
+        },
+        {
+          "id": "https://dzone.com/articles/3121400",
+          "author": "Sahil Aggarwal",
+          "description": "Introduction\nAs in my previous blog where I explained how I came to know if my system is hacked or compromised (link here). Here in this blog, I will explain what basic things we can check on our system when we have doubt if our system is compromised.\nThis blog has 3 parts. In this part, we look at a list of checks which can determine if a system is compromised or hacked.",
+          "link": "https://dzone.com/articles/checklists-system-is-compromised-or-hacked-part-1",
+          "publishedOn": "2021-05-16T07:21:57.000Z",
+          "wordCount": 807,
+          "title": "Checklists: System is Hacked (Part 1) Confirming a Compromise"
+        },
+        {
+          "id": "https://dzone.com/articles/3120528",
+          "author": "Hicham Bouissoumer",
+          "description": "As we all know and firmly believe, applications and infrastructures need to be secured, but the shipping processes of this whole ecosystem also need to be.\nIn a previous article, we introduced GitOps as a methodology to improve the velocity of the development and the management of an entire infrastructure. But there are many other benefits from GitOps, and one of them is the potential improvement of security.",
+          "link": "https://dzone.com/articles/security-and-gitops",
+          "publishedOn": "2021-05-16T06:48:11.000Z",
+          "wordCount": 1771,
+          "title": "Security and GitOps"
+        },
+        {
+          "id": "https://dzone.com/articles/3119536",
+          "author": "Kevin Montalbo",
+          "description": "In a Cloud Microservices Market report, it was found that the cloud microservices market was valued at USD 831.45 billion in 2020, and it is expected to reach USD 2,701.36 billion by 2026. This is a clear indication of how microservices are currently driving the market, encouraging organizations to break their applications into smaller components and leave their \"traditional\" monolithic architecture behind.\nHowever, before we dismiss monoliths entirely, cloud architect and author Rahul Rai argues how micros…",
+          "link": "https://dzone.com/articles/considering-microservices-heres-why-you-shouldnt-d",
+          "publishedOn": "2021-05-16T06:39:09.000Z",
+          "wordCount": 1230,
+          "title": "Considering Microservices? Here’s Why You Shouldn’t Dismiss Monoliths Just Yet"
+        },
+        {
+          "id": "https://dzone.com/articles/3120537",
+          "author": "Anton Rodriguez",
+          "description": "Apache Kafka was open-sourced by LinkedIn in early 2011. Despite all the initial limitations, it was a huge success and it became the de-facto standard for streaming data. The performance, possibility to replay events and multiple consumers independently were some of the features which disrupted the streaming arena.\nBut Kafka has been also known for its difficult learning curve and difficulties with the operation. In my experience, both things are improved a lot in the last few years but the original gotcha…",
+          "link": "https://dzone.com/articles/three-simple-ideas-to-make-your-life-easier-with-k",
+          "publishedOn": "2021-05-16T06:21:18.000Z",
+          "wordCount": 1820,
+          "title": "3 Simple Ideas to Make Your Life Easier With Kafka"
+        },
+        {
+          "id": "https://dzone.com/articles/3120557",
+          "author": "Parimal Kumar",
+          "description": "Selenium is one of the essential automation testing tools for web applications or websites. So, it is quite efficient for you to learn the right process to code and write the Selenium test scripts with the help of the right Selenium testing tutorial. The people who want to automate the website or web application testing process always think of Selenium, and conducting this test is also an easy process.\nToday I am going to share the important steps that you need to follow to understand how to write a Seleniu…",
+          "link": "https://dzone.com/articles/how-to-write-test-script-in-selenium",
+          "publishedOn": "2021-05-16T06:06:40.000Z",
+          "wordCount": 997,
+          "title": "How to Write Test Script in Selenium?"
+        },
+        {
+          "id": "https://dzone.com/articles/3119604",
+          "author": "Liran_Last",
+          "description": "Over the last few days, I have been hard at work writing an up-to-date comparison of Kubernetes tooling (check out the first and second posts if you haven’t already, which cover tools that help you reproduce issues locally). Going through the sprawling Kubernetes ecosystem and curating the knowledge that would be the most interesting to fellow developers and engineering managers has been no small task. That’s why section 3 will cover the heart of cloud-native development: the IDE.\nSome of the questions I ha…",
+          "link": "https://dzone.com/articles/developer-tooling-for-kubernetes-in-2021-intellij",
+          "publishedOn": "2021-05-16T05:54:10.000Z",
+          "wordCount": 1509,
+          "title": "Developer Tooling for Kubernetes in 2021: IntelliJ, VSCode, Gitpod, and Lens (Part 3)"
+        },
+        {
+          "id": "https://dzone.com/articles/3119528",
+          "author": "Dariusz Włodarczyk",
+          "description": "In this article I will skip the Symfony authentication process as this can be found in the official documentation (it’s more about presenting the solutions in case of using Vue.js):\nSymfony Authentication,\nSymfony Login Form,\nSymfony Guard Authentication,\nJWT Token-based Authentication — Does It Have to Be This Way?\nVue.js allows us to either create a SPA (Single-Page Application) or to be used in the form of hybrid where we can inject the components into already existing code or use Vue.js as an extension …",
+          "link": "https://dzone.com/articles/vuejs-and-symfony-user-authentication",
+          "publishedOn": "2021-05-16T05:29:06.000Z",
+          "wordCount": 2699,
+          "title": "Vue.js and Symfony — User Authentication"
+        },
+        {
+          "id": "https://dzone.com/articles/3120455",
+          "author": "John Maddux",
+          "description": "Ever open up a Rails console to debug a problem and come away wondering how the data got so funky? Despite our best efforts, the database will accept plenty of garbage data if you let it. There are tons of methods to bypass the Rails callbacks and validations while still updating your database. If you are like me you have probably used these methods in the Rails console to fix some of that funky data you found after some other code created it in the first place.\nActive Record Validations are a good place to…",
+          "link": "https://dzone.com/articles/pushing-rails-validations-down-to-the-database",
+          "publishedOn": "2021-05-16T04:56:37.000Z",
+          "wordCount": 903,
+          "title": "Pushing Rails Validations Down to The Database?"
+        },
+        {
+          "id": "https://dzone.com/articles/3123817",
+          "author": "Zach Naimon",
+          "description": "After serving two years in the Peace Corps, I knew I wanted to join a startup, but I immediately faced a dilemma — there are too many startups from which to choose. Some early teams, like Arctype, do distinguish themselves through their overwhelming focus on product experience, which is why today, I'm going to use SQL to analyze the performance of public SaaS companies that have historically shared this focus. Through this analysis, I hope to answer the following question: are these so-called 'product-led g…",
+          "link": "https://dzone.com/articles/does-product-led-growth-produce-better-companies",
+          "publishedOn": "2021-05-16T04:34:05.000Z",
+          "wordCount": 1849,
+          "title": "Does Product-Led Growth Produce Better Companies?"
+        },
+        {
           "id": "https://dzone.com/articles/3123015",
           "author": "Rahul Rai",
           "description": "In This Series:\n \n \n \n  \nDistributed Tracing With Jaeger\n \n  \nSimplifying the Setup With Tye (this article)\n \n \n \n \n \n \nTye is an experimental dotnet tool from Microsoft that aims to make developing, testing, and deploying microservices easier. Tye's opinionated nature greatly simplifies the lifecycle of development and deployment of .NET Core microservices.\n \n \nTo understand the benefits of Tye, let's enumerate the steps involved in the development and deployment of the DCalculator application to Kubernete…",
@@ -1625,6 +1868,231 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
+          "publishedOn": "2021-05-16T22:40:35.000Z",
+          "wordCount": 1346,
+          "title": "The Achilles Heel of the Coronavirus"
+        },
+        {
+          "id": "https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born.txt",
+          "publishedOn": "2021-05-16T22:37:37.000Z",
+          "wordCount": 3258,
+          "title": "Bill Atkinson's Polaroids of the Lisa UI Under Development"
+        },
+        {
+          "id": "https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic",
+          "publishedOn": "2021-05-16T22:09:37.000Z",
+          "wordCount": 2163,
+          "title": "There have been 7m-13m excess deaths worldwide during the pandemic"
+        },
+        {
+          "id": "https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pcmag.com/news/apple-epic-judge-asks-why-offering-consumers-a-choice-is-bad?",
+          "publishedOn": "2021-05-16T20:59:33.000Z",
+          "wordCount": 1504,
+          "title": "Apple-Epic Judge Asks Why Offering iOS Users a Choice Is Bad?"
+        },
+        {
+          "id": "https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ktla.com/news/local-news/fullerton-to-pay-350k-to-settle-lawsuit-against-bloggers-take-back-criminal-hacking-accusations/",
+          "publishedOn": "2021-05-16T20:37:32.000Z",
+          "wordCount": 1432,
+          "title": "City to pay $350K to settle blog lawsuit, take back criminal hacking accusations"
+        },
+        {
+          "id": "https://goteleport.com/blog/access-controls/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://goteleport.com/blog/access-controls/",
+          "publishedOn": "2021-05-16T19:10:49.000Z",
+          "wordCount": 3809,
+          "title": "The search for a perfect access control system"
+        },
+        {
+          "id": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
+          "author": null,
+          "description": "Comments",
+          "link": "https://christine.website/talks/systemd-the-good-parts-2021-05-16",
+          "publishedOn": "2021-05-16T18:42:26.000Z",
+          "wordCount": 2641,
+          "title": "Systemd: The Good Parts"
+        },
+        {
+          "id": "https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jpmens.net/2021/05/16/an-ios-app-update-that-really-annoys-me/",
+          "publishedOn": "2021-05-16T18:41:32.000Z",
+          "wordCount": 448,
+          "title": "An iOS app update that annoys me"
+        },
+        {
+          "id": "https://coincarboncap.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://coincarboncap.com/",
+          "publishedOn": "2021-05-16T18:35:17.000Z",
+          "wordCount": 220,
+          "title": "Coin Carbon Cap – PoW cryptocurrencies ranked by energy efficiency"
+        },
+        {
+          "id": "https://www.cabinetmagazine.org/issues/63/mcconnell.php",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cabinetmagazine.org/issues/63/mcconnell.php",
+          "publishedOn": "2021-05-16T18:11:56.000Z",
+          "wordCount": 4380,
+          "title": "Orphan Utopia: John Ballou Newbrough’s desert colony (2017)"
+        },
+        {
+          "id": "https://www.rekt.news/value-rekt2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rekt.news/value-rekt2/",
+          "publishedOn": "2021-05-16T17:59:46.000Z",
+          "wordCount": 658,
+          "title": "Missing line in a smart contract leads to $10M hack"
+        },
+        {
+          "id": "https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thehustle.co/the-secretary-who-turned-liquid-paper-into-a-multimillion-dollar-business/",
+          "publishedOn": "2021-05-16T17:26:14.000Z",
+          "wordCount": 2547,
+          "title": "Bette Graham, inventor and founder of Liquid Paper"
+        },
+        {
+          "id": "https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite",
+          "publishedOn": "2021-05-16T17:24:24.000Z",
+          "wordCount": 2796,
+          "title": "Replacing Elasticsearch with Rust and SQLite (2017)"
+        },
+        {
+          "id": "https://www.cointracker.io/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cointracker.io/careers",
+          "publishedOn": "2021-05-16T17:00:19.000Z",
+          "wordCount": 54,
+          "title": "CoinTracker (YC W18) is hiring people passionate about cryptocurrency"
+        },
+        {
+          "id": "https://html-notepad.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://html-notepad.com/",
+          "publishedOn": "2021-05-16T15:04:53.000Z",
+          "wordCount": 519,
+          "title": "HTML Notepad – HTML WYSIWYG editor"
+        },
+        {
+          "id": "https://faculty.georgetown.edu/jod/texts/twain.german.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://faculty.georgetown.edu/jod/texts/twain.german.html",
+          "publishedOn": "2021-05-16T14:32:24.000Z",
+          "wordCount": 7370,
+          "title": "The Awful German Language (1880)"
+        },
+        {
+          "id": "http://www.learndatalogtoday.org",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.learndatalogtoday.org",
+          "publishedOn": "2021-05-16T14:21:10.000Z",
+          "wordCount": 150,
+          "title": "Learn Datalog Today"
+        },
+        {
+          "id": "https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.msn.com/en-us/money/smallbusiness/the-man-who-didnt-invent-flamin-hot-cheetos/ar-BB1gMYd1",
+          "publishedOn": "2021-05-16T14:15:59.000Z",
+          "wordCount": 5521,
+          "title": "The man who didn't invent Flamin' Hot Cheetos"
+        },
+        {
+          "id": "https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021",
+          "author": null,
+          "description": "Comments",
+          "link": "https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021",
+          "publishedOn": "2021-05-16T13:54:56.000Z",
+          "wordCount": 4380,
+          "title": "Building a personal website in 2021"
+        },
+        {
+          "id": "https://seaglass.cs.washington.edu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://seaglass.cs.washington.edu/",
+          "publishedOn": "2021-05-16T13:53:24.000Z",
+          "wordCount": 1388,
+          "title": "SeaGlass: City-Wide IMSI-Catcher Detection (2017)"
+        },
+        {
+          "id": "https://blog.khanacademy.org/half-a-million-lines-of-go/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.khanacademy.org/half-a-million-lines-of-go/",
+          "publishedOn": "2021-05-16T13:45:38.000Z",
+          "wordCount": 1001,
+          "title": "Half a million lines of Go"
+        },
+        {
+          "id": "https://www.nzeldes.com/HOC/Posographe.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nzeldes.com/HOC/Posographe.htm",
+          "publishedOn": "2021-05-16T12:38:21.000Z",
+          "wordCount": 585,
+          "title": "Kaufmann's Posographe: a pocketable analog exposure calculator"
+        },
+        {
+          "id": "https://vegetableman.github.io/vandal/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vegetableman.github.io/vandal/",
+          "publishedOn": "2021-05-16T12:22:25.000Z",
+          "wordCount": 430,
+          "title": "Show HN: Vandal – an alternate navigator to Wayback Machine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27171970",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27171970",
+          "publishedOn": "2021-05-16T07:47:51.000Z",
+          "wordCount": 18341,
+          "title": "Ask HN: What are some tools / libraries you built yourself?"
+        },
+        {
+          "id": "https://fabiensanglard.net/lte/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fabiensanglard.net/lte/index.html",
+          "publishedOn": "2021-05-16T07:16:32.000Z",
+          "wordCount": 1180,
+          "title": "Observing my cellphone switch towers"
+        },
+        {
           "id": "https://schoolofdecorating.com/2014/06/why-i-quit-diy/",
           "author": null,
           "description": "Comments",
@@ -1787,6 +2255,15 @@
           "title": "Watches from the Soviet Union"
         },
         {
+          "id": "https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/automaton/robotics/space-robots/jpl-design-for-a-clockwork-rover-to-explore-venus",
+          "publishedOn": "2021-05-15T11:10:30.000Z",
+          "wordCount": 44,
+          "title": "JPL's Design for a Clockwork Rover to Explore Venus (2017)"
+        },
+        {
           "id": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
           "author": null,
           "description": "Comments",
@@ -1814,6 +2291,15 @@
           "title": "All About Cockatoos (2002)"
         },
         {
+          "id": "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html",
+          "publishedOn": "2021-05-15T10:30:01.000Z",
+          "wordCount": 3700,
+          "title": "The stack monoid revisited"
+        },
+        {
           "id": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/",
           "author": null,
           "description": "Comments",
@@ -1821,6 +2307,15 @@
           "publishedOn": "2021-05-15T10:27:44.000Z",
           "wordCount": 1969,
           "title": "Things you can’t do in Rust (and what to do instead)"
+        },
+        {
+          "id": "https://www.overclockers.com/gigabyte-brix-pro-a-compact-pc-for-basic-computing-needs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.overclockers.com/gigabyte-brix-pro-a-compact-pc-for-basic-computing-needs/",
+          "publishedOn": "2021-05-15T10:17:16.000Z",
+          "wordCount": 2997,
+          "title": "Gigabyte Brix Pro: A Compact PC for Basic Computing Needs"
         },
         {
           "id": "https://midnight.pub/",
@@ -1841,6 +2336,15 @@
           "title": "FLOSS and Linguistic Diversity"
         },
         {
+          "id": "https://bossfightbooks.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bossfightbooks.com",
+          "publishedOn": "2021-05-15T07:49:46.000Z",
+          "wordCount": 972,
+          "title": "Great books on classic video games"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/uk-england-london-56281464",
           "author": null,
           "description": "Comments",
@@ -1857,6 +2361,15 @@
           "publishedOn": "2021-05-15T04:26:17.000Z",
           "wordCount": 23,
           "title": "MicroFPGA – A coming revolution in small electronics (2019) [video]"
+        },
+        {
+          "id": "https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/books-and-arts/2021/05/08/the-real-reasons-some-languages-are-harder-to-learn",
+          "publishedOn": "2021-05-15T00:16:08.000Z",
+          "wordCount": 963,
+          "title": "Reasons some languages are harder to learn"
         },
         {
           "id": "https://macwright.com/2021/03/16/return-of-fancy-tools.html",
@@ -3247,5 +3760,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
