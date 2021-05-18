@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340716",
+          "author": "Chris Coyier",
+          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-05-17T22:38:06.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `img` Element And Core Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339522",
+          "author": "Ashley Kolodziej",
+          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
+          "publishedOn": "2021-05-17T14:27:22.000Z",
+          "wordCount": 1356,
+          "title": "A Love Letter to HTML & CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340594",
+          "author": "Chris Coyier",
+          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.euismod.dev/",
+          "publishedOn": "2021-05-17T14:27:13.000Z",
+          "wordCount": 3,
+          "title": "Euismod"
+        },
+        {
           "id": "https://css-tricks.com/?p=340136",
           "author": "Chris Coyier",
           "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -256,6 +283,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
+          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
+          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "publishedOn": "2021-05-17T11:30:00.000Z",
+          "wordCount": 2906,
+          "title": "How We Improved Our Core Web Vitals (Case Study)"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
@@ -469,6 +505,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a2771762ab9107fe5ab383",
+          "author": "",
+          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
+          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
+          "publishedOn": "2021-05-17T21:11:58.000Z",
+          "wordCount": 1169,
+          "title": "HTML vs JSX – What&#x27;s the Difference?"
+        },
+        {
+          "id": "60a16df162ab9107fe5ab01b",
+          "author": "",
+          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
+          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
+          "publishedOn": "2021-05-17T17:45:50.000Z",
+          "wordCount": 1282,
+          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
+        },
+        {
+          "id": "609f552e62ab9107fe5aaba0",
+          "author": "",
+          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
+          "publishedOn": "2021-05-17T16:25:22.000Z",
+          "wordCount": 1076,
+          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
+        },
+        {
+          "id": "609cb90262ab9107fe5aa026",
+          "author": "",
+          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
+          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
+          "publishedOn": "2021-05-17T14:39:55.000Z",
+          "wordCount": 1233,
+          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
+        },
         {
           "id": "609d63e962ab9107fe5aa2ce",
           "author": "",
@@ -744,6 +816,78 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3123099",
+          "author": "Hugo Guerrero",
+          "description": "Developers are working with new applications every day using Apache Kafka as the backbone to implement an event-driven architecture (EDA) to support distributed systems. However, this adds new challenges when sharing across teams, even within the same organization. What endpoints are available? What is the structure of the message? That’s why payload examples became critical to speed up development. For this reason, having a reliable and enterprise-grade service to mock Apache Kafka should be an item in you…",
+          "link": "https://dzone.com/articles/deploying-an-apache-kafka-mock-server-with-microck",
+          "publishedOn": "2021-05-17T22:10:41.000Z",
+          "wordCount": 1017,
+          "title": "Deploying an Apache Kafka mock service with Microcks"
+        },
+        {
+          "id": "https://dzone.com/articles/3119449",
+          "author": "Irene Fatyanova",
+          "description": "Introduction\nIt’s often the case that vulnerable groups are the first to benefit from new technological advances, and that has held true for the evolution of IoT devices. Many of the solutions available in the market today can be practical for the general consumer, but they truly shine when used to help senior citizens and other vulnerable groups live safer and more independent lives.\nTo give you a sense of how this translates into the real world, let’s go over some IoT applications that are very useful for…",
+          "link": "https://dzone.com/articles/how-iot-solutions-are-helping-the-elderly-stay-saf",
+          "publishedOn": "2021-05-17T21:00:00.000Z",
+          "wordCount": 948,
+          "title": "IoT Solutions Are Helping the Elderly Stay Safe and Be More Independent"
+        },
+        {
+          "id": "https://dzone.com/articles/3124938",
+          "author": "Sylvain Leroy",
+          "description": "It is time to learn new test frameworks to improve your code quality and decrease the time of your testing phase. I have selected six testing frameworks that sound promising. Some have existed for quite a long time but I have not heard about them before.\n\nAt the end of the article, please tell me what you think about them and what your favorite ones are.\nRobot Framework\nRobot Framework is a generic open-source automation framework. It can be used for test automation and robotic process automation (RPA).",
+          "link": "https://dzone.com/articles/7-test-frameworks-to-follow-in-2021-for-javafullst",
+          "publishedOn": "2021-05-17T20:25:58.000Z",
+          "wordCount": 1360,
+          "title": "7 Test Frameworks To Follow in 2021 for Java/Fullstack Developers"
+        },
+        {
+          "id": "https://dzone.com/articles/3123953",
+          "author": "Bartłomiej Żyliński",
+          "description": "As you probably guessed from the title above, sending an SMS is the main topic of today's article. I started the articles with a few words about SMS service providers, then I explained what you may take into consideration while choosing the one for you, why I choose the Vonage, and added some more details about this platform. I also provided a simple step-by-step implementation of SMS sender service in Scala. \n Before we start — a quick disclaimer\n Here you can find only the most interesting code samples. T…",
+          "link": "https://dzone.com/articles/sending-text-messages-with-scala",
+          "publishedOn": "2021-05-17T19:50:44.000Z",
+          "wordCount": 1752,
+          "title": "Sending SMS With Scala"
+        },
+        {
+          "id": "https://dzone.com/articles/3119421",
+          "author": "camimi Morales",
+          "description": "You can always traceroute an IP address in Fedora using the standard traceroute command. However, if you are looking to find out more about each hop’s geolocation information inside the trace, you should consider using the IP2Trace command tool. \nIn addition to the geolocation information, such as country, region, city, latitude, and longitude, IP2Trace also provides you with the ZIP code, time zone, ISP, domain name, area code, weather, mobile information, elevation, and usage type of an IP address. The ty…",
+          "link": "https://dzone.com/articles/how-to-traceroute-with-geolocation-information-in",
+          "publishedOn": "2021-05-17T13:32:28.000Z",
+          "wordCount": 498,
+          "title": "How to Traceroute With Geolocation Information in Fedora"
+        },
+        {
+          "id": "https://dzone.com/articles/3121216",
+          "author": "Adnan Tuccar",
+          "description": "This article summarizes the webinar ‘Breaking The Monolith’, presented by Daniel Gutiérrez Saavedra, Senior Software Engineer at Zartis. You can watch the full webinar, which also includes a Q&A session below!\nAre you working with monolithic systems and legacy applications? Are you looking for ways to modernize your architecture and switch to microservices? This article will cover the ways you can break up a monolithic application into smaller pieces that make up a modular system.",
+          "link": "https://dzone.com/articles/microservices-architecture-breaking-the-monolith",
+          "publishedOn": "2021-05-17T13:23:27.000Z",
+          "wordCount": 1675,
+          "title": "Microservices Architecture: Breaking the Monolith"
+        },
+        {
+          "id": "https://dzone.com/articles/3123032",
+          "author": "Tyler Hawkins",
+          "description": "Photo by Tine Ivanič on Unsplash\n \n\nIn the browser, the event loop coordinates the execution of code between the call stack, web APIs, and the callback queue. Node.js, however, implements its own \"Node.js event loop,\" which is different from the regular \"JavaScript event loop.\" How confusing!",
+          "link": "https://dzone.com/articles/understanding-the-nodejs-event-loop",
+          "publishedOn": "2021-05-17T12:40:02.000Z",
+          "wordCount": 1849,
+          "title": "Understanding the Node.js Event Loop"
+        },
+        {
+          "id": "https://dzone.com/articles/3123934",
+          "author": "John Vester",
+          "description": "For the last 10 years, I have been building RESTful services as the feature team member on projects assigned to me via consulting opportunities or as a full-time corporate employee. This represents one-third of my career and is what I have enjoyed the most.\nHowever, in all of those years, when the system is part of an application modernization initiative, I feel like I'm learning the same lessons over and over:",
+          "link": "https://dzone.com/articles/how-i-stopped-coding-repetitive-service-components",
+          "publishedOn": "2021-05-17T10:38:18.000Z",
+          "wordCount": 1900,
+          "title": "How I Stopped Coding Repetitive Service Components with Kong"
+        },
         {
           "id": "https://dzone.com/articles/3121307",
           "author": "Amaan T",
@@ -1868,6 +2012,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
+          "publishedOn": "2021-05-17T22:45:20.000Z",
+          "wordCount": 244,
+          "title": "Saying the Difficult Things"
+        },
+        {
+          "id": "http://jobs.hackclub.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://jobs.hackclub.com/",
+          "publishedOn": "2021-05-17T22:42:22.000Z",
+          "wordCount": 193,
+          "title": "Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com"
+        },
+        {
+          "id": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
+          "publishedOn": "2021-05-17T22:25:51.000Z",
+          "wordCount": 1001,
+          "title": "Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S."
+        },
+        {
+          "id": "https://cantunsee.space/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cantunsee.space/",
+          "publishedOn": "2021-05-17T22:05:32.000Z",
+          "wordCount": 19,
+          "title": "Can't Unsee"
+        },
+        {
+          "id": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
+          "publishedOn": "2021-05-17T21:48:54.000Z",
+          "wordCount": 2174,
+          "title": "Positions chess engines don't understand"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-021-01332-0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-021-01332-0",
+          "publishedOn": "2021-05-17T21:36:43.000Z",
+          "wordCount": 1671,
+          "title": "First nuclear detonation created ‘impossible’ quasicrystals"
+        },
+        {
+          "id": "https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/",
+          "publishedOn": "2021-05-17T21:25:36.000Z",
+          "wordCount": 1901,
+          "title": "Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2"
+        },
+        {
+          "id": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/",
+          "publishedOn": "2021-05-17T21:25:28.000Z",
+          "wordCount": 6420,
+          "title": "Why Civilization Is Older Than We Thought"
+        },
+        {
+          "id": "https://github.com/jupyterlab/jupyterlab-latex",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jupyterlab/jupyterlab-latex",
+          "publishedOn": "2021-05-17T21:05:45.000Z",
+          "wordCount": 1067,
+          "title": "JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab"
+        },
+        {
+          "id": "https://onesignal.com/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onesignal.com/careers",
+          "publishedOn": "2021-05-17T21:01:13.000Z",
+          "wordCount": 460,
+          "title": "OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK"
+        },
+        {
+          "id": "https://ysamm.com/?p=691",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ysamm.com/?p=691",
+          "publishedOn": "2021-05-17T20:41:30.000Z",
+          "wordCount": 366,
+          "title": "Identify a Facebook user by his phone number despite privacy settings set"
+        },
+        {
+          "id": "https://legalese.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://legalese.com/",
+          "publishedOn": "2021-05-17T20:36:44.000Z",
+          "wordCount": 260,
+          "title": "Legalese – Computational Law"
+        },
+        {
+          "id": "https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery",
+          "publishedOn": "2021-05-17T20:14:30.000Z",
+          "wordCount": 1155,
+          "title": "A long-lasting, stable solid-state lithium battery"
+        },
+        {
+          "id": "https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster",
+          "publishedOn": "2021-05-17T19:44:55.000Z",
+          "wordCount": 2793,
+          "title": "Caltech professor helps solve Hindenburg disaster"
+        },
+        {
+          "id": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
+          "publishedOn": "2021-05-17T19:38:38.000Z",
+          "wordCount": 4610,
+          "title": "Recovering “lost” treasure-filled floppy discs with an oscilloscope"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2021-84",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sec.gov/news/press-release/2021-84",
+          "publishedOn": "2021-05-17T19:01:48.000Z",
+          "wordCount": 962,
+          "title": "SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index"
+        },
+        {
+          "id": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
+          "publishedOn": "2021-05-17T18:51:23.000Z",
+          "wordCount": 1206,
+          "title": "Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes"
+        },
+        {
+          "id": "https://www.bbc.com/news/57102499",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/57102499",
+          "publishedOn": "2021-05-17T18:42:45.000Z",
+          "wordCount": 1639,
+          "title": "Why is the Gaza Strip blurry on Google Maps?"
+        },
+        {
+          "id": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
+          "publishedOn": "2021-05-17T18:23:39.000Z",
+          "wordCount": 7113,
+          "title": "A police dog who cried drugs at every traffic stop"
+        },
+        {
+          "id": "https://www.grouparoo.com/blog/varchar-191",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.grouparoo.com/blog/varchar-191",
+          "publishedOn": "2021-05-17T18:18:18.000Z",
+          "wordCount": 1307,
+          "title": "Why do database columns have a character length of 191?"
+        },
+        {
+          "id": "https://volument.com/blog/volument-launches",
+          "author": null,
+          "description": "Comments",
+          "link": "https://volument.com/blog/volument-launches",
+          "publishedOn": "2021-05-17T18:04:27.000Z",
+          "wordCount": 1253,
+          "title": "Show HN: Volument – Our take on website analytics"
+        },
+        {
+          "id": "https://100r.co/site/uxn.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://100r.co/site/uxn.html",
+          "publishedOn": "2021-05-17T17:35:32.000Z",
+          "wordCount": 674,
+          "title": "uxn: a portable 8-bit virtual computer"
+        },
+        {
+          "id": "https://lwn.net/Articles/414618/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/414618/",
+          "publishedOn": "2021-05-17T14:25:43.000Z",
+          "wordCount": 16485,
+          "title": "Ghosts of Unix past, part 3: Unfixable designs (2010)"
+        },
+        {
+          "id": "https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/",
+          "publishedOn": "2021-05-17T13:06:31.000Z",
+          "wordCount": 1914,
+          "title": "Apple Music Announces Spatial Audio and Lossless Audio"
+        },
+        {
+          "id": "https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024",
+          "publishedOn": "2021-05-17T12:09:49.000Z",
+          "wordCount": 2955,
+          "title": "AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive"
+        },
+        {
+          "id": "https://github.com/mikecao/umami",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mikecao/umami",
+          "publishedOn": "2021-05-17T09:44:37.000Z",
+          "wordCount": 1018,
+          "title": "Umami – An alternative to Google Analytics"
+        },
+        {
+          "id": "http://www.gardening.cornell.edu/homegardening/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.gardening.cornell.edu/homegardening/",
+          "publishedOn": "2021-05-17T08:50:35.000Z",
+          "wordCount": 71,
+          "title": "Home Gardening"
+        },
+        {
+          "id": "https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video",
+          "publishedOn": "2021-05-17T04:57:51.000Z",
+          "wordCount": 333,
+          "title": "“Designing Intrinsic Layouts” by Jen Simmons–An Event Apart Video"
+        },
+        {
           "id": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
           "author": null,
           "description": "Comments",
@@ -2073,6 +2469,15 @@
           "publishedOn": "2021-05-16T12:22:25.000Z",
           "wordCount": 430,
           "title": "Show HN: Vandal – an alternate navigator to Wayback Machine"
+        },
+        {
+          "id": "https://macwright.com/2019/01/02/paper-notes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://macwright.com/2019/01/02/paper-notes.html",
+          "publishedOn": "2021-05-16T11:14:51.000Z",
+          "wordCount": 520,
+          "title": "Paper Notes"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27171970",
@@ -2379,6 +2784,15 @@
           "publishedOn": "2021-05-15T00:03:01.000Z",
           "wordCount": 529,
           "title": "The Return of Fancy Tools"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html",
+          "publishedOn": "2021-05-14T23:52:16.000Z",
+          "wordCount": 1147,
+          "title": "More Scientists Urge Broad Inquiry into Coronavirus Origins"
         },
         {
           "id": "https://rodencrater.com/",
@@ -3760,5 +4174,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }

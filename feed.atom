@@ -2,10 +2,472 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T00:30:56.260Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T00:34:33.591Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saying the Difficult Things]]></title>
+        <id>https://ethan.katzenberg.co.uk/posts/saying-difficult-things/</id>
+        <link href="https://ethan.katzenberg.co.uk/posts/saying-difficult-things/"/>
+        <updated>2021-05-17T22:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com]]></title>
+        <id>http://jobs.hackclub.com/</id>
+        <link href="http://jobs.hackclub.com/"/>
+        <updated>2021-05-17T22:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brood X cicadas, which come out ever 17 years, come out in the Eastern U.S.]]></title>
+        <id>https://www.nps.gov/articles/000/cicadas-brood-x.htm</id>
+        <link href="https://www.nps.gov/articles/000/cicadas-brood-x.htm"/>
+        <updated>2021-05-17T22:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying an Apache Kafka mock service with Microcks]]></title>
+        <id>https://dzone.com/articles/3123099</id>
+        <link href="https://dzone.com/articles/deploying-an-apache-kafka-mock-server-with-microck"/>
+        <updated>2021-05-17T22:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Developers are working with new applications every day using Apache Kafka as the backbone to implement an event-driven architecture (EDA) to support distributed systems. However, this adds new challenges when sharing across teams, even within the same organization. What endpoints are available? What is the structure of the message? That’s why payload examples became critical to speed up development. For this reason, having a reliable and enterprise-grade service to mock Apache Kafka should be an item in you…]]></summary>
+        <author>
+            <name>Hugo Guerrero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't Unsee]]></title>
+        <id>https://cantunsee.space/</id>
+        <link href="https://cantunsee.space/"/>
+        <updated>2021-05-17T22:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
+        <id>https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand</id>
+        <link href="https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand"/>
+        <updated>2021-05-17T21:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First nuclear detonation created ‘impossible’ quasicrystals]]></title>
+        <id>https://www.nature.com/articles/d41586-021-01332-0</id>
+        <link href="https://www.nature.com/articles/d41586-021-01332-0"/>
+        <updated>2021-05-17T21:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Chips 33: Alder Lake, Sapphire Rapids, Zen 3, Next-Gen Z, Neoverse N2]]></title>
+        <id>https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/</id>
+        <link href="https://fuse.wikichip.org/news/4897/hot-chips-33-program-alder-lake-sapphire-rapids-zen-3-next-gen-z-neoverse-n2-and-many-more/"/>
+        <updated>2021-05-17T21:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Civilization Is Older Than We Thought]]></title>
+        <id>https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/</id>
+        <link href="https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/"/>
+        <updated>2021-05-17T21:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JupyterLab LaTeX – live-editing of LaTeX documents in JupyterLab]]></title>
+        <id>https://github.com/jupyterlab/jupyterlab-latex</id>
+        <link href="https://github.com/jupyterlab/jupyterlab-latex"/>
+        <updated>2021-05-17T21:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneSignal (YC S11) Is Hiring Engineers in California, New York, Texas, & the UK]]></title>
+        <id>https://onesignal.com/careers</id>
+        <link href="https://onesignal.com/careers"/>
+        <updated>2021-05-17T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT Solutions Are Helping the Elderly Stay Safe and Be More Independent]]></title>
+        <id>https://dzone.com/articles/3119449</id>
+        <link href="https://dzone.com/articles/how-iot-solutions-are-helping-the-elderly-stay-saf"/>
+        <updated>2021-05-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+It’s often the case that vulnerable groups are the first to benefit from new technological advances, and that has held true for the evolution of IoT devices. Many of the solutions available in the market today can be practical for the general consumer, but they truly shine when used to help senior citizens and other vulnerable groups live safer and more independent lives.
+To give you a sense of how this translates into the real world, let’s go over some IoT applications that are very useful for…]]></summary>
+        <author>
+            <name>Irene Fatyanova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify a Facebook user by his phone number despite privacy settings set]]></title>
+        <id>https://ysamm.com/?p=691</id>
+        <link href="https://ysamm.com/?p=691"/>
+        <updated>2021-05-17T20:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legalese – Computational Law]]></title>
+        <id>https://legalese.com/</id>
+        <link href="https://legalese.com/"/>
+        <updated>2021-05-17T20:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Test Frameworks To Follow in 2021 for Java/Fullstack Developers]]></title>
+        <id>https://dzone.com/articles/3124938</id>
+        <link href="https://dzone.com/articles/7-test-frameworks-to-follow-in-2021-for-javafullst"/>
+        <updated>2021-05-17T20:25:58.000Z</updated>
+        <summary type="html"><![CDATA[It is time to learn new test frameworks to improve your code quality and decrease the time of your testing phase. I have selected six testing frameworks that sound promising. Some have existed for quite a long time but I have not heard about them before.
+
+At the end of the article, please tell me what you think about them and what your favorite ones are.
+Robot Framework
+Robot Framework is a generic open-source automation framework. It can be used for test automation and robotic process automation (RPA).]]></summary>
+        <author>
+            <name>Sylvain Leroy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A long-lasting, stable solid-state lithium battery]]></title>
+        <id>https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery</id>
+        <link href="https://www.seas.harvard.edu/news/2021/05/long-lasting-stable-solid-state-lithium-battery"/>
+        <updated>2021-05-17T20:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending SMS With Scala]]></title>
+        <id>https://dzone.com/articles/3123953</id>
+        <link href="https://dzone.com/articles/sending-text-messages-with-scala"/>
+        <updated>2021-05-17T19:50:44.000Z</updated>
+        <summary type="html"><![CDATA[As you probably guessed from the title above, sending an SMS is the main topic of today's article. I started the articles with a few words about SMS service providers, then I explained what you may take into consideration while choosing the one for you, why I choose the Vonage, and added some more details about this platform. I also provided a simple step-by-step implementation of SMS sender service in Scala. 
+ Before we start — a quick disclaimer
+ Here you can find only the most interesting code samples. T…]]></summary>
+        <author>
+            <name>Bartłomiej Żyliński</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caltech professor helps solve Hindenburg disaster]]></title>
+        <id>https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster</id>
+        <link href="https://www.caltech.edu/about/news/historys-mysteries-caltech-professor-helps-solve-hindenburg-disaster"/>
+        <updated>2021-05-17T19:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering “lost” treasure-filled floppy discs with an oscilloscope]]></title>
+        <id>https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html</id>
+        <link href="https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html"/>
+        <updated>2021-05-17T19:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index]]></title>
+        <id>https://www.sec.gov/news/press-release/2021-84</id>
+        <link href="https://www.sec.gov/news/press-release/2021-84"/>
+        <updated>2021-05-17T19:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes]]></title>
+        <id>https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/</id>
+        <link href="https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/"/>
+        <updated>2021-05-17T18:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the Gaza Strip blurry on Google Maps?]]></title>
+        <id>https://www.bbc.com/news/57102499</id>
+        <link href="https://www.bbc.com/news/57102499"/>
+        <updated>2021-05-17T18:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
+        <id>https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/</id>
+        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
+        <updated>2021-05-17T18:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do database columns have a character length of 191?]]></title>
+        <id>https://www.grouparoo.com/blog/varchar-191</id>
+        <link href="https://www.grouparoo.com/blog/varchar-191"/>
+        <updated>2021-05-17T18:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Volument – Our take on website analytics]]></title>
+        <id>https://volument.com/blog/volument-launches</id>
+        <link href="https://volument.com/blog/volument-launches"/>
+        <updated>2021-05-17T18:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uxn: a portable 8-bit virtual computer]]></title>
+        <id>https://100r.co/site/uxn.html</id>
+        <link href="https://100r.co/site/uxn.html"/>
+        <updated>2021-05-17T17:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
+        <id>https://css-tricks.com/?p=339522</id>
+        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
+        <updated>2021-05-17T14:27:22.000Z</updated>
+        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
+The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ashley Kolodziej</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euismod]]></title>
+        <id>https://css-tricks.com/?p=340594</id>
+        <link href="https://www.euismod.dev/"/>
+        <updated>2021-05-17T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
+The post Euismod appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghosts of Unix past, part 3: Unfixable designs (2010)]]></title>
+        <id>https://lwn.net/Articles/414618/</id>
+        <link href="https://lwn.net/Articles/414618/"/>
+        <updated>2021-05-17T14:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Traceroute With Geolocation Information in Fedora]]></title>
+        <id>https://dzone.com/articles/3119421</id>
+        <link href="https://dzone.com/articles/how-to-traceroute-with-geolocation-information-in"/>
+        <updated>2021-05-17T13:32:28.000Z</updated>
+        <summary type="html"><![CDATA[You can always traceroute an IP address in Fedora using the standard traceroute command. However, if you are looking to find out more about each hop’s geolocation information inside the trace, you should consider using the IP2Trace command tool. 
+In addition to the geolocation information, such as country, region, city, latitude, and longitude, IP2Trace also provides you with the ZIP code, time zone, ISP, domain name, area code, weather, mobile information, elevation, and usage type of an IP address. The ty…]]></summary>
+        <author>
+            <name>camimi Morales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices Architecture: Breaking the Monolith]]></title>
+        <id>https://dzone.com/articles/3121216</id>
+        <link href="https://dzone.com/articles/microservices-architecture-breaking-the-monolith"/>
+        <updated>2021-05-17T13:23:27.000Z</updated>
+        <summary type="html"><![CDATA[This article summarizes the webinar ‘Breaking The Monolith’, presented by Daniel Gutiérrez Saavedra, Senior Software Engineer at Zartis. You can watch the full webinar, which also includes a Q&A session below!
+Are you working with monolithic systems and legacy applications? Are you looking for ways to modernize your architecture and switch to microservices? This article will cover the ways you can break up a monolithic application into smaller pieces that make up a modular system.]]></summary>
+        <author>
+            <name>Adnan Tuccar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music Announces Spatial Audio and Lossless Audio]]></title>
+        <id>https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/</id>
+        <link href="https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/"/>
+        <updated>2021-05-17T13:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Node.js Event Loop]]></title>
+        <id>https://dzone.com/articles/3123032</id>
+        <link href="https://dzone.com/articles/understanding-the-nodejs-event-loop"/>
+        <updated>2021-05-17T12:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Tine Ivanič on Unsplash
+ 
+
+In the browser, the event loop coordinates the execution of code between the call stack, web APIs, and the callback queue. Node.js, however, implements its own "Node.js event loop," which is different from the regular "JavaScript event loop." How confusing!]]></summary>
+        <author>
+            <name>Tyler Hawkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive]]></title>
+        <id>https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024</id>
+        <link href="https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024"/>
+        <updated>2021-05-17T12:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Stopped Coding Repetitive Service Components with Kong]]></title>
+        <id>https://dzone.com/articles/3123934</id>
+        <link href="https://dzone.com/articles/how-i-stopped-coding-repetitive-service-components"/>
+        <updated>2021-05-17T10:38:18.000Z</updated>
+        <summary type="html"><![CDATA[For the last 10 years, I have been building RESTful services as the feature team member on projects assigned to me via consulting opportunities or as a full-time corporate employee. This represents one-third of my career and is what I have enjoyed the most.
+However, in all of those years, when the system is part of an application modernization initiative, I feel like I'm learning the same lessons over and over:]]></summary>
+        <author>
+            <name>John Vester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umami – An alternative to Google Analytics]]></title>
+        <id>https://github.com/mikecao/umami</id>
+        <link href="https://github.com/mikecao/umami"/>
+        <updated>2021-05-17T09:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Gardening]]></title>
+        <id>http://www.gardening.cornell.edu/homegardening/</id>
+        <link href="http://www.gardening.cornell.edu/homegardening/"/>
+        <updated>2021-05-17T08:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Designing Intrinsic Layouts” by Jen Simmons–An Event Apart Video]]></title>
+        <id>https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video</id>
+        <link href="https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video"/>
+        <updated>2021-05-17T04:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are Micro-apps and Why Businesses Need Them?]]></title>
         <id>https://dzone.com/articles/3121307</id>
@@ -430,6 +892,16 @@ __DATA__
     % for my $style ( q…]]></summary>
         <author>
             <name>Mark Gardner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper Notes]]></title>
+        <id>https://macwright.com/2019/01/02/paper-notes.html</id>
+        <link href="https://macwright.com/2019/01/02/paper-notes.html"/>
+        <updated>2021-05-16T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1114,6 +1586,16 @@ It provides authentication (with OAuth, JWT, API keys, and JWT), authorization (
         <id>https://macwright.com/2021/03/16/return-of-fancy-tools.html</id>
         <link href="https://macwright.com/2021/03/16/return-of-fancy-tools.html"/>
         <updated>2021-05-15T00:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Scientists Urge Broad Inquiry into Coronavirus Origins]]></title>
+        <id>https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html</id>
+        <link href="https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html"/>
+        <updated>2021-05-14T23:52:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
