@@ -2,10 +2,517 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T00:34:33.591Z</updated>
+    <updated>2021-05-19T00:31:28.660Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Movfuscator: Compile C into only mov instructions]]></title>
+        <id>https://github.com/Battelle/movfuscator</id>
+        <link href="https://github.com/Battelle/movfuscator"/>
+        <updated>2021-05-18T23:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Calls Links to Depression Inconclusive. These Researchers Disagree]]></title>
+        <id>https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree</id>
+        <link href="https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree"/>
+        <updated>2021-05-18T23:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sirum is hiring engineers for the micro-fulfillment of medicine]]></title>
+        <id>https://news.ycombinator.com/item?id=27201040</id>
+        <link href="https://news.ycombinator.com/item?id=27201040"/>
+        <updated>2021-05-18T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chad Strings – The Chad way to handle strings in C]]></title>
+        <id>https://github.com/skullchap/chadstr</id>
+        <link href="https://github.com/skullchap/chadstr"/>
+        <updated>2021-05-18T20:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Matrix Space Beta]]></title>
+        <id>https://matrix.org/blog/2021/05/17/the-matrix-space-beta</id>
+        <link href="https://matrix.org/blog/2021/05/17/the-matrix-space-beta"/>
+        <updated>2021-05-18T20:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The data model behind Notion's flexibility]]></title>
+        <id>https://www.notion.so/blog/data-model-behind-notion</id>
+        <link href="https://www.notion.so/blog/data-model-behind-notion"/>
+        <updated>2021-05-18T19:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=340613</id>
+        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
+        <updated>2021-05-18T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
+A fella wrote to me a while back outlining a situation he was in. His company has …
+The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards]]></title>
+        <id>https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/</id>
+        <link href="https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/"/>
+        <updated>2021-05-18T19:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Starline: Feel like you're there, together]]></title>
+        <id>https://blog.google/technology/research/project-starline/</id>
+        <link href="https://blog.google/technology/research/project-starline/"/>
+        <updated>2021-05-18T18:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The tools and tech I use to run a one-woman hardware company]]></title>
+        <id>https://blog.thea.codes/winterblooms-tech-stack/</id>
+        <link href="https://blog.thea.codes/winterblooms-tech-stack/"/>
+        <updated>2021-05-18T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrate Data Across Kafka Cluster Using mirrormaker2 in Strimzi]]></title>
+        <id>https://dzone.com/articles/3124520</id>
+        <link href="https://dzone.com/articles/migrate-data-across-kafka-cluster-using-mirrormake"/>
+        <updated>2021-05-18T18:33:33.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will discuss a use case where data from one kafka cluster has to be migrated to another Kafka Cluster. Here the target is strimzi and the source is a standalone Kafka cluster.  Target means where data has to be copied and the source is from where we want to copy/migrate data. I have an article on how to use mirrormaker with apache kafka clusters about mirrormaker version 1. This article is about mirrormaker 2, which has more features than mirrormaker1.
+At the time of writing this article…]]></summary>
+        <author>
+            <name>Chandra Shekhar Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customized Artemis Broker Configuration With Init Containers on Kubernetes or Openshift]]></title>
+        <id>https://dzone.com/articles/3121485</id>
+        <link href="https://dzone.com/articles/customized-artemis-broker-configuration-with-init"/>
+        <updated>2021-05-18T18:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Apache ActiveMQ Artemis is a powerful open-source multi-protocol message broker.  Red Hat AMQ 7 is the enterprise distribution of Apache ActiveMQ Artemis. Also, there is artemiscloud.io  available for Kubernetes and OpenShift. 
+In this article, we will discuss how we can customize the configuration for Artemis Broker on Kubernetes. This could be helpful for those who are migrating from the Standalone version of AMQ 7 or Artemis to AMQ 7 on OpenShift. For beginners, the using_operator article would be helpfu…]]></summary>
+        <author>
+            <name>Chandra Shekhar Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate ZAP With Docker]]></title>
+        <id>https://dzone.com/articles/3124844</id>
+        <link href="https://dzone.com/articles/automate-zap-with-docker"/>
+        <updated>2021-05-18T18:12:29.000Z</updated>
+        <summary type="html"><![CDATA[In the previous posts, you learned how to use ZAP with the Desktop client and via the command line with ZAP CLI. This post, you will learn how to use the Docker images which are provided by OWASP. This will even make it easier to automate ZAP, especially in a CI/CD pipeline.
+1. Introduction
+It is strongly advised to read the two previous posts about ZAP before starting with this one. You will need some files which were created in the previous posts. If you already have experience with ZAP, you can continue …]]></summary>
+        <author>
+            <name>Gunter Rotsaert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Robotics is Helping the Logistics Industry Move Ahead]]></title>
+        <id>https://dzone.com/articles/3122132</id>
+        <link href="https://dzone.com/articles/how-robotics-is-helping-the-logistics-industry-mov"/>
+        <updated>2021-05-18T18:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Imagine an automated software that can keep a check on the vaccination data for COVID19. Looks like science fantasy, right? Many of you might be already tapping that nostalgic feel of star wars robotic characters, but “Olive” is developed around reducing repetitive tasks at hospitals. 
+It is a concept that fuses deep learning and computer vision to automate repetitive tasks like documentation, seeking approval before surgeries, and more. Such concepts can be leveraged to document vaccinations across the wor…]]></summary>
+        <author>
+            <name>Parth Bari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The overfitted brain: Dreams evolved to assist generalization]]></title>
+        <id>https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7</id>
+        <link href="https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7"/>
+        <updated>2021-05-18T17:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling our new Quantum AI campus]]></title>
+        <id>https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/</id>
+        <link href="https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/"/>
+        <updated>2021-05-18T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers]]></title>
+        <id>https://news.ycombinator.com/item?id=27198319</id>
+        <link href="https://news.ycombinator.com/item?id=27198319"/>
+        <updated>2021-05-18T17:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting upload speed and improving Windows' TCP stack]]></title>
+        <id>https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed</id>
+        <link href="https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed"/>
+        <updated>2021-05-18T17:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LaMDA: Google's New Conversation Technology]]></title>
+        <id>https://blog.google/technology/ai/lamda/</id>
+        <link href="https://blog.google/technology/ai/lamda/"/>
+        <updated>2021-05-18T17:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flat Data]]></title>
+        <id>https://octo.github.com/projects/flat-data</id>
+        <link href="https://octo.github.com/projects/flat-data"/>
+        <updated>2021-05-18T17:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlanetScale – Database for Developers]]></title>
+        <id>https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers</id>
+        <link href="https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers"/>
+        <updated>2021-05-18T17:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
+        <id>60a3780f906c5207e3a7db5f</id>
+        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
+        <updated>2021-05-18T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Definitive Guide to ERP Implementation]]></title>
+        <id>https://dzone.com/articles/3121556</id>
+        <link href="https://dzone.com/articles/definitive-guide-to-erp-implementation"/>
+        <updated>2021-05-18T17:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you know 55% to 75% of ERP implementation projects do not succeed?
+In fact, as per a study, 57% of enterprises end up taking more time than expected, and 54% go over budget. 60% face data integration and fetching issues. 37% of the total businesses find it very tough to train their employees to use it.]]></summary>
+        <author>
+            <name>Harry Stone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image-Based Test Automation Using Sikuli]]></title>
+        <id>https://dzone.com/articles/3122625</id>
+        <link href="https://dzone.com/articles/sikuli-automation"/>
+        <updated>2021-05-18T17:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Sikuli is an open source test automation tool for testing web applications. It is similar to Selenium, but it considers all the web elements of the application as images. This tool is capable of recognizing images and interacting with the elements matching the image GUI.
+How to Use Sikuli in an Eclipse-Maven Project
+Step 1: Create a Maven project called "SikuliProject".]]></summary>
+        <author>
+            <name>Remi Andonissamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
+        <id>6068f146d5756f080ba9402d</id>
+        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
+        <updated>2021-05-18T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Spring Native and Save Money]]></title>
+        <id>https://dzone.com/articles/3120515</id>
+        <link href="https://dzone.com/articles/use-spring-native-and-save-money"/>
+        <updated>2021-05-18T16:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Spring Native is the way to compile Spring applications to native images with GraalVM without changing anything (or at least some stuff) in our code. How do we use it? Well, that's not the topic of this post; just follow this awesome getting started document!
+In a company, every choice we do as software developers should be guided from a simple sentence: solving problems and saving money.]]></summary>
+        <author>
+            <name>Davide Cerbo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Task Execution Using Redis and Spring Boot]]></title>
+        <id>https://dzone.com/articles/2882409</id>
+        <link href="https://dzone.com/articles/asynchronous-task-executor-using-redis-and-spring"/>
+        <updated>2021-05-18T16:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about executing asynchronous tasks using Redis and Spring Boot.
+
+In this article, we are going to learn how to use Spring Boot 2.x and Redis to execute asynchronous tasks, with the final code demonstrating the steps described in this post.
+Spring and Threads: Async
+
+Spring/Spring Boot
+Spring is the most popular framework available for Java application development. As such, Spring has one of the largest open source communities. Besides that, Spring provides extensive and up-to-date documentation t…]]></summary>
+        <author>
+            <name>Sonu Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber Engineering Tricks of the Trade: Tuning JVM Memory for Large-Scale Services]]></title>
+        <id>https://eng.uber.com/jvm-tuning-garbage-collection/</id>
+        <link href="https://eng.uber.com/jvm-tuning-garbage-collection/"/>
+        <updated>2021-05-18T16:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
+        <id>609bea6b62ab9107fe5a9f89</id>
+        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
+        <updated>2021-05-18T16:36:22.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
+        <id>609fc4cc62ab9107fe5aac91</id>
+        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
+        <updated>2021-05-18T16:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting Communities of Practice in Your Organization]]></title>
+        <id>https://dzone.com/articles/3119688</id>
+        <link href="https://dzone.com/articles/pragmatic-guide-to-starting-communities-of-practice-in-organization"/>
+        <updated>2021-05-18T16:12:20.000Z</updated>
+        <summary type="html"><![CDATA[Graphics made by Max Degtyarev
+What Is a Community of Practice?
+community of practice (CoP) is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly. Unlike a regular team, which is held together by a shared task, a community of practice is held together by the “learning value” members find in their interactions, and usually contains members of multiple existing teams.
+
+As an example, Automation Quality Assurance engineers spread ac…]]></summary>
+        <author>
+            <name>Anton Yarkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
+        <id>60685767d5756f080ba93df4</id>
+        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
+        <updated>2021-05-18T16:08:27.000Z</updated>
+        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halide for iPad]]></title>
+        <id>https://lux.camera/halide-pro-camera-for-ipad/</id>
+        <link href="https://lux.camera/halide-pro-camera-for-ipad/"/>
+        <updated>2021-05-18T16:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain in Telemedicine]]></title>
+        <id>https://dzone.com/articles/3121448</id>
+        <link href="https://dzone.com/articles/how-does-blockchain-work-in-telemedicine"/>
+        <updated>2021-05-18T16:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain came with efficient solutions to multiple issues prevailing in telemedicine systems. Solutions to increasing counterfeit drugs, data breaches, and other significant factors became the driving force for Blockchain healthcare market growth. Marketsandmarkets predicted that the global Blockchain healthcare market would reach 829 million USD by 2023.
+Blockchain facilitates the telemedicine sector by providing secure data sharing, the privacy of PHIs and verifiable data. The incorporation of Blockchai…]]></summary>
+        <author>
+            <name>Akash Takyar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site Isolation in Firefox]]></title>
+        <id>https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/</id>
+        <link href="https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/"/>
+        <updated>2021-05-18T16:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Companies may be punished for paying ransoms to sanctioned hackers]]></title>
+        <id>https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U</id>
+        <link href="https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U"/>
+        <updated>2021-05-18T15:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hydras suggest that sleep evolved before brains]]></title>
+        <id>https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/</id>
+        <link href="https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/"/>
+        <updated>2021-05-18T15:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/?p=340420</id>
+        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
+        <updated>2021-05-18T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
+The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Silvia O'Dwyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Public Working Drafts: WebGPU and WebGPU Shading Language]]></title>
+        <id>https://www.w3.org/blog/news/archives/9059</id>
+        <link href="https://www.w3.org/blog/news/archives/9059"/>
+        <updated>2021-05-18T14:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum will use around 99.95% less energy post merge]]></title>
+        <id>https://blog.ethereum.org/2021/05/18/country-power-no-more/</id>
+        <link href="https://blog.ethereum.org/2021/05/18/country-power-no-more/"/>
+        <updated>2021-05-18T13:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fierce Nerds]]></title>
+        <id>http://paulgraham.com/fn.html</id>
+        <link href="http://paulgraham.com/fn.html"/>
+        <updated>2021-05-18T13:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen]]></title>
+        <id>https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/</id>
+        <link href="https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/"/>
+        <updated>2021-05-18T12:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Store health and safety - Example health and safety architecture]]></title>
+        <id>https://dzone.com/articles/3125007</id>
+        <link href="https://dzone.com/articles/store-health-and-safety-example-health-and-safety"/>
+        <updated>2021-05-18T11:20:03.000Z</updated>
+        <summary type="html"><![CDATA[In our previous article from this series shared a look at the logical common architectural elements found in a store health and safety solution for retail organisations.
+The process was laid out how we've approached the use case and how portfolio solutions are the base for researching a generic architectural blueprint. It continued by laying out the process of how we've approached the use case by researching successful customer portfolio solutions as the basis for a generic architectural blueprint.]]></summary>
+        <author>
+            <name>Eric D. Schabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
+        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
+        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
+        <updated>2021-05-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMP pages no longer get preferential treatment in Google search]]></title>
+        <id>https://plausible.io/blog/google-amp</id>
+        <link href="https://plausible.io/blog/google-amp"/>
+        <updated>2021-05-18T09:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe is dropping PostScript Type 1 font support]]></title>
+        <id>https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html</id>
+        <link href="https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html"/>
+        <updated>2021-05-18T07:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bleak Prescience of Richard Wright]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/"/>
+        <updated>2021-05-18T05:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saying the Difficult Things]]></title>
         <id>https://ethan.katzenberg.co.uk/posts/saying-difficult-things/</id>
@@ -899,6 +1406,26 @@ __DATA__
         <id>https://macwright.com/2019/01/02/paper-notes.html</id>
         <link href="https://macwright.com/2019/01/02/paper-notes.html"/>
         <updated>2021-05-16T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Map of the Internet]]></title>
+        <id>https://www.halcyonmaps.com/map-of-the-internet-2021/</id>
+        <link href="https://www.halcyonmaps.com/map-of-the-internet-2021/"/>
+        <updated>2021-05-16T10:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Definitive Guide to Ruby's C API]]></title>
+        <id>https://silverhammermba.github.io/emberb/c/</id>
+        <link href="https://silverhammermba.github.io/emberb/c/"/>
+        <updated>2021-05-16T09:42:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -4879,16 +5406,6 @@ This Refcard dives into how a data lake helps tackle these challenges at both en
         <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
-        <updated>2021-04-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>

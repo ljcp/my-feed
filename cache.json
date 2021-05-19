@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340613",
+          "author": "Chris Coyier",
+          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
+          "publishedOn": "2021-05-18T19:14:53.000Z",
+          "wordCount": 973,
+          "title": "Pinned Audio WordPress Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340420",
+          "author": "Silvia O'Dwyer",
+          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "publishedOn": "2021-05-18T14:31:25.000Z",
+          "wordCount": 2100,
+          "title": "How to Create Neon Text With CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=340716",
           "author": "Chris Coyier",
           "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -283,6 +301,24 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
+          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "publishedOn": "2021-05-18T10:30:00.000Z",
+          "wordCount": 1796,
+          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "publishedOn": "2021-05-18T05:00:00.000Z",
+          "wordCount": 9250,
+          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "author": "hello@smashingmagazine.com (Beau Hartshorne)",
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
@@ -488,15 +524,6 @@
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
           "title": "Making GraphQL Work In WordPress"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
         }
       ]
     },
@@ -505,6 +532,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a3780f906c5207e3a7db5f",
+          "author": "",
+          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
+          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
+          "publishedOn": "2021-05-18T17:12:59.000Z",
+          "wordCount": 1973,
+          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+        },
+        {
+          "id": "6068f146d5756f080ba9402d",
+          "author": "",
+          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
+          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
+          "publishedOn": "2021-05-18T16:50:36.000Z",
+          "wordCount": 3309,
+          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
+        },
+        {
+          "id": "609bea6b62ab9107fe5a9f89",
+          "author": "",
+          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
+          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
+          "publishedOn": "2021-05-18T16:36:22.000Z",
+          "wordCount": 1938,
+          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
+        },
+        {
+          "id": "609fc4cc62ab9107fe5aac91",
+          "author": "",
+          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
+          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
+          "publishedOn": "2021-05-18T16:18:18.000Z",
+          "wordCount": 2037,
+          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
+        },
+        {
+          "id": "60685767d5756f080ba93df4",
+          "author": "",
+          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
+          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
+          "publishedOn": "2021-05-18T16:08:27.000Z",
+          "wordCount": 4368,
+          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
+        },
         {
           "id": "60a2771762ab9107fe5ab383",
           "author": "",
@@ -816,6 +888,105 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3124520",
+          "author": "Chandra Shekhar Pandey",
+          "description": "In this article, we will discuss a use case where data from one kafka cluster has to be migrated to another Kafka Cluster. Here the target is strimzi and the source is a standalone Kafka cluster.  Target means where data has to be copied and the source is from where we want to copy/migrate data. I have an article on how to use mirrormaker with apache kafka clusters about mirrormaker version 1. This article is about mirrormaker 2, which has more features than mirrormaker1.\nAt the time of writing this article…",
+          "link": "https://dzone.com/articles/migrate-data-across-kafka-cluster-using-mirrormake",
+          "publishedOn": "2021-05-18T18:33:33.000Z",
+          "wordCount": 1384,
+          "title": "Migrate Data Across Kafka Cluster Using mirrormaker2 in Strimzi"
+        },
+        {
+          "id": "https://dzone.com/articles/3121485",
+          "author": "Chandra Shekhar Pandey",
+          "description": "Apache ActiveMQ Artemis is a powerful open-source multi-protocol message broker.  Red Hat AMQ 7 is the enterprise distribution of Apache ActiveMQ Artemis. Also, there is artemiscloud.io  available for Kubernetes and OpenShift. \nIn this article, we will discuss how we can customize the configuration for Artemis Broker on Kubernetes. This could be helpful for those who are migrating from the Standalone version of AMQ 7 or Artemis to AMQ 7 on OpenShift. For beginners, the using_operator article would be helpfu…",
+          "link": "https://dzone.com/articles/customized-artemis-broker-configuration-with-init",
+          "publishedOn": "2021-05-18T18:24:17.000Z",
+          "wordCount": 1501,
+          "title": "Customized Artemis Broker Configuration With Init Containers on Kubernetes or Openshift"
+        },
+        {
+          "id": "https://dzone.com/articles/3124844",
+          "author": "Gunter Rotsaert",
+          "description": "In the previous posts, you learned how to use ZAP with the Desktop client and via the command line with ZAP CLI. This post, you will learn how to use the Docker images which are provided by OWASP. This will even make it easier to automate ZAP, especially in a CI/CD pipeline.\n1. Introduction\nIt is strongly advised to read the two previous posts about ZAP before starting with this one. You will need some files which were created in the previous posts. If you already have experience with ZAP, you can continue …",
+          "link": "https://dzone.com/articles/automate-zap-with-docker",
+          "publishedOn": "2021-05-18T18:12:29.000Z",
+          "wordCount": 1996,
+          "title": "Automate ZAP With Docker"
+        },
+        {
+          "id": "https://dzone.com/articles/3122132",
+          "author": "Parth Bari",
+          "description": "Imagine an automated software that can keep a check on the vaccination data for COVID19. Looks like science fantasy, right? Many of you might be already tapping that nostalgic feel of star wars robotic characters, but “Olive” is developed around reducing repetitive tasks at hospitals. \nIt is a concept that fuses deep learning and computer vision to automate repetitive tasks like documentation, seeking approval before surgeries, and more. Such concepts can be leveraged to document vaccinations across the wor…",
+          "link": "https://dzone.com/articles/how-robotics-is-helping-the-logistics-industry-mov",
+          "publishedOn": "2021-05-18T18:10:18.000Z",
+          "wordCount": 1501,
+          "title": "How Robotics is Helping the Logistics Industry Move Ahead"
+        },
+        {
+          "id": "https://dzone.com/articles/3121556",
+          "author": "Harry Stone",
+          "description": "Do you know 55% to 75% of ERP implementation projects do not succeed?\nIn fact, as per a study, 57% of enterprises end up taking more time than expected, and 54% go over budget. 60% face data integration and fetching issues. 37% of the total businesses find it very tough to train their employees to use it.",
+          "link": "https://dzone.com/articles/definitive-guide-to-erp-implementation",
+          "publishedOn": "2021-05-18T17:06:29.000Z",
+          "wordCount": 1320,
+          "title": "Definitive Guide to ERP Implementation"
+        },
+        {
+          "id": "https://dzone.com/articles/3122625",
+          "author": "Remi Andonissamy",
+          "description": "Introduction\nSikuli is an open source test automation tool for testing web applications. It is similar to Selenium, but it considers all the web elements of the application as images. This tool is capable of recognizing images and interacting with the elements matching the image GUI.\nHow to Use Sikuli in an Eclipse-Maven Project\nStep 1: Create a Maven project called \"SikuliProject\".",
+          "link": "https://dzone.com/articles/sikuli-automation",
+          "publishedOn": "2021-05-18T17:06:22.000Z",
+          "wordCount": 734,
+          "title": "Image-Based Test Automation Using Sikuli"
+        },
+        {
+          "id": "https://dzone.com/articles/3120515",
+          "author": "Davide Cerbo",
+          "description": "Spring Native is the way to compile Spring applications to native images with GraalVM without changing anything (or at least some stuff) in our code. How do we use it? Well, that's not the topic of this post; just follow this awesome getting started document!\nIn a company, every choice we do as software developers should be guided from a simple sentence: solving problems and saving money.",
+          "link": "https://dzone.com/articles/use-spring-native-and-save-money",
+          "publishedOn": "2021-05-18T16:46:05.000Z",
+          "wordCount": 1184,
+          "title": "Use Spring Native and Save Money"
+        },
+        {
+          "id": "https://dzone.com/articles/2882409",
+          "author": "Sonu Kumar",
+          "description": "Learn more about executing asynchronous tasks using Redis and Spring Boot.\n\nIn this article, we are going to learn how to use Spring Boot 2.x and Redis to execute asynchronous tasks, with the final code demonstrating the steps described in this post.\nSpring and Threads: Async\n\nSpring/Spring Boot\nSpring is the most popular framework available for Java application development. As such, Spring has one of the largest open source communities. Besides that, Spring provides extensive and up-to-date documentation t…",
+          "link": "https://dzone.com/articles/asynchronous-task-executor-using-redis-and-spring",
+          "publishedOn": "2021-05-18T16:44:55.000Z",
+          "wordCount": 1958,
+          "title": "Asynchronous Task Execution Using Redis and Spring Boot"
+        },
+        {
+          "id": "https://dzone.com/articles/3119688",
+          "author": "Anton Yarkov",
+          "description": "Graphics made by Max Degtyarev\nWhat Is a Community of Practice?\ncommunity of practice (CoP) is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly. Unlike a regular team, which is held together by a shared task, a community of practice is held together by the “learning value” members find in their interactions, and usually contains members of multiple existing teams.\n\nAs an example, Automation Quality Assurance engineers spread ac…",
+          "link": "https://dzone.com/articles/pragmatic-guide-to-starting-communities-of-practice-in-organization",
+          "publishedOn": "2021-05-18T16:12:20.000Z",
+          "wordCount": 2670,
+          "title": "Starting Communities of Practice in Your Organization"
+        },
+        {
+          "id": "https://dzone.com/articles/3121448",
+          "author": "Akash Takyar",
+          "description": "Blockchain came with efficient solutions to multiple issues prevailing in telemedicine systems. Solutions to increasing counterfeit drugs, data breaches, and other significant factors became the driving force for Blockchain healthcare market growth. Marketsandmarkets predicted that the global Blockchain healthcare market would reach 829 million USD by 2023.\nBlockchain facilitates the telemedicine sector by providing secure data sharing, the privacy of PHIs and verifiable data. The incorporation of Blockchai…",
+          "link": "https://dzone.com/articles/how-does-blockchain-work-in-telemedicine",
+          "publishedOn": "2021-05-18T16:03:01.000Z",
+          "wordCount": 1217,
+          "title": "Blockchain in Telemedicine"
+        },
+        {
+          "id": "https://dzone.com/articles/3125007",
+          "author": "Eric D. Schabell",
+          "description": "In our previous article from this series shared a look at the logical common architectural elements found in a store health and safety solution for retail organisations.\nThe process was laid out how we've approached the use case and how portfolio solutions are the base for researching a generic architectural blueprint. It continued by laying out the process of how we've approached the use case by researching successful customer portfolio solutions as the basis for a generic architectural blueprint.",
+          "link": "https://dzone.com/articles/store-health-and-safety-example-health-and-safety",
+          "publishedOn": "2021-05-18T11:20:03.000Z",
+          "wordCount": 1194,
+          "title": "Store health and safety - Example health and safety architecture"
+        },
         {
           "id": "https://dzone.com/articles/3123099",
           "author": "Hugo Guerrero",
@@ -2012,6 +2183,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://github.com/Battelle/movfuscator",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Battelle/movfuscator",
+          "publishedOn": "2021-05-18T23:47:09.000Z",
+          "wordCount": 2189,
+          "title": "Movfuscator: Compile C into only mov instructions"
+        },
+        {
+          "id": "https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree",
+          "publishedOn": "2021-05-18T23:19:06.000Z",
+          "wordCount": 2965,
+          "title": "Facebook Calls Links to Depression Inconclusive. These Researchers Disagree"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27201040",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27201040",
+          "publishedOn": "2021-05-18T21:00:09.000Z",
+          "wordCount": 209,
+          "title": "Sirum is hiring engineers for the micro-fulfillment of medicine"
+        },
+        {
+          "id": "https://github.com/skullchap/chadstr",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/skullchap/chadstr",
+          "publishedOn": "2021-05-18T20:46:07.000Z",
+          "wordCount": 1011,
+          "title": "Chad Strings – The Chad way to handle strings in C"
+        },
+        {
+          "id": "https://matrix.org/blog/2021/05/17/the-matrix-space-beta",
+          "author": null,
+          "description": "Comments",
+          "link": "https://matrix.org/blog/2021/05/17/the-matrix-space-beta",
+          "publishedOn": "2021-05-18T20:28:16.000Z",
+          "wordCount": 779,
+          "title": "The Matrix Space Beta"
+        },
+        {
+          "id": "https://www.notion.so/blog/data-model-behind-notion",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.notion.so/blog/data-model-behind-notion",
+          "publishedOn": "2021-05-18T19:55:17.000Z",
+          "wordCount": 2808,
+          "title": "The data model behind Notion's flexibility"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/",
+          "publishedOn": "2021-05-18T19:01:49.000Z",
+          "wordCount": 1059,
+          "title": "Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards"
+        },
+        {
+          "id": "https://blog.google/technology/research/project-starline/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/research/project-starline/",
+          "publishedOn": "2021-05-18T18:54:06.000Z",
+          "wordCount": 1226,
+          "title": "Project Starline: Feel like you're there, together"
+        },
+        {
+          "id": "https://blog.thea.codes/winterblooms-tech-stack/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.thea.codes/winterblooms-tech-stack/",
+          "publishedOn": "2021-05-18T18:47:00.000Z",
+          "wordCount": 3083,
+          "title": "The tools and tech I use to run a one-woman hardware company"
+        },
+        {
+          "id": "https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7",
+          "publishedOn": "2021-05-18T17:57:10.000Z",
+          "wordCount": 35,
+          "title": "The overfitted brain: Dreams evolved to assist generalization"
+        },
+        {
+          "id": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
+          "publishedOn": "2021-05-18T17:47:36.000Z",
+          "wordCount": 1459,
+          "title": "Unveiling our new Quantum AI campus"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27198319",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27198319",
+          "publishedOn": "2021-05-18T17:45:14.000Z",
+          "wordCount": 1687,
+          "title": "Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers"
+        },
+        {
+          "id": "https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed",
+          "publishedOn": "2021-05-18T17:28:41.000Z",
+          "wordCount": 2262,
+          "title": "Boosting upload speed and improving Windows' TCP stack"
+        },
+        {
+          "id": "https://blog.google/technology/ai/lamda/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/technology/ai/lamda/",
+          "publishedOn": "2021-05-18T17:28:41.000Z",
+          "wordCount": 1447,
+          "title": "LaMDA: Google's New Conversation Technology"
+        },
+        {
+          "id": "https://octo.github.com/projects/flat-data",
+          "author": null,
+          "description": "Comments",
+          "link": "https://octo.github.com/projects/flat-data",
+          "publishedOn": "2021-05-18T17:21:56.000Z",
+          "wordCount": 1994,
+          "title": "Flat Data"
+        },
+        {
+          "id": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
+          "publishedOn": "2021-05-18T17:16:54.000Z",
+          "wordCount": 311,
+          "title": "PlanetScale – Database for Developers"
+        },
+        {
+          "id": "https://eng.uber.com/jvm-tuning-garbage-collection/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eng.uber.com/jvm-tuning-garbage-collection/",
+          "publishedOn": "2021-05-18T16:41:25.000Z",
+          "wordCount": 6379,
+          "title": "Uber Engineering Tricks of the Trade: Tuning JVM Memory for Large-Scale Services"
+        },
+        {
+          "id": "https://lux.camera/halide-pro-camera-for-ipad/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lux.camera/halide-pro-camera-for-ipad/",
+          "publishedOn": "2021-05-18T16:04:13.000Z",
+          "wordCount": 2625,
+          "title": "Halide for iPad"
+        },
+        {
+          "id": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
+          "publishedOn": "2021-05-18T16:02:01.000Z",
+          "wordCount": 1006,
+          "title": "Site Isolation in Firefox"
+        },
+        {
+          "id": "https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U",
+          "publishedOn": "2021-05-18T15:54:39.000Z",
+          "wordCount": 353,
+          "title": "Companies may be punished for paying ransoms to sanctioned hackers"
+        },
+        {
+          "id": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
+          "publishedOn": "2021-05-18T15:19:52.000Z",
+          "wordCount": 2626,
+          "title": "Hydras suggest that sleep evolved before brains"
+        },
+        {
+          "id": "https://www.w3.org/blog/news/archives/9059",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.w3.org/blog/news/archives/9059",
+          "publishedOn": "2021-05-18T14:16:49.000Z",
+          "wordCount": 997,
+          "title": "First Public Working Drafts: WebGPU and WebGPU Shading Language"
+        },
+        {
+          "id": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
+          "publishedOn": "2021-05-18T13:55:41.000Z",
+          "wordCount": 1037,
+          "title": "Ethereum will use around 99.95% less energy post merge"
+        },
+        {
+          "id": "http://paulgraham.com/fn.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://paulgraham.com/fn.html",
+          "publishedOn": "2021-05-18T13:30:45.000Z",
+          "wordCount": 1233,
+          "title": "Fierce Nerds"
+        },
+        {
+          "id": "https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/",
+          "publishedOn": "2021-05-18T12:19:59.000Z",
+          "wordCount": 832,
+          "title": "Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen"
+        },
+        {
+          "id": "https://plausible.io/blog/google-amp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://plausible.io/blog/google-amp",
+          "publishedOn": "2021-05-18T09:27:27.000Z",
+          "wordCount": 1099,
+          "title": "AMP pages no longer get preferential treatment in Google search"
+        },
+        {
+          "id": "https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html",
+          "publishedOn": "2021-05-18T07:09:01.000Z",
+          "wordCount": 2171,
+          "title": "Adobe is dropping PostScript Type 1 font support"
+        },
+        {
+          "id": "https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/magazine/archive/2021/06/richard-wright-man-who-lived-underground/618705/",
+          "publishedOn": "2021-05-18T05:56:19.000Z",
+          "wordCount": 1923,
+          "title": "The Bleak Prescience of Richard Wright"
+        },
+        {
           "id": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
           "author": null,
           "description": "Comments",
@@ -2478,6 +2901,24 @@
           "publishedOn": "2021-05-16T11:14:51.000Z",
           "wordCount": 520,
           "title": "Paper Notes"
+        },
+        {
+          "id": "https://www.halcyonmaps.com/map-of-the-internet-2021/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.halcyonmaps.com/map-of-the-internet-2021/",
+          "publishedOn": "2021-05-16T10:36:53.000Z",
+          "wordCount": 782,
+          "title": "Map of the Internet"
+        },
+        {
+          "id": "https://silverhammermba.github.io/emberb/c/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://silverhammermba.github.io/emberb/c/",
+          "publishedOn": "2021-05-16T09:42:47.000Z",
+          "wordCount": 7839,
+          "title": "The Definitive Guide to Ruby's C API"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27171970",
