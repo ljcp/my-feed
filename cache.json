@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340599",
+          "author": "Chris Coyier",
+          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/json-in-css/",
+          "publishedOn": "2021-05-20T22:29:53.000Z",
+          "wordCount": 631,
+          "title": "JSON in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340933",
+          "author": "Chris Coyier",
+          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/learn/css/",
+          "publishedOn": "2021-05-20T21:51:43.000Z",
+          "wordCount": 991,
+          "title": "Learn CSS!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340715",
+          "author": "Jhey Tompkins",
+          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
+          "publishedOn": "2021-05-20T14:24:12.000Z",
+          "wordCount": 1691,
+          "title": "Can We Create a “Resize Hack” With Container Queries?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340897",
+          "author": "Chris Coyier",
+          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
+          "publishedOn": "2021-05-20T14:20:56.000Z",
+          "wordCount": 1196,
+          "title": "fit-content and fit-content()"
+        },
+        {
           "id": "https://css-tricks.com/?p=340731",
           "author": "Chris Coyier",
           "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -319,6 +355,24 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
+          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
+          "publishedOn": "2021-05-20T14:20:00.000Z",
+          "wordCount": 831,
+          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
+          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
+          "publishedOn": "2021-05-20T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "How To Implement Authentication In Next.js With Auth0"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
@@ -533,15 +587,6 @@
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "author": "hello@smashingmagazine.com (Matt Saunders)",
-          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
-          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
-          "publishedOn": "2021-04-21T08:30:00.000Z",
-          "wordCount": 2998,
-          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         }
       ]
     },
@@ -550,6 +595,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a6b3ab906c5207e3a7f5fa",
+          "author": "",
+          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
+          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
+          "publishedOn": "2021-05-20T19:14:48.000Z",
+          "wordCount": 397,
+          "title": "Angular 11 Tutorial: Code a Project from Scratch"
+        },
+        {
+          "id": "60a694ab906c5207e3a7f544",
+          "author": "",
+          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
+          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
+          "publishedOn": "2021-05-20T17:12:29.000Z",
+          "wordCount": 436,
+          "title": "Learn Modern C++ by Building an Audio Plugin"
+        },
+        {
+          "id": "60a4b5c7906c5207e3a7e2bb",
+          "author": "",
+          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
+          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
+          "publishedOn": "2021-05-20T15:20:53.000Z",
+          "wordCount": 1493,
+          "title": "How to Get Started with Version Control Using Git"
+        },
+        {
+          "id": "60a36742906c5207e3a7da6e",
+          "author": "",
+          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
+          "publishedOn": "2021-05-20T14:53:38.000Z",
+          "wordCount": 1202,
+          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
+        },
+        {
+          "id": "60a341f5906c5207e3a7da61",
+          "author": "",
+          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
+          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
+          "publishedOn": "2021-05-19T23:17:21.000Z",
+          "wordCount": 2742,
+          "title": "How to Use CSS Selectors to Style Your Web Page"
+        },
         {
           "id": "60a42386906c5207e3a7dfe2",
           "author": "",
@@ -942,6 +1032,222 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3125589",
+          "author": "James Sugrue",
+          "description": "For many enterprise-grade applications, providing a point where you can access in-depth analysis about your data has become a crucial feature. There are many approaches to this — you can build your own web application and backend that has views allowing customers to filter and analyze data. Alternatively, you can use the embedded analytics capabilities of Looker, Tableau, or Sisense — all of which are large business intelligence tools, with a host of features and connectors into all sorts of data sources.\nB…",
+          "link": "https://dzone.com/articles/creating-live-dashboards-with-quicksight",
+          "publishedOn": "2021-05-20T23:14:32.000Z",
+          "wordCount": 2906,
+          "title": "Creating Live Dashboards With QuickSight"
+        },
+        {
+          "id": "https://dzone.com/articles/3122927",
+          "author": "Twain Taylor",
+          "description": "I was recently in conversation with Shomiron Das Gupta, CEO of DNIF, a SIEM startup based out of India. He was eager to share his views on the SIEM and cybersecurity space, and talk to me about releasing a community edition of their enterprise-grade SIEM software, DNIF Hyperscale SIEM.\nImage: Shomiron Das Gupta, CEO, DNIF.",
+          "link": "https://dzone.com/articles/siem-bill-shock-is-real-try-this-budget-friendly-s",
+          "publishedOn": "2021-05-20T22:40:34.000Z",
+          "wordCount": 1317,
+          "title": "SIEM Bill Shock Is Real — Try This Budget-friendly SIEM Tool Instead"
+        },
+        {
+          "id": "https://dzone.com/articles/3124401",
+          "author": "Colin Soleim",
+          "description": "Introduction\nThe majority of the Rails custom software development work we do here at NextLink Labs deals with rehabilitating older projects that are overwhelmed with technical debt from years of development without refactoring.\nThe software problems in these websites are never introduced maliciously. Instead, these problems tend to build up gradually over months and years after many rushed deadlines, strict client demands that don't allow for refactoring, and inexperienced Rails developers trying their bes…",
+          "link": "https://dzone.com/articles/most-common-types-of-technical-debt-in-rails",
+          "publishedOn": "2021-05-20T16:57:24.000Z",
+          "wordCount": 2234,
+          "title": "Most Common Types of Technical Debt in Rails"
+        },
+        {
+          "id": "https://dzone.com/articles/3092635",
+          "author": "Claudio De Sio Cesari",
+          "description": "What you are reading is the fifth in a series of articles titled \"Stranger things in Java\", inspired by the contents of my book \"Java for Aliens\". These articles are dedicated to insights into the Java language. Better understanding the topics we use every day will allow us to master Java coding in even the most difficult scenarios.\n \n\nThe definitions for abstract class and interface have evolved since version 8 of Java, and knowing how the two now differ and interact is crucial. An understanding of their k…",
+          "link": "https://dzone.com/articles/differences-between-interfaces-and-abstract-classe",
+          "publishedOn": "2021-05-20T12:41:16.000Z",
+          "wordCount": 3093,
+          "title": "What Are the Differences Between Interfaces and Abstract Classes in 2021?"
+        },
+        {
+          "id": "https://dzone.com/articles/3122187",
+          "author": "pravin kandalkar",
+          "description": "Problem\nIf your Mule application failed to launch with the newer version of Anypoint Studio 7.9.0 with this error message:\n[ERROR] Source option 5 is no longer supported. Use 6 or later.",
+          "link": "https://dzone.com/articles/mulesoft-anypoint-studio-790",
+          "publishedOn": "2021-05-20T12:35:54.000Z",
+          "wordCount": 322,
+          "title": "Fixed: Mule Application Failure To Launch With Newest Anypoint Studio"
+        },
+        {
+          "id": "https://dzone.com/articles/3125467",
+          "author": "Jirapongse Phuriphanvichai",
+          "description": "For the Python programming language, Pandas is an efficient and popular data analysis tool, especially its Dataframe, used to manipulate and display data. For the .NET programming languages, we can use Deedle or Microsoft.Data.Analysis package available in NuGet which also provides a DataFrame class used to manipulate, transform, and display data.\nThis example focuses on Microsoft.Data.Analysis package by demonstrating some basic features of the DataFrame class in Jupyter Notebook.",
+          "link": "https://dzone.com/articles/getting-started-with-c-dataframe-and-xplotploty",
+          "publishedOn": "2021-05-20T06:22:19.000Z",
+          "wordCount": 1862,
+          "title": "Getting Started With C# DataFrame and XPlot.Ploty"
+        },
+        {
+          "id": "https://dzone.com/articles/3125507",
+          "author": "Brennon Loveless",
+          "description": "Introduction\nIn this article, I'd like to touch on async, await, and Promise.all in JavaScript. First, I'll talk about concurrency vs. parallelism and why we will be targeting parallelism in this article. Then, I'll talk about how to use async and await to implement a parallel algorithm in serial and how to make it work in parallel by using Promise.all. Finally, I'll create an example project using Salesforce's Lightning Web Components where I will build an art gallery using Harvard's Art Gallery API.\nConcu…",
+          "link": "https://dzone.com/articles/running-concurrent-requests-with-asyncawait-and-pr",
+          "publishedOn": "2021-05-20T06:04:56.000Z",
+          "wordCount": 2776,
+          "title": "Running Concurrent Requests With Async/Await and Promise.all"
+        },
+        {
+          "id": "https://dzone.com/articles/3123913",
+          "author": "Ram Lakshmanan",
+          "description": "In the series of chaos engineering articles, we have been learning to simulate various performance problems. In this post, let’s discuss how to make threads go into a BLOCKED state.\nSample Program\nHere is a sample program from the open-source BuggyApp application, which would make threads go into a BLOCKED state. A thread will enter into a BLOCKED state when it couldn’t acquire a lock on an object because another thread already holds the lock on the same object and doesn’t release it. Review the program car…",
+          "link": "https://dzone.com/articles/chaos-engineering-blocked-threads",
+          "publishedOn": "2021-05-20T05:52:38.000Z",
+          "wordCount": 935,
+          "title": "Chaos Engineering: Blocked Threads"
+        },
+        {
+          "id": "https://dzone.com/articles/3125024",
+          "author": "Megan Wright",
+          "description": "Remote work is becoming the norm and with development teams in charge of critical systems, security is more important than ever.\nWhether it is the flexibility to work with top talent without geographical limitations or in response to the current global crisis, there are many reasons and benefits to transitioning your development team to remote work.",
+          "link": "https://dzone.com/articles/how-to-securely-transition-your-development-team-t",
+          "publishedOn": "2021-05-20T05:42:31.000Z",
+          "wordCount": 1090,
+          "title": "4 Ideas to Help Securely Transition Your Development Team to Remote Work"
+        },
+        {
+          "id": "https://dzone.com/articles/3125023",
+          "author": "Mark Gardner",
+          "description": "As previously written, I like list processing. Many computing problems can be broken down into transforming and filtering lists, and Perl has got the fundamentals covered with functions like map, grep, and sort. There is so much more you might want to do, though, and CPAN has a plethora of list and array processing modules.\n \n \nHowever, due to the vicissitudes of Perl module maintenance, we have a situation where it's not clear at a glance where to turn when you've got a list that needs processing. So here'…",
+          "link": "https://dzone.com/articles/a-list-of-perl-list-processing-modules",
+          "publishedOn": "2021-05-20T05:32:33.000Z",
+          "wordCount": 577,
+          "title": "A List of Perl List Processing Modules"
+        },
+        {
+          "id": "https://dzone.com/articles/3125493",
+          "author": "dret",
+          "description": "Spectral is an open-source API linting tool that allows users to write rules which then can be used to check API descriptions. Typically, these would be in description languages such as OpenAPI, AsyncAPI, or Swagger. If you’re interested in an overview and an introduction, check out this interview with Spectral maintainer Phil Sturgeon where he walks us through the history of Spectral, what it does, and how it can be used.\n7 Steps\nIn this article and presentation, we’re diving a bit deeper. Axway Catalyst, …",
+          "link": "https://dzone.com/articles/hands-on-with-spectral-api-linting",
+          "publishedOn": "2021-05-20T05:24:35.000Z",
+          "wordCount": 1133,
+          "title": "Hands-on With Spectral: Using API Linting for Better API Design and Governance [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3125413",
+          "author": "Thomas Hansen",
+          "description": "This is a follow up article of my previous article, where I ranted about irrelevant job interview questions, where the idea was that technical job interviews today related to software development positions are fundamentally flawed. Sure, some very few positions requires the candidate to know every algorithm and data structure in the book, but these jobs are long and far apart. Hence, I will propose questions in this article that are much more relevant for most jobs. These are the types of questions I would …",
+          "link": "https://dzone.com/articles/50-great-job-interview-questions",
+          "publishedOn": "2021-05-20T05:17:58.000Z",
+          "wordCount": 1427,
+          "title": "50 Great Job Interview Questions"
+        },
+        {
+          "id": "https://dzone.com/articles/3125457",
+          "author": "Jirapongse Phuriphanvichai",
+          "description": "Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. It can be used as a tool for interactively developing and presenting data science projects. Mostly, it is used with Python and R which are scripting languages. However, it can also be used with compiled languages, such as .NET programming languages, Go, and Julia. For a list of supported programming languages, please refer to the Jupyter kern…",
+          "link": "https://dzone.com/articles/using-net-core-in-jupyter-notebook",
+          "publishedOn": "2021-05-20T05:16:45.000Z",
+          "wordCount": 1095,
+          "title": "Using .NET Core in Jupyter Notebook"
+        },
+        {
+          "id": "https://dzone.com/articles/3125430",
+          "author": "Jun Gu",
+          "description": "Banks and other financial institutions have long been early adopters of open-source software for big data processing and analytics. In 2010, Morgan Stanley began using the open-source Apache Hadoop framework as part of a small experiment. The company was struggling to successfully scale traditional databases to the massive volumes of data its scientists wanted to leverage, so it decided to explore alternative solutions. Hadoop is now a staple at Morgan Stanley, helping with everything from managing CRM data…",
+          "link": "https://dzone.com/articles/accelerating-ai-in-finance-with-milvus-an-open-sou",
+          "publishedOn": "2021-05-20T05:07:13.000Z",
+          "wordCount": 952,
+          "title": "Accelerating AI in Finance With Milvus, an Open-Source Vector Database"
+        },
+        {
+          "id": "https://dzone.com/articles/3123149",
+          "author": "Sara Miteva",
+          "description": "DevOps has changed the way developers and operating engineers think. The DevOps paradigm has transformed the software and technology development process. As a result, improving performance and delivering faster outcomes have become the standard of meeting the market’s demands.\nHowever, as the infrastructure evolves, security has become a new concern. Developers are now working to address it on a regular basis. Security professionals have had to look at options that can implement security mechanisms through …",
+          "link": "https://dzone.com/articles/challenges-with-implementing-devsecops",
+          "publishedOn": "2021-05-20T04:57:51.000Z",
+          "wordCount": 1448,
+          "title": "Challenges With Implementing DevSecOps"
+        },
+        {
+          "id": "https://dzone.com/articles/3124969",
+          "author": "Joydeep Bhattacharya",
+          "description": "Supply chain systems received the hardest hit due to the ongoing Covid-19 pandemic, even for countries where the spread of the virus was under control. The time has now come for supply chain managers to plan ahead and keep the flow of goods moving so that the supply chain systems continue to work smoothly at all crucial times. \nData analytics plays a vital role in understanding the working of your supply chain department and forecasting the trends that impact the inflow and outflow of goods. Therefore, a ro…",
+          "link": "https://dzone.com/articles/how-prescriptive-analytics-solves-multiple-supply",
+          "publishedOn": "2021-05-20T04:54:57.000Z",
+          "wordCount": 1126,
+          "title": "How Prescriptive Analytics Solves Multiple Supply Chain Issues"
+        },
+        {
+          "id": "https://dzone.com/articles/3123957",
+          "author": "Craig Oda",
+          "description": "Leading a successful Flutter application development project often results from the strong organization of the application architecture.  Using Flutter packages is an excellent way to group your application files and functional sections into reusable components that make team collaboration easier. This tutorial will take you through all the steps needed to create a custom package for your next Flutter project.\nA complete step-by-step video and full code are also available.",
+          "link": "https://dzone.com/articles/avoid-project-failure-with-custom-flutter-packages",
+          "publishedOn": "2021-05-20T04:50:17.000Z",
+          "wordCount": 1411,
+          "title": "Avoid Project Failure With Custom Flutter Packages"
+        },
+        {
+          "id": "https://dzone.com/articles/3124948",
+          "author": "Satyaprakash Samantaray",
+          "description": "Introduction\nIn this session, we discuss on below points in C# programming using Visual Studio. These points are,\nThe Basic Structure of A C# Program.\nWhat Is Namespace?\nPurpose of The Main Method.\nStep 1: Create a console application:",
+          "link": "https://dzone.com/articles/advanced-c-programming-part-1",
+          "publishedOn": "2021-05-20T04:41:53.000Z",
+          "wordCount": 1097,
+          "title": "Advanced C# Programming (Part 1)"
+        },
+        {
+          "id": "https://dzone.com/articles/3125020",
+          "author": "Lisa Smith",
+          "description": "Is your organization ready to move containerized workloads into production or yet struggling with these challenges? Adopting complex stateful workloads with many dependencies, deploying containerization tooling without well-framed DevOps practices, and becoming gripped into vendor lock-in faster may be a few of such challenges. Having the right DevOps team in place and finding out how Kubernetes integrates with your company’s technological infrastructure to undergo effective legacy application modernization…",
+          "link": "https://dzone.com/articles/top-practices-for-containers-kubernetes",
+          "publishedOn": "2021-05-20T03:01:52.000Z",
+          "wordCount": 1135,
+          "title": "Top Practices for Containers, Kubernetes"
+        },
+        {
+          "id": "https://dzone.com/articles/3123779",
+          "author": "Smith Johnes",
+          "description": "The application of artificial intelligence (AI) is profoundly altering our understanding of DevOps. Most importantly, it is providing the latest form of DevOps that acknowledges the need for intelligently designed applications supported by robust defence (DevSecOps).  \nBy now, most organizations understand that DevOps is a substantial discipline they must adopt to ensure consistent levels of productivity, efficiency and service delivery, all of which hold weight in these times of heightened uncertainty.",
+          "link": "https://dzone.com/articles/how-devops-powered-by-ai-is-delivering-business-tr",
+          "publishedOn": "2021-05-20T02:12:02.000Z",
+          "wordCount": 1245,
+          "title": "How DevOps Powered by AI Is Delivering Business Transformation?"
+        },
+        {
+          "id": "https://dzone.com/articles/3124367",
+          "author": "Pravin Tarte",
+          "description": "How often have you experienced a well-defined and understood software architecture on paper, but then it falls apart when developers start implementing it?\nRecently, while re-architecting legacy components in an application, I experienced the same. As more and more developers joined the team, it became a constant routine to make them aware of the design thought adopted in the architecture and how to adhere to it.",
+          "link": "https://dzone.com/articles/introducing-coding-constraints-using-archunit",
+          "publishedOn": "2021-05-20T02:00:06.000Z",
+          "wordCount": 1047,
+          "title": "Introducing Coding Constraints Using ArchUnit"
+        },
+        {
+          "id": "https://dzone.com/articles/3123086",
+          "author": "Otavio Santana",
+          "description": "Apache Kafka is a community-distributed streaming platform that has three key capabilities: publish and subscribe to streams of records, store streams of records in a fault-tolerant durable way, and then process streams as they occur. Apache Kafka has several successful cases in the Java world. This post will cover how to benefit from this powerful tool in the Spring universe.\nApache Kafka Core Concepts\nKafka is run as a cluster on one or more servers that can span multiple data centers; Kafka cluster store…",
+          "link": "https://dzone.com/articles/introduction-to-apache-kafka-with-spring",
+          "publishedOn": "2021-05-20T01:06:34.000Z",
+          "wordCount": 1204,
+          "title": "Introduction to Apache Kafka With Spring"
+        },
+        {
+          "id": "https://dzone.com/articles/3122463",
+          "author": "Jerry Cruise",
+          "description": "In most cases, structured data is computed within the database in SQL. In a few other cases where the database is either absent or unavailable, Java programmers need to perform computations with Java. Hardcoding, however, involves a heavy workload. A more convenient alternative is the Java data computation layer tool (including library functions). The tool computes data and returns the result set. Here we examine the structured data computation abilities of several Java data computation layer tools.\n1. SQL …",
+          "link": "https://dzone.com/articles/looking-for-the-best-java-data-computation-layer-t",
+          "publishedOn": "2021-05-20T01:03:51.000Z",
+          "wordCount": 2771,
+          "title": "Looking for the Best Java Data Computation Layer Tool"
+        },
+        {
+          "id": "https://dzone.com/articles/3120478",
+          "author": "Dave Saunders",
+          "description": "(originally posted to the BaseClass newsletter.)\nWhy Should I Care?\nHave you ever wanted to know:",
+          "link": "https://dzone.com/articles/what-are-floating-point-numbers",
+          "publishedOn": "2021-05-20T00:45:52.000Z",
+          "wordCount": 918,
+          "title": "What Are Floating-point Numbers?"
+        },
         {
           "id": "https://dzone.com/articles/3125403",
           "author": "Dmitry Sotnikov",
@@ -2489,6 +2795,222 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
+          "publishedOn": "2021-05-20T23:05:07.000Z",
+          "wordCount": 2273,
+          "title": "The Anus Is an Evolutionary Marvel"
+        },
+        {
+          "id": "https://github.com/hollyjackson/NYT_Content_Analysis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hollyjackson/NYT_Content_Analysis",
+          "publishedOn": "2021-05-20T23:02:50.000Z",
+          "wordCount": 992,
+          "title": "Content Bias Analysis of the New York Times"
+        },
+        {
+          "id": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
+          "publishedOn": "2021-05-20T21:44:18.000Z",
+          "wordCount": 1839,
+          "title": "SimuLand, a lab environment to simulate attacker tradecraft"
+        },
+        {
+          "id": "https://ionescu007.github.io/SimpleVisor/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ionescu007.github.io/SimpleVisor/",
+          "publishedOn": "2021-05-20T21:40:16.000Z",
+          "wordCount": 1672,
+          "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
+        },
+        {
+          "id": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
+          "publishedOn": "2021-05-20T21:25:27.000Z",
+          "wordCount": 610,
+          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
+        },
+        {
+          "id": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
+          "publishedOn": "2021-05-20T21:25:03.000Z",
+          "wordCount": 983,
+          "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
+        },
+        {
+          "id": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
+          "publishedOn": "2021-05-20T21:00:37.000Z",
+          "wordCount": 48,
+          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
+        },
+        {
+          "id": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+          "author": null,
+          "description": "Comments",
+          "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+          "publishedOn": "2021-05-20T20:27:02.000Z",
+          "wordCount": 6846,
+          "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+          "publishedOn": "2021-05-20T20:18:32.000Z",
+          "wordCount": 1447,
+          "title": "Why RISC-V doesn't yet support KVM"
+        },
+        {
+          "id": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
+          "publishedOn": "2021-05-20T20:01:28.000Z",
+          "wordCount": 14589,
+          "title": "Extreme HTTP Performance Tuning"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
+          "publishedOn": "2021-05-20T19:20:29.000Z",
+          "wordCount": 665,
+          "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router"
+        },
+        {
+          "id": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
+          "publishedOn": "2021-05-20T19:16:40.000Z",
+          "wordCount": 980,
+          "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
+        },
+        {
+          "id": "https://www.spectacles.com/new-spectacles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.spectacles.com/new-spectacles",
+          "publishedOn": "2021-05-20T18:00:05.000Z",
+          "wordCount": 12,
+          "title": "New Snap Spectacles Feature Augmented Reality Display"
+        },
+        {
+          "id": "https://javier.xyz/pintr/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://javier.xyz/pintr/",
+          "publishedOn": "2021-05-20T17:22:33.000Z",
+          "wordCount": 50,
+          "title": "Show HN: Tool that turns your images into plotter-like line drawings"
+        },
+        {
+          "id": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
+          "publishedOn": "2021-05-20T16:43:51.000Z",
+          "wordCount": 2634,
+          "title": "Physicists identify the engine powering black hole energy beams"
+        },
+        {
+          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
+          "publishedOn": "2021-05-20T16:31:47.000Z",
+          "wordCount": 3017,
+          "title": "CRISPR Editing in Primates"
+        },
+        {
+          "id": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
+          "publishedOn": "2021-05-20T16:10:26.000Z",
+          "wordCount": 1811,
+          "title": "WebContainers: Run Node.js natively in the browser"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27222985",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27222985",
+          "publishedOn": "2021-05-20T16:08:30.000Z",
+          "wordCount": 4179,
+          "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
+        },
+        {
+          "id": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
+          "publishedOn": "2021-05-20T15:31:06.000Z",
+          "wordCount": 3653,
+          "title": "Spintronics: Build Mechanical Circuits"
+        },
+        {
+          "id": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
+          "publishedOn": "2021-05-20T14:29:55.000Z",
+          "wordCount": 1980,
+          "title": "Undefined behavior in C is a reading error"
+        },
+        {
+          "id": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
+          "publishedOn": "2021-05-20T13:24:19.000Z",
+          "wordCount": 1326,
+          "title": "Native speakers are hard to understand in a lingua franca situation"
+        },
+        {
+          "id": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
+          "publishedOn": "2021-05-20T13:12:49.000Z",
+          "wordCount": 196,
+          "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\""
+        },
+        {
+          "id": "https://nyxt.atlas.engineer/article/release-2.0.0.org",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nyxt.atlas.engineer/article/release-2.0.0.org",
+          "publishedOn": "2021-05-20T11:04:43.000Z",
+          "wordCount": 766,
+          "title": "Show HN: Nyxt Browser 2.0.0"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
+          "publishedOn": "2021-05-20T03:05:09.000Z",
+          "wordCount": null,
+          "title": "Europe fell in love with long pepper before black pepper (2016)"
+        },
+        {
           "id": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
           "author": null,
           "description": "Comments",
@@ -2577,6 +3099,15 @@
           "publishedOn": "2021-05-19T20:43:42.000Z",
           "wordCount": 341,
           "title": "3D Math Primer for Graphics and Game Development"
+        },
+        {
+          "id": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
+          "publishedOn": "2021-05-19T20:14:15.000Z",
+          "wordCount": 3006,
+          "title": "First-Time Buyer Lorenz Curves (2020)"
         },
         {
           "id": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
@@ -2678,6 +3209,15 @@
           "title": "Improving Firefox stability on Linux"
         },
         {
+          "id": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
+          "publishedOn": "2021-05-19T14:25:51.000Z",
+          "wordCount": 1376,
+          "title": "Ant parasites that prolong the life of their host"
+        },
+        {
           "id": "https://libera.chat/news/welcome-to-libera-chat",
           "author": null,
           "description": "Comments",
@@ -2730,6 +3270,24 @@
           "publishedOn": "2021-05-19T10:07:21.000Z",
           "wordCount": 3721,
           "title": "A teenager's guide to avoiding actual work"
+        },
+        {
+          "id": "https://www.hillelwayne.com/talks/esolangs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hillelwayne.com/talks/esolangs/",
+          "publishedOn": "2021-05-19T08:45:06.000Z",
+          "wordCount": 4249,
+          "title": "A brief introduction to esoteric programming languages"
+        },
+        {
+          "id": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
+          "author": null,
+          "description": "Comments",
+          "link": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
+          "publishedOn": "2021-05-19T07:20:31.000Z",
+          "wordCount": 4804,
+          "title": "What to do about GPU packages on PyPI?"
         },
         {
           "id": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
@@ -3009,6 +3567,24 @@
           "publishedOn": "2021-05-18T05:56:19.000Z",
           "wordCount": 1923,
           "title": "The Bleak Prescience of Richard Wright"
+        },
+        {
+          "id": "https://github.com/grailbio/reflow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/grailbio/reflow",
+          "publishedOn": "2021-05-18T04:49:31.000Z",
+          "wordCount": 5417,
+          "title": "Reflow, a language for distributed, incremental data processing in the cloud"
+        },
+        {
+          "id": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
+          "publishedOn": "2021-05-18T04:44:40.000Z",
+          "wordCount": 1835,
+          "title": "America’s Dead Souls"
         },
         {
           "id": "https://ethan.katzenberg.co.uk/posts/saying-difficult-things/",
