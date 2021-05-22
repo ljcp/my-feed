@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340991",
+          "author": "Chris Coyier",
+          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
+          "publishedOn": "2021-05-21T23:22:54.000Z",
+          "wordCount": 1166,
+          "title": "Should DevTools teach the CSS cascade?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340825",
+          "author": "Adam Rackis",
+          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
+          "publishedOn": "2021-05-21T14:30:59.000Z",
+          "wordCount": 3256,
+          "title": "Svelte for the Experienced React Dev"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340919",
+          "author": "Chris Coyier",
+          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://csshell.dev/",
+          "publishedOn": "2021-05-21T14:29:16.000Z",
+          "wordCount": 295,
+          "title": "CSS Hell"
+        },
+        {
           "id": "https://css-tricks.com/?p=340599",
           "author": "Chris Coyier",
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -355,6 +382,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
+          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "publishedOn": "2021-05-21T11:30:00.000Z",
+          "wordCount": 9398,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
           "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
@@ -578,15 +614,6 @@
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Lee Robinson)",
-          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
-          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-04-21T13:55:00.000Z",
-          "wordCount": 1929,
-          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         }
       ]
     },
@@ -595,6 +622,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6098ce302cd0545b5e944d0b",
+          "author": "",
+          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
+          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
+          "publishedOn": "2021-05-21T15:33:45.000Z",
+          "wordCount": 4309,
+          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
+        },
         {
           "id": "60a6b3ab906c5207e3a7f5fa",
           "author": "",
@@ -1032,6 +1068,105 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3124577",
+          "author": "Ben Zane",
+          "description": "Do you know that presently, 94% of the people with an age group of 3 to 18 can access the internet effortlessly? Among them, 88% can access the internet via computers and the remaining 6% can access the internet only via smartphones. The rest of the 6% do not have any in their houses. \nWith great numbers comes great responsibility. The pandemic year was a major excuse for online education. Parents have to permit their children to have internet access for their online studies. But also, parents these days ar…",
+          "link": "https://dzone.com/articles/5-thrilling-questions-about-digital-age-verificati",
+          "publishedOn": "2021-05-21T15:56:58.000Z",
+          "wordCount": 1425,
+          "title": "5 Thrilling Questions About Digital Age Verification Answered!"
+        },
+        {
+          "id": "https://dzone.com/articles/3122631",
+          "author": "Taras Baranyuk",
+          "description": "Introduction\nMy main job is related to mobile advertising, and from time to time, I have to work with mobile application datasets.\nI decided to make some of the data publicly available for those who want to practice building models or get an idea of some of the data that can be collected from open sources. I believe that open-source datasets are always useful as they allow you to learn and grow. Collecting data is often a difficult and dreary job, and not everyone has the ability to do it.",
+          "link": "https://dzone.com/articles/mobile-apps-dataset",
+          "publishedOn": "2021-05-21T15:36:15.000Z",
+          "wordCount": 1758,
+          "title": "Mobile Apps Dataset"
+        },
+        {
+          "id": "https://dzone.com/articles/3127502",
+          "author": "Kai Wähner",
+          "description": "Apache Kafka became the de facto standard for event streaming. The open-source community is huge. Various vendors added Kafka and related tooling to their offerings or provide a Kafka cloud service. This blog post uses the car analogy - from the motor engine to the self-driving car - to explore the different Kafka offerings available on the market. I also cover a few other vehicles, meaning (partly) Kafka-compatible technologies. The goal is not a feature-by-feature comparison (that would be outdated the da…",
+          "link": "https://dzone.com/articles/comparison-of-apache-kafka-products-and-cloud-serv",
+          "publishedOn": "2021-05-21T14:38:14.000Z",
+          "wordCount": 5257,
+          "title": "Comparison of Apache Kafka Products and Cloud Services"
+        },
+        {
+          "id": "https://dzone.com/articles/3122558",
+          "author": "Cyril James",
+          "description": "Introduction\nThe popularity of cloud computing is undeniably on the rise and some of the factors contributing to it include scalability, efficiency, flexibility, and reduced IT costs. As the popularity rises, however, there is a worrying Cyber Security Trend that has emerged for organizations and individuals alike.\nAccording to the 2020 Trustwave Global Security Report, the volume of attacks on cloud services has doubled in 2020 as compared to the last year. Cloud environments are now the third most targete…",
+          "link": "https://dzone.com/articles/guide-to-aws-penetration-testing",
+          "publishedOn": "2021-05-21T14:29:11.000Z",
+          "wordCount": 1163,
+          "title": "Guide to AWS Penetration Testing"
+        },
+        {
+          "id": "https://dzone.com/articles/3126611",
+          "author": "Blake Team DZone",
+          "description": "Did you miss episode 1?\nWatch it live now on YouTube.\nFeatured this week:\nMir Ali talks about reaching 100K+ page views on DZone.\nRajeev Bera talks about their trending article on DZone with Top 35 Git Commands With Examples.\nLindsay Smith gives an update on the latest DZone Trend Reports and Refcards. Don't miss the new DZone Containers Trend Report\nJitendra Bafna gives an update on all things integration and Mulesoft.\nNaomi Kromer talks about the latest DZone Webinars.\nHayata Nakamura offers SEO and conte…",
+          "link": "https://dzone.com/articles/dzone-live-episode-1",
+          "publishedOn": "2021-05-21T14:16:56.000Z",
+          "wordCount": 553,
+          "title": "DZone Live: Episode 1"
+        },
+        {
+          "id": "https://dzone.com/articles/3122790",
+          "author": "Subin Sabu",
+          "description": "Introduction\nI think there are two concepts that are really fundamental: number one, your architecture for your applications will change over time, right?\nYour requirements are going to change. You know, what you use for an MVP or a prototype won’t quite be the same thing that you use for, you know, your app with like 400 to 600,000 lines of code with a team of 20 people. Those things are just naturally going to be different from one another.",
+          "link": "https://dzone.com/articles/flutter-architecture",
+          "publishedOn": "2021-05-21T13:58:10.000Z",
+          "wordCount": 5800,
+          "title": "Flutter Architecture"
+        },
+        {
+          "id": "https://dzone.com/articles/3123037",
+          "author": "Abhishek Gupta",
+          "description": "Welcome to this series of blog posts that cover Redis Streams with the help of a practical example. We will use a sample application to make Twitter data available for search and query in real-time. RediSearch and Redis Streams serve as the backbone of this solution that consists of several co-operating components, each of which will be covered in a dedicated blog post.\nThe code is available in this GitHub repo - https://github.com/abhirockzz/redis-streams-in-action",
+          "link": "https://dzone.com/articles/redis-streams-in-action-part-1",
+          "publishedOn": "2021-05-21T13:56:02.000Z",
+          "wordCount": 1921,
+          "title": "Redis Streams in Action (Part 1)"
+        },
+        {
+          "id": "https://dzone.com/articles/3127471",
+          "author": "Everett Berry",
+          "description": "Introduction\nAs competing cogs in one of the fastest-growing industries within the technology sector, data analysis companies are constantly vying for ways to transform raw SQL queries into impactful visualizations faster and more reliably. Suffice to say, visualization is quite an in-demand skill in today's increasingly complex world of data. While this may sound trivial to outsiders, analysts know this is often anything but straightforward.\nData analysts and software engineers spend time trawling and filt…",
+          "link": "https://dzone.com/articles/visualizing-covid-19-postgresql-data-with-arctype",
+          "publishedOn": "2021-05-21T13:28:25.000Z",
+          "wordCount": 1791,
+          "title": "Visualizing Covid-19 PostgreSQL Data With Arctype"
+        },
+        {
+          "id": "https://dzone.com/articles/3127428",
+          "author": "Stefan Wolpers",
+          "description": "There are plenty of failure possibilities with Scrum. Given that Scrum is a framework with a reasonable yet short “manual,” this effect should not surprise anyone. The Developers Code Fallacy starts with the idea that Developers are rare and expensive and should focus on creating code. Business analysts or customer care agents can talk to customers instead. However, in practice, it has a diminishing effect on a Scrum team’s productivity and creativity. It is a sign for an organization still profoundly stuck…",
+          "link": "https://dzone.com/articles/the-developers-only-code-fallacy",
+          "publishedOn": "2021-05-21T13:01:09.000Z",
+          "wordCount": 809,
+          "title": "The “Developers (Only) Code” Fallacy"
+        },
+        {
+          "id": "https://dzone.com/articles/3126572",
+          "author": "John Vester",
+          "description": "Over the course of my 30+ year career in Information Technology, I have encountered my fair share of proof-of-concept or prototype applications which have found their way into a productional state. This has always been a direct conflict with the original intent of the work that was created.\nWhile this should be considered some form of a compliment for a job well-done, more often than not there are decisions made in those prototyping exercises which are not labeled as production-support friendly. To some deg…",
+          "link": "https://dzone.com/articles/migrating-my-heroku-based-saas-to-heroku-postgres",
+          "publishedOn": "2021-05-21T10:00:55.000Z",
+          "wordCount": 1642,
+          "title": "Migrating My Heroku-Based SaaS to Heroku Postgres"
+        },
+        {
+          "id": "https://dzone.com/articles/3125407",
+          "author": "James Carder",
+          "description": "With more companies embracing APIs, they are fast becoming the weak link in the organizational security chain. In our post-Equifax world, APIs still fly under the radar of security professionals, and the future will only bring more incidents unless leaders adopt strategies and tactics to mitigate the inherent “openness” of APIs.\nThe Equifax breach was the result of a known vulnerability in the Apache Struts web framework but not all exposures are so easily identified and patched. There are numerous potentia…",
+          "link": "https://dzone.com/articles/how-to-reduce-your-chances-of-an-api-data-breach",
+          "publishedOn": "2021-05-21T04:21:24.000Z",
+          "wordCount": 1990,
+          "title": "How to Reduce Your Chances of an API Data Breach"
+        },
         {
           "id": "https://dzone.com/articles/3125589",
           "author": "James Sugrue",
@@ -2795,6 +2930,267 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
+          "publishedOn": "2021-05-21T23:10:52.000Z",
+          "wordCount": 1026,
+          "title": "San Francisco’s Shoplifting Surge"
+        },
+        {
+          "id": "https://jeanieandluluskitchen.com/wprm_print/10697",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jeanieandluluskitchen.com/wprm_print/10697",
+          "publishedOn": "2021-05-21T23:05:48.000Z",
+          "wordCount": 610,
+          "title": "All recipe websites should be adjustable like this"
+        },
+        {
+          "id": "https://bigthink.com/surprising-science/gender-stereotyped-toys",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bigthink.com/surprising-science/gender-stereotyped-toys",
+          "publishedOn": "2021-05-21T22:57:43.000Z",
+          "wordCount": 3397,
+          "title": "Despite social pressure, boys and girls still prefer gender-typical toys"
+        },
+        {
+          "id": "http://algorithmicbotany.org/papers/abop/abop.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://algorithmicbotany.org/papers/abop/abop.pdf",
+          "publishedOn": "2021-05-21T22:50:22.000Z",
+          "wordCount": 318004,
+          "title": "The Algorithmic Beauty of Plants (1990) [pdf]"
+        },
+        {
+          "id": "https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/",
+          "publishedOn": "2021-05-21T22:31:57.000Z",
+          "wordCount": 1707,
+          "title": "Canada declares plastics toxic, paving the way for restrictions"
+        },
+        {
+          "id": "https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing",
+          "publishedOn": "2021-05-21T22:20:15.000Z",
+          "wordCount": 772,
+          "title": "Woke at Work: Why tech firms are trying to run away from politics and failing"
+        },
+        {
+          "id": "https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/",
+          "publishedOn": "2021-05-21T22:17:02.000Z",
+          "wordCount": 2598,
+          "title": "Human Antibodies Target Many Parts of Coronavirus Spike Protein"
+        },
+        {
+          "id": "http://web.archive.org/web/19980701120538/http://www.php.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://web.archive.org/web/19980701120538/http://www.php.net/",
+          "publishedOn": "2021-05-21T21:51:20.000Z",
+          "wordCount": 474,
+          "title": "PHP 3.0 Final is out (1998)"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws",
+          "publishedOn": "2021-05-21T21:10:00.000Z",
+          "wordCount": 93,
+          "title": "Microsoft and Apple wage war on gadget right-to-repair laws"
+        },
+        {
+          "id": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/substackinc/c98439dd-6560-4b58-b827-42eb92c61dbd",
+          "publishedOn": "2021-05-21T21:00:33.000Z",
+          "wordCount": 746,
+          "title": "Substack (YC W18) is hiring technical recruiters to build the future of writing"
+        },
+        {
+          "id": "https://wordhistories.net/2020/01/06/put-pipe-and-smoke/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wordhistories.net/2020/01/06/put-pipe-and-smoke/",
+          "publishedOn": "2021-05-21T19:57:05.000Z",
+          "wordCount": 1713,
+          "title": "“Put that in your pipe and smoke it”"
+        },
+        {
+          "id": "https://flutterflow.io/launch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://flutterflow.io/launch",
+          "publishedOn": "2021-05-21T18:58:25.000Z",
+          "wordCount": 465,
+          "title": "FlutterFlow: Low-code Flutter apps"
+        },
+        {
+          "id": "https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/",
+          "publishedOn": "2021-05-21T18:53:56.000Z",
+          "wordCount": 1298,
+          "title": "Let’s Talk About Hot Tub Streams"
+        },
+        {
+          "id": "https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers",
+          "publishedOn": "2021-05-21T18:52:21.000Z",
+          "wordCount": 1008,
+          "title": "The Cicada's Love Affair with Prime Numbers (2013)"
+        },
+        {
+          "id": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
+          "publishedOn": "2021-05-21T17:56:20.000Z",
+          "wordCount": 1004,
+          "title": "Leaked emails show crime app Citizen is testing on-demand security force"
+        },
+        {
+          "id": "https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/",
+          "publishedOn": "2021-05-21T17:18:23.000Z",
+          "wordCount": 1074,
+          "title": "High-performance speech recognition with no supervision at all"
+        },
+        {
+          "id": "https://lord.io/text-editing-hates-you-too/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lord.io/text-editing-hates-you-too/",
+          "publishedOn": "2021-05-21T17:12:44.000Z",
+          "wordCount": 1713,
+          "title": "Text editing hates you too (2019)"
+        },
+        {
+          "id": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
+          "publishedOn": "2021-05-21T16:33:04.000Z",
+          "wordCount": 3186,
+          "title": "Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)"
+        },
+        {
+          "id": "https://voice2json.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://voice2json.org/",
+          "publishedOn": "2021-05-21T16:14:46.000Z",
+          "wordCount": 1925,
+          "title": "Voice2json: Offline speech and intent recognition on Linux"
+        },
+        {
+          "id": "https://ephtracy.github.io/index.html?page=magicacsg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ephtracy.github.io/index.html?page=magicacsg",
+          "publishedOn": "2021-05-21T14:51:16.000Z",
+          "wordCount": 18,
+          "title": "MagicaCSG: A lightweight signed distance field editor and renderer"
+        },
+        {
+          "id": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
+          "publishedOn": "2021-05-21T13:57:56.000Z",
+          "wordCount": 5709,
+          "title": "2022 Ford F-150 Lightning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27233718",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27233718",
+          "publishedOn": "2021-05-21T13:28:41.000Z",
+          "wordCount": 3373,
+          "title": "Launch HN: Journey (YC W21) – a better tool for selling software"
+        },
+        {
+          "id": "https://jenson.org/games/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jenson.org/games/",
+          "publishedOn": "2021-05-21T12:15:56.000Z",
+          "wordCount": 5036,
+          "title": "Video Games Inspire Great UX (2019)"
+        },
+        {
+          "id": "https://web.dev/learn/css/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://web.dev/learn/css/",
+          "publishedOn": "2021-05-21T12:10:56.000Z",
+          "wordCount": 1040,
+          "title": "Learn CSS"
+        },
+        {
+          "id": "https://developer.oculus.com/blog/a-vr-frames-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.oculus.com/blog/a-vr-frames-life/",
+          "publishedOn": "2021-05-21T11:14:38.000Z",
+          "wordCount": 2019,
+          "title": "A VR Frame’s Life"
+        },
+        {
+          "id": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
+          "publishedOn": "2021-05-21T11:01:19.000Z",
+          "wordCount": 1145,
+          "title": "Scientists rediscover lost coffee species suited to a warmer climate"
+        },
+        {
+          "id": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
+          "publishedOn": "2021-05-21T08:08:50.000Z",
+          "wordCount": 1927,
+          "title": "How to port your OS to EC2"
+        },
+        {
+          "id": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
+          "publishedOn": "2021-05-21T05:32:00.000Z",
+          "wordCount": 2233,
+          "title": "The curious case of the disappearing Polish S (2015)"
+        },
+        {
+          "id": "https://yarchive.net/blog/carrington-event/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://yarchive.net/blog/carrington-event/",
+          "publishedOn": "2021-05-21T01:28:06.000Z",
+          "wordCount": 2449,
+          "title": "The Carrington Event: not something to worry about (2020)"
+        },
+        {
           "id": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
           "author": null,
           "description": "Comments",
@@ -2847,6 +3243,15 @@
           "publishedOn": "2021-05-20T21:25:03.000Z",
           "wordCount": 983,
           "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
+        },
+        {
+          "id": "https://nautil.us/issue/100/outsiders/the-man-who-drank-cholera-and-launched-the-yogurt-craze-rp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nautil.us/issue/100/outsiders/the-man-who-drank-cholera-and-launched-the-yogurt-craze-rp",
+          "publishedOn": "2021-05-20T21:07:32.000Z",
+          "wordCount": 2685,
+          "title": "Ilya Metchnikoff laid the foundation for modern probiotics (2015)"
         },
         {
           "id": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
