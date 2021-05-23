@@ -596,24 +596,6 @@
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         }
       ]
     },
@@ -1068,6 +1050,87 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3126546",
+          "author": "Ekaterina Novoseltseva",
+          "description": "In Apium Academy, we help developers to get better through practical workshops, courses, and events. We believe in constant improvement and growth. Recently we have published an article about Top 5 Online Events On New Technologies And Trends 2021 and we decided to write a post specifically about Craft Conference pointing out the most interesting talks, workshops and speakers because we truly believe this conference is worth your time! \nWe regularly host and participate in software architecture events and t…",
+          "link": "https://dzone.com/articles/craft-conference-is-coming-back-online",
+          "publishedOn": "2021-05-22T23:30:06.000Z",
+          "wordCount": 1175,
+          "title": "Craft Conference Is Coming Back Online"
+        },
+        {
+          "id": "https://dzone.com/articles/3127456",
+          "author": "c_a_dunlop",
+          "description": "With every business becoming a digital enterprise, the ability to rapidly deliver reliable applications is now a core strategic advantage. Are Fortune 500 and equivalent organizations prepared for the digital race ahead? The answer may lie in their software testing process, which can be either a curse or catalyst to speedy innovation.\nAlthough there is no shortage of reports on overall software testing trends, the state of testing at the organizational level—particularly at “household name” brands — has his…",
+          "link": "https://dzone.com/articles/report-how-the-worlds-top-organizations-test",
+          "publishedOn": "2021-05-22T23:27:13.000Z",
+          "wordCount": 1087,
+          "title": "Report: How The World’s Top Organizations Test"
+        },
+        {
+          "id": "https://dzone.com/articles/2372736",
+          "author": "Ashoke Bhowmick",
+          "description": "Introduction\nOver the last two decades, many application development teams have adopted Agile development practices and have immensely benefited from it. Delivering working software frequently, receiving early feedback from customers and having self-organized cross-functional teams led to faster delivery to market and satisfied customers. Another software engineering culture, called DevOps, started evolving towards the middle of this decade and is now popular among many organizations. DevOps aims at unifyin…",
+          "link": "https://dzone.com/articles/continuous-integration-and-continuous-delivery-for-2",
+          "publishedOn": "2021-05-22T22:48:14.000Z",
+          "wordCount": 4427,
+          "title": "Continuous Integration and Continuous Delivery for Database Changes"
+        },
+        {
+          "id": "https://dzone.com/articles/3125708",
+          "author": "Daniel Oh",
+          "description": "For decades, enterprises have developed business-critical applications on various platforms, including physical servers, virtual machines, and cloud environments. The one thing these applications have in common across industries is they need to be continuously available (24x7x365) to guarantee stability, reliability, and performance, regardless of demand. Therefore, every enterprise must be responsible for the high costs of maintaining an infrastructure (e.g., CPU, memory, disk, networking, etc.) even if ac…",
+          "link": "https://dzone.com/articles/what-is-serverless-with-java",
+          "publishedOn": "2021-05-22T13:49:08.000Z",
+          "wordCount": 890,
+          "title": "What is serverless with Java?"
+        },
+        {
+          "id": "https://dzone.com/articles/3125542",
+          "author": "Jun Gu",
+          "description": "Milvus is an ongoing open-source software (OSS) project focused on building the world's fastest and most reliable vector database. New features inside Milvus v1.1.0 are the first of many updates to come, thanks to long-term support from the open-source community and sponsorship from Zilliz. This blog article covers the new features, improvements, and bug fixes included with Milvus v1.1.0.\nNew Features\nLike any OSS project, Milvus is a perpetual work in progress. We strive to listen to our users and the open…",
+          "link": "https://dzone.com/articles/inside-milvus-110",
+          "publishedOn": "2021-05-22T06:37:20.000Z",
+          "wordCount": 1220,
+          "title": "Inside Milvus 1.1.0"
+        },
+        {
+          "id": "https://dzone.com/articles/3121225",
+          "author": "Everett Berry",
+          "description": "\\n    \\tTry Arctype\\n\\t\\n\n\"}],[\"image\",{\"src\":\"https://arctype.com/blog/content/images/2021/04/Gitbook-2-3.png\",\"width\":1832,\"height\":794,\"caption\":\"Initial screen after signing up for GitBook\",\"alt\":\"Initial screen after signing up for GitBook\"}],[\"image\",{\"src\":\"https://arctype.com/blog/content/images/2021/04/new-space-3.png\",\"width\":1887,\"height\":866,\"caption\":\"Starting page for a new space/project Gitbook\",\"alt\":\"Starting page for a new space/project Gitbook\"}],[\"image\",{\"src\":\"https://arctype.com/blog/…",
+          "link": "https://dzone.com/articles/how-to-use-gitbook-for-technical-documentation",
+          "publishedOn": "2021-05-22T05:55:36.000Z",
+          "wordCount": 1409,
+          "title": "How to Use GitBook for Technical Documentation"
+        },
+        {
+          "id": "https://dzone.com/articles/3118104",
+          "author": "Everett Berry",
+          "description": "What is Collaborative Filtering?\nBeing able to view products and pages liked by other users is not only an interesting exercise, but also a nearly ubiquitous marketing tool — and, it can be easily implemented with MySQL using Arctype.\nNearly every dynamic website uses collaborative filtering to maximize users' exposure to a wider range of potentially relevant content.  You've seen it on Amazon:",
+          "link": "https://dzone.com/articles/collaborative-filtering-in-mysql-a-tutorial",
+          "publishedOn": "2021-05-22T05:55:33.000Z",
+          "wordCount": 1342,
+          "title": "Collaborative Filtering in MySQL: A Tutorial"
+        },
+        {
+          "id": "https://dzone.com/articles/3121103",
+          "author": "Everett Berry",
+          "description": "Postgres offers set operators that make it easy to query and filter the results of searches from your database. Set operators are used to join the results of two or more SELECT statements. These operators are UNION, UNION ALL, INTERSECT, and EXCEPT-each can be used to construct queries across multiple tables and filter for the specific data that you need.\n \n \nTo return the combined results of two SELECT statements, we use the UNION set operator. This operator removes all the duplicates from the queried resu…",
+          "link": "https://dzone.com/articles/getting-started-with-postgresql-set-operators",
+          "publishedOn": "2021-05-22T05:50:42.000Z",
+          "wordCount": 1126,
+          "title": "Getting Started With PostgreSQL Set Operators"
+        },
+        {
+          "id": "https://dzone.com/articles/3127548",
+          "author": "Laura Bouchard",
+          "description": "Server-side request forgery (SSRF) attacks are yet another form of cyber-crime, and they are designed to specifically target a server by sending back-end requests from vulnerable web applications. These attacks can threaten not only servers, but other connected confidential information such as cloud services in AWS, Azure, and OpenStack as well. They can be especially challenging to battle since they are generally used to target internal systems protected by firewalls that are inaccessible from the external…",
+          "link": "https://dzone.com/articles/how-to-protect-urls-from-ssrf-threats-in-java",
+          "publishedOn": "2021-05-22T04:55:29.000Z",
+          "wordCount": 996,
+          "title": "How to Protect URLs from SSRF Threats in Java"
+        },
         {
           "id": "https://dzone.com/articles/3124577",
           "author": "Ben Zane",
@@ -2930,6 +2993,213 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://prog21.dadgum.com/22.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://prog21.dadgum.com/22.html",
+          "publishedOn": "2021-05-22T21:56:52.000Z",
+          "wordCount": 1079,
+          "title": "My Road to Erlang (2008)"
+        },
+        {
+          "id": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+          "publishedOn": "2021-05-22T20:40:31.000Z",
+          "wordCount": 1445,
+          "title": "Sixth grader expelled after Zoom provided possibly inaccurate IP address"
+        },
+        {
+          "id": "https://github.com/mikroskeem/tosh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mikroskeem/tosh",
+          "publishedOn": "2021-05-22T19:26:09.000Z",
+          "wordCount": 922,
+          "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP"
+        },
+        {
+          "id": "https://pakkly.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pakkly.com",
+          "publishedOn": "2021-05-22T19:09:27.000Z",
+          "wordCount": 471,
+          "title": "Show HN: I hate adding updating to my apps, so I created Pakkly"
+        },
+        {
+          "id": "https://instruments.digital/inflation-adjusted-hn/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://instruments.digital/inflation-adjusted-hn/",
+          "publishedOn": "2021-05-22T18:30:57.000Z",
+          "wordCount": 382,
+          "title": "Show HN: Inflation-adjusted Hacker News"
+        },
+        {
+          "id": "http://www.kolibrios.org/en/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.kolibrios.org/en/",
+          "publishedOn": "2021-05-22T18:29:47.000Z",
+          "wordCount": 206,
+          "title": "KolibriOS"
+        },
+        {
+          "id": "https://github.com/frabert/ClangQL",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/frabert/ClangQL",
+          "publishedOn": "2021-05-22T18:15:22.000Z",
+          "wordCount": 1389,
+          "title": "Show HN: ClangQL – Query C++ codebases using SQLite"
+        },
+        {
+          "id": "https://nv-tlabs.github.io/datasetGAN/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nv-tlabs.github.io/datasetGAN/",
+          "publishedOn": "2021-05-22T17:49:32.000Z",
+          "wordCount": 441,
+          "title": "DatasetGAN: Efficient Labeled Data for AI Training"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41591-021-01377-8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41591-021-01377-8",
+          "publishedOn": "2021-05-22T17:11:13.000Z",
+          "wordCount": 10533,
+          "title": "Antibody levels highly predictive of immune protection from symptomatic Covid"
+        },
+        {
+          "id": "https://www.romanzolotarev.com/rssg.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.romanzolotarev.com/rssg.html",
+          "publishedOn": "2021-05-22T17:09:17.000Z",
+          "wordCount": 271,
+          "title": "Generate RSS feeds with grep(1), sed(1), and Awk(1)"
+        },
+        {
+          "id": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
+          "publishedOn": "2021-05-22T17:01:06.000Z",
+          "wordCount": 386,
+          "title": "GiveCampus (YC S15) is hiring remote senior engineers"
+        },
+        {
+          "id": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
+          "publishedOn": "2021-05-22T16:34:56.000Z",
+          "wordCount": 1481,
+          "title": "Common data model mistakes made by startups"
+        },
+        {
+          "id": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
+          "publishedOn": "2021-05-22T15:47:37.000Z",
+          "wordCount": 2370,
+          "title": "An early look at Postgres 14: Performance and monitoring Improvements"
+        },
+        {
+          "id": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+          "publishedOn": "2021-05-22T15:46:56.000Z",
+          "wordCount": 1548,
+          "title": "Floppinux – An Embedded Linux on a Single Floppy"
+        },
+        {
+          "id": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+          "publishedOn": "2021-05-22T15:46:33.000Z",
+          "wordCount": 985,
+          "title": "Cornell researchers see atoms at record resolution"
+        },
+        {
+          "id": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+          "publishedOn": "2021-05-22T12:02:54.000Z",
+          "wordCount": 3858,
+          "title": "An Introduction to Knowledge Graphs"
+        },
+        {
+          "id": "https://nav.al/rich",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nav.al/rich",
+          "publishedOn": "2021-05-22T12:00:49.000Z",
+          "wordCount": 43429,
+          "title": "How to get rich without being lucky (2019)"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
+          "publishedOn": "2021-05-22T11:20:21.000Z",
+          "wordCount": 1801,
+          "title": "Initial Stress-Derived Noun"
+        },
+        {
+          "id": "https://github.com/p-e-w/plotinus",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/p-e-w/plotinus",
+          "publishedOn": "2021-05-22T10:52:00.000Z",
+          "wordCount": 1593,
+          "title": "Plotinus: A searchable command palette in every modern GTK+ application"
+        },
+        {
+          "id": "https://eng.uber.com/architecture-api-gateway/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eng.uber.com/architecture-api-gateway/",
+          "publishedOn": "2021-05-22T09:52:35.000Z",
+          "wordCount": 3616,
+          "title": "The Architecture of Uber’s API Gateway"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
+          "publishedOn": "2021-05-22T05:05:16.000Z",
+          "wordCount": null,
+          "title": "The Collectors Who Hunt Down Radioactive Glassware"
+        },
+        {
+          "id": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
+          "publishedOn": "2021-05-22T02:28:26.000Z",
+          "wordCount": 1056,
+          "title": "Why the Bronte sisters may have died so young (2019)"
+        },
+        {
+          "id": "https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/",
+          "publishedOn": "2021-05-22T01:11:37.000Z",
+          "wordCount": 6312,
+          "title": "Deep-learning side-channel attacks: the theory"
+        },
+        {
           "id": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
           "author": null,
           "description": "Comments",
@@ -3110,6 +3380,15 @@
           "title": "MagicaCSG: A lightweight signed distance field editor and renderer"
         },
         {
+          "id": "https://blog.eiler.eu/posts/20210512/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.eiler.eu/posts/20210512/",
+          "publishedOn": "2021-05-21T13:58:25.000Z",
+          "wordCount": 3774,
+          "title": "C++20: Building a Thread-Pool with Coroutines"
+        },
+        {
           "id": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
           "author": null,
           "description": "Comments",
@@ -3155,6 +3434,15 @@
           "title": "A VR Frame’s Life"
         },
         {
+          "id": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+          "publishedOn": "2021-05-21T11:04:08.000Z",
+          "wordCount": 962,
+          "title": "What’s your API’s “Time To 200”?"
+        },
+        {
           "id": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
           "author": null,
           "description": "Comments",
@@ -3164,6 +3452,33 @@
           "title": "Scientists rediscover lost coffee species suited to a warmer climate"
         },
         {
+          "id": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+          "publishedOn": "2021-05-21T10:44:09.000Z",
+          "wordCount": 983,
+          "title": "Isotope study hints ancient Greeks used foreign fighters in key battle"
+        },
+        {
+          "id": "https://blog.freesound.org/?p=1340",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.freesound.org/?p=1340",
+          "publishedOn": "2021-05-21T10:25:05.000Z",
+          "wordCount": 806,
+          "title": "Freesound just reached 500K Creative Commons sounds"
+        },
+        {
+          "id": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
+          "publishedOn": "2021-05-21T09:25:21.000Z",
+          "wordCount": 1556,
+          "title": "The Jame of Life"
+        },
+        {
           "id": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
           "author": null,
           "description": "Comments",
@@ -3171,6 +3486,24 @@
           "publishedOn": "2021-05-21T08:08:50.000Z",
           "wordCount": 1927,
           "title": "How to port your OS to EC2"
+        },
+        {
+          "id": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
+          "publishedOn": "2021-05-21T07:52:39.000Z",
+          "wordCount": 2637,
+          "title": "My thoughts about the Principal role"
+        },
+        {
+          "id": "https://github.com/cassiozen/useStateMachine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cassiozen/useStateMachine",
+          "publishedOn": "2021-05-21T07:01:14.000Z",
+          "wordCount": 1465,
+          "title": "useStateMachine: A ½ kb state machine hook for React"
         },
         {
           "id": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
