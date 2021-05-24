@@ -1051,6 +1051,69 @@
       "siteUrl": "https://dzone.com",
       "articles": [
         {
+          "id": "https://dzone.com/articles/3119141",
+          "author": "Yash Dixit",
+          "description": "This article contains step-by-step information on running the Mule Application in AWS. Here, Terraform will be used for provisioning AWS resources. Terraform code will help to create an EC2 instance with required inbound and outbound rules and a key pair for logging into the instance, then running script that will set up the run time environment for our Mule Application. Mulesoft has a runtime manager, i.e., CloudHub that can be used to deploy or manage the mule application in a more scalable way. Basically, CloudHub is using the AWS EC2 instance that they call workers in CloudHub to run client applications, though it offers really cool features like proxies, SLAs and etc. The purpose of this tutorial is just to show you an alternative way of running Mule application and After deploying to AWS, You will get a public endpoint for your application that can be tested with any rest client.\nRequirements\n    1) Terraform Installation",
+          "link": "https://dzone.com/articles/running-mule-application-in-aws",
+          "publishedOn": "2021-05-24T00:12:59.000Z",
+          "wordCount": 1630,
+          "title": "Running Mule Application In AWS"
+        },
+        {
+          "id": "https://dzone.com/articles/3123162",
+          "author": "Brian Fernandes",
+          "description": "Being able to remotely collaborate on code with your colleagues has never been as essential as it is today. While ad-hoc screen sharing is okay for infrequent use, its capabilities fall far short for longer, more regular sessions. We move then, to code focused, IDE based solutions - there are several of these, but there are very few which support collaboration across multiple IDEs, and only CodeTogether supports Eclipse, IntelliJ and VS Code. This is what we’ll be using to get a collaborative session going, and through this tutorial,  I’ll give you a quick walkthrough of some of its capabilities.  \nInstalling the Plugin / Extension and Signing Up\nCodeTogether can be easily installed from your IDE’s marketplace (IntelliJ, Eclipse, VS Code) - bring up the marketplace dialog from within the IDE, search for and install CodeTogether.",
+          "link": "https://dzone.com/articles/remote-pair-programming-with-intellij-eclipse-and",
+          "publishedOn": "2021-05-23T13:48:20.000Z",
+          "wordCount": 1716,
+          "title": "Remote Pair Programming with IntelliJ, Eclipse and VS Code"
+        },
+        {
+          "id": "https://dzone.com/articles/3122744",
+          "author": "Dariusz Suchojad",
+          "description": "This Zato how-to is about ensuring that only API clients with valid SSL/TLS certificates, including expected certificate fingerprints or other metadata, can invoke selected REST endpoints. In this way, we are making access to the endpoints secure and, at the same time, we can guard against a class of faults related to the Certificate Authority infrastructure. \nOverview\nGiven that in front of all Zato servers in a cluster is a load-balancer, it is the load-balancer that accepts API client connections.",
+          "link": "https://dzone.com/articles/resilient-rest-apis-with-ssltls-client-certificate",
+          "publishedOn": "2021-05-23T13:22:20.000Z",
+          "wordCount": 2184,
+          "title": "Resilient REST APIs With SSL/TLS Client Certificates"
+        },
+        {
+          "id": "https://dzone.com/articles/3122300",
+          "author": "Dariusz Suchojad",
+          "description": "In this article, we will cover the details of how Zato SQL connection pools can be configured to take advantage of features and options specific to a particular driver or to the SQLAlchemy library.\nSQL Connection Pools\nFirst, let’s review the basic Zato Dashboard form that creates a new SQL connection pool.",
+          "link": "https://dzone.com/articles/setting-advanced-options-of-sql-connection-pools",
+          "publishedOn": "2021-05-23T00:54:06.000Z",
+          "wordCount": 852,
+          "title": "Setting Advanced Options of SQL Connection Pools"
+        },
+        {
+          "id": "https://dzone.com/articles/3122515",
+          "author": "Rahul Akula",
+          "description": "I have used Powershell for testing. I will explain a scenario in the story format:\nThe Story\nSequence 1: We have a script generation web app, there is a change in the script generation process.",
+          "link": "https://dzone.com/articles/powershell-script-for-testing-script-generation",
+          "publishedOn": "2021-05-23T00:43:16.000Z",
+          "wordCount": 671,
+          "title": "Powershell Script for Testing Script Generation"
+        },
+        {
+          "id": "https://dzone.com/articles/3122548",
+          "author": "Chitrabasu Khare",
+          "description": "In this blog post, we will discuss how you can create a minimalistic raw Ubuntu image using Packer and then deploy it on a bare-metal server using the provisioning engine, Tinkerbell.\nWhat is Packer?\nPacker by HashiCorp is an awesome tool to create pre-configured machine images which can be directly used to create an instance. This should not be seen as a replacement for other configuration tools like Ansible, Chef, etc. Instead, you can use the same tools to pre-configure your image, and with Packer, you can automate the management of your machine images like pushing to an image repository or ensuring your CI pipelines have updated images. Packer also helps you to create parallel builds, i.e you can create multiple images for different platforms using a single template. This enables you to ensure changes in your applications can be tested on multiple platforms simultaneously. It can also be seen as a factor to reduce the parity between developer and production builds.",
+          "link": "https://dzone.com/articles/how-to-create-a-ubuntu-packer-image-and-deploy-on",
+          "publishedOn": "2021-05-23T00:31:56.000Z",
+          "wordCount": 2041,
+          "title": "How to Create a Ubuntu Packer Image and Deploy on a Bare Metal Server"
+        },
+        {
+          "id": "https://dzone.com/articles/3122553",
+          "author": "Jean-Yves Stephan",
+          "description": "Delight is a free, hosted, cross-platform monitoring dashboard for Apache Spark.  It's a great complement to the Spark UI that can help you understand and improve the performance of your Spark applications. \nDelight gives you access to:",
+          "link": "https://dzone.com/articles/delight-the-new-amp-improved-spark-ui-and-spark-hi",
+          "publishedOn": "2021-05-23T00:10:05.000Z",
+          "wordCount": 2177,
+          "title": "Delight: The New and Improved Spark UI and Spark History Server"
+        },
+        {
           "id": "https://dzone.com/articles/3126546",
           "author": "Ekaterina Novoseltseva",
           "description": "In Apium Academy, we help developers to get better through practical workshops, courses, and events. We believe in constant improvement and growth. Recently we have published an article about Top 5 Online Events On New Technologies And Trends 2021 and we decided to write a post specifically about Craft Conference pointing out the most interesting talks, workshops and speakers because we truly believe this conference is worth your time! \nWe regularly host and participate in software architecture events and t…",
@@ -2993,6 +3056,249 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://github.com/google/bottery",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/google/bottery",
+          "publishedOn": "2021-05-23T23:08:36.000Z",
+          "wordCount": 3140,
+          "title": "Bottery by Google"
+        },
+        {
+          "id": "https://ingrids.space/posts/why-distributed-systems-dont-work/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ingrids.space/posts/why-distributed-systems-dont-work/",
+          "publishedOn": "2021-05-23T22:44:18.000Z",
+          "wordCount": 2127,
+          "title": "Why Decentralised Applications Don’t Work"
+        },
+        {
+          "id": "https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/",
+          "publishedOn": "2021-05-23T20:53:26.000Z",
+          "wordCount": 1809,
+          "title": "Switching from Mailchimp to open-source Mailtrain and AWS SES"
+        },
+        {
+          "id": "http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf",
+          "publishedOn": "2021-05-23T19:46:01.000Z",
+          "wordCount": 325962,
+          "title": "Cray-2 Memories [pdf]"
+        },
+        {
+          "id": "https://www.flawlessai.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.flawlessai.com/",
+          "publishedOn": "2021-05-23T19:11:34.000Z",
+          "wordCount": 261,
+          "title": "Neural Network Enabled Filmmaking"
+        },
+        {
+          "id": "https://vitalik.ca/general/2021/05/23/scaling.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vitalik.ca/general/2021/05/23/scaling.html",
+          "publishedOn": "2021-05-23T19:09:41.000Z",
+          "wordCount": 3570,
+          "title": "The Limits to Blockchain Scalability"
+        },
+        {
+          "id": "https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html",
+          "publishedOn": "2021-05-23T17:37:25.000Z",
+          "wordCount": 458,
+          "title": "Why I prefer making useless stuff"
+        },
+        {
+          "id": "https://www.knotend.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.knotend.com",
+          "publishedOn": "2021-05-23T17:37:00.000Z",
+          "wordCount": 2,
+          "title": "Show HN: Direct manipulation flowchart editor without the mouse"
+        },
+        {
+          "id": "https://www.kiter.app/#/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kiter.app/#/",
+          "publishedOn": "2021-05-23T17:26:35.000Z",
+          "wordCount": 3,
+          "title": "Show HN: CRM for Your Job Search"
+        },
+        {
+          "id": "https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/",
+          "publishedOn": "2021-05-23T17:15:32.000Z",
+          "wordCount": 1059,
+          "title": "Five Tips to Writing RISC-V Assembly"
+        },
+        {
+          "id": "https://github.com/sogou/workflow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/sogou/workflow",
+          "publishedOn": "2021-05-23T17:15:00.000Z",
+          "wordCount": 1678,
+          "title": "C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine"
+        },
+        {
+          "id": "https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC",
+          "publishedOn": "2021-05-23T17:00:15.000Z",
+          "wordCount": 449,
+          "title": "The Muse (YC W12) Is Hiring a Senior Platform Engineer"
+        },
+        {
+          "id": "https://www.righto.com/2021/05/teardown-of-pc-power-supply.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.righto.com/2021/05/teardown-of-pc-power-supply.html",
+          "publishedOn": "2021-05-23T16:55:08.000Z",
+          "wordCount": 4012,
+          "title": "Teardown of a PC Power Supply"
+        },
+        {
+          "id": "https://github.com/wwwtyro/candygraph",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/wwwtyro/candygraph",
+          "publishedOn": "2021-05-23T16:28:02.000Z",
+          "wordCount": 864,
+          "title": "Show HN: CandyGraph, a flexible, fast-by-default WebGL plotting library"
+        },
+        {
+          "id": "https://github.com/WeeJeWel/wg-easy/blob/master/README.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/WeeJeWel/wg-easy/blob/master/README.md",
+          "publishedOn": "2021-05-23T16:18:57.000Z",
+          "wordCount": 555,
+          "title": "Show HN: Wg-easy] Easy to setup, all-in-one WireGuard and Management Web UI"
+        },
+        {
+          "id": "https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/",
+          "publishedOn": "2021-05-23T15:37:58.000Z",
+          "wordCount": 1600,
+          "title": "Dorodango: the Japanese art of making shiny mud balls (2019)"
+        },
+        {
+          "id": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
+          "publishedOn": "2021-05-23T15:35:17.000Z",
+          "wordCount": 1061,
+          "title": "Saying Goodbye to Typo CI"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-europe-57219860",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/world-europe-57219860",
+          "publishedOn": "2021-05-23T15:18:34.000Z",
+          "wordCount": 1702,
+          "title": "Belarus 'diverts Ryanair flight to arrest journalist', opposition says"
+        },
+        {
+          "id": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
+          "publishedOn": "2021-05-23T15:14:40.000Z",
+          "wordCount": 1523,
+          "title": "ESA advances its plan for satellites around the Moon"
+        },
+        {
+          "id": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
+          "publishedOn": "2021-05-23T13:20:38.000Z",
+          "wordCount": 6808,
+          "title": "Teach Yourself Demoscene in 14 Days"
+        },
+        {
+          "id": "https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/",
+          "publishedOn": "2021-05-23T13:00:37.000Z",
+          "wordCount": 3531,
+          "title": "One man’s fight for the right to repair broken MacBooks"
+        },
+        {
+          "id": "https://www.dynablogger.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dynablogger.com/",
+          "publishedOn": "2021-05-23T12:53:00.000Z",
+          "wordCount": 702,
+          "title": "Show HN: A simple blogging platform I built out of frustration with other tools"
+        },
+        {
+          "id": "https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3",
+          "publishedOn": "2021-05-23T12:13:53.000Z",
+          "wordCount": 1018,
+          "title": "Rapid Prototyping with a $100 Inkjet Printer"
+        },
+        {
+          "id": "https://github.com/a327ex/SNKRX",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/a327ex/SNKRX",
+          "publishedOn": "2021-05-23T11:17:43.000Z",
+          "wordCount": 648,
+          "title": "Show HN: I open sourced a game I just released on Steam, written in Lua"
+        },
+        {
+          "id": "https://unece.org/trade/uncefact/introducing-unedifact",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unece.org/trade/uncefact/introducing-unedifact",
+          "publishedOn": "2021-05-23T08:11:18.000Z",
+          "wordCount": 282,
+          "title": "Introducing UN/EDIFACT"
+        },
+        {
+          "id": "https://victorrotariu.com/2021/05/on-weakness/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://victorrotariu.com/2021/05/on-weakness/",
+          "publishedOn": "2021-05-23T05:26:00.000Z",
+          "wordCount": 2996,
+          "title": "On Weakness"
+        },
+        {
+          "id": "https://www.afar.com/magazine/digging-for-diamonds-at-crater-of-diamonds-state-park-in-arkansas",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.afar.com/magazine/digging-for-diamonds-at-crater-of-diamonds-state-park-in-arkansas",
+          "publishedOn": "2021-05-23T05:22:26.000Z",
+          "wordCount": 4628,
+          "title": "Digging for Diamonds at Crater of Diamonds State Park in Arkansas"
+        },
+        {
           "id": "https://prog21.dadgum.com/22.html",
           "author": null,
           "description": "Comments",
@@ -3171,6 +3477,15 @@
           "publishedOn": "2021-05-22T09:52:35.000Z",
           "wordCount": 3616,
           "title": "The Architecture of Uber’s API Gateway"
+        },
+        {
+          "id": "https://danluu.com/cpu-bugs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danluu.com/cpu-bugs/",
+          "publishedOn": "2021-05-22T09:26:32.000Z",
+          "wordCount": 3285,
+          "title": "CPU Bugs (2018)"
         },
         {
           "id": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
@@ -3432,6 +3747,15 @@
           "publishedOn": "2021-05-21T11:14:38.000Z",
           "wordCount": 2019,
           "title": "A VR Frame’s Life"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Atomic_gardening",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Atomic_gardening",
+          "publishedOn": "2021-05-21T11:08:12.000Z",
+          "wordCount": 1325,
+          "title": "Atomic Gardening"
         },
         {
           "id": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
@@ -6505,5 +6829,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
