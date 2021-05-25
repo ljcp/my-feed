@@ -2,10 +2,662 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:34:21.614Z</updated>
+    <updated>2021-05-25T00:34:14.110Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some stealth edits Vox made to its article debunking “conspiracy theories”]]></title>
+        <id>https://twitter.com/paulg/status/1396769717805780994</id>
+        <link href="https://twitter.com/paulg/status/1396769717805780994"/>
+        <updated>2021-05-25T00:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Than Average]]></title>
+        <id>https://thanaverage.xyz/</id>
+        <link href="https://thanaverage.xyz/"/>
+        <updated>2021-05-24T23:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Having a successful career with depression, anxiety and imposter syndrome]]></title>
+        <id>https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/</id>
+        <link href="https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/"/>
+        <updated>2021-05-24T22:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparison of Object Mapper Libraries]]></title>
+        <id>https://dzone.com/articles/3126450</id>
+        <link href="https://dzone.com/articles/comparison-of-object-mapper-libraries-1"/>
+        <updated>2021-05-24T22:45:25.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we look at object-to-object mappers in C# .NET.  Mappers solve the common problem of writing mundane and repetitive code when assigning values between objects.  Three different mapping libraries are evaluated to give an idea of common themes and some differences which might be relevant for your development needs.
+The mapping libraries AutoMapper, AgileMapper, and Mapster have been used in a simple demo program to explore some simple mapping scenarios.]]></summary>
+        <author>
+            <name>Jonathan Dodd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance]]></title>
+        <id>https://css-tricks.com/?p=340808</id>
+        <link href="https://css-tricks.com/links-on-performance/"/>
+        <updated>2021-05-24T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
+…
+The post Links on Performance appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambassadors' View on Jakarta EE/MicroProfile Alignment]]></title>
+        <id>https://dzone.com/articles/3126622</id>
+        <link href="https://dzone.com/articles/ambassadors-joint-position-on-jakarta-eemicroprofi"/>
+        <updated>2021-05-24T22:03:15.000Z</updated>
+        <summary type="html"><![CDATA[The Jakarta EE Ambassadors are encouraged by the continued progress and relevance of both Jakarta EE and MicroProfile. We believe a clear, collaborative, and complementary relationship between Jakarta EE and MicroProfile is very important for the Java ecosystem. 
+Unfortunately the relationship has been unclear to many in the Java community, sometimes appearing to be disconnected, overlapping and competitive. MicroProfile builds on top of some Jakarta EE specifications and many Jakarta EE applications now use MicroProfile APIs. For the success of both, it is imperative that the technology sets clarify alignment to ensure continuity and predictability.]]></summary>
+        <author>
+            <name>Reza Rahman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java HTML Report in a Few Lines of Code (Part 2)]]></title>
+        <id>https://dzone.com/articles/3126680</id>
+        <link href="https://dzone.com/articles/java-html-report-in-a-few-lines-of-code-continued"/>
+        <updated>2021-05-24T21:47:17.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I described the creation of an HTML table report with AJAX filtering and user sorting of columns — using a few lines of code written into a single Java command. For this, I used the ReportBuilder class from the Ujorm framework. Today, I’d like to show you how to place formatted content into the cells of such a table, as well as a few more improvements. What will the final table look like?
+Our filter now has a new input field for limiting the number of displayed rows. We can insert the first column into our table, containing the sort order number of the row. The star classification of a hotel can be displayed using a list of appropriate characters with a tooltip, and the final column contains a link to the hotel home page. The original behaviour of the table remains the same, the updated source code is here:]]></summary>
+        <author>
+            <name>Pavel Ponec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1]]></title>
+        <id>https://inkscape.org/news/2021/05/24/welcome-inkscape-11/</id>
+        <link href="https://inkscape.org/news/2021/05/24/welcome-inkscape-11/"/>
+        <updated>2021-05-24T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Third-Party APIs on the JVM]]></title>
+        <id>https://dzone.com/articles/3127612</id>
+        <link href="https://dzone.com/articles/hacking-third-party-apis-on-the-jvm"/>
+        <updated>2021-05-24T21:32:47.000Z</updated>
+        <summary type="html"><![CDATA[The JVM ecosystem is mature and offers plenty of libraries, so you don't need to reinvent the wheel. Basic — and not so basic — functionalities are just a dependency away. Sometimes, however, the dependency and your use-case are slightly misaligned.
+The correct way to fix this would be to create a Pull Request. But your deadline is tomorrow: you need to make it work now! It's time to hack the provided API.]]></summary>
+        <author>
+            <name>Nicolas Fränkel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
+        <id>60aaba5911ffb70827ef5ffc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
+        <updated>2021-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Scrum Requires a Failure Culture]]></title>
+        <id>https://dzone.com/articles/3127648</id>
+        <link href="https://dzone.com/articles/why-scrum-requires-a-failure-culture"/>
+        <updated>2021-05-24T21:08:45.000Z</updated>
+        <summary type="html"><![CDATA[There are plenty of failure possibilities with Scrum. Given that Scrum is a framework with a reasonable yet short “manual,” this effect should not surprise anyone. To make things worse, a crucial success factor of every Scrum team is not even mentioned in the Scrum Guide: Any organization that wants to employ Scrum to learn faster than its competitors needs to have a solid failure culture.
+Join me and explore the consequences of not living a failure culture in less than three minutes.]]></summary>
+        <author>
+            <name>Stefan Wolpers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesorio (YC S15) Is Hiring a Principal Data Architect]]></title>
+        <id>https://www.tesorio.com/careers#job-openings</id>
+        <link href="https://www.tesorio.com/careers#job-openings"/>
+        <updated>2021-05-24T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elk OS – Audio Operating System]]></title>
+        <id>https://elk.audio/audio-os/</id>
+        <link href="https://elk.audio/audio-os/"/>
+        <updated>2021-05-24T20:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
+        <id>60ac07ec11ffb70827ef66e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
+        <updated>2021-05-24T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit now supports every programming language in Nix]]></title>
+        <id>https://blog.replit.com/nix</id>
+        <link href="https://blog.replit.com/nix"/>
+        <updated>2021-05-24T20:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists use optogenetics to help a blind patient see again]]></title>
+        <id>https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/</id>
+        <link href="https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/"/>
+        <updated>2021-05-24T19:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urbit: The good, the bad, and the insane]]></title>
+        <id>https://wejn.org/2021/02/urbit-good-bad-insane/</id>
+        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
+        <updated>2021-05-24T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Load-Balancing Minecraft Servers with Kong Gateway]]></title>
+        <id>https://dzone.com/articles/3127728</id>
+        <link href="https://dzone.com/articles/load-balancing-minecraft-servers-with-kong-gateway"/>
+        <updated>2021-05-24T18:10:01.000Z</updated>
+        <summary type="html"><![CDATA[It's time to have some fun. Sure, tell your colleagues or your family that you're doing research, experimenting with some new tech—because that is what we'll be doing—but just don't let them see you playing Minecraft!
+Here's the scenario: You're organizing a full-day Minecraft class for local STEM students. You need to run your own Minecraft servers to ensure a kid-friendly multiplayer environment, restricted only to your students. One server won't be enough, so you'll run two servers simultaneously, expecting your load balancer to handle sending students to Server A or Server B, depending on the load.]]></summary>
+        <author>
+            <name>Michael Bogan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Pythonic Rust]]></title>
+        <id>http://www.cmyr.net/blog/rust-python-learnings.html</id>
+        <link href="http://www.cmyr.net/blog/rust-python-learnings.html"/>
+        <updated>2021-05-24T17:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A journey to io_uring, AIO and modern storage devices]]></title>
+        <id>https://clickhouse.tech/blog/en/2021/reading-from-external-memory/</id>
+        <link href="https://clickhouse.tech/blog/en/2021/reading-from-external-memory/"/>
+        <updated>2021-05-24T17:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evidence-based Software Engineering: based on the publicly available data]]></title>
+        <id>http://www.knosof.co.uk/ESEUR/</id>
+        <link href="http://www.knosof.co.uk/ESEUR/"/>
+        <updated>2021-05-24T16:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems (2019)]]></title>
+        <id>https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/</id>
+        <link href="https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/"/>
+        <updated>2021-05-24T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Lag in Your Kafka Cluster]]></title>
+        <id>https://dzone.com/articles/3123864</id>
+        <link href="https://dzone.com/articles/understanding-the-lag-in-your-kafka-cluster"/>
+        <updated>2021-05-24T16:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Amongst various metrics that Kafka monitoring includes consumer lag is nearly the most important of them all. In this post, we will explore potential reasons for Kafka consumer lag and what you could do when you experience lag.
+Kafka — Past and Present
+Apache Kafka is no longer used just by the Internet hyperscalers. Apache Kafka is used in the enterprise to deal with exploding streaming data. It powers compelling consumer experiences such as real-time personalization, recommendation and next best action. Kafka allows low latency ingestion of large amounts of data into data lakes or data warehouses. Kafka allows businesses to get real-time intelligence into their business operations that allows them to react in real time to changing business conditions.]]></summary>
+        <author>
+            <name>loretta jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radioactivity may fuel life deep underground and inside other worlds]]></title>
+        <id>https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/</id>
+        <link href="https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/"/>
+        <updated>2021-05-24T15:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did bar ends go away from mountain bikes?]]></title>
+        <id>https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/</id>
+        <link href="https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/"/>
+        <updated>2021-05-24T15:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up a Database Diagram Using a Stored Procedure In SQL Server]]></title>
+        <id>https://dzone.com/articles/2276681</id>
+        <link href="https://dzone.com/articles/database-diagram-using-stored-procedure-and-sql-se"/>
+        <updated>2021-05-24T15:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Steps to be Followed:
+Create tables
+Create stored procedure using inner join between two tables
+Find out stored procedure syntax as text using SQL query
+Execute stored procedure to get results
+List of tables used in a stored procedure
+Then create a database diagram
+Step 1
+Create a table named: Supplier_Type_Master.
+SQL syntax]]></summary>
+        <author>
+            <name>Satyaprakash Samantaray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Curvenote (YC W21) – Collaborative writing tools for science]]></title>
+        <id>https://news.ycombinator.com/item?id=27265380</id>
+        <link href="https://news.ycombinator.com/item?id=27265380"/>
+        <updated>2021-05-24T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch T-SQL With Passed Parameter Value Using Stored Procedure]]></title>
+        <id>https://dzone.com/articles/2302788</id>
+        <link href="https://dzone.com/articles/fetch-t-sql-with-passed-parameter-value-using-stor"/>
+        <updated>2021-05-24T15:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Using "sys.objects," we can get a list of tables and stored Procedures created in the Database. SQL Server now supports table-valued parameters, which allow us to send data tables as parameters to Stored Procedures. It still uses the same ADO.NET API. Using SYSOBJECTS and SYSDEPENDS, we can get all the tables, stored procedures, and other database object-related information.
+Description
+You can apply the OBJECT_ID, OBJECT_NAME, and OBJECTPROPERTY() built-in functions to the objects shown in sys.objects. It contains a row for each user-defined, schema-scoped object that is created within a database. sys.objects does not show DDL triggers because they are not schema-scoped. Table Valued Parameter allows a table (i.e multiple rows of data) to be passed as a parameter to a stored procedure from T-SQL code or from an application. It was not possible to pass a table variable as a parameter to a stored procedure in old versions of SQL Server.]]></summary>
+        <author>
+            <name>Satyaprakash Samantaray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I/O Rings: When One I/O Operation is Not Enough]]></title>
+        <id>https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/</id>
+        <link href="https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/"/>
+        <updated>2021-05-24T14:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
+        <id>60a5248c906c5207e3a7e54b</id>
+        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
+        <updated>2021-05-24T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOOM Captcha]]></title>
+        <id>https://vivirenremoto.github.io/doomcaptcha/</id>
+        <link href="https://vivirenremoto.github.io/doomcaptcha/"/>
+        <updated>2021-05-24T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeapSafe: Securing Unprotected Heaps in RISC-V [pdf]]]></title>
+        <id>https://arxiv.org/abs/2105.08712</id>
+        <link href="https://arxiv.org/abs/2105.08712"/>
+        <updated>2021-05-24T14:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rf: an experimental refactoring tool for Go]]></title>
+        <id>https://pkg.go.dev/rsc.io/rf</id>
+        <link href="https://pkg.go.dev/rsc.io/rf"/>
+        <updated>2021-05-24T14:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Flashcards to learn AWS skills]]></title>
+        <id>https://cloudbite.attejuvonen.fi/</id>
+        <link href="https://cloudbite.attejuvonen.fi/"/>
+        <updated>2021-05-24T14:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
+        <id>https://css-tricks.com/?p=340626</id>
+        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
+        <updated>2021-05-24T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
+The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In the Deep Sea, Animals Abound]]></title>
+        <id>http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound</id>
+        <link href="http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound"/>
+        <updated>2021-05-24T12:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using io_uring to make a high-performance finger server]]></title>
+        <id>https://drewdevault.com/2021/05/24/io_uring-finger-server.html</id>
+        <link href="https://drewdevault.com/2021/05/24/io_uring-finger-server.html"/>
+        <updated>2021-05-24T11:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
+        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
+        <updated>2021-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complexities of e-mail validation logic]]></title>
+        <id>https://www.netmeister.org/blog/email.html</id>
+        <link href="https://www.netmeister.org/blog/email.html"/>
+        <updated>2021-05-24T11:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In praise of --dry-run]]></title>
+        <id>https://www.gresearch.co.uk/article/in-praise-of-dry-run/</id>
+        <link href="https://www.gresearch.co.uk/article/in-praise-of-dry-run/"/>
+        <updated>2021-05-24T11:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temptation of the Apple: Dolphin on macOS M1]]></title>
+        <id>https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/</id>
+        <link href="https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/"/>
+        <updated>2021-05-24T10:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT World Today: Why Do We Need to Build IoT Projects?]]></title>
+        <id>https://dzone.com/articles/3117359</id>
+        <link href="https://dzone.com/articles/iot-world-today-why-do-we-need-to-build-iot-projec"/>
+        <updated>2021-05-24T10:37:24.000Z</updated>
+        <summary type="html"><![CDATA[This article is about the prospects of IoT and why we need to build IoT projects. You may think the reason is new technologies like 5G but that is not the case. After the pandemic of last year, we witness an unprecedented usage of the internet and heavy reliance on network-based applications. Today, in 2021, we can say that consumer behavior has changed and it has changed for good. Consumers start relying on IoT devices and that's why you need to build one today. Here is why.
+Technology Diversity Drives IoT Growth
+The Covid-19 pandemic drove companies and consumers to become more technology-reliant. No wonder the IoT grew by double-digit. We witness increasing sophistication of the IoT technology and this trend is going to dominate in the upcoming years. In this part, we will talk about some of the challenges and advantages of technology when it comes to IoT.]]></summary>
+        <author>
+            <name>Anahit Ghazaryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheese photo leads to Liverpool drug dealer's downfall]]></title>
+        <id>https://www.bbc.co.uk/news/uk-england-merseyside-57226165</id>
+        <link href="https://www.bbc.co.uk/news/uk-england-merseyside-57226165"/>
+        <updated>2021-05-24T10:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killing Cloud Security Misconceptions: Common Vulnerabilities and Exposures (CVEs)]]></title>
+        <id>https://dzone.com/articles/3124519</id>
+        <link href="https://dzone.com/articles/killing-cloud-security-misconceptions-common-vulne"/>
+        <updated>2021-05-24T09:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Background
+The Common Vulnerabilities and Exposures (CVE) tells us the whole story just by its name — these are exposures and vulnerabilities that are common. But what happens when uncommon issues are discovered and exploited by attackers? What if attackers just want us to think they’d only exploit common issues and vulnerabilities?
+Securing CVEs sounds like it should be the right place to start from. Exploring common vulnerabilities and exposure is where script kiddies start from, that's what bots are exploiting, and none of us want to end up in the security hall of shame, set aside for organizations that were exploited and affected by ransomware, thanks to an unpatched CVE from months ago.]]></summary>
+        <author>
+            <name>Or Azarzar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My experience binding a couple of scripting engines with C++]]></title>
+        <id>https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7</id>
+        <link href="https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7"/>
+        <updated>2021-05-24T09:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed Wireless: Taking Rural and Urban Connectivity To The Next Level]]></title>
+        <id>https://dzone.com/articles/3122680</id>
+        <link href="https://dzone.com/articles/fixed-wireless-taking-rural-amp-urban-connectivity"/>
+        <updated>2021-05-24T09:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Five years ago, wireless ISP partners were roughly seven to eight miles on average away from their typical subscribers in rural areas. In the last three years of progress since then, wireless ISP partners say they're really between three to five miles from their subscribers in rural areas. This means they've been putting a concerted effort of getting closer to these subscribers to provide more serving points to get more capacity and more speed to the subscribe.
+Those familiar with the fixed wireless business know that it is traditionally made up of backhaul equipment that delivers bandwidth at a low cost from data centers and tower locations into neighborhoods.]]></summary>
+        <author>
+            <name>Jay Emani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APIs: Our Legacy from Flawed 1960’s Thinking]]></title>
+        <id>https://dzone.com/articles/3124523</id>
+        <link href="https://dzone.com/articles/apis-our-legacy-from-flawed-1960s-thinking"/>
+        <updated>2021-05-24T09:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Object-Oriented Programming and Design principles have now existed for over 50 years, so it seems odd that apparently, no one has noticed the substantial flaw in Object-Oriented Design that has existed since the very beginning. We are instead told that Object-Oriented (OO) Design principals have won the day, as they provide a programmatic mirror image of the real-world scenarios they are intended to reflect. If we look a little deeper, OO Design is in fact completely detached from the world that it is intended to model. Whilst it is obviously true that the world consists of objects — known and unknown, real and abstract — the unimaginable flaw in OO Design fundamentals that seems to remain undetected until this day is that calling objects can never have complete mastery of the Interfaces of the objects they call: objects can only ever be masters of their own Interface — of themselves.
+Example
+Let’s imagine a Customer Object in negotiations with a SalesContact Object, in any given IT Landscape. OO Design asks us to pretend that the Customer Object has perfect mastery of the SalesContact Object Interface, and therefore knows exactly how to call the relevant RequestQuotation method of the SalesContact Object: having already guessed at the name of that method, its latest publicly-available version, and based upon the false hope that the definition of the RequestQuotation method will not change over time. The obvious reality is that the Customer Object can only guess at the Interface of the SalesContact Object, and hope that this Interface does not change in the short-term (e.g. as the product range offered by the SalesContact becomes more developed, and therefore more complex). Add to this the fact that the very same Customer Object may need to exchange with several different SalesContact Objects in several different departments, not all using the same Interface Version or even the same Interface — the same API — and we must consider that the OO Design philosophy, as it stands today, is massively flawed.]]></summary>
+        <author>
+            <name>Cameron HUNT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Heroku Works]]></title>
+        <id>https://dzone.com/articles/3126724</id>
+        <link href="https://dzone.com/articles/how-heroku-works"/>
+        <updated>2021-05-24T09:09:45.000Z</updated>
+        <summary type="html"><![CDATA[I started looking into Heroku as an option for creating personal applications in my free time. In fact, I converted an existing application from the AWS ecosystem to Heroku which was captured in a series on DZone.com:
+Moving Away From AWS and Onto Heroku]]></summary>
+        <author>
+            <name>John Vester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing the Role of QA in Continuous Delivery]]></title>
+        <id>https://dzone.com/articles/3122200</id>
+        <link href="https://dzone.com/articles/optimizing-the-role-of-qa-in-continuous-delivery"/>
+        <updated>2021-05-24T09:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Software development space is quickly evolving, bringing in more agility and accessibility. For a long time, software testing posed a significant challenge for engineers. It used to be a tedious affair and used to begin after the completion of development. The testers had to build test cases manually. As a result, it could delay the launch of the application.
+Apart from actual production and post-production issues, the usability and tracking of the application stage became difficult. It led to chaos at all stages.]]></summary>
+        <author>
+            <name>Mitul Makadia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete Guide to eCommerce Website Testing for a Better Website Experience]]></title>
+        <id>https://dzone.com/articles/3100516</id>
+        <link href="https://dzone.com/articles/complete-guide-to-ecommerce-website-testing-for-be"/>
+        <updated>2021-05-24T08:55:08.000Z</updated>
+        <summary type="html"><![CDATA[According to a report by Statista, retail e-commerce revenues are projected to grow to $6.54 trillion USD in 2022. E-commerce was already a huge online activity but has become even more pronounced during the pandemic-induced lockdown.
+With the growing number of online buyers, your e-commerce website needs to be robust to meet the demands of your customers. Having a good e-commerce website is not enough today; you need to update the website to meet your business's new requirements and goals. Your e-commerce website should enlist products so that the users engage with the site and convert faster.]]></summary>
+        <author>
+            <name>Mitul Makadia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Wormhole: Get things from one computer to another, safely]]></title>
+        <id>https://github.com/magic-wormhole/magic-wormhole</id>
+        <link href="https://github.com/magic-wormhole/magic-wormhole"/>
+        <updated>2021-05-24T08:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canary Deployment, Constraints, and Benefits]]></title>
+        <id>https://dzone.com/articles/3120536</id>
+        <link href="https://dzone.com/articles/canary-deployment-constraints-and-benefits"/>
+        <updated>2021-05-24T08:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Canary 
+Canary was an essential part of British mining history: these humble birds were used to detect carbon monoxide and other toxic gases before the gases could hurt humans (the canary is more sensitive to airborne toxins than humans). The term “canary analysis” in software deployment serves a similar purpose. Just as the canary notified miners about any problems in the air they breathed, DevOps engineers use a canary deployment analysis to gauge if their new release in CI/CD process will cause any trouble to business.
+You can consider the following general definition of a canary release deployment: canary deployment is a technique to reduce the risk of introducing a software update in production by slowly rolling out the change to a small subset of users before making it available to everybody.]]></summary>
+        <author>
+            <name>Jyoti Sahoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Synapse Analytics – New Insights Into Data Security]]></title>
+        <id>https://dzone.com/articles/3121340</id>
+        <link href="https://dzone.com/articles/azure-synapse-analytics-new-insights-into-data-sec"/>
+        <updated>2021-05-24T08:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Azure Synapse Analytics is a new product in the Microsoft Azure portfolio. It brings a whole new layer of control plane over well-known services as SQL Warehouse (rebranded to SQL Provisioned Pool), integrated Data Factory Pipelines, and Azure Data Lake Storage, as well as add new components such as Serverless SQL and Spark Pools. Integrated Azure Synapse Workspace helps handle security and protection of data in one place for all data lake, data analytics, and warehousing needs, but also requires learning some new concepts. At GFT, working with financial institutions all over the world, we pay particular attention to the security aspects of solutions that we provide to our customers. Synapse Analytics is a welcome new tool in this area.
+The New Workspace Portal
+The first visible difference, when compared to other services, is that Synapse Analytics has a separate Workspace: https://web.azuresynapse.net/ that provides access to code, notebooks, SQL, pipelines, monitoring, and management panels. The portal is available on the public Internet using Azure AD Access controls for controlling access to any Synapse Analytics instance in any tenant that we have access to. However, Synapse Analytics introduces a new way to connect to the portal from Internet-isolated, on-premises networks, and offices using Private Link Hubs. Compared to Private Links that protect access to services and databases, this solution is used for routing traffic to a web portal. In conjunction with the Azure AD Conditional Access policy, the new Synapse Analytics Workspace can be protected with network and authentication policies.]]></summary>
+        <author>
+            <name>Piotr Gwiazda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Airflow 2.0: A Practical Jump Start]]></title>
+        <id>https://dzone.com/articles/3119534</id>
+        <link href="https://dzone.com/articles/apache-airflow-20-a-practical-jump-start"/>
+        <updated>2021-05-24T07:59:36.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I would like to give you a jump-start tutorial to understand the basic concepts and create a workflow pipeline from scratch.
+So let's get started!]]></summary>
+        <author>
+            <name>Amrut Prabhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Types of AspectJ Weaving]]></title>
+        <id>https://dzone.com/articles/3119580</id>
+        <link href="https://dzone.com/articles/different-types-of-aspectj-weaving"/>
+        <updated>2021-05-24T07:49:37.000Z</updated>
+        <summary type="html"><![CDATA[https://unsplash.com/photos/OQ1LDghuOEk
+ 
+There are different types of weaving on AspectJ, I’m going to share the differences for each weaving type.
+If you have grasped the basic concepts of AOP (moreover AspectJ) and want to know the details about different types of AspectJ weaving, which are Compile-time weaving, Post-compile (binary) weaving, and Load-time weaving, do continue reading this article.]]></summary>
+        <author>
+            <name>Axellageraldinc A</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Top-down Resource Monitoring of a Kubernetes Cluster With Metrics Server]]></title>
+        <id>https://dzone.com/articles/3126695</id>
+        <link href="https://dzone.com/articles/practical-top-down-resource-monitoring-of-a-kubern"/>
+        <updated>2021-05-24T06:38:07.000Z</updated>
+        <summary type="html"><![CDATA[You might have previously used observability tools such as Prometheus, Azure Monitor, AWS Container Insight, or commercial products such as Logic Monitor to monitor your Kubernetes cluster. Let's probe the Kubernetes magic that makes the beautiful CPU and memory dials tick on the monitoring dashboards.
+Kubernetes has a built-in Metrics API (see spec) and a simple CLI query, kubectl top ( documentation), that you can use to fetch a snapshot of the CPU and memory consumption of a Kubernetes object. The Kubernetes Metrics API is dependent on the Metrics Server cluster add-on that gathers resource usage from the Kubelets of the cluster. The primary consumer of the Metrics API is the Horizontal Pod Autoscaler. The Horizontal Pod Autoscaler (HPA) uses the metrics served by the Metrics API to scale the number of pods based on the observed resource metrics values. Apart from the Metrics API, HPA is designed to also consume metrics from your application running on the cluster (custom metrics) and services outside the cluster (external metrics) to autoscale pods. Some examples of external metrics provider to HPA are the popular open-source events-based autoscaling service KEDA and soon Logic Monitor. Similar to HPA, Vertical Pod Autoscaler (VPA) relies on Metrics Server as well. VPA allows you to automatically scale the CPU and memory constraints of the containers in a pod.]]></summary>
+        <author>
+            <name>Rahul Rai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing Intuitive Input Controls to The Web Spreadsheet User Experience]]></title>
+        <id>https://dzone.com/articles/3123786</id>
+        <link href="https://dzone.com/articles/bringing-intuitive-input-controls-to-the-web-sprea"/>
+        <updated>2021-05-24T05:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+A spreadsheet is a particularly useful way to display and exploit tabular data, or just formatted content. Generally, the user will fill in data simply by typing it and modify the properties of cells using the sheet controls.
+However, some data types can be challenging for free typing. A date can be easily misinterpreted if the format is incorrect for example. Or you may need the user to freehand a signature before printing.]]></summary>
+        <author>
+            <name>Matthieu Duchemin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Running Mule Application In AWS]]></title>
         <id>https://dzone.com/articles/3119141</id>
@@ -267,6 +919,16 @@ Given that in front of all Zato servers in a cluster is a load-balancer, it is t
         <id>https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3</id>
         <link href="https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3"/>
         <updated>2021-05-23T12:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Essence of Mathematics Through Elementary Problems]]></title>
+        <id>https://www.openbookpublishers.com/product/979</id>
+        <link href="https://www.openbookpublishers.com/product/979"/>
+        <updated>2021-05-23T12:02:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
