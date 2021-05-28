@@ -2,10 +2,635 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T00:43:59.443Z</updated>
+    <updated>2021-05-28T00:49:26.367Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[QUIC is now RFC 9000]]></title>
+        <id>https://www.fastly.com/blog/quic-is-now-rfc-9000</id>
+        <link href="https://www.fastly.com/blog/quic-is-now-rfc-9000"/>
+        <updated>2021-05-28T00:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A six figure meme making job at a legit company]]></title>
+        <id>https://twitter.com/nateliason/status/1397719837204418561</id>
+        <link href="https://twitter.com/nateliason/status/1397719837204418561"/>
+        <updated>2021-05-28T00:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)]]></title>
+        <id>https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html</id>
+        <link href="https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html"/>
+        <updated>2021-05-28T00:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second-guessing the modern web (2020)]]></title>
+        <id>https://macwright.com/2020/05/10/spa-fatigue.html</id>
+        <link href="https://macwright.com/2020/05/10/spa-fatigue.html"/>
+        <updated>2021-05-27T21:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DORA Metrics to Measure DevOps Performance]]></title>
+        <id>https://dzone.com/articles/3127950</id>
+        <link href="https://dzone.com/articles/dora-metrics-to-measure-devops-performance"/>
+        <updated>2021-05-27T21:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Look, we know the software development process is not an easy one to measure and manage, particularly as it becomes more complex and more decentralized. In many companies, there are multiple teams working on smaller parts of a big project-and these teams are spread all over the world. It's challenging to tell who is doing what and when, where the blockers are and what kind of waste has delayed the process. Without a reliable set of data points to track across teams, it's virtually impossible to see how each piece of the application development process puzzle fits together. DORA metrics can help shed light on how your teams are performing in DevOps.
+What Are DORA Metrics?
+Well, these metrics didn't just come out of thin air. DORA metrics are a result of six years' worth of surveys conducted by the DORA (DevOps Research and Assessments) team, that, among other data points, specifically measure deployment frequency (DF), mean lead time for changes (MLT), mean time to recover (MTTR) and change failure rate (CFR). These metrics serve as a guide to how well the engineering teams are performing and how successful a company is at DevOps, ranging from "low performers" to "elite performers." They help answer the question: Are we better at DevOps now than we were a year ago?]]></summary>
+        <author>
+            <name>Michael Baldani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finley (YC W21) is hiring remote software engineers]]></title>
+        <id>https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589</id>
+        <link href="https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589"/>
+        <updated>2021-05-27T21:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intuition for Lisp Syntax]]></title>
+        <id>https://stopa.io/post/265?repost=true</id>
+        <link href="https://stopa.io/post/265?repost=true"/>
+        <updated>2021-05-27T19:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing a Drive Letter With PowerShell]]></title>
+        <id>https://dzone.com/articles/3127945</id>
+        <link href="https://dzone.com/articles/changing-a-drive-letter-with-powershell"/>
+        <updated>2021-05-27T19:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Here is a short but sweet post on how to change the drive letter of a partition. Despite using my best Google skills I couldn't find an example that was doing it for me. I rolled up my sleeves and just figured it out on my own. I hope this helps someone out there.
+Set-Partition -DiskNumber 4 -PartitionNumber 1 -NewDriveLetter X
+As long as you know the DiskNumber and PartitionNumber this will immediately change the drive letter of the partition you specify.]]></summary>
+        <author>
+            <name>David Bermingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The media's lab leak fiasco]]></title>
+        <id>https://www.slowboring.com/p/the-medias-lab-leak-fiasco</id>
+        <link href="https://www.slowboring.com/p/the-medias-lab-leak-fiasco"/>
+        <updated>2021-05-27T19:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citizen’s dangerous effort to cash in on vigilantism]]></title>
+        <id>https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante</id>
+        <link href="https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante"/>
+        <updated>2021-05-27T18:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
+        <id>https://css-tricks.com/?p=341298</id>
+        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
+        <updated>2021-05-27T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
+Like this:
+$ brew install somepackage
+The point of that is that it …
+The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JsonLogic]]></title>
+        <id>https://jsonlogic.com/</id>
+        <link href="https://jsonlogic.com/"/>
+        <updated>2021-05-27T18:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
+        <id>60af931811ffb70827ef85d3</id>
+        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
+        <updated>2021-05-27T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New dark matter map reveals cosmic mystery]]></title>
+        <id>https://www.bbc.com/news/science-environment-57244708</id>
+        <link href="https://www.bbc.com/news/science-environment-57244708"/>
+        <updated>2021-05-27T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stacked Git – manage commits as a stack of patches]]></title>
+        <id>https://stacked-git.github.io/</id>
+        <link href="https://stacked-git.github.io/"/>
+        <updated>2021-05-27T17:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifest v3 Update]]></title>
+        <id>https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/</id>
+        <link href="https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/"/>
+        <updated>2021-05-27T16:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Sourcing on Azure]]></title>
+        <id>https://dzone.com/articles/3057699</id>
+        <link href="https://dzone.com/articles/event-sourcing-on-azure"/>
+        <updated>2021-05-27T16:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi All! With this post, we’ll start a new Series about Event Sourcing on Azure. We’re going to talk a bit about the pattern, general architecture, and the individual building blocks. Then in the next posts, we’ll dig more and see each one in detail.
+If you’re a regular reader of this blog, you might know that I wrote already about Event Sourcing in the past. It’s a complex pattern, probably one of the most complex to get right. I enjoy the challenges it gives and how it causes a whole plethora of other patterns to be evaluated in conjunction (CQRS anyone?).]]></summary>
+        <author>
+            <name>David Guida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egyptian Circumnavigation of Africa ~600 BC]]></title>
+        <id>https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/</id>
+        <link href="https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/"/>
+        <updated>2021-05-27T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V8 Sparkplug – A non-optimizing JavaScript compiler]]></title>
+        <id>https://v8.dev/blog/sparkplug</id>
+        <link href="https://v8.dev/blog/sparkplug"/>
+        <updated>2021-05-27T16:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply These 3 Secret Techniques to Become A Successful Software Developer]]></title>
+        <id>https://dzone.com/articles/3122608</id>
+        <link href="https://dzone.com/articles/apply-these-3-secret-techniques-to-become-a-succes"/>
+        <updated>2021-05-27T16:01:20.000Z</updated>
+        <summary type="html"><![CDATA[What's the difference between an ordinary software developer and a successful software developer? 
+An ordinary software developer typically works only on the task assigned, and it's rare to expect top-quality deliverables from him. In contrast, a successful software developer wouldn't just complete the assigned task, he'd also ensure:]]></summary>
+        <author>
+            <name>Ramesh Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CoreDNS Effectively With Kubernetes]]></title>
+        <id>https://dzone.com/articles/3124441</id>
+        <link href="https://dzone.com/articles/using-coredns-effectively-with-kubernetes"/>
+        <updated>2021-05-27T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[We were increasing HTTP requests for one of our applications hosted on the Kubernetes cluster, which resulted in a spike of 5xx errors. The application is a GraphQL server calling a lot of external APIs and then returning an aggregated response. Our initial response was to increase the number of replicas for the application to see if it improved the performance and reduced errors, but as we drilled down further with the application developer, we found most of the failures related to DNS resolution. 
+That’s where we started drilling down DNS resolution in Kubernetes.]]></summary>
+        <author>
+            <name>Sanket Sudake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Ways the IoT Creates Intelligent Pipeline Monitoring]]></title>
+        <id>https://dzone.com/articles/3124637</id>
+        <link href="https://dzone.com/articles/4-ways-the-iot-creates-intelligent-pipeline-monito"/>
+        <updated>2021-05-27T15:56:06.000Z</updated>
+        <summary type="html"><![CDATA[In the U.S. alone, pipeline operators maintain around 3 million miles of natural gas distribution mains and pipelines. They often run through stretches of remote wilderness, across difficult-to-access terrain, or deep underwater. While traditional monitoring tools like SCADA systems can be effective, they also have significant weak points.
+American water infrastructure is similar in length, made up of around 2.2 million miles of pipes that can be difficult to monitor due to location. Innovations are helping to provide more effective pipeline monitoring solutions. Internet of Things (IoT) devices could have a major impact on how pipelines are monitored. Why is the IoT the foundation for a new kind of intelligent pipeline monitoring?]]></summary>
+        <author>
+            <name>Emily Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PEM Certificates With Apache Kafka]]></title>
+        <id>https://dzone.com/articles/3122510</id>
+        <link href="https://dzone.com/articles/how-to-use-pem-certificates-with-apache-kafka"/>
+        <updated>2021-05-27T15:49:41.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a long time waiting but it’s finally here: starting with Apache Kafka 2.7, it's now possible to use TLS certificates in PEM format with brokers and Java clients. So, why does it matter?
+PEM is a scheme for encoding x509 certificates and private keys as Base64 ASCII strings. This makes it easier to handle your certificates. You can simply provide keys and certificates to the app as string parameters (e.g. through environment variables). This is especially useful if your applications are running in containers, where mounting files to containers makes the deployment pipeline a bit more complex. In this post, I'll show you two ways to use PEM certificates in Kafka.]]></summary>
+        <author>
+            <name>Dejan Maric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Adoption Accelerates but Operational Challenges Persist]]></title>
+        <id>https://dzone.com/articles/3124643</id>
+        <link href="https://dzone.com/articles/kubernetes-adoption-accelerates-but-operational-ch"/>
+        <updated>2021-05-27T15:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Kubernetes adoption is on the rise as organizations increasingly get a grasp on what is needed to effectively manage and scale the popular platform.
+That’s one of the key takeaways from a recent Traefik Labs survey of 1,097 respondents, the majority of which were software engineers and DevOps professionals. The survey found that the adoption of Kubernetes is at a strong 70%, indicating that the platform is rapidly increasing in adoption. Yet 58% say they run less than half of their business-critical applications on the container-orchestration system, implying room for wider Kubernetes uses throughout most organizations.]]></summary>
+        <author>
+            <name>Marie Ponseel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Container Registries]]></title>
+        <id>https://dzone.com/refcardz/3057702</id>
+        <link href="https://dzone.com/refcardz/getting-started-with-container-registries"/>
+        <updated>2021-05-27T15:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Container registries serve as libraries to store and access third-party container images required during the build phase of the SDLC and the images produced for deployment to test, staging, and production environments. While public container registries are accessible and convenient, private registries can better integrate into existing CI/CD workflows, offer greater control over access and security, as well as help ensure build repeatability and reliability. This Refcard covers key container concepts and terminology; common use cases; and guidelines for container registry configuration, operation, security, and storage.]]></summary>
+        <author>
+            <name>Melissa Habit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Container Registries]]></title>
+        <id>https://dzone.com/refcardz/3057702</id>
+        <link href="https://dzone.com/refcardz/getting-started-with-container-registries"/>
+        <updated>2021-05-27T15:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Container registries serve as libraries to store and access third-party container images required during the build phase of the SDLC and the images produced for deployment to test, staging, and production environments. While public container registries are accessible and convenient, private registries can better integrate into existing CI/CD workflows, offer greater control over access and security, as well as help ensure build repeatability and reliability. This Refcard covers key container concepts and terminology; common use cases; and guidelines for container registry configuration, operation, security, and storage.]]></summary>
+        <author>
+            <name>Melissa Habit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Secrets Deployment in GitOps Workflow - Part 2]]></title>
+        <id>https://dzone.com/articles/3124562</id>
+        <link href="https://dzone.com/articles/managing-secrets-deployment-in-gitops-workflow-par-1"/>
+        <updated>2021-05-27T15:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Background
+In my previous post Managing Secrets Deployment in GitOps Workflow I talked about SealedSecrets, which is one of the ways to keep Kubernetes secrets in version control to implement the GitOps workflow. This approach has the following downsides:
+The sealed secret is encrypted with its own random asymmetric key that is specific to the sealed secret name and namespace and therefore copy-pasting the encrypted data for another secret or in another namespace won't work.
+Secondly, by default, SealedSecrets generated for a cluster won't work with another cluster because the installation of Bitnami Controller creates a new pair of public/private keys. This makes the overall GitOps implementation approach cumbersome. 
+One solution may be to export and import the same set of keys from one cluster to another. However, if the key on a cluster gets compromised, it would grant access to all sealed secrets on all clusters with the same key pair.]]></summary>
+        <author>
+            <name>Jaswinder Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Erase or Wipe Sensitive Files From Hard Drive]]></title>
+        <id>https://dzone.com/articles/3123744</id>
+        <link href="https://dzone.com/articles/how-to-erase-or-wipe-sensitive-files-from-hard-drive"/>
+        <updated>2021-05-27T15:15:49.000Z</updated>
+        <summary type="html"><![CDATA[When you want to erase sensitive data from your hard drive permanently, make sure it is not recoverable in any manner. You can try permanent deletion that includes, erasing or ‘wiping’ data using various overwriting techniques. In this article, we've shared the best effective methods to wipe hard drive data beyond the scope of recovery.
+We all keep some personal data on our devices. But, storage devices, like hard drives, have a lifespan after which, they may fail to perform, and you may want to dispose them. You may also want to donate or share your device with your friends or family. Whatever the situation is, you must wipe the hard drive to prevent any unauthorized access.]]></summary>
+        <author>
+            <name>Vishal Chaudhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mule 4 Custom HTTP Radis Cache Policy]]></title>
+        <id>https://dzone.com/articles/3123522</id>
+        <link href="https://dzone.com/articles/mule-4-custom-http-radis-cache-policy"/>
+        <updated>2021-05-27T15:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+The HTTP Custom Caching policy enables you to store HTTP responses from an API implementation or an API proxy for reuse. To optimize against computation-heavy processing, this policy avoids performing multiple calls to the backend when the response of a service does not change often. This policy uses a cache, which enables a faster service for data requests.
+In Mule 4, Mulesoft already provides an HTTP cache policy, which is available out of the box with standard configuration and works very well with runtime object-store v2. If an existing out-of-the-box policy is available then why do we need a custom policy?]]></summary>
+        <author>
+            <name>Amit Ghorpade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phil's Old Radios]]></title>
+        <id>https://antiqueradio.org/welcome.htm</id>
+        <link href="https://antiqueradio.org/welcome.htm"/>
+        <updated>2021-05-27T14:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NocoDB – The Open Source Airtable Alternative]]></title>
+        <id>https://github.com/nocodb/nocodb</id>
+        <link href="https://github.com/nocodb/nocodb"/>
+        <updated>2021-05-27T14:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tooling Guide for Getting Started With Apache Camel in 2021]]></title>
+        <id>https://dzone.com/articles/3123958</id>
+        <link href="https://dzone.com/articles/tooling-guide-for-getting-started-with-apache-came"/>
+        <updated>2021-05-27T14:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Getting Started with Apache Camel? This post is for you. But I am not going to dive into how to write the Camel route, there are plenty of materials out there that do a better job than me. A good place to get started is the one and only Camel Blog, it gives you all the latest and greatest news from the community. If you want to start from the basics, I highly recommend Camel in Action II Book. It has everything you need to know about writing Camel. Or join the Camel community mailing list or Zulip to ask questions, it's very friendly and welcoming.
+If you are a returning Camel rider, I would go through this post, where it will get you up to speed on what to expect.  Another good resource is the FAQ page. I found the majority of the getting started enquiries can be found here.]]></summary>
+        <author>
+            <name>Christina Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Convect – Instant Serverless Deployment of ML Models]]></title>
+        <id>https://convect.ml</id>
+        <link href="https://convect.ml"/>
+        <updated>2021-05-27T14:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problem: Spreadsheets. Solution: Specifications]]></title>
+        <id>https://dzone.com/articles/3123557</id>
+        <link href="https://dzone.com/articles/problem-spreadsheets-solution-specifications"/>
+        <updated>2021-05-27T14:25:36.000Z</updated>
+        <summary type="html"><![CDATA[In Analysis
+
+  
+    
+     A business analyst and a developer may have different objectives and perspectives 
+     
+   Here’s an example of a conversation that you may have been part of sometime in your life as a developer. 
+
+ 
+ 
+Business Analyst: Our next user story involves creating an API (let’s call it “Customer API”).
+ 
+ 
+Developer A: How novel! That’s what I did yesterday and the day before and the day before that.
+ 
+ 
+Business Analyst: Great, should I let the clients know that it wouldn’t take as long to build it?
+ 
+ 
+Developer A: Hold on. We haven’t even heard the requirements for Customer API.
+ 
+ 
+Business Analyst: It’s just a couple of hundred fields that Customer API needs to send to another downstream API to perform the transaction.
+ 
+ 
+Developer A: And how will we know the values for these fields that Customer API needs to send?
+ 
+ 
+Business Analyst: I’ll take care of it. I have already spoken to the lead developer from the downstream API team, and he’s sent me a spreadsheet. It has all the fields and the values that need to be part of the request body. He’s also sent me a document with information on the headers and auth details required to call the downstream API.
+ 
+ 
+Developer A: Is this downstream API available in a testing environment? A playground, maybe?
+ 
+ 
+Business Analyst: They’re still working on building the downstream API, so they don’t have a working version yet.
+ 
+
+In Development
+Developer A gets to work. She pairs with Developer B, another application developer on her team, to finish the Customer API story. Business Analyst sends them an email with a spreadsheet containing the fields and a document that includes the API currently in development by the downstream API team. It seems like Developer A and Developer B have all the information required to start building the Customer API, so they come up with the following list of tasks:]]></summary>
+        <author>
+            <name>Meenakshi Dhanani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Essentials of GitOps]]></title>
+        <id>https://dzone.com/refcardz/3052183</id>
+        <link href="https://dzone.com/refcardz/the-essentials-of-gitops"/>
+        <updated>2021-05-27T14:25:35.000Z</updated>
+        <summary type="html"><![CDATA[GitOps is an operational framework that leverages DevOps core practices used in application development, including version control, CI/CD, and collaboration, for infrastructure automation. This Refcard introduces the fundamentals of a mature GitOps model, the key benefits of GitOps, and the elements of a GitOps workflow for new feature deployment.]]></summary>
+        <author>
+            <name>Melissa Habit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Essentials of GitOps]]></title>
+        <id>https://dzone.com/refcardz/3052183</id>
+        <link href="https://dzone.com/refcardz/the-essentials-of-gitops"/>
+        <updated>2021-05-27T14:25:35.000Z</updated>
+        <summary type="html"><![CDATA[GitOps is an operational framework that leverages DevOps core practices used in application development, including version control, CI/CD, and collaboration, for infrastructure automation. This Refcard introduces the fundamentals of a mature GitOps model, the key benefits of GitOps, and the elements of a GitOps workflow for new feature deployment.]]></summary>
+        <author>
+            <name>Melissa Habit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvell Announces First PCIe 5.0 NVMe SSD Controllers: Up to 14 GB/S]]></title>
+        <id>https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers</id>
+        <link href="https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers"/>
+        <updated>2021-05-27T14:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDN Plus]]></title>
+        <id>https://developer.mozilla.org/en/plus</id>
+        <link href="https://developer.mozilla.org/en/plus"/>
+        <updated>2021-05-27T13:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Favorite Blogs by Individuals?]]></title>
+        <id>https://news.ycombinator.com/item?id=27302195</id>
+        <link href="https://news.ycombinator.com/item?id=27302195"/>
+        <updated>2021-05-27T12:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I, as someone who is visually impaired, use my iPhone (2020)]]></title>
+        <id>https://twitter.com/Kristy_Viers/status/1287189581926981634</id>
+        <link href="https://twitter.com/Kristy_Viers/status/1287189581926981634"/>
+        <updated>2021-05-27T12:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a free blogging/bookmarking platform with discussions/discovery]]></title>
+        <id>http://wndr.xyz</id>
+        <link href="http://wndr.xyz"/>
+        <updated>2021-05-27T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klarna users are being signed in to random accounts]]></title>
+        <id>https://twitter.com/esraefe/status/1397842160607711232</id>
+        <link href="https://twitter.com/esraefe/status/1397842160607711232"/>
+        <updated>2021-05-27T10:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
+        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
+        <updated>2021-05-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevConf.US 2021 - Containers, OpenShift, Architecture Blueprints, and Diagram Tooling]]></title>
+        <id>https://dzone.com/articles/3125948</id>
+        <link href="https://dzone.com/articles/devconfus-2021-containers-openshift-architecture-b"/>
+        <updated>2021-05-27T08:18:55.000Z</updated>
+        <summary type="html"><![CDATA[DevConf.US 2021 has kicked off their call for papers this last month and of course it will be a virtual event (hopefully for this one last time) hosted on September 2-3. It's the 4th annual, free, Red Hat sponsored technology conference for community project and professional contributors to Free and Open Source technologies coming to a web browser near you!
+ 
+ 
+There is no admission or ticket charge for DevConf.US events. However, you are required to complete a free registration. Talks, presentations and workshops will all be in English.]]></summary>
+        <author>
+            <name>Eric D. Schabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
+        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/</id>
+        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
+        <updated>2021-05-27T08:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need To Know About Stress Testing Your Software]]></title>
+        <id>https://dzone.com/articles/3127902</id>
+        <link href="https://dzone.com/articles/everything-you-need-to-know-about-stress-testing-y"/>
+        <updated>2021-05-27T06:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Stress testing is a type of testing that verifies the reliability and stability of software applications. The goal of this kind of testing is to measure the error handling capabilities of the software to ensure that it does not crash under extremely heavy load conditions.
+Let us consider two scenarios where website traffic may increase:]]></summary>
+        <author>
+            <name>Vakul Gotra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to SAP Testing]]></title>
+        <id>https://dzone.com/articles/3127901</id>
+        <link href="https://dzone.com/articles/a-complete-guide-to-sap-testing"/>
+        <updated>2021-05-27T06:45:13.000Z</updated>
+        <summary type="html"><![CDATA[SAP (Systems, Applications, and Products) is a software package that enterprises use to manage business processes. It integrates all operations including finance, sales, production, logistics, distribution, accounting, and human resources. 
+By executing all business processes in a SAP system, information can flow from one module to another without unnecessary data entry. SAP software helps enterprises to run business processes efficiently while reducing operational costs.]]></summary>
+        <author>
+            <name>Vakul Gotra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Find Long-Sought Building Blocks for Special Polynomials]]></title>
+        <id>https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525"/>
+        <updated>2021-05-27T05:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Carle has died]]></title>
+        <id>https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html</id>
+        <link href="https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html"/>
+        <updated>2021-05-27T03:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solution Thinking Design]]></title>
+        <id>https://dzone.com/articles/3027736</id>
+        <link href="https://dzone.com/articles/solution-thinking-workshop"/>
+        <updated>2021-05-27T03:17:52.000Z</updated>
+        <summary type="html"><![CDATA[Context
+You are modernizing a Core System and have defined a Target Business Architecture (BA) that will replace it. You are following the defined modernization roadmap and are in charge of the modernization of one of the Business Capabilities of the Target Business Architecture. Now, you need to understand how the current Core System is addressing the Business Capability, i.e., you have to map which legacy system is providing the business capabilities associated with this system in the BA. 
+Usually, the core system will be a set of monoliths, applications, services, and transactions that are integrated and tightly coupled so that if you map all of them and its integrations, you will end up with a picture like this one:]]></summary>
+        <author>
+            <name>Ram Ravishankar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Security Weekly: Issue #135]]></title>
+        <id>https://dzone.com/articles/3127886</id>
+        <link href="https://dzone.com/articles/api-security-weekly-issue-135"/>
+        <updated>2021-05-27T02:50:46.000Z</updated>
+        <summary type="html"><![CDATA[This week, we take a look at how cybercriminals exploit leaked API keys to steal millions of dollars from cryptoexchanges. In addition, we also have the recent API vulnerabilities in Rocket.Chat, the upcoming change in Let’s Encrypt root certificate and its impact on APIs, and another video on common GraphQL API vulnerabilities.
+Vulnerability: API Keys and Cryptoexchanges
+Researchers from CyberNews found how cybercriminals locate and exploit API keys from cryptocurrency exchanges to steal millions of dollars.]]></summary>
+        <author>
+            <name>Dmitry Sotnikov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I still like C and strongly dislike C++]]></title>
         <id>https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/</id>
@@ -432,6 +1057,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First Tasmanian Devils born in the wild of Australia mainland in 3k years]]></title>
+        <id>https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/</id>
+        <link href="https://www.reuters.com/world/asia-pacific/first-tasmanian-devils-born-wild-australia-mainland-3000-years-2021-05-26/"/>
+        <updated>2021-05-26T11:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Build a RISC-V CPU from scratch]]></title>
         <id>https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch</id>
         <link href="https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch"/>
@@ -482,6 +1117,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beads: Computer language and toolchain]]></title>
+        <id>https://beadslang.org/the-beads-project</id>
+        <link href="https://beadslang.org/the-beads-project"/>
+        <updated>2021-05-26T08:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Let's Build a Regex Engine]]></title>
         <id>https://kean.blog/post/lets-build-regex</id>
         <link href="https://kean.blog/post/lets-build-regex"/>
@@ -496,6 +1141,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://gabygoldberg.medium.com/after-a-decade-of-strong-vc-funding-at-stanford-whats-next-69c98d574be9</id>
         <link href="https://gabygoldberg.medium.com/after-a-decade-of-strong-vc-funding-at-stanford-whats-next-69c98d574be9"/>
         <updated>2021-05-26T07:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persian legends and their Western counterparts (2020)]]></title>
+        <id>https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/</id>
+        <link href="https://www.tor.com/2020/07/06/5-persian-legends-and-their-western-counterparts/"/>
+        <updated>2021-05-26T02:31:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
