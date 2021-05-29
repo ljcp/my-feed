@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341163",
+          "author": "Thomas Park",
+          "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
+          "publishedOn": "2021-05-28T14:36:47.000Z",
+          "wordCount": 1844,
+          "title": "Dynamic Favicons for WordPress"
+        },
+        {
           "id": "https://css-tricks.com/?p=341298",
           "author": "Chris Coyier",
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -481,6 +490,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
+          "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
+          "publishedOn": "2021-05-28T11:00:00.000Z",
+          "wordCount": 10214,
+          "title": "Adding A Commenting System To A WYSIWYG Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
@@ -728,24 +751,6 @@
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         }
       ]
     },
@@ -754,6 +759,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
+          "publishedOn": "2021-05-28T22:58:18.000Z",
+          "wordCount": 2775,
+          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
+        },
+        {
+          "id": "60b08d8811ffb70827ef8c7b",
+          "author": null,
+          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
+          "publishedOn": "2021-05-28T16:01:05.000Z",
+          "wordCount": 1568,
+          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
+        },
+        {
+          "id": "60b0de2211ffb70827ef8d7c",
+          "author": null,
+          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "publishedOn": "2021-05-28T12:26:38.000Z",
+          "wordCount": 368,
+          "title": "Advanced Computer Vision with Python"
+        },
         {
           "id": "60af931811ffb70827ef85d3",
           "author": null,
@@ -1371,6 +1403,159 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3103133",
+          "author": "Maksym Tatariants",
+          "description": "I hate shopping in brick-and-mortar stores. However, my interest in virtual shopping is not limited to the buyer experience only. With the MobiDev DataScience department, I’ve gained experience in working on AI technologies for virtual trials. The goal of this article is to describe how these systems work from the inside.\nHow Virtual Trial Room Technology Works\nA few years ago, the “Try before you buy” strategy was an efficient customer engagement method in outfit stores. Now, this strategy exists in the form of virtual fitting rooms. Fortune Business Insights predicted that the virtual fitting room market size is expected to reach USD 10.00 billion by 2027.",
+          "link": "https://dzone.com/articles/ar-amp-ai-technologies-for-virtual-fitting-room-de",
+          "publishedOn": "2021-05-29T00:41:23.000Z",
+          "wordCount": 2266,
+          "title": "How Virtual Fitting Room Technology Works"
+        },
+        {
+          "id": "https://dzone.com/articles/3121102",
+          "author": "Miguel Garcia",
+          "description": "Introduction\nThis is article is a follow-up to Data Platform as a Service, describes the high-level architecture, and goes into details on Data Lake. We will detail the rest of the blocks and components shown in the next articles.\nThe important thing about the architecture is not the vendor or specific product but the capabilities of the components we used. In the end, the product choice depends on many factors:",
+          "link": "https://dzone.com/articles/data-platform-new-generation-data-lakes",
+          "publishedOn": "2021-05-29T00:25:22.000Z",
+          "wordCount": 2604,
+          "title": "Data Platform: The New Generation Data Lakes"
+        },
+        {
+          "id": "https://dzone.com/articles/3046839",
+          "author": "Kunkka Li",
+          "description": "Docker is a popular open-source containerization platform and it frees your hands to build your applications in development and production. In this post, I'm going to walk you through how to build a production-grade HTTPs secured Nginx server with Docker, Docker Compose, Let’s Encrypt (its client certbot). Let’s Encrypt certificates last 90 days and will need to be renewed after the certificate expires. So I will also provide details to script the renewal in crontab in Docker container.\n1. Basic Example\nIn development, we need a basic Nginx container without HTTPs to fast setup our local test environment. I use Nginx official docker image and wrap up all the stuff with docker-compose.",
+          "link": "https://dzone.com/articles/nginx-and-https-with-lets-encrypt-certbot-and-cron",
+          "publishedOn": "2021-05-29T00:04:21.000Z",
+          "wordCount": 1228,
+          "title": "NGINX and HTTPs With Let’s Encrypt, Certbot, and Cron Dockerization In Production"
+        },
+        {
+          "id": "https://dzone.com/articles/3127960",
+          "author": "Qi Mingyu",
+          "description": "About the authors\nQi Mingyu: From Mobile Security Team of Kuaishou Security, responsible for developing the threat intelligence platform of Kuaishou\nNi Wen: From Distributed Storage Team of Kuaishou Data Platform, responsible for developing the graph database for Kuaishou\nYao Jingyi: From Distributed Storage Team of Kuaishou Data Platform, responsible for developing the graph database for Kuaishou\nAbout Kuaishou",
+          "link": "https://dzone.com/articles/handling-tens-of-billions-of-threat-intelligence-d",
+          "publishedOn": "2021-05-28T21:53:47.000Z",
+          "wordCount": 3853,
+          "title": "Handling Tens of Billions of Threat Intelligence Data With Graph Database at Kuaishou"
+        },
+        {
+          "id": "https://dzone.com/articles/3127037",
+          "author": "Otavio Santana",
+          "description": "“It is not necessary to change. Survival is not mandatory.” -W. Edwards Deming Work takes time to flow through an organization and ultimately be deployed to production where it captures value. It’s critical to reduce time-to-production. Software - for many organizations and industries - is a competitive advantage. Organizations break their larger software ambitions into smaller, independently deployable, feature -centric batches of work - microservices. In order to reduce the round-trip between stations of work, organizations collapse or consolidate as much of them as possible and automate the rest; developers and operations beget “devops,” cloud-based services and platforms automate operations work and break down the need for ITIL tickets and change management boards. But velocity, for velocity’s sake, is dangerous. Microservices invite architectural complexity that few are prepared to address. In this talk, we’ll look at how high-performance organizations like Ticketmaster, Alibaba, and Netflix make short work of that complexity with Spring Boot and Spring Cloud. In this workshop we'll look at how to build cloud-native Java systems that are elastic, agile, observable and robust.",
+          "link": "https://dzone.com/articles/cloud-native-java-by-josh-long",
+          "publishedOn": "2021-05-28T20:43:29.000Z",
+          "wordCount": 411,
+          "title": "Cloud Native Java by Josh Long"
+        },
+        {
+          "id": "https://dzone.com/articles/3128007",
+          "author": "Sacha Labourey",
+          "description": "For many companies, getting products out the door faster is one of the main reasons to adopt DevOps. But speeding up software delivery is only one aspect of why companies should embrace an agile CI/CD approach. There are other things to take into consideration and, if you are a financial institution, the list can be even bigger.\nI recently chatted with Ben Angell and Sanmat Jhanjhari of Nationwide Building Society as part of the virtual DevOps Enterprise Summit Europe. Ben leads the DevOps Engineering team and Sanmat is lead DevOps architect at the UK-based mutual financial institution, which is also the largest building society in the world.",
+          "link": "https://dzone.com/articles/why-going-fast-is-not-all-for-nationwide-building",
+          "publishedOn": "2021-05-28T14:40:45.000Z",
+          "wordCount": 1083,
+          "title": "Why ''Going Fast'' Is Not All for Nationwide Building Society"
+        },
+        {
+          "id": "https://dzone.com/articles/3128005",
+          "author": "David Bermingham",
+          "description": "I get asked this question all the time, so I figured it was time to write a blog post, record a video and write some code to automate the process so that it completes in under a minute.\nFirst, some background. Typically when someone asks me how to do this, I point them to the DataKeeper documentation.",
+          "link": "https://dzone.com/articles/extend-your-existing-sql-server-failover-cluster-i",
+          "publishedOn": "2021-05-28T14:26:03.000Z",
+          "wordCount": 683,
+          "title": "Extend Your Existing SQL Server Failover Cluster Instance to the Cloud for Disaster Recovery"
+        },
+        {
+          "id": "https://dzone.com/articles/2561455",
+          "author": "Hakan Altındağ",
+          "description": "Mastering Two-Way TLS\nThis tutorial will walk you through the process of protecting your application with TLS authentication, only allowing access for certain users based on their certificates. This means that you can choose which users are allowed to call your application.\nTable of Contents\nIntroduction\nTutorial\n  \nStarting the server\nSaying hello to the server (without encryption)\nEnabling HTTPS on the server (one-way TLS)\nRequire the client to identify itself (two way TLS)\nTwo way TLS based on trusting the Certificate Authority\n\n \nAutomated scripts\nTested HTTP Clients\nDemo and walk-through video\nIntroduction\nThis sample project demonstrates a basic setup of a server and a client. The communication between the server and client happens through HTTP, so there is no encryption at all yet. The goal is to ensure that all communication will be encrypted.",
+          "link": "https://dzone.com/articles/hakky54mutual-tls-1",
+          "publishedOn": "2021-05-28T14:09:03.000Z",
+          "wordCount": 3511,
+          "title": "How to Easily Set Up Mutual TLS"
+        },
+        {
+          "id": "https://dzone.com/articles/3127999",
+          "author": "Naomi Kromer",
+          "description": "Identity and access management are critical components of many applications. However, enterprise companies that are using multiple EKS, AKS, or GKE cloud Kubernetes clusters for various projects may find it challenging to identify the right level of access for different users, especially when there are multiple users and groups of users who are coming, going, and moving between teams.  \nAs teams expand their usage of Kubernetes, clusters and workloads will exist in different environments. One team may be building their stack on cloud provider “A,” while another team is building a stack on cloud provider “B.” Even on a single public cloud service, clusters may exist in different environments, and IT isn’t even aware of these things. This makes tracking all of the individual logins and permissions across the organization next to impossible, especially when there are multiple accounts and access levels to manage. And the problem only grows in complexity as more people on-board, off-board, or change teams, and projects multiply.",
+          "link": "https://dzone.com/articles/kubernetes-identity-and-access-management-made-eas",
+          "publishedOn": "2021-05-28T13:45:47.000Z",
+          "wordCount": 632,
+          "title": "Kubernetes Identity and Access Management Made Easier With D2iQ"
+        },
+        {
+          "id": "https://dzone.com/articles/3122697",
+          "author": "Jessica Anne",
+          "description": "Are you a full stack developer? If you are, it goes without saying that you are an efficient multitasker and a true master of your niche. But have you ever asked yourself if your web development techniques have scope for betterment? Could your project planning use more efficiency to better your results?\nIf you said yes to both, read to find out how you can approach your next full stack project to yield great results.",
+          "link": "https://dzone.com/articles/get-better-result-full-stack-project",
+          "publishedOn": "2021-05-28T13:45:47.000Z",
+          "wordCount": 1258,
+          "title": "How to Approach Your Next Full Stack Project for Better Results"
+        },
+        {
+          "id": "https://dzone.com/articles/3123748",
+          "author": "Mouli Srini",
+          "description": "If global companies manage their data efficiently, they would never have to lock horns with deploying data science strategies. It does sound simple until you know that ‘efficiently’ is an ocean of complexities and beyond the expertise of most businesses. Capturing and orchestrating data is a rough path but a necessity to undo data silos and provide immediate results to on-demand search queries. And that is why we need data orchestration that is purposefully meant to enable quick access and yet protect it from widespread fragmentation.\nHow Does Big Data Orchestration Work? \nOrchestration tools are a middleware layer between the data warehouse (source points) and the business applications such as CRM, BI Analytics, etc. Through pre-built connectors and API adapters, these tools perform rapid integration of all source points with the main silos. It simplifies data monitoring from a single point while enabling the teams to perform seamless fetching. All of this is achieved without having to develop custom scripts or devoting additional resources.",
+          "link": "https://dzone.com/articles/how-is-orchestration-fixing-big-data-management-ch",
+          "publishedOn": "2021-05-28T04:40:47.000Z",
+          "wordCount": 1154,
+          "title": "How is Orchestration Fixing Big Data Management Challenges For Digital Enterprises?"
+        },
+        {
+          "id": "https://dzone.com/articles/3120574",
+          "author": "Zoltan Bettenbuk",
+          "description": "The world of web development has changed profoundly in a short period of time.\nOne of the most significant developments to happen in the world of Web Dev is the adoption of JavaScript as a front-end framework used to build websites. Two of the most popular JavaScript frameworks popularly in use today are Angular and React.",
+          "link": "https://dzone.com/articles/angular-vs-react-seo-the-basics-of-what-you-need-t",
+          "publishedOn": "2021-05-28T02:28:59.000Z",
+          "wordCount": 2416,
+          "title": "Angular vs React SEO: The Basics"
+        },
+        {
+          "id": "https://dzone.com/articles/3124599",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at the What is Java Runtime Class in Java? | Java Runtime Class with Examples | Java Tutorial. Let's get started!",
+          "link": "https://dzone.com/articles/what-is-java-runtime-class-in-java-java-runtime-cl",
+          "publishedOn": "2021-05-28T02:02:21.000Z",
+          "wordCount": 301,
+          "title": "What is Java Runtime Class in Java? | Java Runtime Class With Examples [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3127939",
+          "author": "Igor Bobriakov",
+          "description": "Introduction\nChances are when you hear \"0.77 cents on the dollar,\" an increasingly contentious subject — the gender pay gap — comes to mind.  Today, we will explore a US Bureau of Labor Statistics dataset containing information about America's workforce (as of Jan. 2015) to answer the following questions:\nWhich industries are most and least affected?\nIs the gender wage gap the same across all industries?\nHow much does an average American salary vary by gender?\nTo answer these questions, we'll be importing the dataset mentioned above (available on Kaggle) into an Arctype SQLite database, where we'll use queries and dashboards to manipulate and interpret the data.",
+          "link": "https://dzone.com/articles/tackling-gender-bias-using-analytics",
+          "publishedOn": "2021-05-28T01:53:49.000Z",
+          "wordCount": 1854,
+          "title": "Tackling Gender Bias Using Analytics"
+        },
+        {
+          "id": "https://dzone.com/articles/3123010",
+          "author": "Nicolas Fränkel",
+          "description": "In my penultimate post, I described the use-case of an e-commerce shop.\nIn general, interactions in such a shop are the following:",
+          "link": "https://dzone.com/articles/timely-computation-of-derived-values",
+          "publishedOn": "2021-05-28T01:35:17.000Z",
+          "wordCount": 710,
+          "title": "Timely Computation of Derived Values"
+        },
+        {
+          "id": "https://dzone.com/articles/3126825",
+          "author": "Gautam Goswami",
+          "description": "Due to the exponential growth of digitalization, the entire globe is creating a minimum of 2.5 quintillion (2500000000000 Million) bytes of data every day and that we can denote as Big Data. Data generation is happening from everywhere starting from social media sites, various sensors, satellites, purchase transactions, Mobile, GPS signals, and much more. With the advancement of technology, there is no sign of the slowing down of data generation, instead, it will grow in a massive volume. All the major organizations, retailers, different vertical companies, and enterprise products have started focusing on leveraging big data technologies to produce actionable insights, business expansion, growth, etc. \nOverview\nLambda Architecture is an excellent design framework for the huge volume of data processing using both streaming as well as batch processing methods.  The streaming processing method stands for analyzing the data on the fly when it is in motion without persisting on storage area whereas the batch processing method is applied when data already in rest, means persisted in storage area like databases, data warehousing systems, etc. Lambda Architecture can be utilized effectively to balance latency, throughput, scaling, and fault-tolerance to achieve comprehensive and accurate views from the batch and real-time stream processing simultaneously.",
+          "link": "https://dzone.com/articles/why-lambda-architecture-in-big-data-processing",
+          "publishedOn": "2021-05-28T01:31:31.000Z",
+          "wordCount": 886,
+          "title": "Why Lambda Architecture in Big Data Processing?"
+        },
+        {
+          "id": "https://dzone.com/articles/3125830",
+          "author": "Mark Gardner",
+          "description": "Last week saw the release of Perl 5.34.0 (you can get it here), and with it comes a year's worth of new features, performance enhancements, bug fixes, and other improvements. It seems like a good time to highlight some of my favorite changes over the past decade and a half, especially for those with more dated knowledge of Perl. You can always click on the headers below for the full releases' perldelta pages.\nPerl 5.10 (2007)\nThis was a big release, coming as it did over five years after the previous major 5.8 release. Not that Perl developers were idle—but it wouldn't be until version 5.14 that the language would adopt a steady yearly release cadence.",
+          "link": "https://dzone.com/articles/perl-can-do-that-now",
+          "publishedOn": "2021-05-28T01:07:41.000Z",
+          "wordCount": 1352,
+          "title": "Perl Can Do That Now!"
+        },
         {
           "id": "https://dzone.com/articles/3127950",
           "author": "Michael Baldani",
@@ -3908,6 +4093,195 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
+          "publishedOn": "2021-05-28T23:39:34.000Z",
+          "wordCount": 3433,
+          "title": "Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer"
+        },
+        {
+          "id": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
+          "publishedOn": "2021-05-28T23:35:29.000Z",
+          "wordCount": 2161,
+          "title": "Pwned passwords, open source in the .NET foundation and working with the FBI"
+        },
+        {
+          "id": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
+          "publishedOn": "2021-05-28T22:43:25.000Z",
+          "wordCount": 2251,
+          "title": "Apple has a decade-long lead in wearables"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager",
+          "publishedOn": "2021-05-28T21:00:09.000Z",
+          "wordCount": 434,
+          "title": "Alloy Automation (YC W20) Is Hiring a Customer Success Manager"
+        },
+        {
+          "id": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
+          "author": null,
+          "description": "Comments",
+          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
+          "publishedOn": "2021-05-28T20:14:00.000Z",
+          "wordCount": 4079,
+          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
+        },
+        {
+          "id": "https://unixgame.io/unix50",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unixgame.io/unix50",
+          "publishedOn": "2021-05-28T19:31:02.000Z",
+          "wordCount": 264,
+          "title": "The Unix Game"
+        },
+        {
+          "id": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
+          "publishedOn": "2021-05-28T19:23:34.000Z",
+          "wordCount": 3482,
+          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
+        },
+        {
+          "id": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
+          "publishedOn": "2021-05-28T18:48:34.000Z",
+          "wordCount": 1488,
+          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
+        },
+        {
+          "id": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
+          "publishedOn": "2021-05-28T18:46:39.000Z",
+          "wordCount": 911,
+          "title": "Overwork killed more than 745k people in a year, WHO study finds"
+        },
+        {
+          "id": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
+          "publishedOn": "2021-05-28T18:34:51.000Z",
+          "wordCount": 360,
+          "title": "PID Controller: A Simple Control Loop Mechanism"
+        },
+        {
+          "id": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
+          "publishedOn": "2021-05-28T18:04:04.000Z",
+          "wordCount": 70237,
+          "title": "Court rules climate change “duty of care” to future generations exists"
+        },
+        {
+          "id": "https://www.anthropic.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anthropic.com/",
+          "publishedOn": "2021-05-28T17:25:17.000Z",
+          "wordCount": 9,
+          "title": "Anthropic AI"
+        },
+        {
+          "id": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
+          "publishedOn": "2021-05-28T17:02:28.000Z",
+          "wordCount": 1644,
+          "title": "Why Russians do not smile (2002)"
+        },
+        {
+          "id": "https://librefoodpantry.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://librefoodpantry.org/",
+          "publishedOn": "2021-05-28T16:51:34.000Z",
+          "wordCount": 263,
+          "title": "LibreFoodPantry – a community building FOSS for food pantries"
+        },
+        {
+          "id": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
+          "publishedOn": "2021-05-28T16:47:35.000Z",
+          "wordCount": 745,
+          "title": "I quit my job to focus on SerenityOS full time"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27317635",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27317635",
+          "publishedOn": "2021-05-28T16:46:24.000Z",
+          "wordCount": 1964,
+          "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams"
+        },
+        {
+          "id": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
+          "publishedOn": "2021-05-28T16:01:01.000Z",
+          "wordCount": 2430,
+          "title": "PostgreSQL EXPLAIN Output Explained"
+        },
+        {
+          "id": "https://ninfex.com/hello",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ninfex.com/hello",
+          "publishedOn": "2021-05-28T15:42:21.000Z",
+          "wordCount": 194,
+          "title": "Show HN: An experimental, people-powered search engine"
+        },
+        {
+          "id": "https://twitter.com/wongmjane/status/1398022730553860102",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
+          "publishedOn": "2021-05-28T14:57:19.000Z",
+          "wordCount": 196,
+          "title": "Twitter confirms Twitter Blue"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-021-01442-9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-021-01442-9",
+          "publishedOn": "2021-05-28T13:27:47.000Z",
+          "wordCount": 1517,
+          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
+        },
+        {
+          "id": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
+          "publishedOn": "2021-05-28T12:58:08.000Z",
+          "wordCount": null,
+          "title": "Physical Warp Drives"
+        },
+        {
           "id": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
           "author": null,
           "description": "Comments",
@@ -3942,6 +4316,15 @@
           "publishedOn": "2021-05-27T21:48:11.000Z",
           "wordCount": 1966,
           "title": "Second-guessing the modern web (2020)"
+        },
+        {
+          "id": "https://fingerspelling.xyz",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fingerspelling.xyz",
+          "publishedOn": "2021-05-27T21:40:40.000Z",
+          "wordCount": 322,
+          "title": "Learn American Sign Language Fingerspelling with Machine Learning"
         },
         {
           "id": "https://jobs.lever.co/FinleyTechnologies/2bca72b7-ff5e-4277-bbaf-184138254589",
@@ -4061,6 +4444,15 @@
           "title": "Show HN: Convect – Instant Serverless Deployment of ML Models"
         },
         {
+          "id": "https://redact.dev/?hn",
+          "author": null,
+          "description": "Comments",
+          "link": "https://redact.dev/?hn",
+          "publishedOn": "2021-05-27T14:10:45.000Z",
+          "wordCount": 16,
+          "title": "Show HN: Redact – Automated deletion for your content on social networks"
+        },
+        {
           "id": "https://www.anandtech.com/show/16703/marvell-announces-first-pcie-50-nvme-ssd-controllers",
           "author": null,
           "description": "Comments",
@@ -4097,6 +4489,33 @@
           "title": "How I, as someone who is visually impaired, use my iPhone (2020)"
         },
         {
+          "id": "https://catalyst.coop/2021/05/23/automated-data-wrangling/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://catalyst.coop/2021/05/23/automated-data-wrangling/",
+          "publishedOn": "2021-05-27T11:58:40.000Z",
+          "wordCount": 2855,
+          "title": "Automated Data Wrangling"
+        },
+        {
+          "id": "https://joust.life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://joust.life/",
+          "publishedOn": "2021-05-27T11:50:16.000Z",
+          "wordCount": 32,
+          "title": "Show HN: I Built Multiplayer Deathmatch Joust"
+        },
+        {
+          "id": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+          "publishedOn": "2021-05-27T11:23:55.000Z",
+          "wordCount": 3802,
+          "title": "Elliptic Curve Cryptography Explained (2019)"
+        },
+        {
           "id": "http://wndr.xyz",
           "author": null,
           "description": "Comments",
@@ -4106,6 +4525,15 @@
           "title": "Show HN: I made a free blogging/bookmarking platform with discussions/discovery"
         },
         {
+          "id": "https://phys.org/news/2021-05-primates-accent-conflict.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2021-05-primates-accent-conflict.html",
+          "publishedOn": "2021-05-27T10:34:13.000Z",
+          "wordCount": 1475,
+          "title": "Primates change their 'accent' to avoid conflict"
+        },
+        {
           "id": "https://twitter.com/esraefe/status/1397842160607711232",
           "author": null,
           "description": "Comments",
@@ -4113,6 +4541,15 @@
           "publishedOn": "2021-05-27T10:28:55.000Z",
           "wordCount": 196,
           "title": "Klarna users are being signed in to random accounts"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27301210",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27301210",
+          "publishedOn": "2021-05-27T10:27:49.000Z",
+          "wordCount": 964,
+          "title": "Ask HN: How are you using unikernels?"
         },
         {
           "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
@@ -4131,6 +4568,15 @@
           "publishedOn": "2021-05-27T05:01:17.000Z",
           "wordCount": 2768,
           "title": "Mathematicians Find Long-Sought Building Blocks for Special Polynomials"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
+          "publishedOn": "2021-05-27T04:26:03.000Z",
+          "wordCount": 3190,
+          "title": "Control-flow integrity in Linux 5.13"
         },
         {
           "id": "https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html",
@@ -4374,6 +4820,15 @@
           "publishedOn": "2021-05-26T09:55:47.000Z",
           "wordCount": 1037,
           "title": "Enigmatic designs found in India may be the largest images made by human hands"
+        },
+        {
+          "id": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+          "publishedOn": "2021-05-26T09:08:24.000Z",
+          "wordCount": 775,
+          "title": "Google says Rowhammer attacks are gaining range as RAM is getting denser"
         },
         {
           "id": "https://beadslang.org/the-beads-project",
