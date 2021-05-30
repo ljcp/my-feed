@@ -742,15 +742,6 @@
           "publishedOn": "2021-05-03T07:00:00.000Z",
           "wordCount": 2141,
           "title": "The Evolution Of Jamstack"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
         }
       ]
     },
@@ -1386,15 +1377,6 @@
           "publishedOn": "2021-05-13T18:42:33.000Z",
           "wordCount": 1930,
           "title": "Continuous Configuration Essentials"
-        },
-        {
-          "id": "https://dzone.com/refcardz/3119348",
-          "author": "Melissa Habit",
-          "description": "The opportunities big data offers also come with very real challenges that many organizations are facing today. Often, it's finding the most cost-effective, scalable way to store and process boundless volumes of data in multiple formats that come from a growing number of sources. Then organizations need the analytical capabilities and flexibility to turn this data into insights that can meet their specific business objectives.\n\nThis Refcard dives into how a data lake helps tackle these challenges at both en…",
-          "link": "https://dzone.com/refcardz/getting-started-with-data-lakes",
-          "publishedOn": "2021-04-29T22:04:10.000Z",
-          "wordCount": 1665,
-          "title": "Getting Started With Data Lakes"
         }
       ]
     },
@@ -1403,6 +1385,168 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3124715",
+          "author": "Kiranjot Kaur",
+          "description": "Why Do We Need a Standalone Runtime Server?\nWe can deploy our application on Anypoint Studio. The application has an embedded Mule runtime server and we are deploying it on Anypoint Studio. But in production, we won’t do that. We need to start a standalone Mule Runtime.\nHow to Start a Standalone Runtime Server?\n1. We need to download Mule Runtime Server from the link:\nhttps://www.mulesoft.com/lp/dl/mule-esb-enterprise",
+          "link": "https://dzone.com/articles/standalone-runtime-server-in-mule-4-1",
+          "publishedOn": "2021-05-30T00:54:00.000Z",
+          "wordCount": 532,
+          "title": "Standalone Runtime Server in Mule 4"
+        },
+        {
+          "id": "https://dzone.com/articles/3124716",
+          "author": "Akash Ghadge",
+          "description": "What Is a Prime Number?\nA prime number is a natural number that is greater than 1 and divisible by 1 and itself. That means the prime number will have only two factors 1 and that number itself. Some of the prime numbers are 2, 3, 5, 7,11,13, etc.\nBefore writing the code let's list down what will be the different types of inputs. So the inputs can be",
+          "link": "https://dzone.com/articles/dataweave-practice-prime-number-code",
+          "publishedOn": "2021-05-30T00:44:23.000Z",
+          "wordCount": 1423,
+          "title": "DataWeave Practice: Prime Number Code"
+        },
+        {
+          "id": "https://dzone.com/articles/3124605",
+          "author": "Dhaval Sarvaiya",
+          "description": "Just think about a mobile app that instead of depending on one server can actually draw power from a multitude of remote computers through the mediation of a distributed database network. That's precisely the story of Blockchain-based mobile apps. Blockchain for mobile app development ensures optimum security and resilience against all kinds of attacks and data breaches.\nThe emergence of cryptocurrency solutions like Bitcoin that allowed anyone to join a decentralized Blockchain network and provided a cross-verification-based network for secure transactions were the first instances of Blockchain-based apps that swept the world. Since Bitcoin and the likes completely revolutionized digital transactions and asset management more than ever before, they continued to grow and find traction across all enterprises.",
+          "link": "https://dzone.com/articles/building-blockchain-apps-key-considerations-and-st",
+          "publishedOn": "2021-05-30T00:12:26.000Z",
+          "wordCount": 1607,
+          "title": "Building Blockchain Apps: Key Considerations and Steps in The Process"
+        },
+        {
+          "id": "https://dzone.com/articles/3123634",
+          "author": "Gary Schneir",
+          "description": "At Ubiq Security we focus on data security and making it easier for developers to incorporate encryption into their applications.  As part of our work, we spend time on Slack, Stack Overflow, Reddit, etc. and we see several common mistakes that can cause security vulnerabilities that are easy to resolve.  While we don’t think any developer wants to make an insecure product, it is easy to understand how developers not experienced in data security might not realize the impact of grabbing some sample code from the Internet and incorporating it into their application.  I often say that writing programs incorporating encryption or data security is not like other software development.  Just because an application runs, doesn’t mean you are done or that your application is secure.\nCommon Mistake 1: Inadvertently Reducing the Range of A Hashed Value\nI have lost count of how many times I have seen someone use sha256 thinking they are creating a 256-bit value stored in 32 bytes when they are actually creating a 128-bit value stored in 32 bytes.",
+          "link": "https://dzone.com/articles/three-common-encryption-mistakes-that-are-easy-to",
+          "publishedOn": "2021-05-29T23:36:19.000Z",
+          "wordCount": 1440,
+          "title": "3 Common Encryption Mistakes That Are Easy to Avoid"
+        },
+        {
+          "id": "https://dzone.com/articles/3124656",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at the How to configure log4j2 in the Spring boot application using log4j2.xml? | Spring Boot logging. Let's get started!",
+          "link": "https://dzone.com/articles/how-to-configure-log4j2-in-spring-boot-application-1",
+          "publishedOn": "2021-05-29T23:28:38.000Z",
+          "wordCount": 312,
+          "title": "How to Configure log4j2 In a Spring Boot Application? | Spring Boot Logging [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3122369",
+          "author": "jhunt2",
+          "description": "So, you want to start a radio station, eh?\nIn this part, we're going to explore how the different parts of the system interface with one another, to set the stage for our next post, where we Dockerize everything!\n\nI first met Icecast (https://icecast.org/) when I worked at a web-hosting startup around the turn of the millennium. One night, one of my co-workers and I had the crazy idea to load a bunch of audio files on the networked file server and stream them to our workstations. We could listen to music while we worked 90+ hours a week. Strange times. After realizing it wasn't as simple as exporting .ogg files over HTTP, we found Icecast (and its pal, Ices2) and built a rudimentary, local-network broadcast radio station.",
+          "link": "https://dzone.com/articles/implementing-non-trivial-containerized-systems-par",
+          "publishedOn": "2021-05-29T23:25:37.000Z",
+          "wordCount": 833,
+          "title": "Implementing Non-Trivial Containerized Systems, Part 1: Picking Components"
+        },
+        {
+          "id": "https://dzone.com/articles/3120589",
+          "author": "Tejo Prayaga",
+          "description": "What is Robotic Data Automation (RDA)\nRobotic Data Automation (RDA) is a new paradigm to help automate data integration and data preparation activities involved in dealing with machine data for Analytics and AI/Machine Learning applications. RDA is not just a framework, but also includes a set of technologies and product capabilities that help implement the data automation.\nRDA enables enterprises to operationalize machine data at scale to drive AI and analytics driven decisions.",
+          "link": "https://dzone.com/articles/taming-the-data-problem-and-accelerating-aiops-imp",
+          "publishedOn": "2021-05-29T23:20:50.000Z",
+          "wordCount": 1082,
+          "title": "Taming the Data Problem and Accelerating AIOps Implementations With RDA"
+        },
+        {
+          "id": "https://dzone.com/articles/3123419",
+          "author": "Charles Cary",
+          "description": "Recently there was a Reddit post asking for advice about moving from Site Reliability Engineering to Backend Eng. I started writing a response to it, the response got long, and so I turned it into a blog post.\nIn the post, OP mentions a couple of things driving the motivation for the transition. One is a concern that they may be losing development skills because they’re spending so much time creating scripts and automating. The other reason is that they’re having trouble adjusting to on-call life.",
+          "link": "https://dzone.com/articles/advice-for-someone-moving-from-sre-to-backend-engi",
+          "publishedOn": "2021-05-29T23:11:35.000Z",
+          "wordCount": 1513,
+          "title": "Advice for Someone Moving From SRE to Backend Engineering"
+        },
+        {
+          "id": "https://dzone.com/articles/3123378",
+          "author": "Kamran Ayub",
+          "description": "In RavenDB 5, you can use third-party NuGet packages and load binary data (or \"attachments\") within your indexes without any additional code deployment necessary.\nIn this article, I’ll showcase how to use these two features together to index EXIF metadata on images and run ML.NET sentiment analysis offline on product reviews.",
+          "link": "https://dzone.com/articles/powering-up-ravendb-indexes-with-nuget-packages",
+          "publishedOn": "2021-05-29T22:53:18.000Z",
+          "wordCount": 2532,
+          "title": "Powering Up RavenDB Indexes With NuGet Packages"
+        },
+        {
+          "id": "https://dzone.com/articles/3122692",
+          "author": "Ravi Kiran Mallidi",
+          "description": "Microservices architecture is a methodology wherein fragment monolithic single application into small applications and services which executes lightweight applications. Business capabilities and independently deployable models are the primary goals for Microservices development. Microservices architecture built using different programming languages and deployed them and connect.\nBenefits of Microservices\nAdoption of New technology and process.\nIndependent scaling of applications.\nCloud-ready.\nSeamless integrations.\nEffective Hardware utilization.\nService level Security.\nAPI-based functions for reuse effectively.\nIndependently Develop and Deploy applications.\nSelection Criteria for Framework Selection\nThe following are some of the critical aspects that can be considered while choosing the proper framework:",
+          "link": "https://dzone.com/articles/top-microservices-frameworks",
+          "publishedOn": "2021-05-29T22:30:45.000Z",
+          "wordCount": 1190,
+          "title": "Top Microservices Frameworks"
+        },
+        {
+          "id": "https://dzone.com/articles/3122568",
+          "author": "Siddharth Mohanty",
+          "description": "1. Choice of Programming Language\nThe language depends on the type of cluster. A cluster can comprise of two modes, i.e., Standard and High Concurrency. A High Concurrency cluster supports R, Python, and SQL, whereas a Standard cluster supports Scala, Java, SQL, Python, and R.\nSpark is developed in Scala and is the underlying processing engine of Databricks. Scala performs better than Python and SQL. Hence, for the Standard cluster, Scala is the recommended language for developing Spark jobs.\n2. ADF for Invoking Databricks Notebooks\nEliminate Hardcoding: In certain scenarios, Databricks requires some configuration information related to other Azure services such as storage account name, database server name, etc. The ADF pipeline uses pipeline variables for storing the configuration details. During the Databricks notebook invocation within the ADF pipeline, the configuration details are transferred from pipeline variables to Databricks widget variables, thereby eliminating hardcoding in the Databricks notebooks.\nNotebook Dependencies: It is relatively easier to establish notebook dependencies in ADF than in Databricks itself. In case of failure, debugging a series of notebook invocations in an ADF pipeline is convenient.\n\nCheap: When a Notebook is invoked through ADF, the Ephemeral job cluster pattern is used for processing the spark job because the lifecycle of the cluster is tied to the job lifecycle. These short-life clusters cost lesser than the clusters which are created using the Databricks UI.\n3. Using Widget Variables\nThe configuration details are made accessible to the Databricks code through the widget variables. The configuration data is transferred from pipeline variable to widget variables when the notebook is invoked in the ADF pipeline. During the development phase, to model the behavior of a notebook run by ADF, widget variables are manually created using the following line of code.",
+          "link": "https://dzone.com/articles/azure-databricks-best-practices-for-a-developer",
+          "publishedOn": "2021-05-29T21:11:33.000Z",
+          "wordCount": 1211,
+          "title": "Azure Databricks: 14 Best Practices For a Developer"
+        },
+        {
+          "id": "https://dzone.com/articles/3123346",
+          "author": "Ben Vanderberg",
+          "description": "It is incredible just how much information we have today stored in PDF format. According to the PDF Association, approximately 2.5 trillion PDFs are created every year, making up 6 percent of the web. As a web developer, though, PDFs aren't always the most outstanding experience online:\nViewing experiences vary significantly across different users and devices because they depend on a PDF viewer. Whether it is embedded in web browsers or free online libraries, some viewers are better than others. Adobe Acrobat Reader is generally the universal standard for viewing PDFs properly. Google Chrome is also very common. However, many things have worked in Acrobat that still don't work or render correctly in Chrome.\nIt becomes difficult for me to be able to incorporate PDFs into the rest of my website. Most often, PDFs would prompt users to download PDFs on their devices.\nConverting PDFs to HTML is complicated and unreliable. If I want to present content inside a webpage that is in PDF format, I might often flatten it to PDF to make it easier to embed.\nI have no visibility into how my visitor is viewing those PDFs. This means that I have no idea if someone is reading certain pages, how long they spend on those pages, etc.\nFortunately, Adobe PDF Embed is an excellent solution to solve all of these challenges.",
+          "link": "https://dzone.com/articles/easily-embed-pdfs-on-your-website-using-adobe-pdf",
+          "publishedOn": "2021-05-29T20:27:59.000Z",
+          "wordCount": 1688,
+          "title": "Embed PDFs in Your Webpage Using Adobe PDF Embed API"
+        },
+        {
+          "id": "https://dzone.com/articles/3124332",
+          "author": "Kalei White",
+          "description": "As the New York Times best-selling author, Brené Brown says, “Leadership is not about titles or the corner office. It’s about the willingness to step up, put yourself out there, and lean into courage.” In today’s cultural and work environment, we’re no longer able to avoid sensitive and pressing issues, but many leaders are paralyzed by the fear of making mistakes in the way they address them. This is especially true when it comes to addressing concerns around diversity, equity, and inclusion (DEI).\nThat’s why our host, Federico Toledo, wraps up season three of Quality Sense with an illuminating interview with a leader in the DEI space. Ash Coleman has had a very unique and interesting career path that has led her to her current role as the Head of Diversity, Equity, and Inclusion at Credit Karma. Before that, she was a professional chef who made a transition into software testing. These professional experiences have led her to understand what goes into making amazing experiences and products that meet the requirements of a diverse population.",
+          "link": "https://dzone.com/articles/quality-sense-podcast-ash-coleman-diversity-equity",
+          "publishedOn": "2021-05-29T20:14:37.000Z",
+          "wordCount": 5783,
+          "title": "Quality Sense Podcast: Ash Coleman – Diversity, Equity, and Inclusion at Work"
+        },
+        {
+          "id": "https://dzone.com/articles/3122220",
+          "author": "Ross Jenkins",
+          "description": "How can we utilize the const assertion in TypeScript to flip the script and define types from immutable data?\nSince TypeScript 3.4, we’ve been able to use the as const notation for creating “const assertions” on our literals. This is used to signal to the compiler that any object properties of the literal are read-only, any array literals are read-only, and lastly that any literal types used cannot be widened.",
+          "link": "https://dzone.com/articles/using-typescript-const-assertions-for-fun-and-prof",
+          "publishedOn": "2021-05-29T20:00:43.000Z",
+          "wordCount": 1546,
+          "title": "Using TypeScript const Assertions for Fun and Profit"
+        },
+        {
+          "id": "https://dzone.com/articles/3122169",
+          "author": "Donal Tobin",
+          "description": "These days, companies have access to more data sources and formats than ever before: databases, websites, SaaS (software as a service) applications, and analytics tools, to name a few. Unfortunately, the ways businesses often store this data make it challenging to extract the valuable insights hidden within — especially when you need it for smarter data-driven business decision-making.\nStandard reporting solutions such as Google Analytics and Mixpanel can help, but there comes a time when your data analysis needs to outgrow capacity. At this point, you might consider building a custom business intelligence (BI) solution, which will have the data integration layer as its foundation.",
+          "link": "https://dzone.com/articles/what-is-etl-1",
+          "publishedOn": "2021-05-29T01:30:13.000Z",
+          "wordCount": 2780,
+          "title": "What is ETL?"
+        },
+        {
+          "id": "https://dzone.com/articles/3120268",
+          "author": "Abhinav Dubey",
+          "description": "Introduction\nProject management isn’t just about managing projects. It is a collaborative effort of stakeholders, ranging from in-house teams to outsourced partners. In all fairness, the latter is a more complicated space since an outsider in a possibly different time zone has to access your data, processes, and teams. While outsourcing digital product development projects, enterprises have a long road to trek. Issues from lack of credibility to unclear objectives are directly responsible for a failed engagement and ultimately a sub-standard quality of end output. \nIf your outsourcing partner is not performing as per expectations, the fault may be at your end. Here are the top mistakes that project managers knowingly or unknowingly commit while hiring product development partners.",
+          "link": "https://dzone.com/articles/3-mistakes-product-managers-make-while-outsourcing",
+          "publishedOn": "2021-05-29T01:23:25.000Z",
+          "wordCount": 1301,
+          "title": "3 Mistakes Product Managers Make While Outsourcing IoT Product Development"
+        },
+        {
+          "id": "https://dzone.com/articles/3122486",
+          "author": "Gaurav Gupta",
+          "description": "In an enterprise system, populating a data lake relies heavily on interdependent batch processes. Typically these data lakes are updated at a frequency set to a few hours. Today’s business demands high-quality data not in a matter of hours or days but in minutes or seconds.  \nThe typical steps to update the data lake are (a) build incremental data (b) read the existing data lake files, update incremental changes, and rewrite the data lake files (note: S3 files are immutable).  This also brings in the challenge of ACID compliance between readers and writers of a data lake.",
+          "link": "https://dzone.com/articles/aws-serverless-datalake-built-realtime-using-apach",
+          "publishedOn": "2021-05-29T01:18:27.000Z",
+          "wordCount": 1114,
+          "title": "AWS Serverless Data Lake: Built Real-time Using Apache Hudi, AWS Glue, and Kinesis Stream"
+        },
+        {
+          "id": "https://dzone.com/articles/3119675",
+          "author": "Ramesh Chauhan",
+          "description": "When it comes to designing large and complex software systems, microservices architecture is the most common choice nowadays. If you design the microservices architecture in the right way, it certainly becomes a peace of mind. However, if you make some basic mistakes while designing microservices, it becomes a pain of mind in no time. Hence, it is important to not make some basic mistakes in the first place, so as you don't have to rectify and fix them at a later stage when your microservice is already in production and being used by a vast number of consumers.\nIn this article, we will look at one such biggest and most basic mistake you don't want to make with your microservices.",
+          "link": "https://dzone.com/articles/the-biggest-microservices-mistake-you-dont-want-to",
+          "publishedOn": "2021-05-29T00:59:45.000Z",
+          "wordCount": 1743,
+          "title": "The Biggest Microservices Mistake You Don’t Want to Make"
+        },
         {
           "id": "https://dzone.com/articles/3103133",
           "author": "Maksym Tatariants",
@@ -4093,6 +4237,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://orhun.dev/blog/introducing-gpg-tui/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://orhun.dev/blog/introducing-gpg-tui/",
+          "publishedOn": "2021-05-30T00:43:26.000Z",
+          "wordCount": 1019,
+          "title": "GPG-Tui, a Terminal User Interface for GnuPG"
+        },
+        {
+          "id": "https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dangerousminds.net/comments/firesign_theatres_dope_humor_of_the_seventies",
+          "publishedOn": "2021-05-30T00:25:44.000Z",
+          "wordCount": 3154,
+          "title": "Firesign Theatre’s ‘Dope Humor of the Seventies’"
+        },
+        {
+          "id": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
+          "publishedOn": "2021-05-29T23:35:37.000Z",
+          "wordCount": 9838,
+          "title": "What is the Fourth Dimension? (1884)"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Scottish_Café",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Scottish_Café",
+          "publishedOn": "2021-05-29T23:24:40.000Z",
+          "wordCount": null,
+          "title": "Scottish Café"
+        },
+        {
+          "id": "https://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.overcomingbias.com/2021/05/the-artificial-life-taboo-in-biology.html",
+          "publishedOn": "2021-05-29T22:58:24.000Z",
+          "wordCount": 679,
+          "title": "Biologists Taboo Artificial Life"
+        },
+        {
+          "id": "https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://devjac.dev/posts/2021-05-29-my-personal-creed-of-employment.html",
+          "publishedOn": "2021-05-29T22:22:30.000Z",
+          "wordCount": 1034,
+          "title": "My Personal Creed of Employment"
+        },
+        {
+          "id": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
+          "publishedOn": "2021-05-29T22:15:00.000Z",
+          "wordCount": 1154,
+          "title": "Trials begin on lozenge that rebuilds tooth enamel"
+        },
+        {
+          "id": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
+          "publishedOn": "2021-05-29T21:35:14.000Z",
+          "wordCount": 181,
+          "title": "Phacility is winding down, Phabricator no longer actively maintained"
+        },
+        {
+          "id": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
+          "publishedOn": "2021-05-29T21:18:54.000Z",
+          "wordCount": 1933,
+          "title": "Waking up one hour earlier can lower chance of major depression"
+        },
+        {
+          "id": "https://www.synthesia.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.synthesia.io/",
+          "publishedOn": "2021-05-29T21:02:26.000Z",
+          "wordCount": 917,
+          "title": "Create AI videos by simply typing in text"
+        },
+        {
+          "id": "https://harpers.org/archive/2015/04/abolish-high-school/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://harpers.org/archive/2015/04/abolish-high-school/",
+          "publishedOn": "2021-05-29T20:44:30.000Z",
+          "wordCount": 2814,
+          "title": "Abolish High School (2015)"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
+          "publishedOn": "2021-05-29T20:39:34.000Z",
+          "wordCount": 1271,
+          "title": "Amazon devices will soon automatically share your Internet with neighbors"
+        },
+        {
+          "id": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/",
+          "publishedOn": "2021-05-29T20:03:39.000Z",
+          "wordCount": 1345,
+          "title": "“Faraday Wax” – recreating old school high-vacuum epoxy"
+        },
+        {
+          "id": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.depauw.edu/sfs/backissues/5/lem5art.htm",
+          "publishedOn": "2021-05-29T19:44:52.000Z",
+          "wordCount": 8795,
+          "title": "Philip K. Dick: A Visionary Among the Charlatans (1975)"
+        },
+        {
+          "id": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
+          "publishedOn": "2021-05-29T17:35:55.000Z",
+          "wordCount": 2741,
+          "title": "Writing a game from first principles in 65c02  – Part One"
+        },
+        {
+          "id": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.breakintoprogram.co.uk/projects/spectrum-next-projects/bbc-basic-for-the-spectrum-next-introduction",
+          "publishedOn": "2021-05-29T17:19:38.000Z",
+          "wordCount": 1053,
+          "title": "Show HN: BBC Basic on the ZX Spectrum Next"
+        },
+        {
+          "id": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theparisreview.org/blog/2021/05/27/new-yorks-hyphenated-history/",
+          "publishedOn": "2021-05-29T16:25:40.000Z",
+          "wordCount": 1740,
+          "title": "New York’s Hyphenated History"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
+          "publishedOn": "2021-05-29T16:25:31.000Z",
+          "wordCount": 2152,
+          "title": "Using fake reviews to find dangerous extensions"
+        },
+        {
+          "id": "https://paulbanks.org/projects/lidl-zigbee/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://paulbanks.org/projects/lidl-zigbee/",
+          "publishedOn": "2021-05-29T16:13:17.000Z",
+          "wordCount": 1120,
+          "title": "Hacking the Silvercrest (Lidl) Smart Home Gateway"
+        },
+        {
+          "id": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
+          "publishedOn": "2021-05-29T15:48:18.000Z",
+          "wordCount": 360,
+          "title": "Tcl Calling Parallel C++ Code Using OpenMP"
+        },
+        {
+          "id": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
+          "publishedOn": "2021-05-29T15:23:53.000Z",
+          "wordCount": 17618,
+          "title": "The Cognitive Style of PowerPoint (2003) [pdf]"
+        },
+        {
+          "id": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
+          "publishedOn": "2021-05-29T12:14:07.000Z",
+          "wordCount": 1515,
+          "title": "Google made it nearly impossible for users to keep their location private"
+        },
+        {
+          "id": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
+          "publishedOn": "2021-05-29T10:57:28.000Z",
+          "wordCount": 4389,
+          "title": "Ghost Stations of the Paris Metro"
+        },
+        {
+          "id": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
+          "publishedOn": "2021-05-29T10:54:13.000Z",
+          "wordCount": 689,
+          "title": "The pandemic revives interest in a morbid French financial scheme"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
+          "publishedOn": "2021-05-29T10:22:30.000Z",
+          "wordCount": 2836,
+          "title": "Causal Inference: The Mixtape"
+        },
+        {
+          "id": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
+          "publishedOn": "2021-05-29T10:16:26.000Z",
+          "wordCount": 851,
+          "title": "Astronomers have created the largest ever map of dark matter"
+        },
+        {
+          "id": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
+          "author": null,
+          "description": "Comments",
+          "link": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
+          "publishedOn": "2021-05-29T02:28:26.000Z",
+          "wordCount": 855,
+          "title": "How Did Chop Suey Become a Staple of Chinese American Cuisine?"
+        },
+        {
+          "id": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
+          "publishedOn": "2021-05-29T00:17:41.000Z",
+          "wordCount": 1702,
+          "title": "Joseph Weizenbaum’s Original ELIZA"
+        },
+        {
           "id": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
           "author": null,
           "description": "Comments",
@@ -4181,6 +4577,15 @@
           "publishedOn": "2021-05-28T18:34:51.000Z",
           "wordCount": 360,
           "title": "PID Controller: A Simple Control Loop Mechanism"
+        },
+        {
+          "id": "https://fusebot.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fusebot.io/",
+          "publishedOn": "2021-05-28T18:18:28.000Z",
+          "wordCount": 141,
+          "title": "Show HN: Fusebot – Developer bot for Discord and Slack"
         },
         {
           "id": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
