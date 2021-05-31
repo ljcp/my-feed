@@ -1386,6 +1386,186 @@
       "siteUrl": "https://dzone.com",
       "articles": [
         {
+          "id": "https://dzone.com/articles/3123341",
+          "author": "shaoyang liu",
+          "description": "1. Prefix Tree\n1.1 Description\nThe prefix tree is related to the greedy algorithm; let's not talk about the relationship first.\nPrefix tree is also called Trie, word search tree, etc. It is a tree structure used to store a large number of strings.",
+          "link": "https://dzone.com/articles/data-structure-and-algorithm-introduction-to-greed",
+          "publishedOn": "2021-05-30T19:12:41.000Z",
+          "wordCount": 4395,
+          "title": "Data Structure and Algorithm: An Introduction to the Greedy Algorithm"
+        },
+        {
+          "id": "https://dzone.com/articles/3119639",
+          "author": "Li Mayism",
+          "description": "Introduction\nWhen it comes to building a website, it’s always a hassle having to apply for a domain name, set up a website server, manage certificates, and perform other O&M operations. HUAWEI AppGallery Connect provides easy-to-use app deployment capabilities so that tedious tasks such as domain name application and page distribution are automatically performed for you, allowing you to focus on more important things, such as designing your app’s UI, UX, and service logic.\nThis post will show you how to use AppGallery Connect Cloud Hosting with an example of domain name hosting.",
+          "link": "https://dzone.com/articles/coding-free-integration-of-appgallery-connect-clou",
+          "publishedOn": "2021-05-30T17:58:01.000Z",
+          "wordCount": 905,
+          "title": "Coding-Free Integration of Appgallery Connect Cloud Hosting Into an Android App"
+        },
+        {
+          "id": "https://dzone.com/articles/3115800",
+          "author": "Kartik Patel",
+          "description": "The Java programming language has become so popular that, when people say the word ‘java’, most people no longer think of coffee! The Java language is object-oriented and it supports developers with a library of classes called Java API. It has a long and rich history and is widely recognized for its performance, security, and dependability. In this article, we review four important reasons for Java's popularity among developers. \n\"Java is dependable and is the choice of many developers around the world so your business can be assured that it is working with a scalable, high-performance environment.\"",
+          "link": "https://dzone.com/articles/the-real-real-4-reasons-java-is-so-popular-among-d",
+          "publishedOn": "2021-05-30T17:32:44.000Z",
+          "wordCount": 991,
+          "title": "4 Reasons Java Is So Popular Among Developers"
+        },
+        {
+          "id": "https://dzone.com/articles/3126903",
+          "author": "Mariana Berga",
+          "description": "JSON and XML fulfill a similar purpose of organizing complex data in an understandable and readable format to various APIs and programming languages, such as Python, Ruby, and JavaScript. This type of technology is essential because structuring the data is what allows us to share it successfully. However, despite aiming for the same goal, they have different ways to operate.\nThis article compares JSON and XML to fully understand their benefits and why they stand on opposite sides of the wrestling ring. I start by providing a definition for each, followed by an in-depth look at their differences and similarities.",
+          "link": "https://dzone.com/articles/json-vs-xml-which-one-is-better",
+          "publishedOn": "2021-05-30T16:49:50.000Z",
+          "wordCount": 1963,
+          "title": "JSON vs. XML: Is One Really Better Than the Other?"
+        },
+        {
+          "id": "https://dzone.com/articles/3109232",
+          "author": "Vito Clover",
+          "description": "Bonus: Does your workload qualify for AWS spot instances? [CHEAT SHEET]\nYou may already know what the catch is.",
+          "link": "https://dzone.com/articles/spot-instances-how-to-reduce-aws-azure-and-gcp-cos",
+          "publishedOn": "2021-05-30T16:37:00.000Z",
+          "wordCount": 2318,
+          "title": "Spot Instances: How to Reduce AWS, Azure, and GCP Costs by 90%"
+        },
+        {
+          "id": "https://dzone.com/articles/3125030",
+          "author": "Kevin Vu",
+          "description": "It's easy to get pulled into using popular platforms like TensorFlow and PyTorch, but there are a number of other great open-source resources that can help you in your AI research.\nThe truth is there is so much interesting work and so many brilliant new tools being developed on a daily basis in open-source artificial intelligence. It can be difficult to keep up with the ever-accelerating developments in AI and deep learning.",
+          "link": "https://dzone.com/articles/the-7-best-open-source-ai-libraries-you-may-not-ha",
+          "publishedOn": "2021-05-30T16:15:52.000Z",
+          "wordCount": 3631,
+          "title": "The 7 Best Open Source AI Libraries You May Not Have Heard Of"
+        },
+        {
+          "id": "https://dzone.com/articles/3126613",
+          "author": "Taruvai Subramaniam",
+          "description": "Kubernetes (k8s) is an increasingly popular container orchestration platform. With that popularity has grown an ecosystem of tools and frameworks. One such tool is Kustomize.\nK8s desired states are declaratively described in resource description files such as deployment, services, configmaps, secrets, etc. As we vary the environments from dev to QA to prod these configurations to change. The database may change from an embedded H2 in dev to a MariaDB in QA to Oracle in prod, the amount of allocated memory for a container may change, secrets of user rid and password for the database may also change. Managing all these varying YAML files of deployment, services, etc. per environment can be quite a chore. Configuration management tools maintain consistency across these environments.",
+          "link": "https://dzone.com/articles/kustomize-a-tool-for-kubernetes-configuration-mana",
+          "publishedOn": "2021-05-30T15:32:38.000Z",
+          "wordCount": 972,
+          "title": "Kustomize: A Tool for Kubernetes Configuration Management"
+        },
+        {
+          "id": "https://dzone.com/articles/3126862",
+          "author": "Irene Li",
+          "description": "Introduction\nIn this article, we will learn how to implement the Image Classification feature in a Flutter application. Image classification uses the transfer learning algorithm to perform multi-level learning training. Huawei ML Kit provides many useful machine learning-related features to developers, and one of them is Image Classification.\nAbout Image Classification\nImage classification is one of the features of the HMS ML Kit. Through this service, we can classify the objects in images. This service analyses an image, classifies it into possible categories in the real world, like people, animals, objects, etc. and it returns the recognized results.",
+          "link": "https://dzone.com/articles/intermediate-how-to-integrate-image-classification",
+          "publishedOn": "2021-05-30T15:18:57.000Z",
+          "wordCount": 1021,
+          "title": "How to Integrate Huawei ML Kit Image Classification in Flutter"
+        },
+        {
+          "id": "https://dzone.com/articles/3122919",
+          "author": "Moe Long",
+          "description": "While loads of digital video game vendors exist, Valve reigns supreme as arguably the most popular. Its Steam Link hardware debuted in 2015 as a means of streaming Steam games from a PC over a home network. This in-home streaming feature allowed for playing video games on a TV or projector for a console experience with PC gaming. However, in 2018, Valve halted production of the Steam Link. Alternatives such as the third-party Moonlight or Parsec for game streaming exist. But Valve released its own Steam Link app for Android, as well as the Raspberry Pi 3. Learn how to install the Steam Link app for Steam streaming on the Raspberry Pi 4, 3, or 3 B+ for the ultimate Raspberry Pi gaming build!\nSteam Box Raspberry Pi Set Up: What You'll Need",
+          "link": "https://dzone.com/articles/how-to-install-steam-link-on-the-raspberry-pi",
+          "publishedOn": "2021-05-30T14:58:45.000Z",
+          "wordCount": 1311,
+          "title": "Steam Raspberry Pi Streaming: How to Install the Steam Link App For Raspberry Pi"
+        },
+        {
+          "id": "https://dzone.com/articles/3126043",
+          "author": "Vinita Bansal",
+          "description": "Doling out advice, hurling negative comments, passing mean remarks – we have all done it. Given an opportunity, it’s easy to assume the role of an expert and tell others how wrong they are, why their product isn’t good enough, why their idea will never work, how they should behave, what they should do. Why seek permission when we feel right in our criticism?\nNow let’s turn this around. Are your critics telling you the blunt facts you need to hear? Think for a moment about how you feel when you are on the receiving end of this criticism – angry, defensive, resentful, frustrated, sad, maybe even a little bit devastated.",
+          "link": "https://dzone.com/articles/how-to-use-criticism-to-fuel-your-growth",
+          "publishedOn": "2021-05-30T14:41:29.000Z",
+          "wordCount": 2407,
+          "title": "How to Use Criticism to Fuel Your Growth"
+        },
+        {
+          "id": "https://dzone.com/articles/3128012",
+          "author": "Mauricio Ashimine",
+          "description": "It is incredible to see how much businesses rely on data today. 80% of business operations are running in the cloud, and almost 100% of business-related data and documents are now stored digitally. In the 1960s, money made the world go around but in today’s markets, “Information is the oil of the 21st century, and analytics is the combustion engine.” (Peter Sondergaard, 2011)\nData helps businesses gain a better understanding of processes, improve resource usage, and reduce waste; in essence, data is a significant driver to boosting business efficiency and profitability.",
+          "link": "https://dzone.com/articles/introduction-to-google-bigquery",
+          "publishedOn": "2021-05-30T14:14:06.000Z",
+          "wordCount": 2176,
+          "title": "Introduction to Google BigQuery"
+        },
+        {
+          "id": "https://dzone.com/articles/3123952",
+          "author": "Stefan Wolpers",
+          "description": "There are plenty of Scrum stakeholder failures. Given that Scrum is a framework with a precise and concise yet short “manual,” this effect should not surprise anyone. While the Scrum Guide makes numerous references to stakeholders in Scrum, stakeholders themselves are no official role (accountability), no matter their crucial contribution to a Scrum team’s overall success.\nExplore with me three widespread examples of how stakeholders fail their Scrum teams in three short video clips, totaling 6 minutes and 5 seconds.",
+          "link": "https://dzone.com/articles/three-wide-spread-stakeholder-failures-in-605-minu",
+          "publishedOn": "2021-05-30T13:51:56.000Z",
+          "wordCount": 1397,
+          "title": "Three Wide-Spread Stakeholder Failures in 6:05 Minutes"
+        },
+        {
+          "id": "https://dzone.com/articles/3124730",
+          "author": "Dariusz Włodarczyk",
+          "description": "Symfony provides us the symfony/form package which makes the handling of rendering and submitting forms easier than ever. Soon this will become even easier with the new “Form handler helper”, but that’s not the point here.\nWhat annoyed me when I first started working with Vue.js was the fact that I pretty much like the need to say “goodbye” to the forms rendering directly in the Twig (which is very handy).",
+          "link": "https://dzone.com/articles/vuejs-and-symfony-forms",
+          "publishedOn": "2021-05-30T03:30:34.000Z",
+          "wordCount": 2490,
+          "title": "Vue.js and Symfony Forms"
+        },
+        {
+          "id": "https://dzone.com/articles/3122918",
+          "author": "Maria Dunaeva",
+          "description": "More and more software development teams are switching from the traditional Waterfall approach to Agile project management. Agile helps teams to become more flexible and adaptive which is essential for staying competitive in today’s business environment where customer needs are constantly changing and evolving. But what exactly do we mean by being “more flexible and adaptive?”\nRequest Management: Product Increments\nLet’s imagine a team that is working on a software product. The product is going to be released in several versions, and the Product Manager creates a roadmap to plan the timeline for these releases (please see the picture below). Each release itself can be broken down into smaller chunks of work that are usually called product increments and form a Sprint (typically 2-4 weeks long).",
+          "link": "https://dzone.com/articles/feature-request-management-for-software-developmen",
+          "publishedOn": "2021-05-30T03:19:59.000Z",
+          "wordCount": 804,
+          "title": "Feature Request Management for Software Development Projects"
+        },
+        {
+          "id": "https://dzone.com/articles/3124671",
+          "author": "Yuri Filatov",
+          "description": "Hey to everyone! I guess you all did sorting at least once. I also guess that everyone knows a sorting called \"Bubble,\" cause it is the easiest and most popular. But when it comes to time and your memory, what will you do?\nImagine a situation. You have a mass that contains about 10^100 elements. Is it still good to use bubble sorting? Just imagine checking every element... and not once. It is not so difficult to count how many operations it is and how much time it takes.",
+          "link": "https://dzone.com/articles/5-ways-to-sort-wisely",
+          "publishedOn": "2021-05-30T02:50:33.000Z",
+          "wordCount": 1017,
+          "title": "5 Ways to Sort Wisely"
+        },
+        {
+          "id": "https://dzone.com/articles/3123674",
+          "author": "Deeptesh Bhattacharya",
+          "description": "A Little Foreword\nIn order to bridge the gap of delivering products quickly, all organizations are shifting the base architectural design patterns to distributed system architecture. It's kind of common practice to either bootstrap or transition the existing applications to containerized or server-less architectures.\nManaging clustered applications can soon become an overhead when the organization scale and hence increases a dire need for a platform that can support automation of all the tasks related to management, deployment, scaling of these clusters.",
+          "link": "https://dzone.com/articles/deploying-containerized-apps-on-aws-in-this-articl",
+          "publishedOn": "2021-05-30T02:44:35.000Z",
+          "wordCount": 2484,
+          "title": "Deploying Containerized Apps on AWS? EKS vs. ECS For Workload Deployment"
+        },
+        {
+          "id": "https://dzone.com/articles/3123703",
+          "author": "Jason Bloomberg",
+          "description": "It was only a handful of years ago that the low-code story was innocently simple. Instead of coding software line-by-line by hand, use a low-code tool that provided visual abstractions that enabled developers to shortcut the hand-coding process by dragging and dropping tasks onto workflows, widgets onto screens, and the like.\nThen along came no-code. The contrast between the two approaches was clear. Low-code targeted professional developers, simplifying their work by taking ‘plumbing’ tasks off their plate, while also facilitating collaboration with business stakeholders.",
+          "link": "https://dzone.com/articles/whats-happening-to-low-code",
+          "publishedOn": "2021-05-30T02:01:57.000Z",
+          "wordCount": 1646,
+          "title": "What’s Happening to Low-Code?"
+        },
+        {
+          "id": "https://dzone.com/articles/3122845",
+          "author": "Webb Brown",
+          "description": "Engineering teams can scale their Kubernetes costs and burn their budget with the same ease by which they scale their infrastructure. Thanks to Kubecost's real-time alerting, the risk of upsetting the finance team can be mitigated. Kubernetes is well-known for its ability to help scale applications rapidly and with ease, but this ability comes with some tradeoffs. Before Kubernetes, teams had to follow a more deliberate procurement approval process to change the capacity allocation. Today, that scaling process has been democratized, and teams can easily scale their clusters up or down.\nWith the ability to create more frequent changes to infrastructure resources come more opportunities to misallocate and over-allocate costly resources. In this model, technical teams can far exceed their expense budget without even realizing it, while financial managers would only notice it after the fact leading to avoidable organizational stress. So, how do you stay on top of your Kubernetes spending if your resources change daily?",
+          "link": "https://dzone.com/articles/how-to-set-real-time-cost-alerts-in-kubernetes",
+          "publishedOn": "2021-05-30T01:54:28.000Z",
+          "wordCount": 2284,
+          "title": "Setting Real-Time Cost Alerts in Kubernetes With Kubecost"
+        },
+        {
+          "id": "https://dzone.com/articles/3123704",
+          "author": "Margo McCabe",
+          "description": "There are certain industries that greatly benefit from high-performing, low-latency, geo-distributed technologies, while other organizations might be more focused on vertically scaling architectures. This is dependent on numerous factors including the data pipeline, network, data structure, type of product or solution, short and long-term goals, etc. While there are currently many databases and tools that provide vertical scaling capabilities, there are not many that focus on horizontal scaling -- but there’s still a need for both.\nLatency\nBefore jumping into specific industries that benefit from high-performing, low-latency, geo-distributed databases (it’s a mouthful, I know), let’s define a few terms here. High-performing is pretty self-explanatory so I’ll skip over that one. For the next term, I’ll refer to my colleague Jacob Cohen’s blog on Geo-Distributed Databases. Latency generally measures the duration between an action and a response. In user-facing applications, that can be narrowed down to the delay between when a user makes a request and when the application responds to a request. So, technologies that enable low latency usually improve performance and response times, leading to improved user experience and cost savings.",
+          "link": "https://dzone.com/articles/industries-that-need-a-high-performing-low-latency",
+          "publishedOn": "2021-05-30T01:23:41.000Z",
+          "wordCount": 1794,
+          "title": "Industries That Need a High Performing Low Latency Distributed Database"
+        },
+        {
+          "id": "https://dzone.com/articles/3124714",
+          "author": "Alexander Von Zitzewitz",
+          "description": "I thought I’d use our new 3D city view visualizations to have a closer look at Apache-Cassandra, a very popular and successful open source project that implements a NoSQL database. I know from previous analysis runs of the same software that it already had problems with structural erosion. Years ago I analyzed Cassandra 1.2.6 and found pretty big cycle groups for Java files as well as for packages. The maintainability level was only 9.4% (everything under 50% is concerning) while the metric “Propagation Cost” has a value of 62%. That means that every change will affect 62% of all code directly or indirectly which also is not a good thing because it significantly increases the chance of regression bugs.\n477 Java files form this big ball of mud in Apache-Cassandra 1.2.6",
+          "link": "https://dzone.com/articles/the-power-of-software-visualization",
+          "publishedOn": "2021-05-30T01:10:37.000Z",
+          "wordCount": 1675,
+          "title": "The Power of Software Visualization"
+        },
+        {
           "id": "https://dzone.com/articles/3124715",
           "author": "Kiranjot Kaur",
           "description": "Why Do We Need a Standalone Runtime Server?\nWe can deploy our application on Anypoint Studio. The application has an embedded Mule runtime server and we are deploying it on Anypoint Studio. But in production, we won’t do that. We need to start a standalone Mule Runtime.\nHow to Start a Standalone Runtime Server?\n1. We need to download Mule Runtime Server from the link:\nhttps://www.mulesoft.com/lp/dl/mule-esb-enterprise",
@@ -4237,6 +4417,222 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.washingtonpost.com/technology/2021/05/28/facebook-palestinian-censorship/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/technology/2021/05/28/facebook-palestinian-censorship/",
+          "publishedOn": "2021-05-31T01:00:03.000Z",
+          "wordCount": 2450,
+          "title": "Facebook blocks Palestinian activists like it blocks American Black activists"
+        },
+        {
+          "id": "https://github.com/cs01/termpair",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cs01/termpair",
+          "publishedOn": "2021-05-31T00:25:05.000Z",
+          "wordCount": 1014,
+          "title": "TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption"
+        },
+        {
+          "id": "https://www.nirandfar.com/cancel-new-york-times/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nirandfar.com/cancel-new-york-times/",
+          "publishedOn": "2021-05-30T23:43:16.000Z",
+          "wordCount": 1658,
+          "title": "The New York Times Uses the Dark Patterns It Derides"
+        },
+        {
+          "id": "https://twitter.com/TheSofaaa/status/1398990015611473927",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/TheSofaaa/status/1398990015611473927",
+          "publishedOn": "2021-05-30T23:37:08.000Z",
+          "wordCount": 196,
+          "title": "Uber charges driver for completing a 13-mile fare"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27338008",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27338008",
+          "publishedOn": "2021-05-30T23:26:44.000Z",
+          "wordCount": 513,
+          "title": "Ask HN: Alternatives to Google Photos?"
+        },
+        {
+          "id": "https://twitter.com/bagder/status/1399113361653178368",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/bagder/status/1399113361653178368",
+          "publishedOn": "2021-05-30T23:04:14.000Z",
+          "wordCount": 196,
+          "title": "Daniel Stenberg: curl doesn't qualify for TravisCI free tier"
+        },
+        {
+          "id": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
+          "publishedOn": "2021-05-30T22:12:30.000Z",
+          "wordCount": 828,
+          "title": "Windows 10 nagging users with Bing advertisements (push alerts)"
+        },
+        {
+          "id": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "publishedOn": "2021-05-30T21:46:31.000Z",
+          "wordCount": 5097,
+          "title": "The Shortest Possible Game of Monopoly (2010)"
+        },
+        {
+          "id": "https://theamericanscholar.org/if-you-frame-it-like-that/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theamericanscholar.org/if-you-frame-it-like-that/",
+          "publishedOn": "2021-05-30T21:10:22.000Z",
+          "wordCount": 2811,
+          "title": "If you frame it like that (2020)"
+        },
+        {
+          "id": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
+          "publishedOn": "2021-05-30T21:09:43.000Z",
+          "wordCount": 2817,
+          "title": "Improving ventilation will help curb SARS-CoV-2"
+        },
+        {
+          "id": "https://rfc.fyi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rfc.fyi/",
+          "publishedOn": "2021-05-30T20:47:16.000Z",
+          "wordCount": 28,
+          "title": "RFC.fyi: Browse RFCs by keywords, id or collection"
+        },
+        {
+          "id": "https://twitter.com/Pinboard/status/1399058952336277505",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/Pinboard/status/1399058952336277505",
+          "publishedOn": "2021-05-30T18:55:41.000Z",
+          "wordCount": 196,
+          "title": "It's time for us in the tech world to speak out about cryptocurrency"
+        },
+        {
+          "id": "https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274",
+          "publishedOn": "2021-05-30T18:38:50.000Z",
+          "wordCount": 1015,
+          "title": "Molecular biology clues portray SARS-CoV-2 as a lab manipulation of RaTG13"
+        },
+        {
+          "id": "https://www.city-journal.org/html/madman-painter-14347.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.city-journal.org/html/madman-painter-14347.html",
+          "publishedOn": "2021-05-30T18:18:53.000Z",
+          "wordCount": 3816,
+          "title": "The Madman as Painter (2016)"
+        },
+        {
+          "id": "https://rootsofprogress.org/nuclear-physics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rootsofprogress.org/nuclear-physics",
+          "publishedOn": "2021-05-30T18:02:25.000Z",
+          "wordCount": 4327,
+          "title": "How counting neutrons explains nuclear waste"
+        },
+        {
+          "id": "https://readme.com/careers#head-of-product-management",
+          "author": null,
+          "description": "Comments",
+          "link": "https://readme.com/careers#head-of-product-management",
+          "publishedOn": "2021-05-30T17:00:55.000Z",
+          "wordCount": 1517,
+          "title": "ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience"
+        },
+        {
+          "id": "https://github.com/dineshsonachalam/Lucid-Dynamodb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/dineshsonachalam/Lucid-Dynamodb",
+          "publishedOn": "2021-05-30T16:36:38.000Z",
+          "wordCount": 2158,
+          "title": "A minimalistic Python wrapper to AWS DynamoDB"
+        },
+        {
+          "id": "https://neil.computer/notes/overkill-objects-for-everyday-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neil.computer/notes/overkill-objects-for-everyday-life/",
+          "publishedOn": "2021-05-30T16:10:20.000Z",
+          "wordCount": 876,
+          "title": "Overkill objects for everyday life"
+        },
+        {
+          "id": "https://terralang.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://terralang.org/",
+          "publishedOn": "2021-05-30T15:49:19.000Z",
+          "wordCount": 3219,
+          "title": "Terra: Low-level system programming language meta-programmed from Lua"
+        },
+        {
+          "id": "https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise",
+          "publishedOn": "2021-05-30T15:30:57.000Z",
+          "wordCount": 3346,
+          "title": "Amazon Prime inflates prices, using the false promise of ‘free shipping’"
+        },
+        {
+          "id": "https://kalk.strct.net",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kalk.strct.net",
+          "publishedOn": "2021-05-30T15:07:50.000Z",
+          "wordCount": 490,
+          "title": "Show HN: Kalk, A calculator with math syntax, complex numbers"
+        },
+        {
+          "id": "https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/",
+          "publishedOn": "2021-05-30T13:55:24.000Z",
+          "wordCount": 17611,
+          "title": "Drunk Post: Things I've Learned as a Sr Engineer"
+        },
+        {
+          "id": "https://github.com/pbatard/rufus/issues/1617",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/pbatard/rufus/issues/1617",
+          "publishedOn": "2021-05-30T13:50:51.000Z",
+          "wordCount": 1495,
+          "title": "Creator of Rufus outlines the problems with Microsoft's UWP"
+        },
+        {
+          "id": "https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/",
+          "publishedOn": "2021-05-30T13:24:21.000Z",
+          "wordCount": 1134,
+          "title": "Drones may have attacked humans fully autonomously for the first time"
+        },
+        {
           "id": "https://orhun.dev/blog/introducing-gpg-tui/",
           "author": null,
           "description": "Comments",
@@ -4426,6 +4822,24 @@
           "title": "The Cognitive Style of PowerPoint (2003) [pdf]"
         },
         {
+          "id": "https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/",
+          "publishedOn": "2021-05-29T13:35:01.000Z",
+          "wordCount": 1132,
+          "title": "Cornell and NTT’s Physical Neural Nets Enable Arbitrary Physical System Training"
+        },
+        {
+          "id": "https://www.mdpi.com/1424-8220/21/9/2984/htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mdpi.com/1424-8220/21/9/2984/htm",
+          "publishedOn": "2021-05-29T12:35:49.000Z",
+          "wordCount": 17384,
+          "title": "Quantization and Deployment of Deep Neural Networks on Microcontrollers"
+        },
+        {
           "id": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
           "author": null,
           "description": "Comments",
@@ -4433,6 +4847,24 @@
           "publishedOn": "2021-05-29T12:14:07.000Z",
           "wordCount": 1515,
           "title": "Google made it nearly impossible for users to keep their location private"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book",
+          "publishedOn": "2021-05-29T11:20:20.000Z",
+          "wordCount": 2699,
+          "title": "Poe’s best-selling book during his lifetime was a guide to seashells"
+        },
+        {
+          "id": "https://github.com/susam/texme",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/susam/texme",
+          "publishedOn": "2021-05-29T11:02:02.000Z",
+          "wordCount": 4654,
+          "title": "Show HN: TeXMe – Create self-rendering Markdown + LaTeX documents"
         },
         {
           "id": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
@@ -4469,6 +4901,15 @@
           "publishedOn": "2021-05-29T10:16:26.000Z",
           "wordCount": 851,
           "title": "Astronomers have created the largest ever map of dark matter"
+        },
+        {
+          "id": "https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/",
+          "publishedOn": "2021-05-29T08:01:05.000Z",
+          "wordCount": 1245,
+          "title": "Japanese bookstore simulator translated into English after 24 years"
         },
         {
           "id": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",

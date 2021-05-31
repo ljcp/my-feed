@@ -2,10 +2,478 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T01:04:03.115Z</updated>
+    <updated>2021-05-31T01:13:27.353Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook blocks Palestinian activists like it blocks American Black activists]]></title>
+        <id>https://www.washingtonpost.com/technology/2021/05/28/facebook-palestinian-censorship/</id>
+        <link href="https://www.washingtonpost.com/technology/2021/05/28/facebook-palestinian-censorship/"/>
+        <updated>2021-05-31T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption]]></title>
+        <id>https://github.com/cs01/termpair</id>
+        <link href="https://github.com/cs01/termpair"/>
+        <updated>2021-05-31T00:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York Times Uses the Dark Patterns It Derides]]></title>
+        <id>https://www.nirandfar.com/cancel-new-york-times/</id>
+        <link href="https://www.nirandfar.com/cancel-new-york-times/"/>
+        <updated>2021-05-30T23:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber charges driver for completing a 13-mile fare]]></title>
+        <id>https://twitter.com/TheSofaaa/status/1398990015611473927</id>
+        <link href="https://twitter.com/TheSofaaa/status/1398990015611473927"/>
+        <updated>2021-05-30T23:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Alternatives to Google Photos?]]></title>
+        <id>https://news.ycombinator.com/item?id=27338008</id>
+        <link href="https://news.ycombinator.com/item?id=27338008"/>
+        <updated>2021-05-30T23:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel Stenberg: curl doesn't qualify for TravisCI free tier]]></title>
+        <id>https://twitter.com/bagder/status/1399113361653178368</id>
+        <link href="https://twitter.com/bagder/status/1399113361653178368"/>
+        <updated>2021-05-30T23:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 nagging users with Bing advertisements (push alerts)]]></title>
+        <id>https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/</id>
+        <link href="https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/"/>
+        <updated>2021-05-30T22:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shortest Possible Game of Monopoly (2010)]]></title>
+        <id>https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/</id>
+        <link href="https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/"/>
+        <updated>2021-05-30T21:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you frame it like that (2020)]]></title>
+        <id>https://theamericanscholar.org/if-you-frame-it-like-that/</id>
+        <link href="https://theamericanscholar.org/if-you-frame-it-like-that/"/>
+        <updated>2021-05-30T21:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving ventilation will help curb SARS-CoV-2]]></title>
+        <id>https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2</id>
+        <link href="https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2"/>
+        <updated>2021-05-30T21:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC.fyi: Browse RFCs by keywords, id or collection]]></title>
+        <id>https://rfc.fyi/</id>
+        <link href="https://rfc.fyi/"/>
+        <updated>2021-05-30T20:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Structure and Algorithm: An Introduction to the Greedy Algorithm]]></title>
+        <id>https://dzone.com/articles/3123341</id>
+        <link href="https://dzone.com/articles/data-structure-and-algorithm-introduction-to-greed"/>
+        <updated>2021-05-30T19:12:41.000Z</updated>
+        <summary type="html"><![CDATA[1. Prefix Tree
+1.1 Description
+The prefix tree is related to the greedy algorithm; let's not talk about the relationship first.
+Prefix tree is also called Trie, word search tree, etc. It is a tree structure used to store a large number of strings.]]></summary>
+        <author>
+            <name>shaoyang liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's time for us in the tech world to speak out about cryptocurrency]]></title>
+        <id>https://twitter.com/Pinboard/status/1399058952336277505</id>
+        <link href="https://twitter.com/Pinboard/status/1399058952336277505"/>
+        <updated>2021-05-30T18:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular biology clues portray SARS-CoV-2 as a lab manipulation of RaTG13]]></title>
+        <id>https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274</id>
+        <link href="https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274"/>
+        <updated>2021-05-30T18:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Madman as Painter (2016)]]></title>
+        <id>https://www.city-journal.org/html/madman-painter-14347.html</id>
+        <link href="https://www.city-journal.org/html/madman-painter-14347.html"/>
+        <updated>2021-05-30T18:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How counting neutrons explains nuclear waste]]></title>
+        <id>https://rootsofprogress.org/nuclear-physics</id>
+        <link href="https://rootsofprogress.org/nuclear-physics"/>
+        <updated>2021-05-30T18:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding-Free Integration of Appgallery Connect Cloud Hosting Into an Android App]]></title>
+        <id>https://dzone.com/articles/3119639</id>
+        <link href="https://dzone.com/articles/coding-free-integration-of-appgallery-connect-clou"/>
+        <updated>2021-05-30T17:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+When it comes to building a website, it’s always a hassle having to apply for a domain name, set up a website server, manage certificates, and perform other O&M operations. HUAWEI AppGallery Connect provides easy-to-use app deployment capabilities so that tedious tasks such as domain name application and page distribution are automatically performed for you, allowing you to focus on more important things, such as designing your app’s UI, UX, and service logic.
+This post will show you how to use AppGallery Connect Cloud Hosting with an example of domain name hosting.]]></summary>
+        <author>
+            <name>Li Mayism</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Reasons Java Is So Popular Among Developers]]></title>
+        <id>https://dzone.com/articles/3115800</id>
+        <link href="https://dzone.com/articles/the-real-real-4-reasons-java-is-so-popular-among-d"/>
+        <updated>2021-05-30T17:32:44.000Z</updated>
+        <summary type="html"><![CDATA[The Java programming language has become so popular that, when people say the word ‘java’, most people no longer think of coffee! The Java language is object-oriented and it supports developers with a library of classes called Java API. It has a long and rich history and is widely recognized for its performance, security, and dependability. In this article, we review four important reasons for Java's popularity among developers. 
+"Java is dependable and is the choice of many developers around the world so your business can be assured that it is working with a scalable, high-performance environment."]]></summary>
+        <author>
+            <name>Kartik Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReadMe (YC W15) Is Hiring a Head of Product Management with API Experience]]></title>
+        <id>https://readme.com/careers#head-of-product-management</id>
+        <link href="https://readme.com/careers#head-of-product-management"/>
+        <updated>2021-05-30T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON vs. XML: Is One Really Better Than the Other?]]></title>
+        <id>https://dzone.com/articles/3126903</id>
+        <link href="https://dzone.com/articles/json-vs-xml-which-one-is-better"/>
+        <updated>2021-05-30T16:49:50.000Z</updated>
+        <summary type="html"><![CDATA[JSON and XML fulfill a similar purpose of organizing complex data in an understandable and readable format to various APIs and programming languages, such as Python, Ruby, and JavaScript. This type of technology is essential because structuring the data is what allows us to share it successfully. However, despite aiming for the same goal, they have different ways to operate.
+This article compares JSON and XML to fully understand their benefits and why they stand on opposite sides of the wrestling ring. I start by providing a definition for each, followed by an in-depth look at their differences and similarities.]]></summary>
+        <author>
+            <name>Mariana Berga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spot Instances: How to Reduce AWS, Azure, and GCP Costs by 90%]]></title>
+        <id>https://dzone.com/articles/3109232</id>
+        <link href="https://dzone.com/articles/spot-instances-how-to-reduce-aws-azure-and-gcp-cos"/>
+        <updated>2021-05-30T16:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonus: Does your workload qualify for AWS spot instances? [CHEAT SHEET]
+You may already know what the catch is.]]></summary>
+        <author>
+            <name>Vito Clover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A minimalistic Python wrapper to AWS DynamoDB]]></title>
+        <id>https://github.com/dineshsonachalam/Lucid-Dynamodb</id>
+        <link href="https://github.com/dineshsonachalam/Lucid-Dynamodb"/>
+        <updated>2021-05-30T16:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Best Open Source AI Libraries You May Not Have Heard Of]]></title>
+        <id>https://dzone.com/articles/3125030</id>
+        <link href="https://dzone.com/articles/the-7-best-open-source-ai-libraries-you-may-not-ha"/>
+        <updated>2021-05-30T16:15:52.000Z</updated>
+        <summary type="html"><![CDATA[It's easy to get pulled into using popular platforms like TensorFlow and PyTorch, but there are a number of other great open-source resources that can help you in your AI research.
+The truth is there is so much interesting work and so many brilliant new tools being developed on a daily basis in open-source artificial intelligence. It can be difficult to keep up with the ever-accelerating developments in AI and deep learning.]]></summary>
+        <author>
+            <name>Kevin Vu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overkill objects for everyday life]]></title>
+        <id>https://neil.computer/notes/overkill-objects-for-everyday-life/</id>
+        <link href="https://neil.computer/notes/overkill-objects-for-everyday-life/"/>
+        <updated>2021-05-30T16:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra: Low-level system programming language meta-programmed from Lua]]></title>
+        <id>https://terralang.org/</id>
+        <link href="https://terralang.org/"/>
+        <updated>2021-05-30T15:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kustomize: A Tool for Kubernetes Configuration Management]]></title>
+        <id>https://dzone.com/articles/3126613</id>
+        <link href="https://dzone.com/articles/kustomize-a-tool-for-kubernetes-configuration-mana"/>
+        <updated>2021-05-30T15:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes (k8s) is an increasingly popular container orchestration platform. With that popularity has grown an ecosystem of tools and frameworks. One such tool is Kustomize.
+K8s desired states are declaratively described in resource description files such as deployment, services, configmaps, secrets, etc. As we vary the environments from dev to QA to prod these configurations to change. The database may change from an embedded H2 in dev to a MariaDB in QA to Oracle in prod, the amount of allocated memory for a container may change, secrets of user rid and password for the database may also change. Managing all these varying YAML files of deployment, services, etc. per environment can be quite a chore. Configuration management tools maintain consistency across these environments.]]></summary>
+        <author>
+            <name>Taruvai Subramaniam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime inflates prices, using the false promise of ‘free shipping’]]></title>
+        <id>https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise</id>
+        <link href="https://mattstoller.substack.com/p/amazon-primes-free-shipping-promise"/>
+        <updated>2021-05-30T15:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Huawei ML Kit Image Classification in Flutter]]></title>
+        <id>https://dzone.com/articles/3126862</id>
+        <link href="https://dzone.com/articles/intermediate-how-to-integrate-image-classification"/>
+        <updated>2021-05-30T15:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+In this article, we will learn how to implement the Image Classification feature in a Flutter application. Image classification uses the transfer learning algorithm to perform multi-level learning training. Huawei ML Kit provides many useful machine learning-related features to developers, and one of them is Image Classification.
+About Image Classification
+Image classification is one of the features of the HMS ML Kit. Through this service, we can classify the objects in images. This service analyses an image, classifies it into possible categories in the real world, like people, animals, objects, etc. and it returns the recognized results.]]></summary>
+        <author>
+            <name>Irene Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kalk, A calculator with math syntax, complex numbers]]></title>
+        <id>https://kalk.strct.net</id>
+        <link href="https://kalk.strct.net"/>
+        <updated>2021-05-30T15:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Raspberry Pi Streaming: How to Install the Steam Link App For Raspberry Pi]]></title>
+        <id>https://dzone.com/articles/3122919</id>
+        <link href="https://dzone.com/articles/how-to-install-steam-link-on-the-raspberry-pi"/>
+        <updated>2021-05-30T14:58:45.000Z</updated>
+        <summary type="html"><![CDATA[While loads of digital video game vendors exist, Valve reigns supreme as arguably the most popular. Its Steam Link hardware debuted in 2015 as a means of streaming Steam games from a PC over a home network. This in-home streaming feature allowed for playing video games on a TV or projector for a console experience with PC gaming. However, in 2018, Valve halted production of the Steam Link. Alternatives such as the third-party Moonlight or Parsec for game streaming exist. But Valve released its own Steam Link app for Android, as well as the Raspberry Pi 3. Learn how to install the Steam Link app for Steam streaming on the Raspberry Pi 4, 3, or 3 B+ for the ultimate Raspberry Pi gaming build!
+Steam Box Raspberry Pi Set Up: What You'll Need]]></summary>
+        <author>
+            <name>Moe Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Criticism to Fuel Your Growth]]></title>
+        <id>https://dzone.com/articles/3126043</id>
+        <link href="https://dzone.com/articles/how-to-use-criticism-to-fuel-your-growth"/>
+        <updated>2021-05-30T14:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Doling out advice, hurling negative comments, passing mean remarks – we have all done it. Given an opportunity, it’s easy to assume the role of an expert and tell others how wrong they are, why their product isn’t good enough, why their idea will never work, how they should behave, what they should do. Why seek permission when we feel right in our criticism?
+Now let’s turn this around. Are your critics telling you the blunt facts you need to hear? Think for a moment about how you feel when you are on the receiving end of this criticism – angry, defensive, resentful, frustrated, sad, maybe even a little bit devastated.]]></summary>
+        <author>
+            <name>Vinita Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Google BigQuery]]></title>
+        <id>https://dzone.com/articles/3128012</id>
+        <link href="https://dzone.com/articles/introduction-to-google-bigquery"/>
+        <updated>2021-05-30T14:14:06.000Z</updated>
+        <summary type="html"><![CDATA[It is incredible to see how much businesses rely on data today. 80% of business operations are running in the cloud, and almost 100% of business-related data and documents are now stored digitally. In the 1960s, money made the world go around but in today’s markets, “Information is the oil of the 21st century, and analytics is the combustion engine.” (Peter Sondergaard, 2011)
+Data helps businesses gain a better understanding of processes, improve resource usage, and reduce waste; in essence, data is a significant driver to boosting business efficiency and profitability.]]></summary>
+        <author>
+            <name>Mauricio Ashimine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drunk Post: Things I've Learned as a Sr Engineer]]></title>
+        <id>https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/</id>
+        <link href="https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/"/>
+        <updated>2021-05-30T13:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Wide-Spread Stakeholder Failures in 6:05 Minutes]]></title>
+        <id>https://dzone.com/articles/3123952</id>
+        <link href="https://dzone.com/articles/three-wide-spread-stakeholder-failures-in-605-minu"/>
+        <updated>2021-05-30T13:51:56.000Z</updated>
+        <summary type="html"><![CDATA[There are plenty of Scrum stakeholder failures. Given that Scrum is a framework with a precise and concise yet short “manual,” this effect should not surprise anyone. While the Scrum Guide makes numerous references to stakeholders in Scrum, stakeholders themselves are no official role (accountability), no matter their crucial contribution to a Scrum team’s overall success.
+Explore with me three widespread examples of how stakeholders fail their Scrum teams in three short video clips, totaling 6 minutes and 5 seconds.]]></summary>
+        <author>
+            <name>Stefan Wolpers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creator of Rufus outlines the problems with Microsoft's UWP]]></title>
+        <id>https://github.com/pbatard/rufus/issues/1617</id>
+        <link href="https://github.com/pbatard/rufus/issues/1617"/>
+        <updated>2021-05-30T13:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drones may have attacked humans fully autonomously for the first time]]></title>
+        <id>https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/</id>
+        <link href="https://nypost.com/2021/05/29/killer-drone-hunted-down-a-human-target-without-being-told-to/"/>
+        <updated>2021-05-30T13:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js and Symfony Forms]]></title>
+        <id>https://dzone.com/articles/3124730</id>
+        <link href="https://dzone.com/articles/vuejs-and-symfony-forms"/>
+        <updated>2021-05-30T03:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Symfony provides us the symfony/form package which makes the handling of rendering and submitting forms easier than ever. Soon this will become even easier with the new “Form handler helper”, but that’s not the point here.
+What annoyed me when I first started working with Vue.js was the fact that I pretty much like the need to say “goodbye” to the forms rendering directly in the Twig (which is very handy).]]></summary>
+        <author>
+            <name>Dariusz Włodarczyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Request Management for Software Development Projects]]></title>
+        <id>https://dzone.com/articles/3122918</id>
+        <link href="https://dzone.com/articles/feature-request-management-for-software-developmen"/>
+        <updated>2021-05-30T03:19:59.000Z</updated>
+        <summary type="html"><![CDATA[More and more software development teams are switching from the traditional Waterfall approach to Agile project management. Agile helps teams to become more flexible and adaptive which is essential for staying competitive in today’s business environment where customer needs are constantly changing and evolving. But what exactly do we mean by being “more flexible and adaptive?”
+Request Management: Product Increments
+Let’s imagine a team that is working on a software product. The product is going to be released in several versions, and the Product Manager creates a roadmap to plan the timeline for these releases (please see the picture below). Each release itself can be broken down into smaller chunks of work that are usually called product increments and form a Sprint (typically 2-4 weeks long).]]></summary>
+        <author>
+            <name>Maria Dunaeva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Sort Wisely]]></title>
+        <id>https://dzone.com/articles/3124671</id>
+        <link href="https://dzone.com/articles/5-ways-to-sort-wisely"/>
+        <updated>2021-05-30T02:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Hey to everyone! I guess you all did sorting at least once. I also guess that everyone knows a sorting called "Bubble," cause it is the easiest and most popular. But when it comes to time and your memory, what will you do?
+Imagine a situation. You have a mass that contains about 10^100 elements. Is it still good to use bubble sorting? Just imagine checking every element... and not once. It is not so difficult to count how many operations it is and how much time it takes.]]></summary>
+        <author>
+            <name>Yuri Filatov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying Containerized Apps on AWS? EKS vs. ECS For Workload Deployment]]></title>
+        <id>https://dzone.com/articles/3123674</id>
+        <link href="https://dzone.com/articles/deploying-containerized-apps-on-aws-in-this-articl"/>
+        <updated>2021-05-30T02:44:35.000Z</updated>
+        <summary type="html"><![CDATA[A Little Foreword
+In order to bridge the gap of delivering products quickly, all organizations are shifting the base architectural design patterns to distributed system architecture. It's kind of common practice to either bootstrap or transition the existing applications to containerized or server-less architectures.
+Managing clustered applications can soon become an overhead when the organization scale and hence increases a dire need for a platform that can support automation of all the tasks related to management, deployment, scaling of these clusters.]]></summary>
+        <author>
+            <name>Deeptesh Bhattacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s Happening to Low-Code?]]></title>
+        <id>https://dzone.com/articles/3123703</id>
+        <link href="https://dzone.com/articles/whats-happening-to-low-code"/>
+        <updated>2021-05-30T02:01:57.000Z</updated>
+        <summary type="html"><![CDATA[It was only a handful of years ago that the low-code story was innocently simple. Instead of coding software line-by-line by hand, use a low-code tool that provided visual abstractions that enabled developers to shortcut the hand-coding process by dragging and dropping tasks onto workflows, widgets onto screens, and the like.
+Then along came no-code. The contrast between the two approaches was clear. Low-code targeted professional developers, simplifying their work by taking ‘plumbing’ tasks off their plate, while also facilitating collaboration with business stakeholders.]]></summary>
+        <author>
+            <name>Jason Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Real-Time Cost Alerts in Kubernetes With Kubecost]]></title>
+        <id>https://dzone.com/articles/3122845</id>
+        <link href="https://dzone.com/articles/how-to-set-real-time-cost-alerts-in-kubernetes"/>
+        <updated>2021-05-30T01:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Engineering teams can scale their Kubernetes costs and burn their budget with the same ease by which they scale their infrastructure. Thanks to Kubecost's real-time alerting, the risk of upsetting the finance team can be mitigated. Kubernetes is well-known for its ability to help scale applications rapidly and with ease, but this ability comes with some tradeoffs. Before Kubernetes, teams had to follow a more deliberate procurement approval process to change the capacity allocation. Today, that scaling process has been democratized, and teams can easily scale their clusters up or down.
+With the ability to create more frequent changes to infrastructure resources come more opportunities to misallocate and over-allocate costly resources. In this model, technical teams can far exceed their expense budget without even realizing it, while financial managers would only notice it after the fact leading to avoidable organizational stress. So, how do you stay on top of your Kubernetes spending if your resources change daily?]]></summary>
+        <author>
+            <name>Webb Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industries That Need a High Performing Low Latency Distributed Database]]></title>
+        <id>https://dzone.com/articles/3123704</id>
+        <link href="https://dzone.com/articles/industries-that-need-a-high-performing-low-latency"/>
+        <updated>2021-05-30T01:23:41.000Z</updated>
+        <summary type="html"><![CDATA[There are certain industries that greatly benefit from high-performing, low-latency, geo-distributed technologies, while other organizations might be more focused on vertically scaling architectures. This is dependent on numerous factors including the data pipeline, network, data structure, type of product or solution, short and long-term goals, etc. While there are currently many databases and tools that provide vertical scaling capabilities, there are not many that focus on horizontal scaling -- but there’s still a need for both.
+Latency
+Before jumping into specific industries that benefit from high-performing, low-latency, geo-distributed databases (it’s a mouthful, I know), let’s define a few terms here. High-performing is pretty self-explanatory so I’ll skip over that one. For the next term, I’ll refer to my colleague Jacob Cohen’s blog on Geo-Distributed Databases. Latency generally measures the duration between an action and a response. In user-facing applications, that can be narrowed down to the delay between when a user makes a request and when the application responds to a request. So, technologies that enable low latency usually improve performance and response times, leading to improved user experience and cost savings.]]></summary>
+        <author>
+            <name>Margo McCabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Software Visualization]]></title>
+        <id>https://dzone.com/articles/3124714</id>
+        <link href="https://dzone.com/articles/the-power-of-software-visualization"/>
+        <updated>2021-05-30T01:10:37.000Z</updated>
+        <summary type="html"><![CDATA[I thought I’d use our new 3D city view visualizations to have a closer look at Apache-Cassandra, a very popular and successful open source project that implements a NoSQL database. I know from previous analysis runs of the same software that it already had problems with structural erosion. Years ago I analyzed Cassandra 1.2.6 and found pretty big cycle groups for Java files as well as for packages. The maintainability level was only 9.4% (everything under 50% is concerning) while the metric “Propagation Cost” has a value of 62%. That means that every change will affect 62% of all code directly or indirectly which also is not a good thing because it significantly increases the chance of regression bugs.
+477 Java files form this big ball of mud in Apache-Cassandra 1.2.6]]></summary>
+        <author>
+            <name>Alexander Von Zitzewitz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Standalone Runtime Server in Mule 4]]></title>
         <id>https://dzone.com/articles/3124715</id>
@@ -400,10 +868,50 @@ Since TypeScript 3.4, we’ve been able to use the as const notation for creatin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cornell and NTT’s Physical Neural Nets Enable Arbitrary Physical System Training]]></title>
+        <id>https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/</id>
+        <link href="https://syncedreview.com/2021/05/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-28/"/>
+        <updated>2021-05-29T13:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantization and Deployment of Deep Neural Networks on Microcontrollers]]></title>
+        <id>https://www.mdpi.com/1424-8220/21/9/2984/htm</id>
+        <link href="https://www.mdpi.com/1424-8220/21/9/2984/htm"/>
+        <updated>2021-05-29T12:35:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google made it nearly impossible for users to keep their location private]]></title>
         <id>https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5</id>
         <link href="https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5"/>
         <updated>2021-05-29T12:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poe’s best-selling book during his lifetime was a guide to seashells]]></title>
+        <id>https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book</id>
+        <link href="https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book"/>
+        <updated>2021-05-29T11:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TeXMe – Create self-rendering Markdown + LaTeX documents]]></title>
+        <id>https://github.com/susam/texme</id>
+        <link href="https://github.com/susam/texme"/>
+        <updated>2021-05-29T11:02:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -444,6 +952,16 @@ Since TypeScript 3.4, we’ve been able to use the as const notation for creatin
         <id>https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter</id>
         <link href="https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter"/>
         <updated>2021-05-29T10:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese bookstore simulator translated into English after 24 years]]></title>
+        <id>https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/</id>
+        <link href="https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/"/>
+        <updated>2021-05-29T08:01:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
