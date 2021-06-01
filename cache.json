@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1790,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 987,
+          "title": "Local: Always Getting Better"
+        },
+        {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -489,6 +507,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
+          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "publishedOn": "2021-05-31T11:30:00.000Z",
+          "wordCount": 2490,
+          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
@@ -1385,6 +1417,33 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3127123",
+          "author": "Sophie Zoria",
+          "description": "COVID-19 Boosts Tech Innovations \nCOVID-19 has shaken the world to its core. Societies are disrupted, countries are under lockdowns, and many people are confused. Although this may sound like some sort of sci-fi, this is the current reality. However, just like any type of crisis, it forced people to develop means of dealing with the issue.\nThe virus took its toll on the life of society but technologies have experienced an unprecedented boost in development. After all, COVID-19 showed that society is highly relying on technologies to maintain its functions. As a result, now we can enjoy robot and drone deliveries, telehealth solutions, AI-powered services, and VR/AR — everything powered by the Internet. Here we will take a look at the top 7 tech innovations to watch during the pandemic.",
+          "link": "https://dzone.com/articles/top-7-tech-trends-to-watch-in-the-covid-19-pandemi",
+          "publishedOn": "2021-05-31T22:44:42.000Z",
+          "wordCount": 1266,
+          "title": "Top 7 Tech Trends to Watch in the COVID-19 Pandemic"
+        },
+        {
+          "id": "https://dzone.com/articles/3128141",
+          "author": "Sudip Sengupta",
+          "description": "CockroachDB is a cloud-native SQL database that features both scalability and consistency. The database is designed to withstand data center failures by deploying multiple instances of symmetric nodes in a cluster consisting of several machines, disks, and data centers. Kubernetes’ built-in capabilities to scale and survive node failures make it well suited to orchestrate CockroachDB’s databases. This is particularly for the reason that Kubernetes simplifies cluster management and helps maintain high-availability by replicating data across independent nodes. \nThis guide focuses on how OpenEBS LocalPV devices can be used to persist storage for Kubernetes-Hosted CockroachDB clusters.",
+          "link": "https://dzone.com/articles/deploying-cockroachdb-on-kubernetes-using-openebs",
+          "publishedOn": "2021-05-31T14:31:21.000Z",
+          "wordCount": 1290,
+          "title": "Deploying CockroachDB on Kubernetes using OpenEBS LocalPV"
+        },
+        {
+          "id": "https://dzone.com/articles/3126184",
+          "author": "Eric D. Schabell",
+          "description": "In our previous article from this series shared a look at the logical common architectural elements found in a real-time stock control solution for retail organisations.\nThe process was laid out how we've approached the use case and how portfolio solutions are the base for researching a generic architectural blueprint.",
+          "link": "https://dzone.com/articles/real-time-stock-control-example-stock-control-arch",
+          "publishedOn": "2021-05-31T12:20:18.000Z",
+          "wordCount": 948,
+          "title": "Real-time stock control - Example stock control architecture"
+        },
         {
           "id": "https://dzone.com/articles/3123341",
           "author": "shaoyang liu",
@@ -4417,6 +4476,249 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
+          "publishedOn": "2021-06-01T01:03:43.000Z",
+          "wordCount": 8836,
+          "title": "The Anxiety of Influencers"
+        },
+        {
+          "id": "https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time",
+          "publishedOn": "2021-06-01T00:11:51.000Z",
+          "wordCount": 1124,
+          "title": "Chinese ‘Artificial Sun’ experimental fusion reactor sets world record"
+        },
+        {
+          "id": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
+          "publishedOn": "2021-05-31T20:35:20.000Z",
+          "wordCount": 1693,
+          "title": "Sodium rutin extends lifespan and health span in mice by 10%"
+        },
+        {
+          "id": "https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html",
+          "publishedOn": "2021-05-31T19:16:54.000Z",
+          "wordCount": 1789,
+          "title": "The Digital Wallet of the Future (1996)"
+        },
+        {
+          "id": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
+          "publishedOn": "2021-05-31T18:50:23.000Z",
+          "wordCount": 38340,
+          "title": "The May 18 Gwangju Uprising"
+        },
+        {
+          "id": "https://annagat.substack.com/p/on-smoking",
+          "author": null,
+          "description": "Comments",
+          "link": "https://annagat.substack.com/p/on-smoking",
+          "publishedOn": "2021-05-31T18:50:07.000Z",
+          "wordCount": 637,
+          "title": "On Smoking"
+        },
+        {
+          "id": "https://tomcritchlow.com/2018/02/23/small-b-blogging/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tomcritchlow.com/2018/02/23/small-b-blogging/",
+          "publishedOn": "2021-05-31T18:49:31.000Z",
+          "wordCount": 1544,
+          "title": "Small B Blogging (2018)"
+        },
+        {
+          "id": "https://andersource.dev/2021/04/29/faulty_digital_clock.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://andersource.dev/2021/04/29/faulty_digital_clock.html",
+          "publishedOn": "2021-05-31T18:02:17.000Z",
+          "wordCount": 1149,
+          "title": "The faulty digital clock problem"
+        },
+        {
+          "id": "https://www.dragongoserver.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dragongoserver.net/",
+          "publishedOn": "2021-05-31T17:42:05.000Z",
+          "wordCount": 68,
+          "title": "Dragon Go Server"
+        },
+        {
+          "id": "https://www.sfwriter.com/wordstar.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sfwriter.com/wordstar.htm",
+          "publishedOn": "2021-05-31T16:53:16.000Z",
+          "wordCount": 3343,
+          "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
+        },
+        {
+          "id": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
+          "publishedOn": "2021-05-31T16:38:04.000Z",
+          "wordCount": 2192,
+          "title": "UUID, serial or identity columns for PostgreSQL auto-generated primary keys?"
+        },
+        {
+          "id": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
+          "author": null,
+          "description": "Comments",
+          "link": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
+          "publishedOn": "2021-05-31T16:34:16.000Z",
+          "wordCount": 2828,
+          "title": "The most expensive number in engineering"
+        },
+        {
+          "id": "https://www.elopezr.com/a-macro-view-of-nanite/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.elopezr.com/a-macro-view-of-nanite/",
+          "publishedOn": "2021-05-31T16:04:36.000Z",
+          "wordCount": 2489,
+          "title": "A Macro View of Nanite"
+        },
+        {
+          "id": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
+          "publishedOn": "2021-05-31T15:35:18.000Z",
+          "wordCount": 1505,
+          "title": "We only ever talk about the third attack on Pearl Harbor"
+        },
+        {
+          "id": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
+          "publishedOn": "2021-05-31T15:25:59.000Z",
+          "wordCount": 2013,
+          "title": "Donating my time to grow a VC-funded company: why I quit mentoring at Plato"
+        },
+        {
+          "id": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
+          "publishedOn": "2021-05-31T14:53:15.000Z",
+          "wordCount": 1436,
+          "title": "PostGIS at 20, the Beginning"
+        },
+        {
+          "id": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
+          "publishedOn": "2021-05-31T14:50:03.000Z",
+          "wordCount": 1050,
+          "title": "Google’s new popup will further weaken Facebook’s advertisement business"
+        },
+        {
+          "id": "http://wordtsar.ca/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://wordtsar.ca/",
+          "publishedOn": "2021-05-31T14:32:16.000Z",
+          "wordCount": 1342,
+          "title": "WordTsar, a WordStar Clone"
+        },
+        {
+          "id": "https://observablehq.com/@tomlarkworthy/sign-a-pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://observablehq.com/@tomlarkworthy/sign-a-pdf",
+          "publishedOn": "2021-05-31T13:51:37.000Z",
+          "wordCount": 15,
+          "title": "Sign a PDF document client-side with no data leaving the computer"
+        },
+        {
+          "id": "https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40",
+          "publishedOn": "2021-05-31T13:47:02.000Z",
+          "wordCount": 3296,
+          "title": "Rethinking the computer ‘desktop’ as a concept"
+        },
+        {
+          "id": "https://people.ohio.edu/postr/bapix/HLegacy.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://people.ohio.edu/postr/bapix/HLegacy.htm",
+          "publishedOn": "2021-05-31T12:58:29.000Z",
+          "wordCount": 4324,
+          "title": "The Heathkit Legacy (2013)"
+        },
+        {
+          "id": "https://www.gwern.net/docs/cs/2007-drepper.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gwern.net/docs/cs/2007-drepper.pdf",
+          "publishedOn": "2021-05-31T12:56:58.000Z",
+          "wordCount": 19525,
+          "title": "What every programmer should know about memory [pdf]"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s",
+          "publishedOn": "2021-05-31T12:01:51.000Z",
+          "wordCount": 2823,
+          "title": "How the Commodore Amiga powered cable systems in the 90s"
+        },
+        {
+          "id": "https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true",
+          "publishedOn": "2021-05-31T11:10:13.000Z",
+          "wordCount": 2230,
+          "title": "Chinese paddlefish, one of the world's largest fish, declared extinct"
+        },
+        {
+          "id": "https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/",
+          "publishedOn": "2021-05-31T10:30:27.000Z",
+          "wordCount": 3080,
+          "title": "Neural networks emulate any guitar pedal for $120"
+        },
+        {
+          "id": "https://unherd.com/2021/05/what-oxford-taught-me-about-posh-people/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unherd.com/2021/05/what-oxford-taught-me-about-posh-people/",
+          "publishedOn": "2021-05-31T09:42:10.000Z",
+          "wordCount": 3043,
+          "title": "What Oxford taught me about posh people"
+        },
+        {
+          "id": "https://www.willusher.io/graphics/2020/12/20/rt-dive-m1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.willusher.io/graphics/2020/12/20/rt-dive-m1",
+          "publishedOn": "2021-05-31T05:39:50.000Z",
+          "wordCount": 3550,
+          "title": "A Dive into Ray Tracing Performance on the Apple M1"
+        },
+        {
           "id": "https://www.washingtonpost.com/technology/2021/05/28/facebook-palestinian-censorship/",
           "author": null,
           "description": "Comments",
@@ -4631,6 +4933,24 @@
           "publishedOn": "2021-05-30T13:24:21.000Z",
           "wordCount": 1134,
           "title": "Drones may have attacked humans fully autonomously for the first time"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/05/30/arts/bacteria-cleaning-michelangelo-medici-restoration.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/05/30/arts/bacteria-cleaning-michelangelo-medici-restoration.html",
+          "publishedOn": "2021-05-30T12:52:05.000Z",
+          "wordCount": 1700,
+          "title": "Send in the bugs, the Michelangelos need cleaning"
+        },
+        {
+          "id": "https://thewalrus.ca/what-we-lose-when-literary-criticism-ends/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thewalrus.ca/what-we-lose-when-literary-criticism-ends/",
+          "publishedOn": "2021-05-30T12:35:12.000Z",
+          "wordCount": 3001,
+          "title": "What we lose when literary criticism ends"
         },
         {
           "id": "https://orhun.dev/blog/introducing-gpg-tui/",
