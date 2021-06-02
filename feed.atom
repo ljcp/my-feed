@@ -2,10 +2,714 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:30:20.588Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T01:39:36.749Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers increase life expectancy of mice 30%, uncover key aging mechanism]]></title>
+        <id>https://medlifestyle.news/2021/06/01/sirt6-increase-life-expectancy/</id>
+        <link href="https://medlifestyle.news/2021/06/01/sirt6-increase-life-expectancy/"/>
+        <updated>2021-06-02T00:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Streams in Action (Part 2): Tweets Consumer App]]></title>
+        <id>https://dzone.com/articles/3128146</id>
+        <link href="https://dzone.com/articles/redis-streams-in-action-part-2-tweets-consumer-app"/>
+        <updated>2021-06-01T23:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this series of blog posts that covers Redis Streams with the help of a practical example. We will use a sample application to make Twitter data available for search and query in real-time. RediSearch and Redis Streams serve as the backbone of this solution that consists of several co-operating components, each of which will be covered in a dedicated blog post.
+The code is available in this GitHub repo - https://github.com/abhirockzz/redis-streams-in-action]]></summary>
+        <author>
+            <name>Abhishek Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Cup of Rust]]></title>
+        <id>https://dzone.com/articles/3128081</id>
+        <link href="https://dzone.com/articles/my-first-cup-of-rust"/>
+        <updated>2021-06-01T23:11:11.000Z</updated>
+        <summary type="html"><![CDATA[It all started with an informal chat with my friend Anthony. We were talking about languages, and I said that I preferred compiled ones. He then went on to mention Rust. We admitted that we were too afraid to learn it because of its perceived complexity.
+After the chat, I thought about it, and I wondered why I didn't check by myself. I did. And I became interested.]]></summary>
+        <author>
+            <name>Nicolas Fränkel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid deaths plunge after 75% of town's adults vaccinated]]></title>
+        <id>https://www.bbc.com/news/world-latin-america-57309538</id>
+        <link href="https://www.bbc.com/news/world-latin-america-57309538"/>
+        <updated>2021-06-01T22:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-Memory Showdown: Redis vs. Tarantool]]></title>
+        <id>https://dzone.com/articles/3127014</id>
+        <link href="https://dzone.com/articles/in-memory-showdown-redis-vs-tarantool-1"/>
+        <updated>2021-06-01T22:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Preface
+In this article, I am going to look at Redis versus Tarantool. At a first glance, they are quite alike — in-memory, NoSQL, key value. But we are going to look deeper. My goal is to find meaningful similarities and differences, I am not going to claim that one is better than the other.
+There are three main parts to my story:]]></summary>
+        <author>
+            <name>Michael Filonenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses]]></title>
+        <id>https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/</id>
+        <link href="https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/"/>
+        <updated>2021-06-01T22:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code blocks, but better]]></title>
+        <id>https://css-tricks.com/?p=341720</id>
+        <link href="https://ped.ro/blog/code-blocks-but-better"/>
+        <updated>2021-06-01T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
+The post Code blocks, but better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY Book Scanner]]></title>
+        <id>https://www.diybookscanner.org/</id>
+        <link href="https://www.diybookscanner.org/"/>
+        <updated>2021-06-01T21:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-Demand Software Release With Agility]]></title>
+        <id>https://dzone.com/articles/3124831</id>
+        <link href="https://dzone.com/articles/on-demand-software-release-with-agility"/>
+        <updated>2021-06-01T21:29:26.000Z</updated>
+        <summary type="html"><![CDATA[If your business is customer-centric and cares the most about changing customer demands in today’s competitive market, then probably your tech organization has to think about its strategies for its release model for all the software deliveries. On-demand releases become a trend in the last 5 years, where some of the popular tech companies started this model to increase their product usage and target a high volume of diverse customers with diverse product needs.
+What’s an On-Demand Software Release?
+On-demand releases are nothing but small incremental product features deployed in the production environment frequently as a part of continuous integration in an automated way following strict agile methodology.]]></summary>
+        <author>
+            <name>Mayur Jagtap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Level up your poker game with Floptimal. Preflop ranges reimagined]]></title>
+        <id>https://floptimal.com</id>
+        <link href="https://floptimal.com"/>
+        <updated>2021-06-01T21:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signadot (YC W20) Is Hiring Founding Engineers]]></title>
+        <id>https://www.workatastartup.com/jobs/42298</id>
+        <link href="https://www.workatastartup.com/jobs/42298"/>
+        <updated>2021-06-01T21:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
+        <id>60b1eed311ffb70827ef9504</id>
+        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
+        <updated>2021-06-01T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast JMS for Apache Pulsar: Modernize and Reduce Costs with Blazing Performance]]></title>
+        <id>https://dzone.com/articles/3127943</id>
+        <link href="https://dzone.com/articles/fast-jms-for-apache-pulsar-modernize-and-reduce-co"/>
+        <updated>2021-06-01T20:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Written by: Chris Bartholomew
+DataStax recently announced the availability of Fast JMS for Apache Pulsar, a JMS 2.0 API. By combining the industry-standard Java Messaging Service (JMS) API with the cloud-native and horizontally scalable Apache Pulsar™ streaming platform, DataStax is providing a powerful way to modernize your JMS infrastructure, improve performance, and reduce costs. Fast JMS is open source and is included in DataStax’s Luna Streaming Enterprise support of Apache Pulsar.]]></summary>
+        <author>
+            <name>Pieter Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Secure and Formally Verified Linux KVM Hypervisor [pdf]]]></title>
+        <id>http://nieh.net/pubs/ieeesp2021_kvm.pdf</id>
+        <link href="http://nieh.net/pubs/ieeesp2021_kvm.pdf"/>
+        <updated>2021-06-01T20:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Terminal over Web Sockets and SignalR]]></title>
+        <id>https://dzone.com/articles/3128223</id>
+        <link href="https://dzone.com/articles/magic-terminal-over-web-sockets-and-signalr"/>
+        <updated>2021-06-01T19:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Web based terminal access is one of those crucial components to have if you truly want to build your own DIY cloud system. The first time I came to appreciate web terminals, was with Digital Ocean's droplets, which gave me a web based terminal, allowing me to directly modify my server any ways I saw fit through my browser. Golly gosh that was a najs day.
+With a web terminal, you've got all of these features "for free."]]></summary>
+        <author>
+            <name>Thomas Hansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio 27.0]]></title>
+        <id>https://github.com/obsproject/obs-studio/releases/tag/27.0.0</id>
+        <link href="https://github.com/obsproject/obs-studio/releases/tag/27.0.0"/>
+        <updated>2021-06-01T19:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Tools to Use on an On-Prem Kubernetes Cluster]]></title>
+        <id>https://dzone.com/articles/3123950</id>
+        <link href="https://dzone.com/articles/open-source-tools-you-should-use-on-an-on-prem-kub"/>
+        <updated>2021-06-01T19:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has dramatically shifted the trade-offs of on-prem versus SaaS deployments. Thanks to the rich abstractions Kubernetes provides, deploying software on-premises can be significantly easier than it used to be. Because Kubernetes has achieved such high market penetration (and still growing), it is now a viable target environment for many software products. Nevertheless, Kubernetes requires external tools to be production ready, especially on an on-prem deployment.
+The purpose of this article is to list tools that everyone should be aware of when it’s time to move an on-prem Kubernetes cluster to production, and by on-prem, we mean not in a cloud environment. In the cloud, it is obviously better to rely on cloud services offered by the provider.]]></summary>
+        <author>
+            <name>Hicham Bouissoumer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypothetical Indexes in PostgreSQL]]></title>
+        <id>https://dzone.com/articles/3127635</id>
+        <link href="https://dzone.com/articles/hypothetical-indexes-in-postgresql-need-and-usage"/>
+        <updated>2021-06-01T19:29:12.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we will first cover what are hypothetical indexes and what is needed for these types of indexes. Secondly, we shall see the practical usage of these indexes. 
+Need of Hypothetical Indexes:
+As the name suggests, these are not real indexes, these are hypothetical indexes i.e. they are virtual indexes that PostgreSQL query planner does not consider when running queries.]]></summary>
+        <author>
+            <name>Sahil Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[William Byrd on logic and relational programming, miniKanren (2014)]]></title>
+        <id>https://www.infoq.com/interviews/byrd-relational-programming-minikanren/</id>
+        <link href="https://www.infoq.com/interviews/byrd-relational-programming-minikanren/"/>
+        <updated>2021-06-01T19:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple M1 compiles Linux 30% faster than my Intel i9]]></title>
+        <id>https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9</id>
+        <link href="https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9"/>
+        <updated>2021-06-01T19:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs"/>
+        <updated>2021-06-01T18:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Check Tuya Library in Arduino IDE]]></title>
+        <id>https://dzone.com/articles/3122729</id>
+        <link href="https://dzone.com/articles/how-to-check-tuya-library-in-arduino-ide"/>
+        <updated>2021-06-01T18:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Hello there! I'm a newbie here, but I have a great love for Arduino and smart devices. I have tried a lot of types of devices using the same app (smart life) and tuya cloud. Officials say there are more than 200,000 SKUs; well I think they are quite cheap and widely distributed. However, it is hard to connect Arduino with Tuya cloud.
+The Arduino support team answered my question and provided the support and demos. To make a long story short, the steps they gave me might be helpful for you:]]></summary>
+        <author>
+            <name>Leo O</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best practices around creating production ready web apps with Docker Compose]]></title>
+        <id>https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose</id>
+        <link href="https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose"/>
+        <updated>2021-06-01T18:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top SRE Toolchain Used by Site Reliability Engineers]]></title>
+        <id>https://dzone.com/articles/3124611</id>
+        <link href="https://dzone.com/articles/top-sre-toolchain-used-by-site-reliability-enginee"/>
+        <updated>2021-06-01T18:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Site reliability engineering (SRE) practices help organizations by ensuring the smooth functioning of their deliverables with utmost reliability and resilience. These can be achieved by a set of well-defined tools that are deployed at every phase of the production system to keep up with SRE best practices.
+This blog identifies and lists the chain of top SRE tools and their significance towards ensuring the reliability of the architecture.]]></summary>
+        <author>
+            <name>Biju Chacko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light-shrinking material lets ordinary microscope see in super resolution]]></title>
+        <id>https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html</id>
+        <link href="https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html"/>
+        <updated>2021-06-01T18:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build IoT-based Smart Parking App]]></title>
+        <id>https://dzone.com/articles/3124692</id>
+        <link href="https://dzone.com/articles/how-to-build-iot-based-smart-parking-app"/>
+        <updated>2021-06-01T17:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Smart parking development implies an IoT-based system that sends data about free and occupied parking places via web/mobile applications. The IoT device, including sensors and microcontrollers, is located in each parking place. The user receives a live update about the availability of all parking places and chooses the best one.
+In order to investigate the technologies behind the smart parking solution, we implemented an internal research project. The main idea was the creation of smart parking using the Internet of Things and ultrasonic sensors, where available parking places could be displayed in a web application.]]></summary>
+        <author>
+            <name>Serge Koba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix: a post-modern modal text editor]]></title>
+        <id>https://helix-editor.com/</id>
+        <link href="https://helix-editor.com/"/>
+        <updated>2021-06-01T17:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Visual Testing With Robot Framework]]></title>
+        <id>https://dzone.com/articles/3126121</id>
+        <link href="https://dzone.com/articles/automated-visual-testing-with-robot-framework"/>
+        <updated>2021-06-01T17:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A common problem when automating tests are tests which require a visual comparison to a previous state. This can be a very time consuming task when you need to execute many of these testing tasks. But not anymore, the Robot Framework DocTest library comes to the rescue!
+1. Introduction
+Even if you do not know what Robot Framework is, it is really worth the effort to continue reading. The DocTest library might save you a lot of testing time, but it requires some knowledge of Robot Framework. In case you do not know what Robot Framework is, read some of the previous posts in order to get a good introduction.]]></summary>
+        <author>
+            <name>Gunter Rotsaert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js and Make React Development Simpler]]></title>
+        <id>60b668c0acb62507dd1d710b</id>
+        <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
+        <updated>2021-06-01T17:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Achieve Higher Testing Maturity]]></title>
+        <id>https://dzone.com/articles/3124628</id>
+        <link href="https://dzone.com/articles/how-to-achieve-higher-testing-maturity"/>
+        <updated>2021-06-01T17:36:46.000Z</updated>
+        <summary type="html"><![CDATA[What Is Testing Maturity?
+The software testing process is an ever-shifting entity. It has to keep changing to accommodate changing requirements, device-browser-OS releases, and numerous other factors that show up with increasing frequency. Inability to change will cause the pipeline to stagnate and roll out software that doesn’t match current performance and design standards.
+Testing Maturity designates the extent to which the process is optimized and formalized to accept and incorporate changes. This ranges from ad-hoc practices, formally established stages, result metrics, and optimization efforts on each level. Testing Maturity reveals how well the process is shaped, measured, managed, monitored and the results it yields.]]></summary>
+        <author>
+            <name>Nirnai Nevrekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Force MFA for AWS IAM Users]]></title>
+        <id>https://dzone.com/articles/3123495</id>
+        <link href="https://dzone.com/articles/force-mfa-for-aws-iam-users"/>
+        <updated>2021-06-01T17:04:34.000Z</updated>
+        <summary type="html"><![CDATA[As a security best practice, AWS recommends that users with privileged permissions should use MFA for extra security measures. 
+As an AWS administrator, it is your job to make sure users enable MFA. In order to auto-enable this feature, the below policy can be applied to users, which will allow them to enable MFA if it is not enabled already. Once MFA is enabled, only then other activities can be resumed.]]></summary>
+        <author>
+            <name>Mohit Nain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intl]]></title>
+        <id>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl</id>
+        <link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl"/>
+        <updated>2021-06-01T16:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America has a drinking problem]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/"/>
+        <updated>2021-06-01T16:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
+        <updated>2021-06-01T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
+        <id>60aff2d711ffb70827ef8829</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
+        <updated>2021-06-01T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon US customers given one week to opt out of mass wireless sharing]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing"/>
+        <updated>2021-06-01T15:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual deck of cards using just a browser]]></title>
+        <id>https://playingcards.io/</id>
+        <link href="https://playingcards.io/"/>
+        <updated>2021-06-01T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudera taken private for $5.3B, acquires Datacoral and Cazena]]></title>
+        <id>https://blog.cloudera.com/turning-the-page/</id>
+        <link href="https://blog.cloudera.com/turning-the-page/"/>
+        <updated>2021-06-01T15:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who is hiring? (June 2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=27355392</id>
+        <link href="https://news.ycombinator.com/item?id=27355392"/>
+        <updated>2021-06-01T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Who wants to be hired? (June 2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=27355390</id>
+        <link href="https://news.ycombinator.com/item?id=27355390"/>
+        <updated>2021-06-01T15:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC drops its copyright-assignment requirement]]></title>
+        <id>https://lwn.net/Articles/857791/</id>
+        <link href="https://lwn.net/Articles/857791/"/>
+        <updated>2021-06-01T14:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Data Bimodal – Agility vs Security]]></title>
+        <id>https://dzone.com/articles/3126201</id>
+        <link href="https://dzone.com/articles/the-data-bimodal-agility-versus-security"/>
+        <updated>2021-06-01T14:47:24.000Z</updated>
+        <summary type="html"><![CDATA[You’ve probably heard the term bimodal before.
+It is a popular term, coined (maybe adopted) by Gartner, to describe the two ways of approaching software delivery. To quote: “Bimodal is the practice of managing two separate but coherent styles of work: one focused on predictability; the other on exploration.”]]></summary>
+        <author>
+            <name>Niall Crawford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porting OpenVMS from VAX to Alpha AXP (1992) [pdf]]]></title>
+        <id>https://www.hpl.hp.com/hpjournal/dtj/vol4num4/vol4num4art7.pdf</id>
+        <link href="https://www.hpl.hp.com/hpjournal/dtj/vol4num4/vol4num4art7.pdf"/>
+        <updated>2021-06-01T14:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
+        <id>https://css-tricks.com/?p=341342</id>
+        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
+        <updated>2021-06-01T14:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
+The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Evgeny Klimenchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
+        <id>https://css-tricks.com/?p=341296</id>
+        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
+        <updated>2021-06-01T14:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
+The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving with D]]></title>
+        <id>https://dlang.org/blog/2021/06/01/driving-with-d/</id>
+        <link href="https://dlang.org/blog/2021/06/01/driving-with-d/"/>
+        <updated>2021-06-01T14:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Incident Review: 4 Odd Incidents Caused by Animals]]></title>
+        <id>https://dzone.com/articles/3126049</id>
+        <link href="https://dzone.com/articles/the-incident-review-4-odd-incidents-caused-by-anim"/>
+        <updated>2021-06-01T14:10:31.000Z</updated>
+        <summary type="html"><![CDATA[If you ask an SRE to make a list of their biggest reliability worries, birds and beavers probably won't be on it.
+But these and other animals can and do cause critical disruptions. Whether it's Internet infrastructure, the power grid, or passenger aircraft, even the best-engineered systems can sometimes fall victim to mundane intrusions by animals.]]></summary>
+        <author>
+            <name>JJ Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
+        <updated>2021-06-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DNS Camel (2018)]]></title>
+        <id>https://blog.apnic.net/2018/03/29/the-dns-camel/</id>
+        <link href="https://blog.apnic.net/2018/03/29/the-dns-camel/"/>
+        <updated>2021-06-01T13:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube-dl can no longer download age-restricted videos]]></title>
+        <id>https://github.com/ytdl-org/youtube-dl/issues/28578</id>
+        <link href="https://github.com/ytdl-org/youtube-dl/issues/28578"/>
+        <updated>2021-06-01T13:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotations with quaternions]]></title>
+        <id>https://imadr.github.io/rotations-with-quaternions/</id>
+        <link href="https://imadr.github.io/rotations-with-quaternions/"/>
+        <updated>2021-06-01T12:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A virtual machine for microcontrollers]]></title>
+        <id>https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c</id>
+        <link href="https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c"/>
+        <updated>2021-06-01T12:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why does the jet stream rule our weather? [audio]]]></title>
+        <id>https://www.bbc.co.uk/programmes/p067lplj</id>
+        <link href="https://www.bbc.co.uk/programmes/p067lplj"/>
+        <updated>2021-06-01T09:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
+        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
+        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
+        <updated>2021-06-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surreal Numbers – An Introduction [pdf]]]></title>
+        <id>https://www.tondering.dk/download/sur16.pdf</id>
+        <link href="https://www.tondering.dk/download/sur16.pdf"/>
+        <updated>2021-06-01T08:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
+        <id>607f5fafdd38b9088c2bd0c9</id>
+        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
+        <updated>2021-06-01T04:19:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Deployment Basics: VPC and PostgreSQL Setup]]></title>
+        <id>https://dzone.com/articles/3126676</id>
+        <link href="https://dzone.com/articles/aws-app-deployment-basics-vpc-and-postgresql-setup"/>
+        <updated>2021-06-01T02:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+In this series about deploying applications in AWS, I will discuss different methods and steps required to run different applications in AWS. We will be covering different moving parts in AWS as needed to run typical applications.
+This series will be arranged in different parts to discuss different services, topics, and/or technologies needed for application deployment and execution.]]></summary>
+        <author>
+            <name>Jawad Hasan Shani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How A Java Program Is Executed? – Heap, Threads, Stack, GC [Video]]]></title>
+        <id>https://dzone.com/articles/3127717</id>
+        <link href="https://dzone.com/articles/how-java-program-executed-heap-threads-stack-gc"/>
+        <updated>2021-06-01T02:14:16.000Z</updated>
+        <summary type="html"><![CDATA[What happens behind the scene when a Java program is executed? In which regions objects are created? When objects become eligible for garbage collection? Where are threads stored? What is the difference between Stack and Heap? Watch this video to know more.]]></summary>
+        <author>
+            <name>Ram Lakshmanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeff Bezos’ API Mandate: What the 5 Rules Mean and Do]]></title>
+        <id>https://dzone.com/articles/3126835</id>
+        <link href="https://dzone.com/articles/jeff-bezos-api-mandate-what-the-five-rules-mean-an"/>
+        <updated>2021-06-01T02:11:11.000Z</updated>
+        <summary type="html"><![CDATA[In 2002, Jeff Bezos issued what is now known as the API mandate: The new direction at Amazon would be that all capabilities would have to be designed and exposed as APIs. This is an early version of what we today call API First. Most importantly, the mandate had a laser focus on the fact that APIs need the network effect to produce the most value, and thus it simply said that APIs are not optional anymore.
+The original mandate is preserved in a GitHub Gist that captures a reaction to it, which is Stevie’s (Steve Yegge’s) famous Google platform rant.]]></summary>
+        <author>
+            <name>dret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Frustrated Scrum Master — When All the Effort Leads Nowhere]]></title>
+        <id>https://dzone.com/articles/3126888</id>
+        <link href="https://dzone.com/articles/the-frustrated-scrum-master-when-all-the-effort-le"/>
+        <updated>2021-06-01T02:06:28.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: The Frustrated Scrum Master — When All the Effort Leads Nowhere
+There are plenty of failure possibilities with Scrum. Given that Scrum is a framework with a reasonable yet short "manual," this effect should not surprise anyone. One failure symptom of a botched agile transformation is the frustrated Scrum Master.
+Join me and explore the consequences of a Scrum Master who has thrown in the towel in 92 seconds.]]></summary>
+        <author>
+            <name>Stefan Wolpers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Data + MySQL = Mission InnoPossible?]]></title>
+        <id>https://dzone.com/articles/3127793</id>
+        <link href="https://dzone.com/articles/big-data-mysql-mission-innopossible"/>
+        <updated>2021-06-01T01:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Preface
+If you’re a MySQL DBA or a developer that deals with MySQL instances daily, it will probably not come as a surprise if you hear that you should not run big data sets on MySQL. Ask almost any MySQL DBA, and you will hear something like:
+"MySQL is not a fit!"
+"Have you looked into NoSQL?"
+"Use MongoDB."
+Some of these responses indeed have merit — for example, NoSQL-based database management systems such as MongoDB can certainly be useful when dealing with big data sets. However, contrary to popular belief, MySQL shouldn’t be so quickly ruled out — in some scenarios, MySQL (or MariaDB) might prove to be even better options for big data than their NoSQL counterparts! In this article, we will explore the things you should consider when answering the question: “Is MySQL a good option for my big data project?”]]></summary>
+        <author>
+            <name>Everett Berry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 eCommerce Trends For 2022]]></title>
+        <id>https://dzone.com/articles/3126151</id>
+        <link href="https://dzone.com/articles/top-ecommerce-trends"/>
+        <updated>2021-06-01T01:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Online shopping is growing at a fast pace and is expected to reach $1 trillion by 2022. But, eCommerce shopping won’t be the same as it is now. There are several eCommerce trends that will shape the future of the eCommerce industry.
+Advancement in voice search technologies, adoption of VR, acceptance of bitcoins, and usage of chatbots for personalized product recommendations are some of the trends that will improve the overall shopping experience of the users.]]></summary>
+        <author>
+            <name>Joydeep Bhattacharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basics of FHIR]]></title>
+        <id>https://dzone.com/articles/3127026</id>
+        <link href="https://dzone.com/articles/basics-of-fhir-1"/>
+        <updated>2021-06-01T01:41:42.000Z</updated>
+        <summary type="html"><![CDATA[What is FHIR?
+To be short and precise, FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging healthcare information electronically.
+FHIR has been developed by HL7 for using it as a stand-alone exchange standard or to be used as with other standards such as HL7 v2, CDA and CCDA]]></summary>
+        <author>
+            <name>Gaurav Dhimate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With Neo4j Graph Database]]></title>
+        <id>https://dzone.com/articles/3125934</id>
+        <link href="https://dzone.com/articles/working-with-neo4j-graph-database"/>
+        <updated>2021-06-01T01:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Traditionally, a majority of our applications relied on relational database systems (RDBMS) for their data storage needs. But RDBMS systems are not very efficient at handling high volumes of connected data. A graph database is purpose-built to store this category of connected data. 
+In this article, we will explore the basic concepts of a graph database and then look at some examples of graph data modeling and querying by using the Neo4j graph database.]]></summary>
+        <author>
+            <name>Pratik Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Technical Debt?]]></title>
+        <id>https://dzone.com/articles/3127001</id>
+        <link href="https://dzone.com/articles/what-is-technical-debt"/>
+        <updated>2021-06-01T01:24:43.000Z</updated>
+        <summary type="html"><![CDATA[The term technical debt was coined by Ward Cunningham in 1992. To understand technical debt, let's compare it with financial debt.
+Financial debt is an arrangement that gives the borrowing party permission to borrow money under the condition that it is to be paid back at a later date, usually with interest. Financial debt is generally needed due to overspending, lack of financial knowledge, poorly managed budget, etc. to name a few. You might also raise a financial debt to invest in your capital-intensive business, education, etc. which would bring returns in the future. Financial debt is not always a bad thing as long as you're aware of the consequences and always keep it under control.]]></summary>
+        <author>
+            <name>Jai Pradeesh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Anxiety of Influencers]]></title>
         <id>https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/</id>
@@ -12200,16 +12904,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
         </author>
     </entry>
 </feed>
