@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341724",
+          "author": "Chris Coyier",
+          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/debugging-ios-safari/",
+          "publishedOn": "2021-06-02T21:15:28.000Z",
+          "wordCount": 974,
+          "title": "Debugging iOS Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341442",
+          "author": "Dmitry Mayorov",
+          "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
+          "publishedOn": "2021-06-02T13:35:53.000Z",
+          "wordCount": 4169,
+          "title": "A Crash Course in WordPress Block Filters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341572",
+          "author": "Chris Coyier",
+          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
+          "publishedOn": "2021-06-02T13:35:40.000Z",
+          "wordCount": 1058,
+          "title": "Are Custom Properties a “Menu of What Will Change”?"
+        },
+        {
           "id": "https://css-tricks.com/?p=341720",
           "author": "Chris Coyier",
           "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -535,6 +562,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
+          "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "publishedOn": "2021-06-02T12:30:00.000Z",
+          "wordCount": 4327,
+          "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
+          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
+          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "publishedOn": "2021-06-02T10:30:00.000Z",
+          "wordCount": 5387,
+          "title": "Improving The Performance Of An Online Store (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
@@ -811,15 +866,6 @@
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
           "title": "A Guide To Undoing Mistakes With Git"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         }
       ]
     },
@@ -828,6 +874,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60afce3011ffb70827ef869c",
+          "author": null,
+          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
+          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
+          "publishedOn": "2021-06-02T23:14:01.000Z",
+          "wordCount": 2282,
+          "title": "What is Commit Signing in Git?"
+        },
+        {
+          "id": "60b3a25211ffb70827ef9b39",
+          "author": null,
+          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
+          "publishedOn": "2021-06-02T22:54:18.000Z",
+          "wordCount": 1415,
+          "title": "How to Use Environment Variables in VanillaJS"
+        },
+        {
+          "id": "60b3ccee11ffb70827ef9bc0",
+          "author": null,
+          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
+          "publishedOn": "2021-06-02T21:18:15.000Z",
+          "wordCount": 2365,
+          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
+        },
+        {
+          "id": "60a699b0906c5207e3a7f5ab",
+          "author": null,
+          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
+          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
+          "publishedOn": "2021-06-02T20:44:22.000Z",
+          "wordCount": 3441,
+          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
+        },
+        {
+          "id": "60b0f11411ffb70827ef8dbc",
+          "author": null,
+          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
+          "publishedOn": "2021-06-02T19:39:05.000Z",
+          "wordCount": 1155,
+          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
+        },
+        {
+          "id": "60b4ff4711ffb70827ef9eb2",
+          "author": null,
+          "description": "What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release",
+          "link": "https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/",
+          "publishedOn": "2021-06-02T19:14:53.000Z",
+          "wordCount": 2649,
+          "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
+        },
+        {
+          "id": "60b51f6e11ffb70827ef9f7c",
+          "author": null,
+          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
+          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
+          "publishedOn": "2021-06-02T14:45:18.000Z",
+          "wordCount": 3302,
+          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
+        },
         {
           "id": "60b5025111ffb70827ef9ebe",
           "author": null,
@@ -1466,15 +1575,6 @@
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
-        },
-        {
-          "id": "6090187c8eb3fb07cf09a060",
-          "author": "",
-          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
-          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
-          "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2501,
-          "title": "How to Fetch Data in React from a GraphQL API"
         }
       ]
     },
@@ -1502,6 +1602,15 @@
           "title": "The Essentials of GitOps"
         },
         {
+          "id": "https://dzone.com/trendreports/3124333",
+          "author": "Melissa Habit",
+          "description": "With a mainstream shift toward cloud-native development, more organizations than ever are realizing real benefits as they modernize their architectures with containerized environments. While this move promises to accelerate application development, it also introduces a new set of challenges that occur with a fundamentally altered software delivery pipeline, ranging from security to complexity and scaling.\nIn DZone's 2021 Containers Trend Report, we explore the current state of container adoption, uncover common pain points of adopting containers in a legacy environment, and explore modern solutions for building scalable, secure, stable, and performant containerized applications.",
+          "link": "https://dzone.com/trendreports/containers-1",
+          "publishedOn": "2021-05-21T20:09:59.000Z",
+          "wordCount": 266,
+          "title": "Containers"
+        },
+        {
           "id": "https://dzone.com/refcardz/3124720",
           "author": "Melissa Habit",
           "description": "Continuous configuration occurs when a configuration platform is used to automate, monitor, design, and manage otherwise manual processes, which are essential components of improving the overall efficiency and success of your team's SDLC. There are several areas to prioritize in a continuous configuration methodology — the right tools for building a continuous deployment pipeline, effective pipeline maintenance and management, and, of course, widespread automation.\n\nIn addition to covering key benefits of c…",
@@ -1517,6 +1626,258 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3128682",
+          "author": "Dmitry Sotnikov",
+          "description": "This week, we check out how API attacks can be used to squash political dissent, a handy OAuth 2.0 security checklist as well as some common OAuth vulnerabilities and the ways to detect and mitigate them, and a case study of API penetration testing.\nVulnerability: Russian Opposition Email List Breach\nCompanies typically avoid providing details on their data breaches. Today we have a rare exception. The staff of the Russian opposition leader, Alexey Navalny, has posted a detailed report on both the breach they had earlier this year and their investigation into the breach. Unfortunately, the report is in Russian, so you might need to use Google Translate or auto-generated English subtitles in the video version that they posted on YouTube.",
+          "link": "https://dzone.com/articles/api-security-weekly-issue-136",
+          "publishedOn": "2021-06-03T00:30:52.000Z",
+          "wordCount": 1008,
+          "title": "API Security Weekly: Issue #136"
+        },
+        {
+          "id": "https://dzone.com/articles/3125604",
+          "author": "tamimi Ahmad",
+          "description": "Event-Driven Architecture: Bust or Fact?\nAlright, let's face it—there is a lot of content talking about how REST vs messaging APIs and how one is more fir than the other for a microservices architecture design. I wrote a blog post about My journey to learning EDA that highlights what event-driven architecture is. Whether you are new to event-driven architecture (EDA) or have some background with it via dabbling with gRPC, kafka, rabbitMQ, Solace, or whatever messaging API, I am here to share with you 5 claims about EDA that I will be busting or confirming. \n \n \nI Will Have to Re-Design My Rest-Heavy Architecture From Scratch To Adopt EDA\n \n\nMYTH\nAdvanced event brokers allow for protocol translation within the broker. What does this mean you might ask? Well, it is very common in any software architecture design approach to have a polyglot of protocols and APIs in an application. Whether you are using REST, or different messaging protocols (MQTT, AMQP, Solace, Kafka...etc) you would want your different microservices to communicate with each other.",
+          "link": "https://dzone.com/articles/event-driven-architectures-5-myths-part-1",
+          "publishedOn": "2021-06-03T00:21:33.000Z",
+          "wordCount": 949,
+          "title": "Event-Driven Architectures: 5 Myths"
+        },
+        {
+          "id": "https://dzone.com/articles/3128675",
+          "author": "Filiberto Emanuele",
+          "description": "In the reading of Natural Language Processing (NLP) applications, we inevitably encounter two main features in action, Categorization and Extraction, and learn how those can be manipulated in so many different ways to effectively address use cases that involve free-form text and the retrieval of information from it. We also hear a lot about Sentiment (which technically is not a separate feature but rather a specialization of the previous two). Finally, we have POS-tagging, which is only occasionally mentioned outside of deeply technical articles for linguists and NLP professionals. \nWe don’t hear much about other NLP capabilities, and this is mainly because often, depending on how an NLP engine is designed, features beyond Categorization and Extraction are not present at all. Specifically, many NLP solutions today are based on Machine Learning algorithms, and ML rarely delivers great accuracy in problems that require both elevated precision and super-fine identification. Then again, some of these capabilities are incredibly useful, in fact sometimes even the only way to address a particular challenge. In the following, I make the case for one of these not-so-popular NLP tools: SAO (Subject-Action-Object).",
+          "link": "https://dzone.com/articles/nlp-features-that-are-criminally-overlooked",
+          "publishedOn": "2021-06-03T00:16:24.000Z",
+          "wordCount": 1778,
+          "title": "NLP Features That Are Criminally Overlooked"
+        },
+        {
+          "id": "https://dzone.com/articles/3123733",
+          "author": "Amrut Prabhu",
+          "description": "In this article, I would be talking about my experiences with a new local Kubernetes cluster call Kind.\nRecently I wanted to experiment with something on a Kubernetes cluster, and I didn’t want to spin up a new cluster on AWS and wanted something quick.",
+          "link": "https://dzone.com/articles/kind-a-new-kubernetes-cluster",
+          "publishedOn": "2021-06-02T23:56:14.000Z",
+          "wordCount": 935,
+          "title": "Kind : A New Kubernetes Cluster"
+        },
+        {
+          "id": "https://dzone.com/articles/3128681",
+          "author": "Rahul Rai",
+          "description": "As an engineer, to succeed in product development, you have to change your perspective and move from valuing technology or the product to focusing on the business model. As an entrepreneur or a product manager, you have to understand that you are not developing a product but a business model. A product manager must continually ask themselves the question: What is the minimum experiment I should do next to minimize uncertainty (or learn) the most?\n \n \nUsing the question as a guide will help you get the evidence that the people need the product and there is sufficient market for it. You don't require a large budget, scalable architecture, and a large team before validating the product-market fit.",
+          "link": "https://dzone.com/articles/product-lifecycle-ash-maurya-model",
+          "publishedOn": "2021-06-02T23:48:27.000Z",
+          "wordCount": 1400,
+          "title": "Product Lifecycle: Ash Maurya Model"
+        },
+        {
+          "id": "https://dzone.com/articles/3124726",
+          "author": "Dennis Byrne",
+          "description": "This article, an excerpt from my book \"Full Stack Python Security\", examines the underlying concept behind every authentication scheme: password hashing. I’ll teach you how and why authentication systems hash passwords. Along the way you'll learn about salting and key derivation functions. I'll also demonstrate how to apply these concepts using a Django application server.\nEvery authentication system has to store some representation of your password. You must reproduce your password in response to a username and password challenge when you authenticate. The system compares your reproduced password with the stored representation of it as a means of authenticating you.",
+          "link": "https://dzone.com/articles/why-we-hash-passwords",
+          "publishedOn": "2021-06-02T23:25:43.000Z",
+          "wordCount": 2684,
+          "title": "Why We Hash Passwords"
+        },
+        {
+          "id": "https://dzone.com/articles/3128606",
+          "author": "Stefan Wolpers",
+          "description": "TL;DR: The Oversized Product Backlog Problem — When Noise Interferes With Signal\nThere are plenty of failure possibilities with Scrum. Given that Scrum is a framework with a reasonable yet short “manual,” this effect should not surprise anyone. Neglecting the critical Scrum artifact for continuous value creation is one of the common Scrum anti-patterns. If your Scrum Team strives to make your customers’ lives easier Sprint after Sprint, beware of the oversized Product Backlog.\nJoin me and explore the consequences of inadequate Product Backlog management in less than three minutes.",
+          "link": "https://dzone.com/articles/the-oversized-product-backlog-problem",
+          "publishedOn": "2021-06-02T22:53:14.000Z",
+          "wordCount": 911,
+          "title": "The Oversized Product Backlog Problem"
+        },
+        {
+          "id": "https://dzone.com/articles/3123880",
+          "author": "Fred Wilson",
+          "description": "It is not something new for a business to pool in their time and resources on some side projects that they had in their mind for a long time. This is not new because, time and time again, it has proven to be one of the best investments that a company makes in its history of financial decisions.\nTake Slack for example. You might have heard about it, as it is probably one of the best team communication applications out there. It started as a simple communication tool for a group of game developers that wanted to communicate together.",
+          "link": "https://dzone.com/articles/5-critical-elements-of-a-successful-side-project",
+          "publishedOn": "2021-06-02T22:24:08.000Z",
+          "wordCount": 1739,
+          "title": "5 Critical Elements of a Successful Side Project"
+        },
+        {
+          "id": "https://dzone.com/articles/3126851",
+          "author": "Amar Deep Singh",
+          "description": "Introduction \nIn this tutorial, I will explain different CI/CD concepts and tools provided by AWS for continuous integration and continuous delivery. I will be creating a Spring Boot microservice and deploy it to AWS EC2 instances running behind an application load balancer in an automated way using the AWS Code Pipeline. In this tutorial, you will have hands-on experience in developing a spring boot microservice and how it can be deployed in the cloud. You will learn about CI/CD and its benefits. What is AWS Code Commit, what is AWS Code build and AWS Code Deploy and their benefits. You will also learn about the AWS Code pipeline and how it can help you to orchestrate your software release process. This is part 1 of 2 videos:",
+          "link": "https://dzone.com/articles/microservices-deployment-through-awsome-pipeline",
+          "publishedOn": "2021-06-02T22:10:39.000Z",
+          "wordCount": 363,
+          "title": "Microservices on AWS [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3126259",
+          "author": "Mark Gardner",
+          "description": "A comment on the Medium version of last week's article got to me:\nI wish they'd just leave Perl static. Then we wouldn't have to waste money retesting legacy Perl apps on the newest version every couple of years, in case new features we don't want breaks code that's been unchanged for years. [...] Sometimes things should just be left to die gracefully.",
+          "link": "https://dzone.com/articles/should-perl-die-gracefully",
+          "publishedOn": "2021-06-02T22:04:48.000Z",
+          "wordCount": 588,
+          "title": "Should Perl Die Gracefully?"
+        },
+        {
+          "id": "https://dzone.com/articles/3126085",
+          "author": "Ashutosh Bhatawadekar",
+          "description": "1. Introduction\nAs Agile Coaches, many of us need to gauge the Maturity of our teams, and one of the tools which we all use is an agile Maturity assessment. However many of us tend to over-engineer it or tend to complicate the way our questions are framed and the way we analyze the responses.  In this article, I present a very simple yet effective way to get a quick dipstick check on where the Transformation is progressing.\n2. Proposed Agile Maturity Assessment Model\nAs Agile professionals, we all are aware of the 4 Values and 12 Principles enshrined in the \"Manifesto for Agile Software Development.\"",
+          "link": "https://dzone.com/articles/agile-maturity-assessments-a-leaner-approach",
+          "publishedOn": "2021-06-02T21:59:54.000Z",
+          "wordCount": 859,
+          "title": "Agile Maturity Assessments: A Leaner Approach"
+        },
+        {
+          "id": "https://dzone.com/articles/3123330",
+          "author": "shaoyang liu",
+          "description": "Introduction\nThe article is roughly divided into four parts:\nThe first part will briefly introduce some real project data, including time-consuming data before and after optimization so that friends can understand how much optimization space is there for integration testing, and highlight why integration testing needs to be optimized.\nThe second part will introduce the composition of integration test execution time through some examples so that everyone knows where the time is spent.\nIn the third part, I will remove the \"cloud\" of the Spring test framework source code, and take the friends to briefly understand the principles of Spring integration testing.\nFinally, I will give some useful suggestions for optimizing the execution time of Spring integration tests.\nIntegration Testing\nHere are a few words. We have been pursuing automated testing for a long time. The fundamental reason is that automated testing is more reliable and cheaper than humans. Integration testing is an integral part of automated testing.",
+          "link": "https://dzone.com/articles/optimize-the-execution-time-of-spring-integration",
+          "publishedOn": "2021-06-02T21:04:59.000Z",
+          "wordCount": 2457,
+          "title": "Optimize the Execution Time of Spring Integration Tests"
+        },
+        {
+          "id": "https://dzone.com/articles/3018794",
+          "author": "Sven Loesekann",
+          "description": "In some use cases, it is necessary to provide deep links in an Angular application. Without support for multiple languages, it is simply the URL + the angular route. With Angular i18n the different directories for the language build need to be supported. This article shows how to support language-independent deep linking. The AngularAndSpring project will serve as an example. It is a Spring Boot application that provides the backend with the rest endpoints and serves the Angular frontend in the 'resources/static/' directory. \nFrontend\nThe frontend contains these file and directories:",
+          "link": "https://dzone.com/articles/Deep-Links-with-Angular-Routing-and-i18n-in-Prod-Mode",
+          "publishedOn": "2021-06-02T20:11:59.000Z",
+          "wordCount": 858,
+          "title": "Deep Links With Angular Routing and i18n in Prod Mode"
+        },
+        {
+          "id": "https://dzone.com/articles/3111876",
+          "author": "Alexander Zaitsev",
+          "description": "Rick Bilodeau from Imply published an excellent article in June 2020 comparing Druid cost-efficiency to Google Big Query for what they called ‘hot analytics’ — sub-second response time with high query concurrency. We appreciate this effort and the great results of open-source technology. In that article, Rick used the popular Star Schema Benchmark (SSB). \nWe know this benchmark very well. One of Altinity founders and Percona CTO Vadim Tkachenko uses it quite regularly when comparing different open source analytical options (in 2017 and in 2020). A few weeks ago another real-time analytics company Rockset published their results claiming much better performance and efficiency compared to Druid. We decided to take a closer look at the Druid and Rockset approach, and see how ClickHouse can perform.",
+          "link": "https://dzone.com/articles/clickhouse-druid-rockset-benchmark",
+          "publishedOn": "2021-06-02T19:48:27.000Z",
+          "wordCount": 2513,
+          "title": "ClickHouse Nails Cost Efficiency Challenge Against Druid &amp; Rockset"
+        },
+        {
+          "id": "https://dzone.com/articles/3126607",
+          "author": "Abdulrahman Gaber",
+          "description": "The article lists the areas that are needed to sustain to reach the flow of delivery with the help of Agile-Lean:\nThe Team\nThe Quality\nThe Pull-System\nThe Culture\nThe Continuity\nThis needs some prerequisites have been met:",
+          "link": "https://dzone.com/articles/toward-a-flow-of-delivery-via-agile",
+          "publishedOn": "2021-06-02T19:14:34.000Z",
+          "wordCount": 705,
+          "title": "Toward a Flow of Delivery via Agile-Lean"
+        },
+        {
+          "id": "https://dzone.com/articles/3013111",
+          "author": "Bartłomiej Żyliński",
+          "description": "In my previous article, you can see that I am quite fond of Optional class. Probably many of you agree with me that it is very useful and provides a lot of options. As of now, it consists of approx. 500 lines of code and 20 methods with a public access level (including hashCode, equals, toString, and Javadocs) with various possibilities. \nToday, I will show you what this API evolution looks like through the subsequent Java releases and what were the reasons for its introduction to Java. I hope that it will give you some more knowledge about Optional class itself, help to convince your coworkers to start using it instead of a simple null check or even to decide which Java version to use in your company or private project.",
+          "link": "https://dzone.com/articles/java-optional-api-evolution",
+          "publishedOn": "2021-06-02T17:56:18.000Z",
+          "wordCount": 1378,
+          "title": "How Java Optional Evolved Over Time"
+        },
+        {
+          "id": "https://dzone.com/articles/3123814",
+          "author": "Gregg Ostrowski",
+          "description": "Introduction\nIn 2021, applications are now the entryways most businesses use to connect to customers, and while this accelerated with the pandemic, it began long ago and will continue into the future. Seamless performance for these applications can mean the difference between gaining a loyal customer or losing trust. The threat of developer burnout, and application issues, are both very real and there are a few key practices that organizations can implement to support developers and set their teams up for success. \nRecognize Pressure Is Real and It’s Not Slowing Down\nWith the growing reliance on digital and cloud-native applications, developers and technologists are feeling the pressure. That’s naturally going to come back on the business.",
+          "link": "https://dzone.com/articles/supporting-developers-with-full-stack-observabilit",
+          "publishedOn": "2021-06-02T16:23:48.000Z",
+          "wordCount": 1151,
+          "title": "Why Developers Need Full-Stack Observability"
+        },
+        {
+          "id": "https://dzone.com/articles/3122975",
+          "author": "Amaan T",
+          "description": "Introduction\nHere is the list of 5 things or decisions you should consider before starting a wireframe. These are the crucial questions that should be asked at the early stage of your project and it’ll smoothen your wireframing process.\n1. Device Support\nUsually, the stakeholders will tell you which devices to support, but sometimes you will realize that it will be cross-platform or responsive by studying the goals of the product. Or, you might have to select the best devices for the product.",
+          "link": "https://dzone.com/articles/5-things-you-should-consider-before-wireframing-1",
+          "publishedOn": "2021-06-02T16:11:13.000Z",
+          "wordCount": 1711,
+          "title": "5 Things You Should Consider Before Wireframing"
+        },
+        {
+          "id": "https://dzone.com/articles/3122852",
+          "author": "Guillaume Quintard",
+          "description": "Introduction\nVarnish is a caching server, and a great one at that, that much we already know. But what about the content you don't want to cache? For example, those shopping cart requests and other completely uncacheable API calls?\nWe can, of course, handle it, but we've got to be wary of the sirens of the cargo cult because you will often see something like this on the internet:",
+          "link": "https://dzone.com/articles/hit-for-miss-and-why-a-null-ttl-is-bad-for-you",
+          "publishedOn": "2021-06-02T15:59:23.000Z",
+          "wordCount": 1601,
+          "title": "Hit-for-Miss and Why a Null TTL Is Bad For You"
+        },
+        {
+          "id": "https://dzone.com/articles/3082992",
+          "author": "Bartłomiej Żyliński",
+          "description": "Application security is becoming a more and more important topic on a day-to-day basis. Unauthorized access to protected data can potentially cost millions of dollars in the form of various financial penalties. Almost every application needs some reliable tool to manage its users’ identities and accesses. \nThere are a bunch of solutions on the market — both free and paid — that promise to provide such features. In today’s article, I will try to present you one of these tools, which as you probably guess from the title, will be Keycloak.",
+          "link": "https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you",
+          "publishedOn": "2021-06-02T15:57:34.000Z",
+          "wordCount": 1992,
+          "title": "What Keycloak Is and What It Does?"
+        },
+        {
+          "id": "https://dzone.com/articles/3124727",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at what the Bill of Materials (BOM) is in Spring boot. Let's get started!",
+          "link": "https://dzone.com/articles/what-is-bill-of-materials-bom-in-spring-boot-sprin",
+          "publishedOn": "2021-06-02T15:36:01.000Z",
+          "wordCount": 282,
+          "title": "Spring Boot Tutorial Video: Bill of Materials"
+        },
+        {
+          "id": "https://dzone.com/articles/3123087",
+          "author": "Elizabeth Lvova",
+          "description": "Our KFC project employs a microservice architecture, with components written in various languages and runtime environments, such as .NET, Ruby, and Go. Many of these components need to be able to make decisions based upon the authorization status of a user: who are they, what roles do they belong to, what actions are they able to perform, and to what? \nWe needed a consistent way to use role-based access control between multiple independent languages, and we also needed a way to manage the permissions and access control lists (ACLs).",
+          "link": "https://dzone.com/articles/casbin-ruby-an-authorization-library-supporting-di",
+          "publishedOn": "2021-06-02T14:56:45.000Z",
+          "wordCount": 958,
+          "title": "Casbin-Ruby: An Authorization Library Supporting Distributed Role-Based Access Control (RBAC)"
+        },
+        {
+          "id": "https://dzone.com/articles/3122894",
+          "author": "Madhuri Jadhav",
+          "description": "Introduction\nWith IoT technology moving as fast as it is, there is a lot of new technology to keep up with. It can be difficult to stay informed on the latest tech to facilitate a potential solution. In this article, we will break down four established asset tracking technologies to better understand their ideal use case in asset tracking. \nAs is often the case, some of the newest options are the most expensive and feature-rich. Meanwhile, other options have dropped in cost due to large-scale adoption. A new generation of Bluetooth Low Energy, (BLE), Radio Frequency Identification (RFID), Long Range (LoRa), and Ultra-Wide Band (UWB) have brought new possibilities to industries hoping to solve the problem of, where did that thing go?",
+          "link": "https://dzone.com/articles/indoor-asset-tracking-made-easy",
+          "publishedOn": "2021-06-02T14:27:05.000Z",
+          "wordCount": 1805,
+          "title": "Indoor Asset Tracking Made Easy"
+        },
+        {
+          "id": "https://dzone.com/articles/3128588",
+          "author": "Daniel Oh",
+          "description": "Java developers are usually required to take many actions before we can begin developing and deploying cloud-native microservices on Kubernetes. First, we have to configure everything from the integrated development environment (IDE) to build tools such as Maven or Gradle. We also need to configure the command-line tools used for containerization and generating the Kubernetes manifest. If we don’t want to spin up a Kubernetes cluster locally, we also must connect to a remote Kubernetes cluster for continuous testing and deployment.\nDevelopers should spend less time on configuration and more time accelerating the inner-loop development cycle of building, testing, and deploying our applications. Ideally, we should be able to continuously develop applications in a pre-configured Kubernetes environment.",
+          "link": "https://dzone.com/articles/learn-quarkus-faster-with-quick-starts-in-the-deve",
+          "publishedOn": "2021-06-02T14:21:07.000Z",
+          "wordCount": 1162,
+          "title": "Learn Quarkus faster with quick starts in the Developer Sandbox for Red Hat OpenShift"
+        },
+        {
+          "id": "https://dzone.com/articles/3127779",
+          "author": "Ved Prakash",
+          "description": "Introduction\nWe are in the Digital Economy and as it applies to all economies in the world, the success of this relatively new but no longer nascent economy will depend on how well the stakeholders of this economy maximize their resources by reusing, replicating, connecting, and interoperating them. The value of synergy is always greater than the value of individual components contributing to it and this force multiplier needs to be capitalized in a massive way by modern-day enterprises if they wish to succeed in the digital economy.\nThe advertisement moolah that Google and Facebook rake in is precisely because they do not look at their business entities in siloes; rather they connect and integrate valuable customer data points from various entities like; for example, Gmail, Google Maps, and YouTube to generate one unified persona related data impression that becomes the basis for their targeted advertisements and their consequent success rates. Likewise, Netflix integrates and converts data on the subscriber consumption pattern to intelligent movie recommendations that lead to higher viewership, greater new subscriptions, and improved Net Promoter Scores (read word of mouth).",
+          "link": "https://dzone.com/articles/maximizing-business-value-with-enterprise-integrat",
+          "publishedOn": "2021-06-02T14:06:12.000Z",
+          "wordCount": 1570,
+          "title": "Maximizing Business Value With Enterprise Integration"
+        },
+        {
+          "id": "https://dzone.com/articles/3128652",
+          "author": "Thomas Hansen",
+          "description": "Web Sockets and asynchronous message transmissions over socket connections is probably one of the most difficult tasks you can possibly do in any web application. Hence, to make it manageable, it needs to be simplified, the same way the gearbox in your car is simple to use, even though it probably involves thousands of moving parts. In this article I will walk you through how to create a live chat client using SignalR, Web Sockets and Magic. If you wish to follow the tutorial though, the first thing you'll have to do is to download Magic.\nThe Angular frontend\nFirst we'll need a frontend. Use the Angular CLI to create a new Angular project and name it \"chat\". Open a terminal on your development machine and execute the following command in it.",
+          "link": "https://dzone.com/articles/creating-a-web-chat-with-signalr-web-sockets-angul",
+          "publishedOn": "2021-06-02T11:01:20.000Z",
+          "wordCount": 1509,
+          "title": "Creating a Web Chat with SignalR, Web Sockets, Angular and Magic"
+        },
+        {
+          "id": "https://dzone.com/articles/3122741",
+          "author": "Jason Wills",
+          "description": "What did you feel while seeing the price tag of a product in a supermarket? You may not realize it, but machines can read these incredibly nuanced subtilities of human expressions, and retailers can use it to their advantage. A device loaded with a specific software program can predict whether a person is smiling out of frustration or joy. Human-computer interaction has gone beyond the realms of sci-fi fantasies and turned into reality. The rise of emotionally aware machines has blurred the human-machine divide, and it is now redefining the way people experience technology.\nWhat Is Affective Computing? \nEmotion AI, also known as Affective Computing, is all about how AI can decode the emotional status of a human being by analyzing their facial expressions, such as head motion, facial distortions, movement of jaws, and speech pattern, etc. It detects, recognizes, and emulates human emotions through a programmed AI neural network. Without a doubt, humans can analyze and interpret complex emotional signals better. However, the gap is narrowing faster than you can imagine, thanks to advancements in big data capability and powerful algorithms.",
+          "link": "https://dzone.com/articles/affective-computing-how-does-this-work-and-some-us",
+          "publishedOn": "2021-06-02T01:51:23.000Z",
+          "wordCount": 1378,
+          "title": "Affective Computing: How Does This Work?"
+        },
+        {
+          "id": "https://dzone.com/articles/3124609",
+          "author": "Biju Chacko",
+          "description": "Introduction\nDistributed tracing for Microservices architecture is an emerging concept that is gaining momentum across internet-based business organizations. \nWe know that microservices architecture introduced an all-new way to scale an application (cloud) with several independent services. It does facilitate high resiliency, scalability, productivity, and efficiency when compared to monolithic architectures.",
+          "link": "https://dzone.com/articles/using-distributed-tracing-in-microservices-archite",
+          "publishedOn": "2021-06-02T01:01:32.000Z",
+          "wordCount": 1959,
+          "title": "Using Distributed Tracing in Microservices Architecture"
+        },
         {
           "id": "https://dzone.com/articles/3128146",
           "author": "Abhishek Gupta",
@@ -4801,6 +5162,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27375951",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27375951",
+          "publishedOn": "2021-06-03T01:01:15.000Z",
+          "wordCount": 224,
+          "title": "Etleap (YC W13) Is Hiring a Technical End User Documentation Writer"
+        },
+        {
+          "id": "https://www.sandboxx.us/blog/an-f-35-pilot-explains-why-the-jets-bad-press-misses-the-point/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sandboxx.us/blog/an-f-35-pilot-explains-why-the-jets-bad-press-misses-the-point/",
+          "publishedOn": "2021-06-03T00:19:09.000Z",
+          "wordCount": 1525,
+          "title": "An F-35 Pilot Explains Why the Jet's Bad Press Misses the Point"
+        },
+        {
+          "id": "https://www.fujifilm.com/jp/en/news/hq/6642#",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fujifilm.com/jp/en/news/hq/6642#",
+          "publishedOn": "2021-06-02T23:44:27.000Z",
+          "wordCount": 596,
+          "title": "Ransomware – Unauthorized access to Fujifilm servers"
+        },
+        {
+          "id": "https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months",
+          "publishedOn": "2021-06-02T23:00:41.000Z",
+          "wordCount": 3097,
+          "title": "When six boys were shipwrecked for 15 months (2020)"
+        },
+        {
+          "id": "https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september",
+          "publishedOn": "2021-06-02T22:59:37.000Z",
+          "wordCount": 722,
+          "title": "Apple asks staff to return to office 3 days a week starting in early September"
+        },
+        {
+          "id": "https://sin-ack.github.io/posts/jpg-loader-bork/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sin-ack.github.io/posts/jpg-loader-bork/",
+          "publishedOn": "2021-06-02T22:43:25.000Z",
+          "wordCount": 1717,
+          "title": "Malloc broke Serenity's JPGLoader, or: how to win the lottery"
+        },
+        {
+          "id": "https://www.cardesignhistory.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cardesignhistory.com/",
+          "publishedOn": "2021-06-02T22:35:09.000Z",
+          "wordCount": 354,
+          "title": "Italian Car Design History"
+        },
+        {
+          "id": "https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html",
+          "publishedOn": "2021-06-02T22:29:40.000Z",
+          "wordCount": 3196,
+          "title": "Wyoming site of new nuclear power plant from Bill Gates' TerraPower"
+        },
+        {
+          "id": "https://www.reuters.com/article/domesticNews/idUKL129052420080731",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/article/domesticNews/idUKL129052420080731",
+          "publishedOn": "2021-06-02T22:11:30.000Z",
+          "wordCount": 336,
+          "title": "World's Oldest joke traced back to 1900 BC (2008)"
+        },
+        {
+          "id": "https://jsonmatic.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jsonmatic.com/",
+          "publishedOn": "2021-06-02T22:07:54.000Z",
+          "wordCount": 9,
+          "title": "Show HN: Transform a CSV into a JSON and vice versa"
+        },
+        {
+          "id": "https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software",
+          "author": null,
+          "description": "Comments",
+          "link": "https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software",
+          "publishedOn": "2021-06-02T21:21:08.000Z",
+          "wordCount": 23,
+          "title": "King County, WA bans facial recognition software"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/corpse-flower-california",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/corpse-flower-california",
+          "publishedOn": "2021-06-02T21:01:29.000Z",
+          "wordCount": 2638,
+          "title": "How a Giant Corpse Flower Got to an Abandoned Gas Station"
+        },
+        {
+          "id": "https://www.acollectedman.com/blogs/journal/favourite-typography-watches",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.acollectedman.com/blogs/journal/favourite-typography-watches",
+          "publishedOn": "2021-06-02T20:05:18.000Z",
+          "wordCount": 3663,
+          "title": "Our Favourite Uses of Typography in Watches"
+        },
+        {
+          "id": "https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/",
+          "publishedOn": "2021-06-02T18:47:00.000Z",
+          "wordCount": 756,
+          "title": "Massachusetts Steamship Authority hit by ransomware attack; ferries delayed"
+        },
+        {
+          "id": "https://textslashplain.com/2021/06/02/leaky-abstractions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://textslashplain.com/2021/06/02/leaky-abstractions/",
+          "publishedOn": "2021-06-02T18:35:16.000Z",
+          "wordCount": 1686,
+          "title": "Leaky Abstractions"
+        },
+        {
+          "id": "https://www.blender.org/download/releases/2-93/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.blender.org/download/releases/2-93/",
+          "publishedOn": "2021-06-02T18:34:22.000Z",
+          "wordCount": 1491,
+          "title": "Blender 2.93 LTS"
+        },
+        {
+          "id": "https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse",
+          "publishedOn": "2021-06-02T17:51:07.000Z",
+          "wordCount": 2582,
+          "title": "PayPal shuts down long-time Tor supporter"
+        },
+        {
+          "id": "https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly",
+          "publishedOn": "2021-06-02T15:53:14.000Z",
+          "wordCount": 3184,
+          "title": "Making JavaScript run fast on WebAssembly"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Corpus_Clock",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Corpus_Clock",
+          "publishedOn": "2021-06-02T15:45:06.000Z",
+          "wordCount": 1484,
+          "title": "Corpus Clock"
+        },
+        {
+          "id": "https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
+          "publishedOn": "2021-06-02T15:44:42.000Z",
+          "wordCount": 1595,
+          "title": "Stack Overflow sold to Prosus for $1.8B"
+        },
+        {
+          "id": "https://www.infoq.com/articles/cloud-vendors-low-code/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/articles/cloud-vendors-low-code/",
+          "publishedOn": "2021-06-02T15:22:48.000Z",
+          "wordCount": 5018,
+          "title": "Microsoft's low-code strategy paints a target on UIPath and other RPA companies"
+        },
+        {
+          "id": "https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/",
+          "publishedOn": "2021-06-02T13:05:23.000Z",
+          "wordCount": 777,
+          "title": "Almost half of local Twitter trending topics in Turkey are fake – study"
+        },
+        {
+          "id": "https://deepnote.com/viewer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deepnote.com/viewer",
+          "publishedOn": "2021-06-02T12:35:31.000Z",
+          "wordCount": 6,
+          "title": "Show HN: Render Jupyter notebooks as interactive articles"
+        },
+        {
+          "id": "https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/",
+          "publishedOn": "2021-06-02T10:29:02.000Z",
+          "wordCount": 725,
+          "title": "Etsy to buy fashion reseller Depop for $1.63B"
+        },
+        {
+          "id": "http://www.mistys-internet.website/blog/blog/2019/02/20/the-hunt-for-the-lost-phoenix-games/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.mistys-internet.website/blog/blog/2019/02/20/the-hunt-for-the-lost-phoenix-games/",
+          "publishedOn": "2021-06-02T08:13:43.000Z",
+          "wordCount": 709,
+          "title": "The Hunt for the Lost Phoenix Games"
+        },
+        {
+          "id": "https://reverb.com/news/why-i-painstakingly-built-my-own-analog-drum-machine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://reverb.com/news/why-i-painstakingly-built-my-own-analog-drum-machine",
+          "publishedOn": "2021-06-02T07:36:54.000Z",
+          "wordCount": 2095,
+          "title": "I built my own analog drum machine"
+        },
+        {
+          "id": "https://tutorial.math.lamar.edu/Classes/CalcI/ImplicitDiff.aspx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tutorial.math.lamar.edu/Classes/CalcI/ImplicitDiff.aspx",
+          "publishedOn": "2021-06-02T07:14:51.000Z",
+          "wordCount": 4885,
+          "title": "Implicit Differentiation"
+        },
+        {
+          "id": "https://eos.org/articles/fifteen-years-of-radar-reveal-venuss-most-basic-facts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://eos.org/articles/fifteen-years-of-radar-reveal-venuss-most-basic-facts",
+          "publishedOn": "2021-06-02T06:14:36.000Z",
+          "wordCount": 1450,
+          "title": "Fifteen years of radar reveal Venus’s most basic facts"
+        },
+        {
           "id": "https://medlifestyle.news/2021/06/01/sirt6-increase-life-expectancy/",
           "author": null,
           "description": "Comments",
@@ -4826,6 +5439,15 @@
           "publishedOn": "2021-06-01T22:39:30.000Z",
           "wordCount": 1872,
           "title": "DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses"
+        },
+        {
+          "id": "https://www.laphamsquarterly.org/roundtable/introducing-loaf-guardians",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.laphamsquarterly.org/roundtable/introducing-loaf-guardians",
+          "publishedOn": "2021-06-01T21:47:55.000Z",
+          "wordCount": 2543,
+          "title": "The Loaf Guardians: Parsing the Early History of the Anglo-Saxons"
         },
         {
           "id": "https://www.diybookscanner.org/",
@@ -5141,6 +5763,15 @@
           "publishedOn": "2021-05-31T18:02:17.000Z",
           "wordCount": 1149,
           "title": "The faulty digital clock problem"
+        },
+        {
+          "id": "http://www.infinitecuriosity.org/vizgp/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.infinitecuriosity.org/vizgp/",
+          "publishedOn": "2021-05-31T17:54:06.000Z",
+          "wordCount": 56,
+          "title": "Interactive Visualization of Gaussian Processes"
         },
         {
           "id": "https://www.dragongoserver.net/",
