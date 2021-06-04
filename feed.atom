@@ -2,10 +2,553 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:19:36.849Z</updated>
+    <updated>2021-06-04T01:13:46.800Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Genetic study finds the brain is most similar to – testicles?]]></title>
+        <id>https://www.studyfinds.org/brain-most-similar-to-testicles/</id>
+        <link href="https://www.studyfinds.org/brain-most-similar-to-testicles/"/>
+        <updated>2021-06-04T00:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DZone Monthly Community Awards: May 2021]]></title>
+        <id>https://dzone.com/articles/3128808</id>
+        <link href="https://dzone.com/articles/dzone-monthly-community-awards-may-2021"/>
+        <updated>2021-06-04T00:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the DZone monthly community award winners for May 2021! The DZone monthly community awards celebrate our amazing developer and software professional creators and contributors worldwide!
+May 2021 DZone Community Award Winners
+
+DZone Dev of the Month - Mir Ali
+
+From DZone Editor Samantha Ross: "Mir Ali (DZone profile) never fails to bring the fire and wisdom to his beautifully worded articles. His focus this May was on Infrastructure-as-Code (IaC), but since he started only this past December, he's shared his knowledge on everything from AI to DevOps. Both his published pieces this month I classed as phenomenally well-written, and I'd like to congratulate Mir on his growing DZone portfolio and engagement, having hit his 100k this month. Looking forward to what's next!"]]></summary>
+        <author>
+            <name>Blake Team DZone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook deals with PCIe faults to keep our data centers running reliably]]></title>
+        <id>https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/</id>
+        <link href="https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/"/>
+        <updated>2021-06-03T23:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML and CSS techniques to reduce your JavaScript]]></title>
+        <id>https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/</id>
+        <link href="https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/"/>
+        <updated>2021-06-03T23:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)]]></title>
+        <id>http://www.geoffreylandis.com/ebullism.html</id>
+        <link href="http://www.geoffreylandis.com/ebullism.html"/>
+        <updated>2021-06-03T23:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient]]></title>
+        <id>https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html</id>
+        <link href="https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html"/>
+        <updated>2021-06-03T22:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford CS Curriculum 2021]]></title>
+        <id>https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview</id>
+        <link href="https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview"/>
+        <updated>2021-06-03T22:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyPilot: Month 11]]></title>
+        <id>https://mtlynch.io/retrospectives/2021/06/</id>
+        <link href="https://mtlynch.io/retrospectives/2021/06/"/>
+        <updated>2021-06-03T22:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>60b11ff811ffb70827ef8f94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2021-06-03T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Region Database Deployments]]></title>
+        <id>https://dzone.com/refcardz/3130680</id>
+        <link href="https://dzone.com/refcardz/multi-region-database-deployments"/>
+        <updated>2021-06-03T21:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Modern applications and services demand an always-on, low-latency experience for users no matter where they are on the planet. To meet these requirements, many deploy multiple instances of their applications and services across multiple cloud regions. This legacy approach leaves room for downtime and, even worse, inconsistencies in data.  
+
+In this Refcard, we explore patterns and anti-patterns to multi-region database deployments — allowing your applications to survive a region failure without downtime while also ensuring consistent and low latency access to data no matter where you do business.]]></summary>
+        <author>
+            <name>Lindsay Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Region Database Deployments]]></title>
+        <id>https://dzone.com/refcardz/3130680</id>
+        <link href="https://dzone.com/refcardz/multi-region-database-deployments"/>
+        <updated>2021-06-03T21:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Modern applications and services demand an always-on, low-latency experience for users no matter where they are on the planet. To meet these requirements, many deploy multiple instances of their applications and services across multiple cloud regions. This legacy approach leaves room for downtime and, even worse, inconsistencies in data.  
+
+In this Refcard, we explore patterns and anti-patterns to multi-region database deployments — allowing your applications to survive a region failure without downtime while also ensuring consistent and low latency access to data no matter where you do business.]]></summary>
+        <author>
+            <name>Lindsay Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telnet Mapscii.me]]></title>
+        <id>http://mapscii.me</id>
+        <link href="http://mapscii.me"/>
+        <updated>2021-06-03T21:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-11 is opening 500 EV charging stations by the end of 2022]]></title>
+        <id>https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/</id>
+        <link href="https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/"/>
+        <updated>2021-06-03T21:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound (YC S19) is hiring to build financial products for startup employees]]></title>
+        <id>https://jobs.lever.co/compound</id>
+        <link href="https://jobs.lever.co/compound"/>
+        <updated>2021-06-03T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictive Coding Can Do Exact Backpropagation on Any Neural Network]]></title>
+        <id>https://arxiv.org/abs/2103.04689</id>
+        <link href="https://arxiv.org/abs/2103.04689"/>
+        <updated>2021-06-03T20:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yann LeCun Deep Learning Course 2021]]></title>
+        <id>https://atcold.github.io/NYU-DLSP21/</id>
+        <link href="https://atcold.github.io/NYU-DLSP21/"/>
+        <updated>2021-06-03T20:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. to give ransomware hacks similar priority as terrorism, official says]]></title>
+        <id>https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD</id>
+        <link href="https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD"/>
+        <updated>2021-06-03T20:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eight Questions I Had Every Day As A Dev Team Lead]]></title>
+        <id>https://dzone.com/articles/3128805</id>
+        <link href="https://dzone.com/articles/eight-questions-i-had-every-day-as-a-dev-team-lead"/>
+        <updated>2021-06-03T20:42:47.000Z</updated>
+        <summary type="html"><![CDATA[When I was a software developer manager, there were a lot of questions.  Questions that my boss asked me.  Questions that I had myself.  Questions that arose when discussing work with my team. And most of these were questions to which I did not have a good answer.  I couldn’t respond well to them because I didn’t have the data necessary to give a definitive answer.  
+The data was there, but without a way to get at it, I often felt like I was stumbling in the dark. But all is not lost.  Here are eight questions that I had, and ways that data inside your tools can be used to answer them.]]></summary>
+        <author>
+            <name>Nick Hodges</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a DataKeeper Replicated Volume That Has Multiple Targets via CLI]]></title>
+        <id>https://dzone.com/articles/3130685</id>
+        <link href="https://dzone.com/articles/how-to-create-a-datakeeper-replicated-volume-that"/>
+        <updated>2021-06-03T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[I often help people automate the configuration of their infrastructure so they can build 3-node clusters that span Availability Zones and Regions. The CLI for creating a DataKeeper Job and associated mirrors that contain more than one target can be a little confusing, so I'm documenting it here in case you find yourself looking for this information. The DataKeeper documentation describes this as a Mirror with Multiple Targets.
+The environment in this example looks like this:
+PRIMARY (10.0.2.100) - in AZ1
+SECONDARY (10.0.3.100) - in AZ2
+DR (10.0.1.10) - in a different Region
+I want to create a synchronous mirror from PRIMARY to SECONDARY and an asynchronous mirror from PRIMARY to DR. I also have to make sure the DataKeeper Job knows how to create a mirror from SECONDARY to DR in case the SECONDARY or DR server ever become the source of the mirror. EMCMD will be used to create this multiple target mirror.
+We need to first create the Job that contains all this possible endpoints and define whether the mirror will be Sync (S) or Async (A) between those endpoints.]]></summary>
+        <author>
+            <name>David Bermingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Cloud Builds for Everyone]]></title>
+        <id>https://blog.nelhage.com/post/distributed-builds-for-everyone/</id>
+        <link href="https://blog.nelhage.com/post/distributed-builds-for-everyone/"/>
+        <updated>2021-06-03T18:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Feature Flags in Continuous Integration]]></title>
+        <id>https://dzone.com/articles/3130673</id>
+        <link href="https://dzone.com/articles/introduction-to-feature-flags-in-continuous-integr"/>
+        <updated>2021-06-03T18:39:02.000Z</updated>
+        <summary type="html"><![CDATA[The following is the first in a series of posts related to feature flags across CI/CD.
+ 
+Continuous integration (CI) and feature flags look like a match made in heaven. Integrating code regularly, combined with the ability to isolate new features and turn them on and off at will, means you can move fast and still manage risk.
+But with great power comes great responsibility. Feature flags require careful planning and continuous management, just like your builds do.]]></summary>
+        <author>
+            <name>Nick Rendall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour of our 250k line Clojure codebase]]></title>
+        <id>https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/</id>
+        <link href="https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/"/>
+        <updated>2021-06-03T18:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patents in Open Source: the important parts of real cases]]></title>
+        <id>https://google.github.io/opencasebook/patents/</id>
+        <link href="https://google.github.io/opencasebook/patents/"/>
+        <updated>2021-06-03T18:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new ProtoBuf generator for Go]]></title>
+        <id>https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/</id>
+        <link href="https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/"/>
+        <updated>2021-06-03T17:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Stages of Feature Flag Adoption]]></title>
+        <id>https://dzone.com/articles/3129703</id>
+        <link href="https://dzone.com/articles/the-first-stages-of-feature-flag-adoption"/>
+        <updated>2021-06-03T17:37:44.000Z</updated>
+        <summary type="html"><![CDATA[For quite a while now, developers have used snippets of code to turn features on and off during runtime. These code snippets, more commonly known as feature flags, allow you to change features (or sub-sections) of your application without re-deploying. They help developers release code faster, with less risk. 
+Feature flags are more prevalent than you might believe. At most companies, though, adoption begins at the grassroots level. Developers—usually within a single team, and often just a few individuals—implement a handful of feature flags in an ad hoc way. In these early stages, feature flags aren’t usually being considered at a systemic level. They’re meant to solve specific pain points at specific points in time. There is no formal program in place, and there are no plans to manage flags across teams.]]></summary>
+        <author>
+            <name>Kara Phelps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Jenkins Job Broke our Jenkins UI]]></title>
+        <id>https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/</id>
+        <link href="https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/"/>
+        <updated>2021-06-03T17:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Camera Calibration from Scratch Using Rust]]></title>
+        <id>https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3</id>
+        <link href="https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3"/>
+        <updated>2021-06-03T17:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
+        <id>5fff3d3098be260817e495bd</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
+        <updated>2021-06-03T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cocoa Touch apps (2007)]]></title>
+        <id>https://twitter.com/techemails/status/1400270458608664577</id>
+        <link href="https://twitter.com/techemails/status/1400270458608664577"/>
+        <updated>2021-06-03T15:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Supreme Court Restricts Scope of Computer Fraud and Abuse Act [pdf]]]></title>
+        <id>https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf</id>
+        <link href="https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf"/>
+        <updated>2021-06-03T15:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing Io_uring]]></title>
+        <id>https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/</id>
+        <link href="https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/"/>
+        <updated>2021-06-03T14:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[United Airlines will buy 15 planes from Boom Supersonic]]></title>
+        <id>https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html</id>
+        <link href="https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html"/>
+        <updated>2021-06-03T13:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The theft and ransom of dogs in the 18th century]]></title>
+        <id>https://www.historytoday.com/miscellanies/whos-afraid-dog-banditti</id>
+        <link href="https://www.historytoday.com/miscellanies/whos-afraid-dog-banditti"/>
+        <updated>2021-06-03T11:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retail Data Framework — An Architectural Introduction]]></title>
+        <id>https://dzone.com/articles/3129689</id>
+        <link href="https://dzone.com/articles/retail-data-framework-an-architectural-introductio"/>
+        <updated>2021-06-03T11:31:09.000Z</updated>
+        <summary type="html"><![CDATA[This article launches a new series exploring a retail architecture blueprint. It's focusing on presenting access to ways of mapping successful implementations for specific use cases.
+ 
+ 
+It's an interesting challenge creating architectural content based on common customer adoption patterns. That's very different from most of the traditional marketing activities usually associated with generating content for the sole purpose of positioning products for solutions. When you're basing the content on actual execution in solution delivery, you're cutting out the chuff.]]></summary>
+        <author>
+            <name>Eric D. Schabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The long, strange life of the naked mole rat]]></title>
+        <id>https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/</id>
+        <link href="https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/"/>
+        <updated>2021-06-03T10:54:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Concrete Introduction to Probability (2018)]]></title>
+        <id>https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb</id>
+        <link href="https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb"/>
+        <updated>2021-06-03T10:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
+        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
+        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
+        <updated>2021-06-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Endless Work of Trying to Win Yourself a New Life]]></title>
+        <id>https://newrepublic.com/article/162328/endless-work-trying-win-new-life</id>
+        <link href="https://newrepublic.com/article/162328/endless-work-trying-win-new-life"/>
+        <updated>2021-06-03T10:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command Palette Interfaces]]></title>
+        <id>https://philipcdavis.com/writing/command-palette-interfaces</id>
+        <link href="https://philipcdavis.com/writing/command-palette-interfaces"/>
+        <updated>2021-06-03T08:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora co-mingles its source packages with Red Hat Enterprise Linux]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraRPMSpecsAndRHEL</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraRPMSpecsAndRHEL"/>
+        <updated>2021-06-03T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
+        <id>https://dzone.com/articles/3123181</id>
+        <link href="https://dzone.com/articles/slow-and-steady-converting-sentrys-entire-frontend"/>
+        <updated>2021-06-03T01:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Sentry converted 100% of its frontend React codebase from JavaScript to TypeScript. This year-long effort spanned over a dozen members of the engineering team, 1,100 files, and 95,000 lines of code.
+In this blog post, we share our process, techniques, challenges, and ultimately, what we learned along this journey.]]></summary>
+        <author>
+            <name>Mark Story</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Insert a Record in The Database Using JdbcTemplate With Spring Boot? [Video]]]></title>
+        <id>https://dzone.com/articles/3124794</id>
+        <link href="https://dzone.com/articles/how-to-insert-a-record-in-the-database-using-jdbct-1"/>
+        <updated>2021-06-03T01:45:46.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at the How to insert a record in the database using JdbcTemplate with Spring Boot? | Spring Boot Tutorial. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regular Expressions in Python Using The re Module]]></title>
+        <id>https://dzone.com/articles/3123928</id>
+        <link href="https://dzone.com/articles/regular-expression-in-python-using-re-module"/>
+        <updated>2021-06-03T01:39:20.000Z</updated>
+        <summary type="html"><![CDATA[What is Regex?
+Regex, or a more known terminology, Regular Expressions, is used to create complex patterns for searching substring inside Strings.
+We have other methods of finding substring as well, but regex can cope up with way more complicated patterns than just normal searching for a substring.]]></summary>
+        <author>
+            <name>Sai Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot: Disabling Whitelabel Error Page [Video]]]></title>
+        <id>https://dzone.com/articles/3123897</id>
+        <link href="https://dzone.com/articles/spring-boot-disabling-whitelabel-error-page-1"/>
+        <updated>2021-06-03T01:10:46.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at the Spring Boot: Disabling Whitelabel Error Page. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route53 With a Private Hosted Zone]]></title>
+        <id>https://dzone.com/articles/3123846</id>
+        <link href="https://dzone.com/articles/route53-quick-hands-on"/>
+        <updated>2021-06-03T01:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Route53 is an AWS service that provides a mapping between domain names and IP addresses. At first glance, this could lead us to think that we can't do an effective hands-on with Route53 without having to purchase a domain name from AWS or any other domain registrar. We should fear not, for AWS provides an option for a private hosted-zone to create and test the Route53 concepts.
+Resources and Prerequisites
+In preparing for the AWS certified solutions architect associate certification, I have been referring to the Ultimate AWS Certified Solutions Architect Associate 2021 Udemy course.]]></summary>
+        <author>
+            <name>Giridhar LV</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
         <id>https://news.ycombinator.com/item?id=27375951</id>
@@ -1098,6 +1641,16 @@ The software testing process is an ever-shifting entity. It has to keep changing
 Testing Maturity designates the extent to which the process is optimized and formalized to accept and incorporate changes. This ranges from ad-hoc practices, formally established stages, result metrics, and optimization efforts on each level. Testing Maturity reveals how well the process is shaped, measured, managed, monitored and the results it yields.]]></summary>
         <author>
             <name>Nirnai Nevrekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Intuition: Thomas Nagel on human rights and moral knowledge]]></title>
+        <id>https://www.lrb.co.uk/the-paper/v43/n11/thomas-nagel/types-of-intuition</id>
+        <link href="https://www.lrb.co.uk/the-paper/v43/n11/thomas-nagel/types-of-intuition"/>
+        <updated>2021-06-01T17:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -13591,82 +14144,6 @@ The post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Rob O'Leary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16px or Larger Text Prevents iOS Form Zoom]]></title>
-        <id>https://css-tricks.com/?p=339455</id>
-        <link href="https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/"/>
-        <updated>2021-05-04T21:16:04.000Z</updated>
-        <summary type="html"><![CDATA[This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;
-The post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders]]></title>
-        <id>https://css-tricks.com/?p=339867</id>
-        <link href="https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/"/>
-        <updated>2021-05-04T21:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;
-The post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s use (X, X, X, X) for talking about specificity]]></title>
-        <id>https://css-tricks.com/?p=339449</id>
-        <link href="https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/"/>
-        <updated>2021-05-04T14:19:55.000Z</updated>
-        <summary type="html"><![CDATA[I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;
-The post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

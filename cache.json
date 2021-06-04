@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341584",
+          "author": "Temani Afif",
+          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "publishedOn": "2021-06-03T14:25:57.000Z",
+          "wordCount": 4971,
+          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341494",
+          "author": "Chris Coyier",
+          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
+          "publishedOn": "2021-06-03T14:25:19.000Z",
+          "wordCount": 865,
+          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
+        },
+        {
           "id": "https://css-tricks.com/?p=341724",
           "author": "Chris Coyier",
           "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -526,33 +544,6 @@
           "publishedOn": "2021-05-05T14:18:28.000Z",
           "wordCount": 3140,
           "title": "Is Vendor Prefixing Dead?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339455",
-          "author": "Chris Coyier",
-          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
-          "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 758,
-          "title": "16px or Larger Text Prevents iOS Form Zoom"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339867",
-          "author": "Geoff Graham",
-          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
-          "publishedOn": "2021-05-04T21:15:57.000Z",
-          "wordCount": 450,
-          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339449",
-          "author": "Chris Coyier",
-          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
-          "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 970,
-          "title": "Let’s use (X, X, X, X) for talking about specificity"
         }
       ]
     },
@@ -561,6 +552,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
+          "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
+          "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "publishedOn": "2021-06-03T10:30:00.000Z",
+          "wordCount": 3510,
+          "title": "Managing Shared State In Vue 3",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
@@ -848,24 +853,6 @@
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
         }
       ]
     },
@@ -874,6 +861,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b11ff811ffb70827ef8f94",
+          "author": null,
+          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "publishedOn": "2021-06-03T21:44:03.000Z",
+          "wordCount": 3978,
+          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
+        },
+        {
+          "id": "60afd68611ffb70827ef86d8",
+          "author": null,
+          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
+          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
+          "publishedOn": "2021-06-03T18:46:12.000Z",
+          "wordCount": 1588,
+          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
+        },
+        {
+          "id": "60b7c02cacb62507dd1d7b80",
+          "author": null,
+          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
+          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
+          "publishedOn": "2021-06-03T18:42:20.000Z",
+          "wordCount": 1748,
+          "title": "Lists in Python – A Comprehensive Guide"
+        },
+        {
+          "id": "60affbe411ffb70827ef8951",
+          "author": null,
+          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
+          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
+          "publishedOn": "2021-06-03T18:07:17.000Z",
+          "wordCount": 2708,
+          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
+        },
+        {
+          "id": "60aa708711ffb70827ef5f4b",
+          "author": null,
+          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
+          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
+          "publishedOn": "2021-06-03T16:51:37.000Z",
+          "wordCount": 1453,
+          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
+        },
+        {
+          "id": "5fff3d3098be260817e495bd",
+          "author": null,
+          "description": "Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be",
+          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
+          "publishedOn": "2021-06-03T16:21:19.000Z",
+          "wordCount": 2747,
+          "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
+        },
         {
           "id": "60afce3011ffb70827ef869c",
           "author": null,
@@ -1557,24 +1598,6 @@
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
-        },
-        {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
-        },
-        {
-          "id": "608f5ad48eb3fb07cf099ddb",
-          "author": "",
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1018,
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         }
       ]
     },
@@ -1583,6 +1606,15 @@
       "feedUrl": "http://feeds.dzone.com/publications",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/refcardz/3130680",
+          "author": "Lindsay Smith",
+          "description": "Modern applications and services demand an always-on, low-latency experience for users no matter where they are on the planet. To meet these requirements, many deploy multiple instances of their applications and services across multiple cloud regions. This legacy approach leaves room for downtime and, even worse, inconsistencies in data.  \n\nIn this Refcard, we explore patterns and anti-patterns to multi-region database deployments — allowing your applications to survive a region failure without downtime while also ensuring consistent and low latency access to data no matter where you do business.",
+          "link": "https://dzone.com/refcardz/multi-region-database-deployments",
+          "publishedOn": "2021-06-03T21:30:02.000Z",
+          "wordCount": 1159,
+          "title": "Multi-Region Database Deployments"
+        },
         {
           "id": "https://dzone.com/refcardz/3057702",
           "author": "Melissa Habit",
@@ -1626,6 +1658,114 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3128808",
+          "author": "Blake Team DZone",
+          "description": "Announcing the DZone monthly community award winners for May 2021! The DZone monthly community awards celebrate our amazing developer and software professional creators and contributors worldwide!\nMay 2021 DZone Community Award Winners\n\nDZone Dev of the Month - Mir Ali\n\nFrom DZone Editor Samantha Ross: \"Mir Ali (DZone profile) never fails to bring the fire and wisdom to his beautifully worded articles. His focus this May was on Infrastructure-as-Code (IaC), but since he started only this past December, he's shared his knowledge on everything from AI to DevOps. Both his published pieces this month I classed as phenomenally well-written, and I'd like to congratulate Mir on his growing DZone portfolio and engagement, having hit his 100k this month. Looking forward to what's next!\"",
+          "link": "https://dzone.com/articles/dzone-monthly-community-awards-may-2021",
+          "publishedOn": "2021-06-04T00:06:44.000Z",
+          "wordCount": 1617,
+          "title": "DZone Monthly Community Awards: May 2021"
+        },
+        {
+          "id": "https://dzone.com/refcardz/3130680",
+          "author": "Lindsay Smith",
+          "description": "Modern applications and services demand an always-on, low-latency experience for users no matter where they are on the planet. To meet these requirements, many deploy multiple instances of their applications and services across multiple cloud regions. This legacy approach leaves room for downtime and, even worse, inconsistencies in data.  \n\nIn this Refcard, we explore patterns and anti-patterns to multi-region database deployments — allowing your applications to survive a region failure without downtime while also ensuring consistent and low latency access to data no matter where you do business.",
+          "link": "https://dzone.com/refcardz/multi-region-database-deployments",
+          "publishedOn": "2021-06-03T21:30:02.000Z",
+          "wordCount": 1159,
+          "title": "Multi-Region Database Deployments"
+        },
+        {
+          "id": "https://dzone.com/articles/3128805",
+          "author": "Nick Hodges",
+          "description": "When I was a software developer manager, there were a lot of questions.  Questions that my boss asked me.  Questions that I had myself.  Questions that arose when discussing work with my team. And most of these were questions to which I did not have a good answer.  I couldn’t respond well to them because I didn’t have the data necessary to give a definitive answer.  \nThe data was there, but without a way to get at it, I often felt like I was stumbling in the dark. But all is not lost.  Here are eight questions that I had, and ways that data inside your tools can be used to answer them.",
+          "link": "https://dzone.com/articles/eight-questions-i-had-every-day-as-a-dev-team-lead",
+          "publishedOn": "2021-06-03T20:42:47.000Z",
+          "wordCount": 2081,
+          "title": "Eight Questions I Had Every Day As A Dev Team Lead"
+        },
+        {
+          "id": "https://dzone.com/articles/3130685",
+          "author": "David Bermingham",
+          "description": "I often help people automate the configuration of their infrastructure so they can build 3-node clusters that span Availability Zones and Regions. The CLI for creating a DataKeeper Job and associated mirrors that contain more than one target can be a little confusing, so I'm documenting it here in case you find yourself looking for this information. The DataKeeper documentation describes this as a Mirror with Multiple Targets.\nThe environment in this example looks like this:\nPRIMARY (10.0.2.100) - in AZ1\nSECONDARY (10.0.3.100) - in AZ2\nDR (10.0.1.10) - in a different Region\nI want to create a synchronous mirror from PRIMARY to SECONDARY and an asynchronous mirror from PRIMARY to DR. I also have to make sure the DataKeeper Job knows how to create a mirror from SECONDARY to DR in case the SECONDARY or DR server ever become the source of the mirror. EMCMD will be used to create this multiple target mirror.\nWe need to first create the Job that contains all this possible endpoints and define whether the mirror will be Sync (S) or Async (A) between those endpoints.",
+          "link": "https://dzone.com/articles/how-to-create-a-datakeeper-replicated-volume-that",
+          "publishedOn": "2021-06-03T20:41:00.000Z",
+          "wordCount": 623,
+          "title": "How to Create a DataKeeper Replicated Volume That Has Multiple Targets via CLI"
+        },
+        {
+          "id": "https://dzone.com/articles/3130673",
+          "author": "Nick Rendall",
+          "description": "The following is the first in a series of posts related to feature flags across CI/CD.\n \nContinuous integration (CI) and feature flags look like a match made in heaven. Integrating code regularly, combined with the ability to isolate new features and turn them on and off at will, means you can move fast and still manage risk.\nBut with great power comes great responsibility. Feature flags require careful planning and continuous management, just like your builds do.",
+          "link": "https://dzone.com/articles/introduction-to-feature-flags-in-continuous-integr",
+          "publishedOn": "2021-06-03T18:39:02.000Z",
+          "wordCount": 1621,
+          "title": "Introduction to Feature Flags in Continuous Integration"
+        },
+        {
+          "id": "https://dzone.com/articles/3129703",
+          "author": "Kara Phelps",
+          "description": "For quite a while now, developers have used snippets of code to turn features on and off during runtime. These code snippets, more commonly known as feature flags, allow you to change features (or sub-sections) of your application without re-deploying. They help developers release code faster, with less risk. \nFeature flags are more prevalent than you might believe. At most companies, though, adoption begins at the grassroots level. Developers—usually within a single team, and often just a few individuals—implement a handful of feature flags in an ad hoc way. In these early stages, feature flags aren’t usually being considered at a systemic level. They’re meant to solve specific pain points at specific points in time. There is no formal program in place, and there are no plans to manage flags across teams.",
+          "link": "https://dzone.com/articles/the-first-stages-of-feature-flag-adoption",
+          "publishedOn": "2021-06-03T17:37:44.000Z",
+          "wordCount": 959,
+          "title": "The First Stages of Feature Flag Adoption"
+        },
+        {
+          "id": "https://dzone.com/articles/3129689",
+          "author": "Eric D. Schabell",
+          "description": "This article launches a new series exploring a retail architecture blueprint. It's focusing on presenting access to ways of mapping successful implementations for specific use cases.\n \n \nIt's an interesting challenge creating architectural content based on common customer adoption patterns. That's very different from most of the traditional marketing activities usually associated with generating content for the sole purpose of positioning products for solutions. When you're basing the content on actual execution in solution delivery, you're cutting out the chuff.",
+          "link": "https://dzone.com/articles/retail-data-framework-an-architectural-introductio",
+          "publishedOn": "2021-06-03T11:31:09.000Z",
+          "wordCount": 792,
+          "title": "Retail Data Framework — An Architectural Introduction"
+        },
+        {
+          "id": "https://dzone.com/articles/3123181",
+          "author": "Mark Story",
+          "description": "Recently, Sentry converted 100% of its frontend React codebase from JavaScript to TypeScript. This year-long effort spanned over a dozen members of the engineering team, 1,100 files, and 95,000 lines of code.\nIn this blog post, we share our process, techniques, challenges, and ultimately, what we learned along this journey.",
+          "link": "https://dzone.com/articles/slow-and-steady-converting-sentrys-entire-frontend",
+          "publishedOn": "2021-06-03T01:56:12.000Z",
+          "wordCount": 2574,
+          "title": "Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript"
+        },
+        {
+          "id": "https://dzone.com/articles/3124794",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at the How to insert a record in the database using JdbcTemplate with Spring Boot? | Spring Boot Tutorial. Let's get started!",
+          "link": "https://dzone.com/articles/how-to-insert-a-record-in-the-database-using-jdbct-1",
+          "publishedOn": "2021-06-03T01:45:46.000Z",
+          "wordCount": 299,
+          "title": "How to Insert a Record in The Database Using JdbcTemplate With Spring Boot? [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3123928",
+          "author": "Sai Kumar",
+          "description": "What is Regex?\nRegex, or a more known terminology, Regular Expressions, is used to create complex patterns for searching substring inside Strings.\nWe have other methods of finding substring as well, but regex can cope up with way more complicated patterns than just normal searching for a substring.",
+          "link": "https://dzone.com/articles/regular-expression-in-python-using-re-module",
+          "publishedOn": "2021-06-03T01:39:20.000Z",
+          "wordCount": 1843,
+          "title": "Regular Expressions in Python Using The re Module"
+        },
+        {
+          "id": "https://dzone.com/articles/3123897",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at the Spring Boot: Disabling Whitelabel Error Page. Let's get started!",
+          "link": "https://dzone.com/articles/spring-boot-disabling-whitelabel-error-page-1",
+          "publishedOn": "2021-06-03T01:10:46.000Z",
+          "wordCount": 272,
+          "title": "Spring Boot: Disabling Whitelabel Error Page [Video]"
+        },
+        {
+          "id": "https://dzone.com/articles/3123846",
+          "author": "Giridhar LV",
+          "description": "Route53 is an AWS service that provides a mapping between domain names and IP addresses. At first glance, this could lead us to think that we can't do an effective hands-on with Route53 without having to purchase a domain name from AWS or any other domain registrar. We should fear not, for AWS provides an option for a private hosted-zone to create and test the Route53 concepts.\nResources and Prerequisites\nIn preparing for the AWS certified solutions architect associate certification, I have been referring to the Ultimate AWS Certified Solutions Architect Associate 2021 Udemy course.",
+          "link": "https://dzone.com/articles/route53-quick-hands-on",
+          "publishedOn": "2021-06-03T01:01:51.000Z",
+          "wordCount": 1246,
+          "title": "Route53 With a Private Hosted Zone"
+        },
         {
           "id": "https://dzone.com/articles/3128682",
           "author": "Dmitry Sotnikov",
@@ -5162,6 +5302,267 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.studyfinds.org/brain-most-similar-to-testicles/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.studyfinds.org/brain-most-similar-to-testicles/",
+          "publishedOn": "2021-06-04T00:15:59.000Z",
+          "wordCount": 1014,
+          "title": "Genetic study finds the brain is most similar to – testicles?"
+        },
+        {
+          "id": "https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/",
+          "publishedOn": "2021-06-03T23:43:07.000Z",
+          "wordCount": 2371,
+          "title": "Facebook deals with PCIe faults to keep our data centers running reliably"
+        },
+        {
+          "id": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/",
+          "publishedOn": "2021-06-03T23:20:05.000Z",
+          "wordCount": 2459,
+          "title": "HTML and CSS techniques to reduce your JavaScript"
+        },
+        {
+          "id": "http://www.geoffreylandis.com/ebullism.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.geoffreylandis.com/ebullism.html",
+          "publishedOn": "2021-06-03T23:12:50.000Z",
+          "wordCount": 3444,
+          "title": "Ebullism at 1M Feet: Surviving Rapid/Explosive Decompression (2000)"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/06/03/health/covid-19-diagnosis-surgeon.html",
+          "publishedOn": "2021-06-03T22:57:34.000Z",
+          "wordCount": 2397,
+          "title": "‘I Had Never Faced the Reality of Death’: A Surgeon Becomes a Patient"
+        },
+        {
+          "id": "https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview",
+          "author": null,
+          "description": "Comments",
+          "link": "https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview",
+          "publishedOn": "2021-06-03T22:42:53.000Z",
+          "wordCount": 279,
+          "title": "Stanford CS Curriculum 2021"
+        },
+        {
+          "id": "https://mtlynch.io/retrospectives/2021/06/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mtlynch.io/retrospectives/2021/06/",
+          "publishedOn": "2021-06-03T22:01:44.000Z",
+          "wordCount": 2992,
+          "title": "TinyPilot: Month 11"
+        },
+        {
+          "id": "http://mapscii.me",
+          "author": null,
+          "description": "Comments",
+          "link": "http://mapscii.me",
+          "publishedOn": "2021-06-03T21:28:58.000Z",
+          "wordCount": 1291,
+          "title": "Telnet Mapscii.me"
+        },
+        {
+          "id": "https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnet.com/roadshow/news/7-11-charging-station-ev-500-2022/",
+          "publishedOn": "2021-06-03T21:19:54.000Z",
+          "wordCount": 643,
+          "title": "7-11 is opening 500 EV charging stations by the end of 2022"
+        },
+        {
+          "id": "https://jobs.lever.co/compound",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/compound",
+          "publishedOn": "2021-06-03T21:00:30.000Z",
+          "wordCount": 62,
+          "title": "Compound (YC S19) is hiring to build financial products for startup employees"
+        },
+        {
+          "id": "https://arxiv.org/abs/2103.04689",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2103.04689",
+          "publishedOn": "2021-06-03T20:53:31.000Z",
+          "wordCount": 673,
+          "title": "Predictive Coding Can Do Exact Backpropagation on Any Neural Network"
+        },
+        {
+          "id": "https://atcold.github.io/NYU-DLSP21/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://atcold.github.io/NYU-DLSP21/",
+          "publishedOn": "2021-06-03T20:53:30.000Z",
+          "wordCount": 220,
+          "title": "Yann LeCun Deep Learning Course 2021"
+        },
+        {
+          "id": "https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD",
+          "publishedOn": "2021-06-03T20:50:26.000Z",
+          "wordCount": 400,
+          "title": "U.S. to give ransomware hacks similar priority as terrorism, official says"
+        },
+        {
+          "id": "https://blog.nelhage.com/post/distributed-builds-for-everyone/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.nelhage.com/post/distributed-builds-for-everyone/",
+          "publishedOn": "2021-06-03T18:57:52.000Z",
+          "wordCount": 1707,
+          "title": "Distributed Cloud Builds for Everyone"
+        },
+        {
+          "id": "https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/",
+          "publishedOn": "2021-06-03T18:12:18.000Z",
+          "wordCount": 3229,
+          "title": "Tour of our 250k line Clojure codebase"
+        },
+        {
+          "id": "https://google.github.io/opencasebook/patents/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://google.github.io/opencasebook/patents/",
+          "publishedOn": "2021-06-03T18:09:07.000Z",
+          "wordCount": 34335,
+          "title": "Patents in Open Source: the important parts of real cases"
+        },
+        {
+          "id": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
+          "publishedOn": "2021-06-03T17:50:15.000Z",
+          "wordCount": 2736,
+          "title": "A new ProtoBuf generator for Go"
+        },
+        {
+          "id": "https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/",
+          "publishedOn": "2021-06-03T17:36:08.000Z",
+          "wordCount": 1383,
+          "title": "How a Jenkins Job Broke our Jenkins UI"
+        },
+        {
+          "id": "https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3",
+          "publishedOn": "2021-06-03T17:03:15.000Z",
+          "wordCount": 1331,
+          "title": "Camera Calibration from Scratch Using Rust"
+        },
+        {
+          "id": "https://twitter.com/techemails/status/1400270458608664577",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/techemails/status/1400270458608664577",
+          "publishedOn": "2021-06-03T15:56:17.000Z",
+          "wordCount": 196,
+          "title": "Cocoa Touch apps (2007)"
+        },
+        {
+          "id": "https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf",
+          "publishedOn": "2021-06-03T15:25:56.000Z",
+          "wordCount": 4313,
+          "title": "US Supreme Court Restricts Scope of Computer Fraud and Abuse Act [pdf]"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/",
+          "publishedOn": "2021-06-03T14:56:11.000Z",
+          "wordCount": 1983,
+          "title": "Auditing Io_uring"
+        },
+        {
+          "id": "https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html",
+          "publishedOn": "2021-06-03T13:12:24.000Z",
+          "wordCount": 843,
+          "title": "United Airlines will buy 15 planes from Boom Supersonic"
+        },
+        {
+          "id": "https://www.historytoday.com/miscellanies/whos-afraid-dog-banditti",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/miscellanies/whos-afraid-dog-banditti",
+          "publishedOn": "2021-06-03T11:54:16.000Z",
+          "wordCount": 1307,
+          "title": "The theft and ransom of dogs in the 18th century"
+        },
+        {
+          "id": "https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/",
+          "publishedOn": "2021-06-03T10:54:29.000Z",
+          "wordCount": 3408,
+          "title": "The long, strange life of the naked mole rat"
+        },
+        {
+          "id": "https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb",
+          "publishedOn": "2021-06-03T10:50:18.000Z",
+          "wordCount": 333,
+          "title": "A Concrete Introduction to Probability (2018)"
+        },
+        {
+          "id": "https://newrepublic.com/article/162328/endless-work-trying-win-new-life",
+          "author": null,
+          "description": "Comments",
+          "link": "https://newrepublic.com/article/162328/endless-work-trying-win-new-life",
+          "publishedOn": "2021-06-03T10:08:10.000Z",
+          "wordCount": 2555,
+          "title": "The Endless Work of Trying to Win Yourself a New Life"
+        },
+        {
+          "id": "https://philipcdavis.com/writing/command-palette-interfaces",
+          "author": null,
+          "description": "Comments",
+          "link": "https://philipcdavis.com/writing/command-palette-interfaces",
+          "publishedOn": "2021-06-03T08:40:18.000Z",
+          "wordCount": 375,
+          "title": "Command Palette Interfaces"
+        },
+        {
+          "id": "https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraRPMSpecsAndRHEL",
+          "author": null,
+          "description": "Comments",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraRPMSpecsAndRHEL",
+          "publishedOn": "2021-06-03T05:00:59.000Z",
+          "wordCount": 624,
+          "title": "Fedora co-mingles its source packages with Red Hat Enterprise Linux"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27375951",
           "author": null,
           "description": "Comments",
@@ -5547,6 +5948,15 @@
           "publishedOn": "2021-06-01T17:48:20.000Z",
           "wordCount": 225,
           "title": "Helix: a post-modern modal text editor"
+        },
+        {
+          "id": "https://www.lrb.co.uk/the-paper/v43/n11/thomas-nagel/types-of-intuition",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lrb.co.uk/the-paper/v43/n11/thomas-nagel/types-of-intuition",
+          "publishedOn": "2021-06-01T17:13:40.000Z",
+          "wordCount": 5995,
+          "title": "Types of Intuition: Thomas Nagel on human rights and moral knowledge"
         },
         {
           "id": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl",
