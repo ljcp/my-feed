@@ -2,10 +2,546 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:13:46.800Z</updated>
+    <updated>2021-06-05T00:53:31.791Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leadership Is About Growth, Not Brilliance]]></title>
+        <id>https://dzone.com/articles/3125656</id>
+        <link href="https://dzone.com/articles/leadership-is-about-growth-not-brilliance"/>
+        <updated>2021-06-04T23:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Does it ever cross your mind that praise can be negative? I guess not. After all, it looks harmless and seems to be quite effective. Conventional wisdom says that if you praise people, they are motivated to do better.
+
+
+ 
+People who have been praised throughout their life by their well-meaning parents, friends, and teachers for their talent and smartness or those who have experienced extreme focus on talent and smartness throughout their childhood learn to value only intelligence. No wonder when these people enter the workforce, they continue to seek approval and demand praise every step of the way.
+
+
+ 
+Every opportunity is a measure of their intelligence — do I look smart, how will I be judged, what if others find my ideas dumb. With a single-minded focus on validating themselves, all the…]]></summary>
+        <author>
+            <name>Vinita Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Breached Colonial Pipeline Using Compromised Password]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password"/>
+        <updated>2021-06-04T22:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zig 0.8.0 Release Notes]]></title>
+        <id>https://ziglang.org/download/0.8.0/release-notes.html</id>
+        <link href="https://ziglang.org/download/0.8.0/release-notes.html"/>
+        <updated>2021-06-04T22:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin’s Reliance on Stablecoins Harks Back to the Wild West of Finance]]></title>
+        <id>https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246</id>
+        <link href="https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246"/>
+        <updated>2021-06-04T22:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOWTO: Be more productive (2005)]]></title>
+        <id>http://www.aaronsw.com/weblog/productivity</id>
+        <link href="http://www.aaronsw.com/weblog/productivity"/>
+        <updated>2021-06-04T22:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HD scan of the 1611 King James Bible]]></title>
+        <id>https://archive.org/details/1611TheAuthorizedKingJamesBible/page/n39/mode/2up</id>
+        <link href="https://archive.org/details/1611TheAuthorizedKingJamesBible/page/n39/mode/2up"/>
+        <updated>2021-06-04T22:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lol just got kicked out of  @ycombinator]]></title>
+        <id>https://twitter.com/paulbiggar/status/1400904600421535744</id>
+        <link href="https://twitter.com/paulbiggar/status/1400904600421535744"/>
+        <updated>2021-06-04T22:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Carmack on JPEG]]></title>
+        <id>https://twitter.com/ID_AA_Carmack/status/1400930510671601666</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/1400930510671601666"/>
+        <updated>2021-06-04T21:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denmark parliament approves giant artificial island off Copenhagen]]></title>
+        <id>https://www.bbc.co.uk/news/world-europe-57348415</id>
+        <link href="https://www.bbc.co.uk/news/world-europe-57348415"/>
+        <updated>2021-06-04T21:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator]]></title>
+        <id>https://github.com/ibara/8088ify</id>
+        <link href="https://github.com/ibara/8088ify"/>
+        <updated>2021-06-04T21:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)]]></title>
+        <id>https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN</id>
+        <link href="https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&amp;lever-source%5B%5D=HN"/>
+        <updated>2021-06-04T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCon US 2021 Recordings are Available]]></title>
+        <id>https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1</id>
+        <link href="https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1"/>
+        <updated>2021-06-04T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not a drill: VMware vuln with 9.8 severity rating is under attack]]></title>
+        <id>https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/</id>
+        <link href="https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/"/>
+        <updated>2021-06-04T20:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elijah Miller’s NEC v30 on a Pi hat]]></title>
+        <id>https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/</id>
+        <link href="https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/"/>
+        <updated>2021-06-04T19:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consequences of Plagiarism in Web Design]]></title>
+        <id>https://dzone.com/articles/3123128</id>
+        <link href="https://dzone.com/articles/consequences-of-plagiarism-in-web-design"/>
+        <updated>2021-06-04T18:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Plagiarism is the term given to the borrowing of someone else’s ideas and passing them around as one’s own. It exists in academia, in professional work environments, and any other field where there’s a creation of some kind of content involved.
+It’s considered a serious offense, leading to copyright laws, fines, and even imprisonment (in some severe cases). Today, there are software and other special practices implemented to keep plagiarism in check.]]></summary>
+        <author>
+            <name>Basit Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++]]></title>
+        <id>https://binji.github.io/posts/pokegb/</id>
+        <link href="https://binji.github.io/posts/pokegb/"/>
+        <updated>2021-06-04T18:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra-processed food targets bone quality via endochondral ossification]]></title>
+        <id>https://www.nature.com/articles/s41413-020-00127-9</id>
+        <link href="https://www.nature.com/articles/s41413-020-00127-9"/>
+        <updated>2021-06-04T18:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling]]></title>
+        <id>https://www.eejournal.com/article/we-interrupt-this-program/</id>
+        <link href="https://www.eejournal.com/article/we-interrupt-this-program/"/>
+        <updated>2021-06-04T18:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroic Rat Retiring from Detecting Land Mines]]></title>
+        <id>https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer</id>
+        <link href="https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer"/>
+        <updated>2021-06-04T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
+        <id>60b2a4c611ffb70827ef9842</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
+        <updated>2021-06-04T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Linux DNS Lookup]]></title>
+        <id>https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/</id>
+        <link href="https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/"/>
+        <updated>2021-06-04T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AR: Shaping the Next Decade of Fintech]]></title>
+        <id>https://dzone.com/articles/3123195</id>
+        <link href="https://dzone.com/articles/how-the-next-decade-of-fintech-will-be-shaped-by-a"/>
+        <updated>2021-06-04T17:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Augmented reality is already becoming more commonplace by the day. Via smartphones, AR is already widely accessible throughout the world of gaming, entertainment, and even finance-based consumer applications. In terms of business, cloud access means that AR users can operate seemingly free from hardware while applications enable businesses to link the data-driven power of the computer with human judgment and expertise. 
+It’s this collaboration between rich data and human intervention that makes AR an ideal asset in the world of fintech. The sector is growing while augmented reality represents the next logical step in making finance run on brand new tech.]]></summary>
+        <author>
+            <name>Oleg Spilka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Tools to the Rescue – Part 2]]></title>
+        <id>https://dzone.com/articles/3129788</id>
+        <link href="https://dzone.com/articles/dev-tools-to-the-rescue-part-2"/>
+        <updated>2021-06-04T17:22:16.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article Dev Tools to the Rescue – Part 1, we looked at some of the best developer tools for software development, project management, continuous delivery/integrity, designing, testing, etc.
+In this article, we’ll continue with tools that are helpful for purposes like monitoring, analysis, cloud development, security, etc.]]></summary>
+        <author>
+            <name>Mansi Babbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Tools to the Rescue – Part 1]]></title>
+        <id>https://dzone.com/articles/3129787</id>
+        <link href="https://dzone.com/articles/dev-tools-to-the-rescue-part-1"/>
+        <updated>2021-06-04T17:14:57.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are a software developer working on someone else’s projects or you run a business yourself, utilizing the right tools of the trade is essential.
+The market of software development tools is an ever-changing one and increasingly competitive. It’s a tough task to decide which one is best suited for you.]]></summary>
+        <author>
+            <name>Mansi Babbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social virtual spaces with Elixir at Mozilla]]></title>
+        <id>https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/</id>
+        <link href="https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/"/>
+        <updated>2021-06-04T17:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There are no results for tank man]]></title>
+        <id>https://www.bing.com/images/search?q=tank+man</id>
+        <link href="https://www.bing.com/images/search?q=tank+man"/>
+        <updated>2021-06-04T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Mobile Backend As A Service (MBaaS)?]]></title>
+        <id>https://dzone.com/articles/3123808</id>
+        <link href="https://dzone.com/articles/what-is-mobile-backend-as-a-service-mbaas"/>
+        <updated>2021-06-04T16:50:04.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+In the software as a service (SaaS) landscape, there are many variations of "____ as a service." In this article, we will explain what mobile backend as a service, or MBaaS, means.
+Mobile backend as a service (MBaaS) is an online service designed to be an all-in-one solution for backend app development. This typically includes data and database management, API management, security, and push notifications.]]></summary>
+        <author>
+            <name>Chris Fanchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haiku Monthly Activity Report – May 2021]]></title>
+        <id>https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/</id>
+        <link href="https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/"/>
+        <updated>2021-06-04T16:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: InBalance (YC W21) – Short-term energy market forecasting]]></title>
+        <id>https://news.ycombinator.com/item?id=27395238</id>
+        <link href="https://news.ycombinator.com/item?id=27395238"/>
+        <updated>2021-06-04T16:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Should End the Data Economy]]></title>
+        <id>https://thereboot.com/why-we-should-end-the-data-economy/</id>
+        <link href="https://thereboot.com/why-we-should-end-the-data-economy/"/>
+        <updated>2021-06-04T16:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a LLVM Micro C compiler in Haskell]]></title>
+        <id>https://blog.josephmorag.com/posts/mcc0/</id>
+        <link href="https://blog.josephmorag.com/posts/mcc0/"/>
+        <updated>2021-06-04T15:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Git Flow]]></title>
+        <id>https://dzone.com/articles/3129783</id>
+        <link href="https://dzone.com/articles/introduction-to-git-flow"/>
+        <updated>2021-06-04T15:11:34.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+Git Flow is an abstract idea of a Git workflow. It helps with continuous software development and implementing DevOps practices. The Git Flow Workflow defines a strict branching model designed around the project release. This provides a robust framework for managing larger projects.  
+Git Flow is ideally suited for projects that have a scheduled release cycle and for the DevOps best practice of continuous delivery. It assigns very specific roles to different branches and defines how and when they should interact. It uses individual branches for preparing, maintaining, and recording releases.]]></summary>
+        <author>
+            <name>Mansi Babbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with Java serverless functions]]></title>
+        <id>https://dzone.com/articles/3129776</id>
+        <link href="https://dzone.com/articles/get-started-with-java-serverless-functions"/>
+        <updated>2021-06-04T14:13:58.000Z</updated>
+        <summary type="html"><![CDATA[The serverless Java journey started out with functions—small snippets of code running on demand. This phase didn't last long. Although functions based on virtual machine architecture in the 1.0 phase made this paradigm very popular, as the graphic below shows, there were limits around execution time, protocols, and poor local-development experience.
+Developers then realized that they could apply the same serverless traits and benefits to microservices and Linux containers. This launched the 1.5 phase, where some serverless containers completely abstracted Kubernetes, delivering the serverless experience through Knative or another abstraction layer that sits on top of it.]]></summary>
+        <author>
+            <name>Daniel Oh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control]]></title>
+        <id>http://gvv.mpi-inf.mpg.de/projects/NeuralActor/</id>
+        <link href="http://gvv.mpi-inf.mpg.de/projects/NeuralActor/"/>
+        <updated>2021-06-04T12:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK and EU launch antitrust probes into Facebook]]></title>
+        <id>https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667</id>
+        <link href="https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667"/>
+        <updated>2021-06-04T11:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Kubernetes Operator in Java by Rudy De Busscher]]></title>
+        <id>https://dzone.com/articles/3129745</id>
+        <link href="https://dzone.com/articles/creating-a-kubernetes-operator-in-java-by-rudy-de"/>
+        <updated>2021-06-04T05:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes is much more than a runtime platform for Docker containers. Through its API not only can you create custom clients, but you can also extend Kubernetes. Those custom Controllers are called Operators and work with application-specific custom resource definitions. Not only can you write those Kubernetes operators in Go, but you can also do this in Java. Within this talk, you will be guided through setting up and your first explorations of the Kubernetes API within a plain Java program. We explore the concepts of resource listeners, programmatic creation of deployments and services, and how this can be used for your custom requirements.]]></summary>
+        <author>
+            <name>Otavio Santana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Unbelievable Demo]]></title>
+        <id>https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html</id>
+        <link href="https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html"/>
+        <updated>2021-06-04T04:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate Code Identifiers in Java]]></title>
+        <id>https://dzone.com/articles/3128792</id>
+        <link href="https://dzone.com/articles/how-to-validate-code-identifiers-in-java"/>
+        <updated>2021-06-04T03:25:09.000Z</updated>
+        <summary type="html"><![CDATA[When building applications and programs for use by other developers, ensuring you are utilizing valid code identifiers is an important component. These unique identifiers are symbols that have been designated to specific program elements essential to the successful creation of a program, and they can refer to a wide variety of features, including class, namespace, types, variables, and more. To avoid any confusion or misinterpretation, the names given to the symbols should clearly indicate the usage of the corresponding element. The general idea is to create an identity of sorts for the symbol so that it can easily be identified by any individual, not just the original developer.
+During the creation of these integral program pieces, it is also important to be conscious of the technical nuances of the applicable programming language; for example, since Java is case sensitive, identifiers that have different cases will be treated differently. As you may know, attempting to navigate the various rules and requirements for code identifiers can take up a lot of time, so we are going to highlight an easy tool you can integrate to do the work for you. The following API can be run in Java to validate input identifiers and analyze for incorrect strokes including usage of whitespace, hyphens, underscores, and other special symbols within the identifier. This is accomplished by configuring input rules for the symbols, such as allowing the identifier “helloWorld” but not "hello*World".]]></summary>
+        <author>
+            <name>Laura Bouchard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All You Need to Know About 8 Web Design Trends: 2021]]></title>
+        <id>https://dzone.com/articles/3129731</id>
+        <link href="https://dzone.com/articles/top-web-design-trends"/>
+        <updated>2021-06-04T03:14:54.000Z</updated>
+        <summary type="html"><![CDATA[However awash with challenges induced by the Covid-19 pandemic, the interminable year 2020 still anticipated the emergence of outstanding web design trends in 2021.
+Indeed, the quarantine period, in concert with remote working, has increased human exposure to the virtual world, especially websites. And now, we’ll summarize the top possibly dominant website design trends in 2021.]]></summary>
+        <author>
+            <name>Huyen Pham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Low-Code Platforms Implement Complex Business Processes]]></title>
+        <id>https://dzone.com/articles/3124002</id>
+        <link href="https://dzone.com/articles/how-low-code-platforms-implement-complex-business"/>
+        <updated>2021-06-04T02:59:32.000Z</updated>
+        <summary type="html"><![CDATA[If a low-code development platform wants to implement complex business processes, the following conditions must be met.
+1. What Is Automation?
+Automation is the key to improving efficiency, reducing human error and reducing operating costs. Repetitive work will require fewer workers, and more employees will focus on strategic decision-making and creative problem solving.
+
+2. The 2 Types of Automation Technology
+Robotic Process Automation (RPA)
+Business process automation (often referred to as business process management or BPM)
+In general, low-code automation capabilities can more prompt companies that rely on repetitive processes to evaluate how to improve efficiency. They will need to retrain and redistribute employees to assume roles that can leverage their experience and institutional knowledge with strategic capabilities.]]></summary>
+        <author>
+            <name>Ruchi Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use The KonMari Method For Efficient Project Management?]]></title>
+        <id>https://dzone.com/articles/3123878</id>
+        <link href="https://dzone.com/articles/how-to-use-the-konmari-method-for-efficient-projec"/>
+        <updated>2021-06-04T02:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Netflix’s 2019 series Tidying Up with Marie Kondo gave birth to our inner organizer, our very own Marie Kondo. The series was not only a commercial success but also gave rise to a whole movement of the systemic organization.
+The infamous KonMari method hooked us all and sucked us into this whirlpool of organization and micromanagement. People promptly started incorporating the method in their lives to create more space and get rid of the unwanted.]]></summary>
+        <author>
+            <name>Fred Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Buren is a victory against overbroad interpretations of the CFAA]]></title>
+        <id>https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security"/>
+        <updated>2021-06-04T01:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hasura 2.0 Works: A Design and Engineering Look]]></title>
+        <id>https://dzone.com/articles/3125414</id>
+        <link href="https://dzone.com/articles/how-hasura-20-works-a-design-amp-engineering-look"/>
+        <updated>2021-06-04T01:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Hasura GraphQL Engine launched as an open-source product in July 2018. Since then, Hasura has been downloaded over 200M times and has become the fastest-growing open-source GraphQL project globally. 
+Hasura accelerates API development by 10x by giving you GraphQL or REST APIs with built-in authorization on your data, instantly. In this blog post, we’re going to look at how Hasura works, what we thought about when building Hasura, and the problems we were trying to solve.]]></summary>
+        <author>
+            <name>Protim Bhaumik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Genetic study finds the brain is most similar to – testicles?]]></title>
         <id>https://www.studyfinds.org/brain-most-similar-to-testicles/</id>
@@ -432,6 +968,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 It's an interesting challenge creating architectural content based on common customer adoption patterns. That's very different from most of the traditional marketing activities usually associated with generating content for the sole purpose of positioning products for solutions. When you're basing the content on actual execution in solution delivery, you're cutting out the chuff.]]></summary>
         <author>
             <name>Eric D. Schabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Booster with System.IO.Pipelines in C#]]></title>
+        <id>https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/</id>
+        <link href="https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/"/>
+        <updated>2021-06-03T11:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -14086,64 +14632,6 @@ The post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro]]></title>
-        <id>https://css-tricks.com/?p=339563</id>
-        <link href="https://css-tricks.com/astro/"/>
-        <updated>2021-05-05T21:49:23.000Z</updated>
-        <summary type="html"><![CDATA[You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. 
-I gotta admit: it looks awesome. I&#8217;m bullish &#8230;
-The post Astro appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
-        <id>609307e801fc34080ef8191e</id>
-        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
-        <updated>2021-05-05T21:11:40.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
-        <id>https://css-tricks.com/?p=339954</id>
-        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
-        <updated>2021-05-05T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
-The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Vendor Prefixing Dead?]]></title>
-        <id>https://css-tricks.com/?p=339518</id>
-        <link href="https://css-tricks.com/is-vendor-prefixing-dead/"/>
-        <updated>2021-05-05T14:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!
-It‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;
-The post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Rob O'Leary</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341968",
+          "author": "Chris Coyier",
+          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/canihas.html",
+          "publishedOn": "2021-06-04T14:37:59.000Z",
+          "wordCount": 1327,
+          "title": "Can I :has()"
+        },
+        {
           "id": "https://css-tricks.com/?p=341584",
           "author": "Temani Afif",
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -517,33 +535,6 @@
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
           "title": "Custom State Pseudo-Classes in Chrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339563",
-          "author": "Chris Coyier",
-          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/astro/",
-          "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 920,
-          "title": "Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339954",
-          "author": "Chris Coyier",
-          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://infrequently.org/2021/04/progress-delayed/",
-          "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6686,
-          "title": "Progress Delayed Is Progress Denied"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339518",
-          "author": "Rob O'Leary",
-          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
-          "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3140,
-          "title": "Is Vendor Prefixing Dead?"
         }
       ]
     },
@@ -552,6 +543,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
@@ -844,15 +849,6 @@
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
         }
       ]
     },
@@ -861,6 +857,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
+        {
+          "id": "60ba33d7acb62507dd1d9050",
+          "author": null,
+          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
+          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
+          "publishedOn": "2021-06-04T20:58:07.000Z",
+          "wordCount": 1544,
+          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
+        },
+        {
+          "id": "60b8f5c7acb62507dd1d8500",
+          "author": null,
+          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
+          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
+          "publishedOn": "2021-06-04T20:41:29.000Z",
+          "wordCount": 2163,
+          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
+        },
+        {
+          "id": "60b2a4c611ffb70827ef9842",
+          "author": null,
+          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
+          "publishedOn": "2021-06-04T18:01:00.000Z",
+          "wordCount": 2225,
+          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
         {
           "id": "60b11ff811ffb70827ef8f94",
           "author": null,
@@ -1589,15 +1630,6 @@
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
-        },
-        {
-          "id": "609307e801fc34080ef8191e",
-          "author": "",
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
-          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
-          "publishedOn": "2021-05-05T21:11:40.000Z",
-          "wordCount": 352,
-          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         }
       ]
     },
@@ -1658,6 +1690,132 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3125656",
+          "author": "Vinita Bansal",
+          "description": "Does it ever cross your mind that praise can be negative? I guess not. After all, it looks harmless and seems to be quite effective. Conventional wisdom says that if you praise people, they are motivated to do better.\n\n\n \nPeople who have been praised throughout their life by their well-meaning parents, friends, and teachers for their talent and smartness or those who have experienced extreme focus on talent and smartness throughout their childhood learn to value only intelligence. No wonder when these people enter the workforce, they continue to seek approval and demand praise every step of the way.\n\n\n \nEvery opportunity is a measure of their intelligence — do I look smart, how will I be judged, what if others find my ideas dumb. With a single-minded focus on validating themselves, all the…",
+          "link": "https://dzone.com/articles/leadership-is-about-growth-not-brilliance",
+          "publishedOn": "2021-06-04T23:40:41.000Z",
+          "wordCount": 2185,
+          "title": "Leadership Is About Growth, Not Brilliance"
+        },
+        {
+          "id": "https://dzone.com/articles/3123128",
+          "author": "Basit Ali",
+          "description": "Plagiarism is the term given to the borrowing of someone else’s ideas and passing them around as one’s own. It exists in academia, in professional work environments, and any other field where there’s a creation of some kind of content involved.\nIt’s considered a serious offense, leading to copyright laws, fines, and even imprisonment (in some severe cases). Today, there are software and other special practices implemented to keep plagiarism in check.",
+          "link": "https://dzone.com/articles/consequences-of-plagiarism-in-web-design",
+          "publishedOn": "2021-06-04T18:54:19.000Z",
+          "wordCount": 1602,
+          "title": "Consequences of Plagiarism in Web Design"
+        },
+        {
+          "id": "https://dzone.com/articles/3123195",
+          "author": "Oleg Spilka",
+          "description": "Introduction\nAugmented reality is already becoming more commonplace by the day. Via smartphones, AR is already widely accessible throughout the world of gaming, entertainment, and even finance-based consumer applications. In terms of business, cloud access means that AR users can operate seemingly free from hardware while applications enable businesses to link the data-driven power of the computer with human judgment and expertise. \nIt’s this collaboration between rich data and human intervention that makes AR an ideal asset in the world of fintech. The sector is growing while augmented reality represents the next logical step in making finance run on brand new tech.",
+          "link": "https://dzone.com/articles/how-the-next-decade-of-fintech-will-be-shaped-by-a",
+          "publishedOn": "2021-06-04T17:27:39.000Z",
+          "wordCount": 1790,
+          "title": "AR: Shaping the Next Decade of Fintech"
+        },
+        {
+          "id": "https://dzone.com/articles/3129788",
+          "author": "Mansi Babbar",
+          "description": "In my previous article Dev Tools to the Rescue – Part 1, we looked at some of the best developer tools for software development, project management, continuous delivery/integrity, designing, testing, etc.\nIn this article, we’ll continue with tools that are helpful for purposes like monitoring, analysis, cloud development, security, etc.",
+          "link": "https://dzone.com/articles/dev-tools-to-the-rescue-part-2",
+          "publishedOn": "2021-06-04T17:22:16.000Z",
+          "wordCount": 1552,
+          "title": "Dev Tools to the Rescue – Part 2"
+        },
+        {
+          "id": "https://dzone.com/articles/3129787",
+          "author": "Mansi Babbar",
+          "description": "Whether you are a software developer working on someone else’s projects or you run a business yourself, utilizing the right tools of the trade is essential.\nThe market of software development tools is an ever-changing one and increasingly competitive. It’s a tough task to decide which one is best suited for you.",
+          "link": "https://dzone.com/articles/dev-tools-to-the-rescue-part-1",
+          "publishedOn": "2021-06-04T17:14:57.000Z",
+          "wordCount": 1515,
+          "title": "Dev Tools to the Rescue – Part 1"
+        },
+        {
+          "id": "https://dzone.com/articles/3123808",
+          "author": "Chris Fanchi",
+          "description": "Introduction\nIn the software as a service (SaaS) landscape, there are many variations of \"____ as a service.\" In this article, we will explain what mobile backend as a service, or MBaaS, means.\nMobile backend as a service (MBaaS) is an online service designed to be an all-in-one solution for backend app development. This typically includes data and database management, API management, security, and push notifications.",
+          "link": "https://dzone.com/articles/what-is-mobile-backend-as-a-service-mbaas",
+          "publishedOn": "2021-06-04T16:50:04.000Z",
+          "wordCount": 1644,
+          "title": "What Is Mobile Backend As A Service (MBaaS)?"
+        },
+        {
+          "id": "https://dzone.com/articles/3129783",
+          "author": "Mansi Babbar",
+          "description": "Overview\nGit Flow is an abstract idea of a Git workflow. It helps with continuous software development and implementing DevOps practices. The Git Flow Workflow defines a strict branching model designed around the project release. This provides a robust framework for managing larger projects.  \nGit Flow is ideally suited for projects that have a scheduled release cycle and for the DevOps best practice of continuous delivery. It assigns very specific roles to different branches and defines how and when they should interact. It uses individual branches for preparing, maintaining, and recording releases.",
+          "link": "https://dzone.com/articles/introduction-to-git-flow",
+          "publishedOn": "2021-06-04T15:11:34.000Z",
+          "wordCount": 1322,
+          "title": "Introduction to Git Flow"
+        },
+        {
+          "id": "https://dzone.com/articles/3129776",
+          "author": "Daniel Oh",
+          "description": "The serverless Java journey started out with functions—small snippets of code running on demand. This phase didn't last long. Although functions based on virtual machine architecture in the 1.0 phase made this paradigm very popular, as the graphic below shows, there were limits around execution time, protocols, and poor local-development experience.\nDevelopers then realized that they could apply the same serverless traits and benefits to microservices and Linux containers. This launched the 1.5 phase, where some serverless containers completely abstracted Kubernetes, delivering the serverless experience through Knative or another abstraction layer that sits on top of it.",
+          "link": "https://dzone.com/articles/get-started-with-java-serverless-functions",
+          "publishedOn": "2021-06-04T14:13:58.000Z",
+          "wordCount": 1350,
+          "title": "Get started with Java serverless functions"
+        },
+        {
+          "id": "https://dzone.com/articles/3129745",
+          "author": "Otavio Santana",
+          "description": "Kubernetes is much more than a runtime platform for Docker containers. Through its API not only can you create custom clients, but you can also extend Kubernetes. Those custom Controllers are called Operators and work with application-specific custom resource definitions. Not only can you write those Kubernetes operators in Go, but you can also do this in Java. Within this talk, you will be guided through setting up and your first explorations of the Kubernetes API within a plain Java program. We explore the concepts of resource listeners, programmatic creation of deployments and services, and how this can be used for your custom requirements.",
+          "link": "https://dzone.com/articles/creating-a-kubernetes-operator-in-java-by-rudy-de",
+          "publishedOn": "2021-06-04T05:57:15.000Z",
+          "wordCount": 370,
+          "title": "Creating a Kubernetes Operator in Java by Rudy De Busscher"
+        },
+        {
+          "id": "https://dzone.com/articles/3128792",
+          "author": "Laura Bouchard",
+          "description": "When building applications and programs for use by other developers, ensuring you are utilizing valid code identifiers is an important component. These unique identifiers are symbols that have been designated to specific program elements essential to the successful creation of a program, and they can refer to a wide variety of features, including class, namespace, types, variables, and more. To avoid any confusion or misinterpretation, the names given to the symbols should clearly indicate the usage of the corresponding element. The general idea is to create an identity of sorts for the symbol so that it can easily be identified by any individual, not just the original developer.\nDuring the creation of these integral program pieces, it is also important to be conscious of the technical nuances of the applicable programming language; for example, since Java is case sensitive, identifiers that have different cases will be treated differently. As you may know, attempting to navigate the various rules and requirements for code identifiers can take up a lot of time, so we are going to highlight an easy tool you can integrate to do the work for you. The following API can be run in Java to validate input identifiers and analyze for incorrect strokes including usage of whitespace, hyphens, underscores, and other special symbols within the identifier. This is accomplished by configuring input rules for the symbols, such as allowing the identifier “helloWorld” but not \"hello*World\".",
+          "link": "https://dzone.com/articles/how-to-validate-code-identifiers-in-java",
+          "publishedOn": "2021-06-04T03:25:09.000Z",
+          "wordCount": 774,
+          "title": "How to Validate Code Identifiers in Java"
+        },
+        {
+          "id": "https://dzone.com/articles/3129731",
+          "author": "Huyen Pham",
+          "description": "However awash with challenges induced by the Covid-19 pandemic, the interminable year 2020 still anticipated the emergence of outstanding web design trends in 2021.\nIndeed, the quarantine period, in concert with remote working, has increased human exposure to the virtual world, especially websites. And now, we’ll summarize the top possibly dominant website design trends in 2021.",
+          "link": "https://dzone.com/articles/top-web-design-trends",
+          "publishedOn": "2021-06-04T03:14:54.000Z",
+          "wordCount": 924,
+          "title": "All You Need to Know About 8 Web Design Trends: 2021"
+        },
+        {
+          "id": "https://dzone.com/articles/3124002",
+          "author": "Ruchi Jain",
+          "description": "If a low-code development platform wants to implement complex business processes, the following conditions must be met.\n1. What Is Automation?\nAutomation is the key to improving efficiency, reducing human error and reducing operating costs. Repetitive work will require fewer workers, and more employees will focus on strategic decision-making and creative problem solving.\n\n2. The 2 Types of Automation Technology\nRobotic Process Automation (RPA)\nBusiness process automation (often referred to as business process management or BPM)\nIn general, low-code automation capabilities can more prompt companies that rely on repetitive processes to evaluate how to improve efficiency. They will need to retrain and redistribute employees to assume roles that can leverage their experience and institutional knowledge with strategic capabilities.",
+          "link": "https://dzone.com/articles/how-low-code-platforms-implement-complex-business",
+          "publishedOn": "2021-06-04T02:59:32.000Z",
+          "wordCount": 903,
+          "title": "How Low-Code Platforms Implement Complex Business Processes"
+        },
+        {
+          "id": "https://dzone.com/articles/3123878",
+          "author": "Fred Wilson",
+          "description": "Netflix’s 2019 series Tidying Up with Marie Kondo gave birth to our inner organizer, our very own Marie Kondo. The series was not only a commercial success but also gave rise to a whole movement of the systemic organization.\nThe infamous KonMari method hooked us all and sucked us into this whirlpool of organization and micromanagement. People promptly started incorporating the method in their lives to create more space and get rid of the unwanted.",
+          "link": "https://dzone.com/articles/how-to-use-the-konmari-method-for-efficient-projec",
+          "publishedOn": "2021-06-04T02:45:12.000Z",
+          "wordCount": 1619,
+          "title": "How To Use The KonMari Method For Efficient Project Management?"
+        },
+        {
+          "id": "https://dzone.com/articles/3125414",
+          "author": "Protim Bhaumik",
+          "description": "Hasura GraphQL Engine launched as an open-source product in July 2018. Since then, Hasura has been downloaded over 200M times and has become the fastest-growing open-source GraphQL project globally. \nHasura accelerates API development by 10x by giving you GraphQL or REST APIs with built-in authorization on your data, instantly. In this blog post, we’re going to look at how Hasura works, what we thought about when building Hasura, and the problems we were trying to solve.",
+          "link": "https://dzone.com/articles/how-hasura-20-works-a-design-amp-engineering-look",
+          "publishedOn": "2021-06-04T01:09:57.000Z",
+          "wordCount": 6142,
+          "title": "How Hasura 2.0 Works: A Design and Engineering Look"
+        },
         {
           "id": "https://dzone.com/articles/3128808",
           "author": "Blake Team DZone",
@@ -5302,6 +5460,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password",
+          "publishedOn": "2021-06-04T22:54:56.000Z",
+          "wordCount": 93,
+          "title": "Hackers Breached Colonial Pipeline Using Compromised Password"
+        },
+        {
+          "id": "https://ziglang.org/download/0.8.0/release-notes.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ziglang.org/download/0.8.0/release-notes.html",
+          "publishedOn": "2021-06-04T22:40:05.000Z",
+          "wordCount": 17508,
+          "title": "Zig 0.8.0 Release Notes"
+        },
+        {
+          "id": "https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246",
+          "publishedOn": "2021-06-04T22:20:18.000Z",
+          "wordCount": 1153,
+          "title": "Bitcoin’s Reliance on Stablecoins Harks Back to the Wild West of Finance"
+        },
+        {
+          "id": "http://www.aaronsw.com/weblog/productivity",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.aaronsw.com/weblog/productivity",
+          "publishedOn": "2021-06-04T22:18:01.000Z",
+          "wordCount": 5837,
+          "title": "HOWTO: Be more productive (2005)"
+        },
+        {
+          "id": "https://archive.org/details/1611TheAuthorizedKingJamesBible/page/n39/mode/2up",
+          "author": null,
+          "description": "Comments",
+          "link": "https://archive.org/details/1611TheAuthorizedKingJamesBible/page/n39/mode/2up",
+          "publishedOn": "2021-06-04T22:08:28.000Z",
+          "wordCount": 4655,
+          "title": "HD scan of the 1611 King James Bible"
+        },
+        {
+          "id": "https://twitter.com/paulbiggar/status/1400904600421535744",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/paulbiggar/status/1400904600421535744",
+          "publishedOn": "2021-06-04T22:01:55.000Z",
+          "wordCount": 196,
+          "title": "Lol just got kicked out of  @ycombinator"
+        },
+        {
+          "id": "https://twitter.com/ID_AA_Carmack/status/1400930510671601666",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/ID_AA_Carmack/status/1400930510671601666",
+          "publishedOn": "2021-06-04T21:43:53.000Z",
+          "wordCount": 196,
+          "title": "John Carmack on JPEG"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-europe-57348415",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/world-europe-57348415",
+          "publishedOn": "2021-06-04T21:27:13.000Z",
+          "wordCount": 1084,
+          "title": "Denmark parliament approves giant artificial island off Copenhagen"
+        },
+        {
+          "id": "https://github.com/ibara/8088ify",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ibara/8088ify",
+          "publishedOn": "2021-06-04T21:01:59.000Z",
+          "wordCount": 1450,
+          "title": "8088ify: Intel 8080 CP/M 2.2 to Intel 8086/8088 IBM PC DOS assembly translator"
+        },
+        {
+          "id": "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN",
+          "publishedOn": "2021-06-04T21:00:12.000Z",
+          "wordCount": 428,
+          "title": "Clerky (YC S11) Is Hiring Senior Software Engineers (Remote)"
+        },
+        {
+          "id": "https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1",
+          "publishedOn": "2021-06-04T20:57:36.000Z",
+          "wordCount": 844,
+          "title": "PyCon US 2021 Recordings are Available"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/",
+          "publishedOn": "2021-06-04T20:34:52.000Z",
+          "wordCount": 1083,
+          "title": "Not a drill: VMware vuln with 9.8 severity rating is under attack"
+        },
+        {
+          "id": "https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/",
+          "publishedOn": "2021-06-04T19:47:00.000Z",
+          "wordCount": 1862,
+          "title": "Elijah Miller’s NEC v30 on a Pi hat"
+        },
+        {
+          "id": "https://binji.github.io/posts/pokegb/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://binji.github.io/posts/pokegb/",
+          "publishedOn": "2021-06-04T18:31:27.000Z",
+          "wordCount": 11960,
+          "title": "Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41413-020-00127-9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41413-020-00127-9",
+          "publishedOn": "2021-06-04T18:11:44.000Z",
+          "wordCount": 10035,
+          "title": "Ultra-processed food targets bone quality via endochondral ossification"
+        },
+        {
+          "id": "https://www.eejournal.com/article/we-interrupt-this-program/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eejournal.com/article/we-interrupt-this-program/",
+          "publishedOn": "2021-06-04T18:10:27.000Z",
+          "wordCount": 2446,
+          "title": "Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling"
+        },
+        {
+          "id": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
+          "publishedOn": "2021-06-04T18:08:14.000Z",
+          "wordCount": 1111,
+          "title": "Heroic Rat Retiring from Detecting Land Mines"
+        },
+        {
+          "id": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
+          "publishedOn": "2021-06-04T17:28:44.000Z",
+          "wordCount": 3610,
+          "title": "Anatomy of a Linux DNS Lookup"
+        },
+        {
+          "id": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
+          "publishedOn": "2021-06-04T17:06:33.000Z",
+          "wordCount": 1271,
+          "title": "Social virtual spaces with Elixir at Mozilla"
+        },
+        {
+          "id": "https://www.bing.com/images/search?q=tank+man",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bing.com/images/search?q=tank+man",
+          "publishedOn": "2021-06-04T16:51:37.000Z",
+          "wordCount": 229,
+          "title": "There are no results for tank man"
+        },
+        {
+          "id": "https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/",
+          "publishedOn": "2021-06-04T16:43:43.000Z",
+          "wordCount": 1402,
+          "title": "Haiku Monthly Activity Report – May 2021"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395238",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27395238",
+          "publishedOn": "2021-06-04T16:22:16.000Z",
+          "wordCount": 1957,
+          "title": "Launch HN: InBalance (YC W21) – Short-term energy market forecasting"
+        },
+        {
+          "id": "https://thereboot.com/why-we-should-end-the-data-economy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thereboot.com/why-we-should-end-the-data-economy/",
+          "publishedOn": "2021-06-04T16:02:21.000Z",
+          "wordCount": 1788,
+          "title": "Why We Should End the Data Economy"
+        },
+        {
+          "id": "https://blog.josephmorag.com/posts/mcc0/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.josephmorag.com/posts/mcc0/",
+          "publishedOn": "2021-06-04T15:50:40.000Z",
+          "wordCount": 997,
+          "title": "Implementing a LLVM Micro C compiler in Haskell"
+        },
+        {
+          "id": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
+          "publishedOn": "2021-06-04T12:48:22.000Z",
+          "wordCount": 608,
+          "title": "Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control"
+        },
+        {
+          "id": "https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667",
+          "publishedOn": "2021-06-04T11:44:15.000Z",
+          "wordCount": 974,
+          "title": "UK and EU launch antitrust probes into Facebook"
+        },
+        {
+          "id": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
+          "publishedOn": "2021-06-04T04:21:31.000Z",
+          "wordCount": 2557,
+          "title": "An Unbelievable Demo"
+        },
+        {
+          "id": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
+          "publishedOn": "2021-06-04T01:32:47.000Z",
+          "wordCount": 2942,
+          "title": "Van Buren is a victory against overbroad interpretations of the CFAA"
+        },
+        {
           "id": "https://www.studyfinds.org/brain-most-similar-to-testicles/",
           "author": null,
           "description": "Comments",
@@ -5516,6 +5926,15 @@
           "publishedOn": "2021-06-03T11:54:16.000Z",
           "wordCount": 1307,
           "title": "The theft and ransom of dogs in the 18th century"
+        },
+        {
+          "id": "https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://goldytech.wordpress.com/2021/05/31/performance-booster-with-system-io-pipelines-in-c/",
+          "publishedOn": "2021-06-03T11:24:56.000Z",
+          "wordCount": 1548,
+          "title": "Performance Booster with System.IO.Pipelines in C#"
         },
         {
           "id": "https://www.wired.com/story/long-strange-life-worlds-oldest-naked-mole-rat/",
