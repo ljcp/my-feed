@@ -499,42 +499,6 @@
           "publishedOn": "2021-05-07T13:54:01.000Z",
           "wordCount": 952,
           "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339822",
-          "author": "Chris Coyier",
-          "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.caniemail.com/",
-          "publishedOn": "2021-05-07T02:38:56.000Z",
-          "wordCount": 324,
-          "title": "Can I Email…"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340015",
-          "author": "Chris Coyier",
-          "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
-          "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1523,
-          "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339936",
-          "author": "Geoff Graham",
-          "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
-          "publishedOn": "2021-05-06T19:57:40.000Z",
-          "wordCount": 2599,
-          "title": "What Google’s New Page Experience Update Means for Images on Your Website"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339586",
-          "author": "Šime Vidas",
-          "description": "There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;\nThe post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
-          "publishedOn": "2021-05-06T14:28:53.000Z",
-          "wordCount": 1025,
-          "title": "Custom State Pseudo-Classes in Chrome"
         }
       ]
     },
@@ -840,15 +804,6 @@
           "publishedOn": "2021-05-10T11:00:00.000Z",
           "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
         }
       ]
     },
@@ -1603,33 +1558,6 @@
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
-        },
-        {
-          "id": "609409c201fc34080ef81f97",
-          "author": "",
-          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
-          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
-          "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1349,
-          "title": "What Is &quot;Lifting State Up&quot; in React?"
-        },
-        {
-          "id": "609415eb2cd0545b5e943534",
-          "author": "",
-          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
-          "publishedOn": "2021-05-06T16:26:08.000Z",
-          "wordCount": 426,
-          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
-        },
-        {
-          "id": "60939bde01fc34080ef81a19",
-          "author": "",
-          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
-          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
-          "publishedOn": "2021-05-06T16:06:35.000Z",
-          "wordCount": 1775,
-          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         }
       ]
     },
@@ -1690,6 +1618,15 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3130764",
+          "author": "Sudip Sengupta",
+          "description": "Introduction\nLocal storage volumes remain the preferred choice when it comes to the control of managing cluster services and achieving higher performance.\nIn this article, we highlight how Vadim Tkachenko, CTO, Percona, deployed a Percona Kubernetes Operator using OpenEBS Local Persistent Volumes for enhanced database efficiency.",
+          "link": "https://dzone.com/articles/deploying-percona-kubernetes-operators-using-opene",
+          "publishedOn": "2021-06-05T17:03:43.000Z",
+          "wordCount": 1255,
+          "title": "Deploying Percona Kubernetes Operators using OpenEBS Local Storage"
+        },
         {
           "id": "https://dzone.com/articles/3125656",
           "author": "Vinita Bansal",
@@ -5460,6 +5397,267 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile",
+          "publishedOn": "2021-06-05T23:53:15.000Z",
+          "wordCount": 1698,
+          "title": "The Woman Who Gave the Macintosh a Smile (2018)"
+        },
+        {
+          "id": "https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/",
+          "publishedOn": "2021-06-05T23:46:02.000Z",
+          "wordCount": 332,
+          "title": "Daily Driver: Channelling RGB into 1-bit"
+        },
+        {
+          "id": "https://meetryanflowers.com/that-wont-work/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meetryanflowers.com/that-wont-work/",
+          "publishedOn": "2021-06-05T23:45:40.000Z",
+          "wordCount": 1574,
+          "title": "“That Won't Work”"
+        },
+        {
+          "id": "https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html",
+          "publishedOn": "2021-06-05T21:43:27.000Z",
+          "wordCount": 849,
+          "title": "El Salvador to adopt Bitcoin as legal tender"
+        },
+        {
+          "id": "https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status",
+          "publishedOn": "2021-06-05T21:43:01.000Z",
+          "wordCount": 1045,
+          "title": "Trans-Pacific Cable Chaos, Shifting Asian Hubs"
+        },
+        {
+          "id": "https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/",
+          "publishedOn": "2021-06-05T21:37:32.000Z",
+          "wordCount": 721,
+          "title": "Justice Department withdraws FBI subpoena for USA Today records ID'ing readers"
+        },
+        {
+          "id": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81",
+          "publishedOn": "2021-06-05T21:00:10.000Z",
+          "wordCount": 742,
+          "title": "Substack (YC W18) is hiring engineers to build the future of writing"
+        },
+        {
+          "id": "https://www.theregister.com/2021/06/04/google_chip_flaws/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2021/06/04/google_chip_flaws/",
+          "publishedOn": "2021-06-05T20:56:49.000Z",
+          "wordCount": 2721,
+          "title": "Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale"
+        },
+        {
+          "id": "https://github.com/ekzhang/rustpad",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ekzhang/rustpad",
+          "publishedOn": "2021-06-05T20:44:45.000Z",
+          "wordCount": 995,
+          "title": "Show HN: Rustpad, a self-hosted online collaborative text editor"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27408120",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27408120",
+          "publishedOn": "2021-06-05T20:12:53.000Z",
+          "wordCount": 2571,
+          "title": "Ask HN: Books for Effective Communication"
+        },
+        {
+          "id": "https://pomax.github.io/three-point-perspective/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pomax.github.io/three-point-perspective/",
+          "publishedOn": "2021-06-05T19:04:36.000Z",
+          "wordCount": 3604,
+          "title": "Implementing strict three-point perspective"
+        },
+        {
+          "id": "https://lock.cmpxchg8b.com/passmgrs.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lock.cmpxchg8b.com/passmgrs.html",
+          "publishedOn": "2021-06-05T18:52:23.000Z",
+          "wordCount": 1691,
+          "title": "Password Managers"
+        },
+        {
+          "id": "https://miguelraz.github.io/blog/juliatorust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://miguelraz.github.io/blog/juliatorust/",
+          "publishedOn": "2021-06-05T18:05:47.000Z",
+          "wordCount": 4954,
+          "title": "From Julia to Rust"
+        },
+        {
+          "id": "https://et-jekyll.netlify.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://et-jekyll.netlify.app/",
+          "publishedOn": "2021-06-05T18:05:09.000Z",
+          "wordCount": 91,
+          "title": "ET-Jekyll: Edward Tufte-inspired Jekyll theme"
+        },
+        {
+          "id": "https://github.com/planetis-m/libfuzzer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/planetis-m/libfuzzer",
+          "publishedOn": "2021-06-05T17:44:10.000Z",
+          "wordCount": 869,
+          "title": "Using Clang LibFuzzer coverage-guided fuzzing engine with Nim"
+        },
+        {
+          "id": "https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html",
+          "publishedOn": "2021-06-05T17:22:29.000Z",
+          "wordCount": 1839,
+          "title": "How I Learned Symmetric-Key Cryptanalysis"
+        },
+        {
+          "id": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
+          "publishedOn": "2021-06-05T16:49:48.000Z",
+          "wordCount": 665,
+          "title": "Logical replication and decoding for Cloud SQL for PostgreSQL"
+        },
+        {
+          "id": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
+          "publishedOn": "2021-06-05T16:13:15.000Z",
+          "wordCount": 1609,
+          "title": "All controversial trades by Senators in the 2020 Congressional insider trading"
+        },
+        {
+          "id": "https://danluu.com/web-bloat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danluu.com/web-bloat/",
+          "publishedOn": "2021-06-05T16:01:44.000Z",
+          "wordCount": 4346,
+          "title": "The modern web on a slow connection (2017)"
+        },
+        {
+          "id": "https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/",
+          "publishedOn": "2021-06-05T15:42:18.000Z",
+          "wordCount": 1926,
+          "title": "Tips for Interviewing over Zoom"
+        },
+        {
+          "id": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
+          "publishedOn": "2021-06-05T14:40:52.000Z",
+          "wordCount": 1836,
+          "title": "The Mandelbrot Monk (1999)"
+        },
+        {
+          "id": "https://github.com/google/iconvg",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/google/iconvg",
+          "publishedOn": "2021-06-05T12:21:57.000Z",
+          "wordCount": 921,
+          "title": "IconVG is a compact, binary format for simple vector graphics"
+        },
+        {
+          "id": "https://github.com/midiblocks/handsfree",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/midiblocks/handsfree",
+          "publishedOn": "2021-06-05T12:04:40.000Z",
+          "wordCount": 2084,
+          "title": "Handsfree.js – integrate face, hand, and/or pose tracking to front end projects"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/world-57368247",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/world-57368247",
+          "publishedOn": "2021-06-05T11:24:19.000Z",
+          "wordCount": 1747,
+          "title": "G7: Rich nations back deal to tax multinationals"
+        },
+        {
+          "id": "https://github.com/ArthurSonzogni/FTXUI",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ArthurSonzogni/FTXUI",
+          "publishedOn": "2021-06-05T10:50:03.000Z",
+          "wordCount": 716,
+          "title": "Ftxui: C++ Functional Terminal User Interface"
+        },
+        {
+          "id": "https://phys.org/news/2021-05-declassified-cold-war-code-breaking-manual.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2021-05-declassified-cold-war-code-breaking-manual.html",
+          "publishedOn": "2021-06-05T08:56:34.000Z",
+          "wordCount": 1966,
+          "title": "Declassified Cold War code-breaking manual on solving 'impossible' puzzles"
+        },
+        {
+          "id": "https://daily.jstor.org/strange-tale-pacific-ocean-biological-survey-program/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://daily.jstor.org/strange-tale-pacific-ocean-biological-survey-program/",
+          "publishedOn": "2021-06-05T07:11:38.000Z",
+          "wordCount": 2565,
+          "title": "The Strange Tale of the Pacific Ocean Biological Survey Program"
+        },
+        {
+          "id": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
+          "publishedOn": "2021-06-05T05:29:57.000Z",
+          "wordCount": 2015,
+          "title": "Conway's Game of Life on FPGA"
+        },
+        {
+          "id": "https://jim-dowling.medium.com/scaleout-metadata-file-systems-already-store-much-of-your-data-what-are-they-a377bd4ae42",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jim-dowling.medium.com/scaleout-metadata-file-systems-already-store-much-of-your-data-what-are-they-a377bd4ae42",
+          "publishedOn": "2021-06-05T04:43:43.000Z",
+          "wordCount": 2026,
+          "title": "Scaleout Metadata File Systems already store much of your data. What are they?"
+        },
+        {
           "id": "https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password",
           "author": null,
           "description": "Comments",
@@ -5692,6 +5890,15 @@
           "publishedOn": "2021-06-04T11:44:15.000Z",
           "wordCount": 974,
           "title": "UK and EU launch antitrust probes into Facebook"
+        },
+        {
+          "id": "https://git.sr.ht/~gregkh/presentation-non-tech-security",
+          "author": null,
+          "description": "Comments",
+          "link": "https://git.sr.ht/~gregkh/presentation-non-tech-security",
+          "publishedOn": "2021-06-04T04:46:38.000Z",
+          "wordCount": 156,
+          "title": "Non-technical security best-practices for open source projects"
         },
         {
           "id": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
