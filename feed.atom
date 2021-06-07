@@ -2,10 +2,626 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T00:45:59.655Z</updated>
+    <updated>2021-06-07T00:45:41.760Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Kubernetes cert-manager Certificates With BotKube]]></title>
+        <id>https://dzone.com/articles/3125486</id>
+        <link href="https://dzone.com/articles/monitoring-kubernetes-cert-manager-certificates-wi"/>
+        <updated>2021-06-07T00:11:32.000Z</updated>
+        <summary type="html"><![CDATA[The monitoring and alerting stack is a crucial part of the SRE practices. That’s where BotKube helps you monitor your Kubernetes cluster and send notifications to your messaging platform or any other configured sink. In this blog post, we will be configuring BotKube to watch the Kubernetes cert-manager certificates CustomResources.
+What is BotKube?
+BotKube is a messaging tool for monitoring and debugging Kubernetes clusters. BotKube can be integrated with multiple messaging platforms like - Slack, Mattermost, or Microsoft Teams to help you monitor your Kubernetes cluster(s), debug critical deployments, and gives recommendations for standard practices by running checks on the Kubernetes resources.]]></summary>
+        <author>
+            <name>Bhavin Gandhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AngularJS Vs. ReactJS Vs. VueJS: A Detailed Comparison]]></title>
+        <id>https://dzone.com/articles/3125623</id>
+        <link href="https://dzone.com/articles/angularjs-vs-react-js-vs-vue-js-a-detailed-compari"/>
+        <updated>2021-06-06T23:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the best technology for web development is a fundamental pillar for every business. But the process becomes sucking when you have to choose between the leading technologies like AngularJS, React JS, and Vue.js. All three differ only by their release date and their features.
+From startups to ISVs, all are confused about choosing the right technology for their project. Be it Angular, React, or Vue.js, all have created a lot of buzz in the market and enjoy excellent community support.]]></summary>
+        <author>
+            <name>Sneha Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning Machine: The Dangers of Low Head Dams]]></title>
+        <id>https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams</id>
+        <link href="https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams"/>
+        <updated>2021-06-06T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Capital One Breach Could Have Been Avoided With Application-Layer Data Encryption]]></title>
+        <id>https://dzone.com/articles/3126571</id>
+        <link href="https://dzone.com/articles/how-the-capital-one-breach-could-have-been-avoided"/>
+        <updated>2021-06-06T23:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Image credit: Unsplash
+In July 2019, Capital One became aware of a data breach inside their Amazon Web Services (AWS) cloud infrastructure. A security researcher found social media posts describing the attack, and after investigating the breach, the company discovered that the attacker was able to steal the personal information of approximately 100 million individuals in the United States and 6 million in Canada.]]></summary>
+        <author>
+            <name>Wias Issa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Call Rest API by Using jQuery AJAX in Spring Boot? [Video]]]></title>
+        <id>https://dzone.com/articles/3126644</id>
+        <link href="https://dzone.com/articles/how-to-call-rest-api-by-using-jquery-ajax-in-sprin-1"/>
+        <updated>2021-06-06T22:34:21.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at the How to call Rest API by using jQuery AJAX in Spring Boot? | Consuming RESTful service with jQuery. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Globalization of Venture Capital Investing]]></title>
+        <id>https://avc.com/2021/06/the-globalization-of-venture-capital-investing/</id>
+        <link href="https://avc.com/2021/06/the-globalization-of-venture-capital-investing/"/>
+        <updated>2021-06-06T22:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laser pulse travels 300 times faster than light (2002)]]></title>
+        <id>https://optics.org/article/8562</id>
+        <link href="https://optics.org/article/8562"/>
+        <updated>2021-06-06T22:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SaaS CTO Security Checklist Redux]]></title>
+        <id>https://www.goldfiglabs.com/guide/saas-cto-security-checklist/</id>
+        <link href="https://www.goldfiglabs.com/guide/saas-cto-security-checklist/"/>
+        <updated>2021-06-06T21:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene sequencer malware injection via encoded DNA (2017)]]></title>
+        <id>https://www.wired.com/story/malware-dna-hack/</id>
+        <link href="https://www.wired.com/story/malware-dna-hack/"/>
+        <updated>2021-06-06T21:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A growing number of governments hope to clone America's DARPA]]></title>
+        <id>https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa</id>
+        <link href="https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa"/>
+        <updated>2021-06-06T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photographer captures 'odd but exciting' crow behaviour known as anting]]></title>
+        <id>https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823</id>
+        <link href="https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823"/>
+        <updated>2021-06-06T20:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are American workers becoming harder to find?]]></title>
+        <id>https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find"/>
+        <updated>2021-06-06T19:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN “Why Not Simply”]]></title>
+        <id>https://hn.algolia.com/?dateRange=all&amp;page=0&amp;prefix=true&amp;query=%22why%20not%20simply%22&amp;sort=byPopularity&amp;type=comment</id>
+        <link href="https://hn.algolia.com/?dateRange=all&amp;page=0&amp;prefix=true&amp;query=%22why%20not%20simply%22&amp;sort=byPopularity&amp;type=comment"/>
+        <updated>2021-06-06T19:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Future for Icanhazip]]></title>
+        <id>https://major.io/2021/06/06/a-new-future-for-icanhazip/</id>
+        <link href="https://major.io/2021/06/06/a-new-future-for-icanhazip/"/>
+        <updated>2021-06-06T19:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastershot – Web based video editor]]></title>
+        <id>https://mastershot.app</id>
+        <link href="https://mastershot.app"/>
+        <updated>2021-06-06T18:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD from a NetBSD developer’s perspective]]></title>
+        <id>https://washbear.neocities.org/freebsd-netbsd-user.html</id>
+        <link href="https://washbear.neocities.org/freebsd-netbsd-user.html"/>
+        <updated>2021-06-06T18:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once a bastion of free speech, the ACLU faces an identity crisis]]></title>
+        <id>https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html</id>
+        <link href="https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html"/>
+        <updated>2021-06-06T18:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rain Backscatter on 10 GHz]]></title>
+        <id>https://destevez.net/2021/06/rain-backscatter-on-10-ghz/</id>
+        <link href="https://destevez.net/2021/06/rain-backscatter-on-10-ghz/"/>
+        <updated>2021-06-06T17:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business]]></title>
+        <id>https://www.ycombinator.com/companies/pocketsuite</id>
+        <link href="https://www.ycombinator.com/companies/pocketsuite"/>
+        <updated>2021-06-06T17:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
+        <id>https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f</id>
+        <link href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f"/>
+        <updated>2021-06-06T16:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing SQL and SPL: Order-Based Computations]]></title>
+        <id>https://dzone.com/articles/3127707</id>
+        <link href="https://dzone.com/articles/comparison-of-sql-amp-spl-order-based-computations"/>
+        <updated>2021-06-06T16:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Ⅰ. Reference of a neighboring record
+This is the type of common and simple order-based calculations. When records are sorted in a specific order, a neighboring record reference references a neighboring record during a calculation. Below are some examples: 
+1. Calculate the daily growth rate of a specific stock’s closing prices (link relative ratio).]]></summary>
+        <author>
+            <name>Jerry Cruise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The modern trap of turning hobbies into hustles (2019)]]></title>
+        <id>https://repeller.com/trap-of-turning-hobbies-into-hustles/</id>
+        <link href="https://repeller.com/trap-of-turning-hobbies-into-hustles/"/>
+        <updated>2021-06-06T16:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The right tag for the job: why you should use semantic HTML]]></title>
+        <id>https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/</id>
+        <link href="https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/"/>
+        <updated>2021-06-06T16:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Praise of Open Source Textbooks]]></title>
+        <id>https://news.ycombinator.com/item?id=27414145</id>
+        <link href="https://news.ycombinator.com/item?id=27414145"/>
+        <updated>2021-06-06T16:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stateright: A model checker for implementing distributed systems]]></title>
+        <id>https://github.com/stateright/stateright</id>
+        <link href="https://github.com/stateright/stateright"/>
+        <updated>2021-06-06T13:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernizing the Java EE Medrec App]]></title>
+        <id>https://dzone.com/articles/3124959</id>
+        <link href="https://dzone.com/articles/modernizing-the-java-ee-medrec-app"/>
+        <updated>2021-06-06T13:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Tutorial: Refactoring the Medrec Application into Microservices
+Legacy Java applications are difficult to modernize. Enterprises rely on these monolithic apps to power their businesses but face an urgent mandate to move to the cloud and adopt a cloud native architecture. The following sections track the process of refactoring the Medrec application (also known as the Avitek Medical Records application), a monolithic WebLogic sample Java EE application, into microservices and deploying the new microservices on Oracle Container Engine for Kubernetes (OKE).
+This tutorial is also available on the vFunction website.]]></summary>
+        <author>
+            <name>Bob Quillin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating (and Supporting) URL Parameters With Vue.js]]></title>
+        <id>https://dzone.com/articles/3126905</id>
+        <link href="https://dzone.com/articles/updating-and-supporting-url-parameters-with-vuejs"/>
+        <updated>2021-06-06T13:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Today's article is something that's been kicking around in my head for a few months now, and seeing a recent article (Update URL query parameters as you type in the input using JavaScript) encouraged me to finally get around to writing it. The basic idea is to make it easier for a person to share or bookmark the current state of an application. Let's start with a basic example.
+There's a list of items which consist of people, cats, and a dog. Each item has a name and type. On top there are filters for the name and type. If you enter any text, the items that match the name (ignoring case) will be shown. If you select one or more of the types, only those matching will be shown.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up and Run a (Really Powerful) Free Minecraft Server in the Cloud]]></title>
+        <id>https://dzone.com/articles/3125921</id>
+        <link href="https://dzone.com/articles/how-to-set-up-and-run-a-really-powerful-free-minec"/>
+        <updated>2021-06-06T13:04:01.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I’m going to show you how to set up and run your very own private, dedicated Minecraft server in the cloud. I have blogged about this before, but the server was limited to 1 CPU core and 1 GB of RAM in that post. In this post, we're going to create a server with up to 4 CPU cores and 24 GB of RAM! That’s more than enough resources to host a game with 20+ friends with excellent performance (and still have enough leftover to create another server for something else). And best of all, it’s absolutely free! Forever!! I’m sure you’re just as excited as I am about this, so let’s jump right into it and get started!
+Why Is This a Big Deal? 
+In this post, we’re going to launch a new OCI Virtual Machine that uses a new Ampere Arm chip. These VMs provide better price-performance and near-linear scaling for CPU-bound workloads compared to x86-based instances. They are suitable for a wide range of workloads including web applications, media encoding, AI Inferencing, and much more. We’re very proud that Oracle is now partnering with leading technology vendors to make Arm server-side development first-class and easy.]]></summary>
+        <author>
+            <name>Todd Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Lifetime of Systems Thinking]]></title>
+        <id>https://thesystemsthinker.com/a-lifetime-of-systems-thinking/</id>
+        <link href="https://thesystemsthinker.com/a-lifetime-of-systems-thinking/"/>
+        <updated>2021-06-06T12:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chicken or Egg? Are We Building in Roadblocks Waiting for Feedback?]]></title>
+        <id>https://dzone.com/articles/3124946</id>
+        <link href="https://dzone.com/articles/chicken-or-egg-are-we-building-in-roadblocks-waiti"/>
+        <updated>2021-06-06T12:31:37.000Z</updated>
+        <summary type="html"><![CDATA[User feedback is vital to the success of our projects. It can help us identify which new ideas we should pursue as we develop and can keep us focused on delivering just what users need.
+Minimum Viable Feedback (MVF)
+We have all seen projects that didn’t have the right user validation and feedback. We know this information is important, but getting it, and using it effectively, can be difficult. This can be especially problematic with new projects where you can get into that tricky phase of being slightly ahead of where the users are. It may be tempting to wait to proceed based on user feedback, but that leads to a “chicken or egg” scenario. The faster you can provide meaningful improvements, the greater the adoption, which means greater feedback.]]></summary>
+        <author>
+            <name>Ian Stuart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of fishing vessels vanishing along Argentina’s waters]]></title>
+        <id>https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#</id>
+        <link href="https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#"/>
+        <updated>2021-06-06T12:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 and Poor Software Quality: What You Need to Know]]></title>
+        <id>https://dzone.com/articles/3122733</id>
+        <link href="https://dzone.com/articles/covid-19-and-poor-software-quality"/>
+        <updated>2021-06-06T12:24:18.000Z</updated>
+        <summary type="html"><![CDATA[The Consortium for Information and Software Quality (CISQ) recently released a report about the cost of poor quality software (CPSQ) in the US in 2020. Reading between the lines, we can see how the COVID-19 crisis contributed to making this problem even worse.
+This past January, CISQ released The Cost of Poor Quality Software in the US: A 2020 Report and presented a webinar covering the key findings. Both provided valuable information about how the spread of poor software quality has had serious economic consequences in the United States.]]></summary>
+        <author>
+            <name>Nick Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Norvig: Singularity is in the eye of the beholder]]></title>
+        <id>https://wandb.ai/wandb_fc/gradient-dissent/reports/Peter-Norvig-Google-s-Director-of-Research-Singularity-is-in-the-eye-of-the-beholder--Vmlldzo2MTYwNjk?galleryTag=gradient-dissent</id>
+        <link href="https://wandb.ai/wandb_fc/gradient-dissent/reports/Peter-Norvig-Google-s-Director-of-Research-Singularity-is-in-the-eye-of-the-beholder--Vmlldzo2MTYwNjk?galleryTag=gradient-dissent"/>
+        <updated>2021-06-06T12:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restarts and GitOps Don't Fix Everything]]></title>
+        <id>https://dzone.com/articles/3123420</id>
+        <link href="https://dzone.com/articles/restarts-and-gitops-dont-fix-everything"/>
+        <updated>2021-06-06T12:16:09.000Z</updated>
+        <summary type="html"><![CDATA[GitOps, ChatOps, MLOps, BugattiOps. With the exception of the last one I just made up, every iteration of automating and streamlining operational procedures has been advertised as the cure-all solution to every ailment, including resolving incidents.
+While declarative infrastructure, programmatic deployments, and repeatable automation are desirable, they aren’t capable of resolving or preventing incidents in every major infrastructure. Even using Kubernetes to restart containers can only solve a certain class of issues. There are still problems for operator teams tasked to hold things together until the next version reaches production.]]></summary>
+        <author>
+            <name>Charles Cary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot: Selecting Profile Configuration, YAML Property File [Video]]]></title>
+        <id>https://dzone.com/articles/3126596</id>
+        <link href="https://dzone.com/articles/spring-boot-selecting-profile-configuration-yaml"/>
+        <updated>2021-06-06T12:00:58.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at the Spring boot — Selecting profile configuration — YAML property file | Spring Boot tutorial. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Logback in The Spring Boot Application? [Video]]]></title>
+        <id>https://dzone.com/articles/3126509</id>
+        <link href="https://dzone.com/articles/configure-logback-spring-boot-application"/>
+        <updated>2021-06-06T11:56:07.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at the How to configure Logback in the Spring boot application to print the log in the console and file?. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Applications Deployment Basics: Setup NGINX]]></title>
+        <id>https://dzone.com/articles/3128814</id>
+        <link href="https://dzone.com/articles/aws-applications-deployment-basics-setup-nginx"/>
+        <updated>2021-06-06T11:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+In the previous post of this series "AWS Application Deployment Basics," we set up a PostgreSQL database and then we connect to it via a NodeJS application.
+However, the Nodejs application is running on the same machine and database access is local for it. It is a totally valid setup and because it is on the same machine, the access is straightforward. But, having applications and databases running on separate machines is also a very common setup and we will cover that path as well later in this series. But today, we will focus mostly on the web server we want to run on an EC2 instance in the public subnet.]]></summary>
+        <author>
+            <name>Jawad Hasan Shani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create Software Architecture Culture In Your Team]]></title>
+        <id>https://dzone.com/articles/3128447</id>
+        <link href="https://dzone.com/articles/how-to-create-software-architecture-culture-in-you"/>
+        <updated>2021-06-06T11:29:59.000Z</updated>
+        <summary type="html"><![CDATA[There are some qualities that differentiate average from high performing software development companies and attitude towards the software architecture culture is one of them.
+Software Architecture Culture
+The culture is better and the results are much better in teams where software developers and architects pay particular attention to software architecture quality. In teams where it’s all about delivering tickets as quickly as possible, the culture and results are poorer. It is proven! However, it is very important to highlight that where there is too much focus on software architecture and not enough on delivery is hugely counter-productive as well. Both valuing software architecture and striving for continuous delivery are critical.]]></summary>
+        <author>
+            <name>Ekaterina Novoseltseva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS App Security Cheatsheet]]></title>
+        <id>https://dzone.com/articles/3128448</id>
+        <link href="https://dzone.com/articles/ios-app-security-cheatsheet"/>
+        <updated>2021-06-06T11:13:24.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article, we saw an example of how an attacker could analyze an app in the search of vulnerabilities, and perform an XSS attack through the misuse of a web view. Hopefully after reading that, if you weren’t aware of how easy it is to at least get into some source code of an app published on the AppStore, now you are and you might be wondering if there are other ways to hack an iOS application and how to prevent it.
+In this article, I will try to make a compilation of stuff to check if you want to ensure your app handles the most common security flaws. We will cover the following topics: system APIs, Data Handling, Data transportation, and App Hardening.]]></summary>
+        <author>
+            <name>Felipe Ferrari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tips to Become a Recognized Software Developer]]></title>
+        <id>https://dzone.com/articles/3126614</id>
+        <link href="https://dzone.com/articles/tips-to-become-a-recognized-software-developer"/>
+        <updated>2021-06-06T10:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Software developers are the unsung heroes of the industry. They toil tirelessly performing crucial digital duties behind the scenes, but are rarely acknowledged for their contributions to the success of the venture, at least publicly.
+As with any field, however, there’s always the possibility of garnering some well-deserved acclaim—provided you do outstanding work and are willing to devote time to polishing your professional image.]]></summary>
+        <author>
+            <name>ralfllanasas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Hasn’t the Security Industry Embraced the API-First Revolution?]]></title>
+        <id>https://dzone.com/articles/3126617</id>
+        <link href="https://dzone.com/articles/why-hasnt-the-security-industry-embraced-the-api-f"/>
+        <updated>2021-06-06T10:36:07.000Z</updated>
+        <summary type="html"><![CDATA[How the Security Industry Fell a Decade Behind the Broader Tech Industry
+I’m not going to sugarcoat it; the security industry has fallen way behind the broader tech industry in the last decade in a really fundamental way. While much of the tech industry has started to pivot away from hardware and software-based solutions – which dominated the 90s and early 2000s – and towards the use of API-first SaaS services, most of the security industry has not.
+Now, this reluctance to embrace a new way of delivering security outcomes means that customers are overburdened with acquiring, deploying, and managing security tools in a legacy model. A painful, not to mention expensive, way to defend against threats.]]></summary>
+        <author>
+            <name>Wias Issa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publish and Perish]]></title>
+        <id>https://erikhoel.substack.com/p/publish-and-perish</id>
+        <link href="https://erikhoel.substack.com/p/publish-and-perish"/>
+        <updated>2021-06-06T10:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAFe and Business Architecture]]></title>
+        <id>https://dzone.com/articles/3125475</id>
+        <link href="https://dzone.com/articles/safe-and-business-architecture"/>
+        <updated>2021-06-06T10:31:37.000Z</updated>
+        <summary type="html"><![CDATA[SAFe and Business Architecture. As organizations begin their Lean and Agile journey with SAFe®, SPCs will introduce a tool designed to help organizations determine the best, most logical place to launch their first Agile Release Train (ART). The Value Stream and ART Identification Workshop is designed to help organizations identify the sweet spot where an opportunity to deliver value intersects with a clear problem to solve, leadership support, a clear product or solution, and collaborating teams.
+It’s challenging to meet the criteria mentioned above, which is why many are tempted to launch ARTs within easier-to-identify constructs such as organizational silos. This rarely works. As we know, value often does not follow the organizational hierarchy. However, it’s important to understand that value stream identification is the first step in an ongoing practice of flow management to optimize the speed of delivery, quality, and customer delight.]]></summary>
+        <author>
+            <name>Adam Mattis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging FlexDeploy Project Package Features]]></title>
+        <id>https://dzone.com/articles/3125487</id>
+        <link href="https://dzone.com/articles/leveraging-flexdeploy-project-package-features"/>
+        <updated>2021-06-06T10:18:52.000Z</updated>
+        <summary type="html"><![CDATA[For a long time software development processes have been using packages. A package, for all intents and purposes, is a container file. Much like a zip file, they contain other files such as binaries, source code, scripts, and also a manifest that tells users what this project package means. Some common usages of packages are to make it easier to reuse and share code or to deploy code dependencies to different projects. Often, having a formal system with packages can help expose bugs sooner, making it easier to deliver trustworthy software. FlexDeploy packages, along with other built-in continuous integration and delivery functionality, will allow for a significant increase in productivity for developers and release managers.
+In this blog, we will explore the significance of partial projects, how we can utilize project packages, and also integrating change management into the build and deployment of those packages.]]></summary>
+        <author>
+            <name>Jay-Ar Brouillard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applications for GPU-Based AI and Machine Learning]]></title>
+        <id>https://dzone.com/articles/3125610</id>
+        <link href="https://dzone.com/articles/applications-for-gpu-based-ai-and-machine-learning"/>
+        <updated>2021-06-06T09:58:48.000Z</updated>
+        <summary type="html"><![CDATA[GPUs Continue to Expand Application Use in Artificial Intelligence and Machine Learning
+Artificial intelligence (AI) is set to transform global productivity, working patterns, and lifestyles and create enormous wealth. Research firm Gartner expects the global AI economy to increase from about $1.2 trillion last year to about $3.9 Trillion by 2022, while McKinsey sees it delivering global economic activity of around $13 trillion by 2030. And of course, this transformation is fueled by the powerful Machine Learning (ML) tools and techniques such as Deep Reinforcement Learning (DRL), Generative Adversarial Networks (GAN), Gradient-boosted-tree models (GBM), Natural Language Processing (NLP), and more.
+Most of the success in modern AI and ML systems is dependent on their ability to process massive amounts of raw data in a parallel fashion using task-optimized hardware. In fact, the modern resurgence of AI started with the 2012 ImageNet competition where deep-learning algorithms demonstrated an eye-popping increment in the image classification accuracy over their non-deep-learning counterparts (algorithms). However, along with clever programming and mathematical modeling, the use of specialized hardware played a significant role in this early success.]]></summary>
+        <author>
+            <name>Kevin Vu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dolphin Emulator - Dolphin MEGA Progress Report: April and May 2021]]></title>
+        <id>https://dolphin-emu.org/blog/2021/06/06/dolphin-progress-report-april-and-may-2021/</id>
+        <link href="https://dolphin-emu.org/blog/2021/06/06/dolphin-progress-report-april-and-may-2021/"/>
+        <updated>2021-06-06T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dave Learns to Fork]]></title>
+        <id>http://ratfactor.com/zig/forking-is-cool</id>
+        <link href="http://ratfactor.com/zig/forking-is-cool"/>
+        <updated>2021-06-06T09:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gRPC For Production]]></title>
+        <id>https://dzone.com/articles/3127468</id>
+        <link href="https://dzone.com/articles/grpc-for-production"/>
+        <updated>2021-06-06T09:16:07.000Z</updated>
+        <summary type="html"><![CDATA[When starting with gRPC there are many resources setting out what gRPC is, where it originated from and how to create basic service and client. All those tutorials do a very good job in helping the developers to get started using gRPC in their projects. We can find materials talking about gRPC server, stub client, interceptors, protobuf, encrypted connection, load balancing but hardly we find all this together and prepared for a real production scenario. Deployments to production are not discussed and available resources are sparse.
+There are some projects that provide a collection of handy features that can help you to set up gRPC communication in a reliable way but they are all generic building blocks without an initial structure that you can evolve from.]]></summary>
+        <author>
+            <name>Alexsandro Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find an Optimal Set of Nodes for A Kubernetes Cluster]]></title>
+        <id>https://dzone.com/articles/3127477</id>
+        <link href="https://dzone.com/articles/finding-optimal-nodes-kubernetes-cluster"/>
+        <updated>2021-06-06T09:10:28.000Z</updated>
+        <summary type="html"><![CDATA[One of the most impactful ways to reduce spend on Kubernetes infrastructure is to make sure your clusters are optimally sized for the workloads they run. Working with many teams over the past year we have seen that it’s not so obvious how to arrive at an optimally-sized cluster, even in autoscaling environments. In response, we are publicly launching a new tool that we’ve used to help teams recently! While implementing this solution with users so far we’ve seen savings in the range of 25-60%, even having a major impact in autoscaling environments.
+How It WorksPermalink
+This new tool generates context-aware cluster sizing recommendations after analyzing Kubernetes metrics on historical workloads and cloud billing data. As a user, you only need to provide the context of the cluster, i.e. whether it is being used for development, production, or high-availability workloads. We then recommend cluster configurations, which optimize for the respective balance of cost, simplicity, and performance/headroom. Because this solution is Kubernetes native, we consider the following when providing recommendations:]]></summary>
+        <author>
+            <name>Webb Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps'ing DevOps]]></title>
+        <id>https://dzone.com/articles/3124769</id>
+        <link href="https://dzone.com/articles/devopsing-devops"/>
+        <updated>2021-06-06T09:00:11.000Z</updated>
+        <summary type="html"><![CDATA[There’s no faster way to kill a conversation among a non-technical crowd than to begin discussing DevOps. For many, DevOps is that “technical thing” that IT teams do to automate testing. Or, to paraphrase an actual conversation I once had with a client:
+“Doesn’t DevOps use that guy Jenkins to monitor something called technical debt so that we can have a cleaner Git, which somehow allows our Kubernetes to Docker? All I know is that our operations people don’t like it when we release on demand, and our annual software releases just deliver last year’s trends too late.”]]></summary>
+        <author>
+            <name>Adam Mattis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot With Spring Data JPA | Spring Boot CRUD Example [Video]]]></title>
+        <id>https://dzone.com/articles/3126441</id>
+        <link href="https://dzone.com/articles/spring-boot-with-spring-data-jpa-spring-boot-crud-1"/>
+        <updated>2021-06-06T08:47:58.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at the Spring Boot With Spring Data JPA | Spring Boot CRUD Example with RESTful APIs and JPA. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle BI vs. Tableau: Which Business Intelligence Tool Is Better?]]></title>
+        <id>https://dzone.com/articles/3125346</id>
+        <link href="https://dzone.com/articles/oracle-bi-vs-tableau-which-business-intelligence-t"/>
+        <updated>2021-06-06T08:37:24.000Z</updated>
+        <summary type="html"><![CDATA[In the new normal as enterprises strengthen their efforts towards digitization, the need to use data to derive valuable insights for strategic decision-making has also risen. Precisely why the Business Intelligence market is seeing tremendous growth. According to a recent report the BI market is expected to reach USD 27870 Million by 2026. With this boom in the BI market, the number of Business Intelligence software has also increased. There are over 700+ BI tools listed on Capterra and close to 500 on G2 under embedded BI software and Data Visualization tools. In this article, we will provide a detailed comparison of the two most popular BI software in the market: Oracle BI and Tableau.
+Oracle BI vs Tableau - A Neck to Neck Comparison
+A large number of enterprises use either Oracle BI or Tableau for their BI requirements. The user list of both these BI software includes some of the biggest global brands. So, let us see what makes Oracle BI software and Tableau popular and how these compare when it comes to product features, pricing, developer experience, and more.]]></summary>
+        <author>
+            <name>Raju Shahi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing Concerns About Being a DevOps Engineer]]></title>
+        <id>https://dzone.com/articles/3125472</id>
+        <link href="https://dzone.com/articles/addressing-concerns-of-being-a-devops-engineer"/>
+        <updated>2021-06-06T08:18:11.000Z</updated>
+        <summary type="html"><![CDATA[In the experience of leading a DevOps team, some team members have the concern about being a DevOps engineer:
+Concern #1: Is it better to be a developer because writing programs looks more competitive? However, we seem to be just doing the integration of various tools.]]></summary>
+        <author>
+            <name>Rose Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfecting Network APIs]]></title>
+        <id>https://dzone.com/articles/3125485</id>
+        <link href="https://dzone.com/articles/perfecting-network-apis"/>
+        <updated>2021-06-06T08:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Humans have been in the business of engineering since the beginning of our existence. Software engineering hasn’t been around for very long in this context; however, our collective learning about the process has increased exponentially nevertheless. The tools and technology behind everything from source code to computing machines have evolved rapidly. One static, fundamental principle will continue to shape the tech economy and how future businesses will run. This series discusses how the Modularity Principle will force all of us to find a specialty and perfect its network API.
+Complex Systems
+All systems are simply a sum of their parts. When I see someone look at a monstrous problem and become flustered, they’re usually flustered because they don’t even know where to begin. Other times, they know where to start, but they balk at the amount of time they perceive it takes to solve the problem. This balking is a valid defense mechanism that prevents us from wasting our time on things that do not matter to us.]]></summary>
+        <author>
+            <name>Christopher Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for continuous documentation]]></title>
+        <id>https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/</id>
+        <link href="https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/"/>
+        <updated>2021-06-06T08:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commodore’s Assemblers: HCD65]]></title>
+        <id>https://www.pagetable.com/?p=1540</id>
+        <link href="https://www.pagetable.com/?p=1540"/>
+        <updated>2021-06-06T06:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minims]]></title>
+        <id>http://www.tweller.com/minims/index.html</id>
+        <link href="http://www.tweller.com/minims/index.html"/>
+        <updated>2021-06-06T06:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cicero used humor to charm audiences–and humiliate opponents]]></title>
+        <id>https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485</id>
+        <link href="https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485"/>
+        <updated>2021-06-06T02:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Woman Who Gave the Macintosh a Smile (2018)]]></title>
         <id>https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile</id>
@@ -14810,50 +15426,6 @@ And to use Git to its full potential, you need to know Git commands. Here you wi
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
-        <id>609558382cd0545b5e943c6f</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/"/>
-        <updated>2021-05-07T21:07:57.000Z</updated>
-        <summary type="html"><![CDATA[“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be]]></title>
-        <id>609551f02cd0545b5e943bc0</id>
-        <link href="https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/"/>
-        <updated>2021-05-07T16:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
-        <id>https://css-tricks.com/?p=339781</id>
-        <link href="https://css-tricks.com/is-css-a-programming-language/"/>
-        <updated>2021-05-07T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;
-The post Is CSS a Programming Language? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=339574</id>
-        <link href="https://css-tricks.com/links-on-typography/"/>
-        <updated>2021-05-07T13:54:01.000Z</updated>
-        <summary type="html"><![CDATA[These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.
-The post Links on Typography appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
