@@ -2,10 +2,388 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T00:45:41.760Z</updated>
+    <updated>2021-06-08T00:47:26.117Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
+        <id>60bbd28eacb62507dd1d99fb</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
+        <updated>2021-06-07T23:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build full stack serverless apps with Supabase and Next.js.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An interactive look at how a video signal is made]]></title>
+        <id>https://blog.pizzabox.computer/random/videolines/</id>
+        <link href="https://blog.pizzabox.computer/random/videolines/"/>
+        <updated>2021-06-07T22:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static site generators to watch in 2021]]></title>
+        <id>https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/</id>
+        <link href="https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/"/>
+        <updated>2021-06-07T22:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside]]></title>
+        <id>https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside</id>
+        <link href="https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside"/>
+        <updated>2021-06-07T21:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The top-ranking HTML editor on Google is an SEO scam]]></title>
+        <id>https://casparwre.de/blog/seo-scam/</id>
+        <link href="https://casparwre.de/blog/seo-scam/"/>
+        <updated>2021-06-07T21:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification]]></title>
+        <id>https://www.infoq.com/news/2021/04/intel-hidden-instructions/</id>
+        <link href="https://www.infoq.com/news/2021/04/intel-hidden-instructions/"/>
+        <updated>2021-06-07T21:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodePerfect 95 – A fast IDE for Go]]></title>
+        <id>https://codeperfect95.com</id>
+        <link href="https://codeperfect95.com"/>
+        <updated>2021-06-07T21:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The price of batteries has declined by 97% in the last three decades]]></title>
+        <id>https://ourworldindata.org/battery-price-decline</id>
+        <link href="https://ourworldindata.org/battery-price-decline"/>
+        <updated>2021-06-07T21:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highlights of new technologies introduced at WWDC 2021]]></title>
+        <id>https://developer.apple.com/documentation/New-Technologies-WWDC-2021</id>
+        <link href="https://developer.apple.com/documentation/New-Technologies-WWDC-2021"/>
+        <updated>2021-06-07T20:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
+        <id>60be863cd3126007592d4c36</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
+        <updated>2021-06-07T20:54:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“It is 2018 and this error message is a mistake from 1974”]]></title>
+        <id>https://twitter.com/Foone/status/1058676834940776450</id>
+        <link href="https://twitter.com/Foone/status/1058676834940776450"/>
+        <updated>2021-06-07T20:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server is smoking, trying to figure out why]]></title>
+        <id>https://twitter.com/HNStatus/status/1401980524428627970</id>
+        <link href="https://twitter.com/HNStatus/status/1401980524428627970"/>
+        <updated>2021-06-07T20:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Accessibility]]></title>
+        <id>https://css-tricks.com/?p=341805</id>
+        <link href="https://css-tricks.com/links-on-accessibility/"/>
+        <updated>2021-06-07T19:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
+…
+The post Links on Accessibility appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Closures in JavaScript – A Beginner&#x27;s Guide]]></title>
+        <id>5ff625967af2371468bb8645</id>
+        <link href="https://www.freecodecamp.org/news/closures-in-javascript/"/>
+        <updated>2021-06-07T18:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yatima: A programming language for the decentralized web]]></title>
+        <id>https://github.com/yatima-inc/yatima</id>
+        <link href="https://github.com/yatima-inc/yatima"/>
+        <updated>2021-06-07T18:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaceTime is coming to Android and Windows via the web]]></title>
+        <id>https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc</id>
+        <link href="https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc"/>
+        <updated>2021-06-07T17:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Solution for Building Invincible Apps]]></title>
+        <id>https://dzone.com/articles/3129870</id>
+        <link href="https://dzone.com/articles/temporal-open-source-solution-for-building-invinci"/>
+        <updated>2021-06-07T17:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+I left Microsoft after 19 years, where I led teams that built system software for highly scalable cloud applications. This included leading development of the Microsoft Orleans framework from its inception at Microsoft Research until it became one of the most successful open-source projects within the .NET ecosystem. Orleans powers a number of large-scale Microsoft systems such as Xbox Game Services, Skype, Azure IoT, Azure ML, Azure Active Directory, and many more cloud services outside Microsoft. So if you’ve ever played online multiplayer games like Halo or Call of Duty, our team built much of the underlying infrastructure that supports it.
+When I originally joined Orleans, cloud computing was still in its infancy. We had a 10,000-foot vision and not a single line of actual code. We needed to reimagine how cloud-scale applications should be coded because, at the time, available and high-performance scalable systems were only achievable by experts. And while everyone knew the cloud was coming, we had no idea how to build applications in a way that ensured they would be accessible and productive for millions of software engineers.]]></summary>
+        <author>
+            <name>Sergey Bykov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Found at Goodwill: WebPad 1001 Prototype]]></title>
+        <id>https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/</id>
+        <link href="https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/"/>
+        <updated>2021-06-07T16:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]]]></title>
+        <id>https://www.foundationdb.org/files/fdb-paper.pdf</id>
+        <link href="https://www.foundationdb.org/files/fdb-paper.pdf"/>
+        <updated>2021-06-07T16:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit used legal threats to kill my open-source project]]></title>
+        <id>https://intuitiveexplanations.com/tech/replit/</id>
+        <link href="https://intuitiveexplanations.com/tech/replit/"/>
+        <updated>2021-06-07T16:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Personal Computational Handweaving with a Low-Cost Jacquard Loom]]></title>
+        <id>https://dl.acm.org/doi/pdf/10.1145/3411764.3445750</id>
+        <link href="https://dl.acm.org/doi/pdf/10.1145/3411764.3445750"/>
+        <updated>2021-06-07T15:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare]]></title>
+        <id>https://news.ycombinator.com/item?id=27423738</id>
+        <link href="https://news.ycombinator.com/item?id=27423738"/>
+        <updated>2021-06-07T15:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
+        <id>60b136d911ffb70827ef912b</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
+        <updated>2021-06-07T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
+        <id>https://css-tricks.com/?p=340390</id>
+        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
+        <updated>2021-06-07T14:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
+The post VS Code Extensions for HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to sequence your genome at home]]></title>
+        <id>http://blog.booleanbiotech.com/human-genome-at-home.html</id>
+        <link href="http://blog.booleanbiotech.com/human-genome-at-home.html"/>
+        <updated>2021-06-07T14:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“AI promised to revolutionize radiology but so far its failing”]]></title>
+        <id>https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/</id>
+        <link href="https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/"/>
+        <updated>2021-06-07T13:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain-Computer Interface Smashes Previous Record for Typing Speed]]></title>
+        <id>https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed</id>
+        <link href="https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed"/>
+        <updated>2021-06-07T13:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Dushman, last surviving Auschwitz liberator, dies aged 98]]></title>
+        <id>https://www.bbc.com/news/world-europe-57379704</id>
+        <link href="https://www.bbc.com/news/world-europe-57379704"/>
+        <updated>2021-06-07T12:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Open-source alternative to Retool, Internal.io, etc.]]></title>
+        <id>https://github.com/ToolJet/ToolJet/</id>
+        <link href="https://github.com/ToolJet/ToolJet/"/>
+        <updated>2021-06-07T11:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
+        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
+        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
+        <updated>2021-06-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The T-34 keyboard layout]]></title>
+        <id>https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/</id>
+        <link href="https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/"/>
+        <updated>2021-06-07T10:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers]]></title>
+        <id>https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/</id>
+        <link href="https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/"/>
+        <updated>2021-06-07T10:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micro Management]]></title>
+        <id>https://dzone.com/articles/3128956</id>
+        <link href="https://dzone.com/articles/micro-management"/>
+        <updated>2021-06-07T09:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Assuming you're working in an environment where you have to communicate and collaborate with others, avoiding micro management starts out with the architecture of whatever you want to build. I was once asked how I would go ahead of leading a software development department, and my answer was; "Well, first of all, I consider everybody to be a lead developer one way or another."
+The above is a crucial mindset to facilitate for autonomy. Simply because as developers, our primary objective is often to become better, and as a manager I perceive my primary task to facilitate for that, within an environment where arguably the company's primary objectives, are solved almost as a "side effect" of the individual team members' personal objectives are being solved. By aligning the company's incentives with the individuals' incentives, your team members will be able to deliver 100 times more than if these are in opposition with each other. After a while, it becomes like "gravity". Self sustained software development departments, with such momentum, that for the uninitiated it seems to be like a force of nature, you couldn't stop even if you tried!]]></summary>
+        <author>
+            <name>Thomas Hansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry everybody, I failed with you]]></title>
+        <id>https://github.com/pedronauck/docz/issues/1634</id>
+        <link href="https://github.com/pedronauck/docz/issues/1634"/>
+        <updated>2021-06-07T09:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Android Development on iPad]]></title>
+        <id>https://abishov.com/2021/06/06/android-studio-on-ipad.html</id>
+        <link href="https://abishov.com/2021/06/06/android-studio-on-ipad.html"/>
+        <updated>2021-06-07T09:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tabula – Extract tables from PDF files]]></title>
+        <id>https://github.com/tabulapdf/tabula-java</id>
+        <link href="https://github.com/tabulapdf/tabula-java"/>
+        <updated>2021-06-07T05:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artist says Capcom stole her photos for Resident Evil, Devil May Cry]]></title>
+        <id>https://www.polygon.com/22519568/resident-evil-4-copyright-infringement-lawsuit-capcom</id>
+        <link href="https://www.polygon.com/22519568/resident-evil-4-copyright-infringement-lawsuit-capcom"/>
+        <updated>2021-06-07T03:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitoring Kubernetes cert-manager Certificates With BotKube]]></title>
         <id>https://dzone.com/articles/3125486</id>
@@ -145,6 +523,16 @@ In July 2019, Capital One became aware of a data breach inside their Amazon Web 
         <id>https://major.io/2021/06/06/a-new-future-for-icanhazip/</id>
         <link href="https://major.io/2021/06/06/a-new-future-for-icanhazip/"/>
         <updated>2021-06-06T19:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Novel]]></title>
+        <id>https://granta.com/notes-on-craft-jonathan-lee/</id>
+        <link href="https://granta.com/notes-on-craft-jonathan-lee/"/>
+        <updated>2021-06-06T18:28:29.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -15383,46 +15771,6 @@ And to use Git to its full potential, you need to know Git commands. Here you wi
         <id>https://www.shelf.so/</id>
         <link href="https://www.shelf.so/"/>
         <updated>2021-05-09T12:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Sesame Street': From Radical Experiment to Beloved TV Mainstay]]></title>
-        <id>https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay</id>
-        <link href="https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay"/>
-        <updated>2021-05-09T10:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing Sports Analytics Through AI Research]]></title>
-        <id>https://deepmind.com/blog/article/advancing-sports-analytics-through-ai</id>
-        <link href="https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"/>
-        <updated>2021-05-09T09:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Festival of Britain at 70: questioning the myth]]></title>
-        <id>https://www.iconeye.com/design/festival-of-britain-at-70-questioning-myth</id>
-        <link href="https://www.iconeye.com/design/festival-of-britain-at-70-questioning-myth"/>
-        <updated>2021-05-09T05:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s not a ‘labor shortage,’ it’s a reassessment of work in America]]></title>
-        <id>https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/</id>
-        <link href="https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/"/>
-        <updated>2021-05-08T13:17:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341805",
+          "author": "Chris Coyier",
+          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-accessibility/",
+          "publishedOn": "2021-06-07T19:52:26.000Z",
+          "wordCount": 599,
+          "title": "Links on Accessibility"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340390",
+          "author": "Chris Coyier",
+          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
+          "publishedOn": "2021-06-07T14:13:50.000Z",
+          "wordCount": 1453,
+          "title": "VS Code Extensions for HTML"
+        },
+        {
           "id": "https://css-tricks.com/?p=341793",
           "author": "Chris Coyier",
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -490,6 +508,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
+          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
+          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "publishedOn": "2021-06-07T11:00:00.000Z",
+          "wordCount": 2218,
+          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "author": "hello@smashingmagazine.com (Nwani Victory)",
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
@@ -794,6 +826,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
+          "id": "60be863cd3126007592d4c36",
+          "author": null,
+          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "publishedOn": "2021-06-07T20:54:41.000Z",
+          "wordCount": 439,
+          "title": "How to Use OpenCV and Python for Computer Vision and AI"
+        },
+        {
+          "id": "5ff625967af2371468bb8645",
+          "author": null,
+          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
+          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
+          "publishedOn": "2021-06-07T18:18:01.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b136d911ffb70827ef912b",
+          "author": null,
+          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
+          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
+          "publishedOn": "2021-06-07T15:01:26.000Z",
+          "wordCount": 1547,
+          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
+        },
         {
           "id": "60b3480c11ffb70827ef9a88",
           "author": null,
@@ -1582,6 +1650,24 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3129870",
+          "author": "Sergey Bykov",
+          "description": "Introduction\nI left Microsoft after 19 years, where I led teams that built system software for highly scalable cloud applications. This included leading development of the Microsoft Orleans framework from its inception at Microsoft Research until it became one of the most successful open-source projects within the .NET ecosystem. Orleans powers a number of large-scale Microsoft systems such as Xbox Game Services, Skype, Azure IoT, Azure ML, Azure Active Directory, and many more cloud services outside Microsoft. So if you’ve ever played online multiplayer games like Halo or Call of Duty, our team built much of the underlying infrastructure that supports it.\nWhen I originally joined Orleans, cloud computing was still in its infancy. We had a 10,000-foot vision and not a single line of actual code. We needed to reimagine how cloud-scale applications should be coded because, at the time, available and high-performance scalable systems were only achievable by experts. And while everyone knew the cloud was coming, we had no idea how to build applications in a way that ensured they would be accessible and productive for millions of software engineers.",
+          "link": "https://dzone.com/articles/temporal-open-source-solution-for-building-invinci",
+          "publishedOn": "2021-06-07T17:40:35.000Z",
+          "wordCount": 1605,
+          "title": "Open Source Solution for Building Invincible Apps"
+        },
+        {
+          "id": "https://dzone.com/articles/3128956",
+          "author": "Thomas Hansen",
+          "description": "Assuming you're working in an environment where you have to communicate and collaborate with others, avoiding micro management starts out with the architecture of whatever you want to build. I was once asked how I would go ahead of leading a software development department, and my answer was; \"Well, first of all, I consider everybody to be a lead developer one way or another.\"\nThe above is a crucial mindset to facilitate for autonomy. Simply because as developers, our primary objective is often to become better, and as a manager I perceive my primary task to facilitate for that, within an environment where arguably the company's primary objectives, are solved almost as a \"side effect\" of the individual team members' personal objectives are being solved. By aligning the company's incentives with the individuals' incentives, your team members will be able to deliver 100 times more than if these are in opposition with each other. After a while, it becomes like \"gravity\". Self sustained software development departments, with such momentum, that for the uninitiated it seems to be like a force of nature, you couldn't stop even if you tried!",
+          "link": "https://dzone.com/articles/micro-management",
+          "publishedOn": "2021-06-07T09:18:11.000Z",
+          "wordCount": 1157,
+          "title": "Micro Management"
+        },
         {
           "id": "https://dzone.com/articles/3125486",
           "author": "Bhavin Gandhi",
@@ -5613,6 +5699,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://blog.pizzabox.computer/random/videolines/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.pizzabox.computer/random/videolines/",
+          "publishedOn": "2021-06-07T22:57:21.000Z",
+          "wordCount": 82,
+          "title": "An interactive look at how a video signal is made"
+        },
+        {
+          "id": "https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.netlify.com/blog/2021/06/02/10-static-site-generators-to-watch-in-2021/",
+          "publishedOn": "2021-06-07T22:27:45.000Z",
+          "wordCount": 2658,
+          "title": "Static site generators to watch in 2021"
+        },
+        {
+          "id": "https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside",
+          "publishedOn": "2021-06-07T21:46:12.000Z",
+          "wordCount": 903,
+          "title": "DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside"
+        },
+        {
+          "id": "https://casparwre.de/blog/seo-scam/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://casparwre.de/blog/seo-scam/",
+          "publishedOn": "2021-06-07T21:35:19.000Z",
+          "wordCount": 975,
+          "title": "The top-ranking HTML editor on Google is an SEO scam"
+        },
+        {
+          "id": "https://www.infoq.com/news/2021/04/intel-hidden-instructions/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/news/2021/04/intel-hidden-instructions/",
+          "publishedOn": "2021-06-07T21:19:42.000Z",
+          "wordCount": 3228,
+          "title": "Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification"
+        },
+        {
+          "id": "https://codeperfect95.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codeperfect95.com",
+          "publishedOn": "2021-06-07T21:10:40.000Z",
+          "wordCount": 10,
+          "title": "CodePerfect 95 – A fast IDE for Go"
+        },
+        {
+          "id": "https://ourworldindata.org/battery-price-decline",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ourworldindata.org/battery-price-decline",
+          "publishedOn": "2021-06-07T21:06:31.000Z",
+          "wordCount": 1903,
+          "title": "The price of batteries has declined by 97% in the last three decades"
+        },
+        {
+          "id": "https://developer.apple.com/documentation/New-Technologies-WWDC-2021",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.apple.com/documentation/New-Technologies-WWDC-2021",
+          "publishedOn": "2021-06-07T20:55:59.000Z",
+          "wordCount": 135,
+          "title": "Highlights of new technologies introduced at WWDC 2021"
+        },
+        {
+          "id": "https://twitter.com/Foone/status/1058676834940776450",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/Foone/status/1058676834940776450",
+          "publishedOn": "2021-06-07T20:44:46.000Z",
+          "wordCount": 196,
+          "title": "“It is 2018 and this error message is a mistake from 1974”"
+        },
+        {
+          "id": "https://twitter.com/HNStatus/status/1401980524428627970",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/HNStatus/status/1401980524428627970",
+          "publishedOn": "2021-06-07T20:31:30.000Z",
+          "wordCount": 196,
+          "title": "Server is smoking, trying to figure out why"
+        },
+        {
+          "id": "https://github.com/yatima-inc/yatima",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/yatima-inc/yatima",
+          "publishedOn": "2021-06-07T18:09:03.000Z",
+          "wordCount": 1911,
+          "title": "Yatima: A programming language for the decentralized web"
+        },
+        {
+          "id": "https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc",
+          "publishedOn": "2021-06-07T17:46:24.000Z",
+          "wordCount": 678,
+          "title": "FaceTime is coming to Android and Windows via the web"
+        },
+        {
+          "id": "https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/",
+          "publishedOn": "2021-06-07T16:40:04.000Z",
+          "wordCount": 890,
+          "title": "Found at Goodwill: WebPad 1001 Prototype"
+        },
+        {
+          "id": "https://www.foundationdb.org/files/fdb-paper.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.foundationdb.org/files/fdb-paper.pdf",
+          "publishedOn": "2021-06-07T16:37:36.000Z",
+          "wordCount": 25302,
+          "title": "FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]"
+        },
+        {
+          "id": "https://intuitiveexplanations.com/tech/replit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://intuitiveexplanations.com/tech/replit/",
+          "publishedOn": "2021-06-07T16:08:04.000Z",
+          "wordCount": 2395,
+          "title": "Replit used legal threats to kill my open-source project"
+        },
+        {
+          "id": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445750",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445750",
+          "publishedOn": "2021-06-07T15:48:56.000Z",
+          "wordCount": 148,
+          "title": "Enabling Personal Computational Handweaving with a Low-Cost Jacquard Loom"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27423738",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27423738",
+          "publishedOn": "2021-06-07T15:30:19.000Z",
+          "wordCount": 4229,
+          "title": "Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare"
+        },
+        {
+          "id": "http://blog.booleanbiotech.com/human-genome-at-home.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.booleanbiotech.com/human-genome-at-home.html",
+          "publishedOn": "2021-06-07T14:03:08.000Z",
+          "wordCount": 1853,
+          "title": "How to sequence your genome at home"
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
+          "publishedOn": "2021-06-07T13:53:03.000Z",
+          "wordCount": 5284,
+          "title": "“AI promised to revolutionize radiology but so far its failing”"
+        },
+        {
+          "id": "https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed",
+          "publishedOn": "2021-06-07T13:34:28.000Z",
+          "wordCount": 44,
+          "title": "Brain-Computer Interface Smashes Previous Record for Typing Speed"
+        },
+        {
+          "id": "https://www.bbc.com/news/world-europe-57379704",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/world-europe-57379704",
+          "publishedOn": "2021-06-07T12:01:23.000Z",
+          "wordCount": 860,
+          "title": "David Dushman, last surviving Auschwitz liberator, dies aged 98"
+        },
+        {
+          "id": "https://github.com/ToolJet/ToolJet/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ToolJet/ToolJet/",
+          "publishedOn": "2021-06-07T11:44:13.000Z",
+          "wordCount": 1192,
+          "title": "Show HN: Open-source alternative to Retool, Internal.io, etc."
+        },
+        {
+          "id": "https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/",
+          "publishedOn": "2021-06-07T10:44:03.000Z",
+          "wordCount": 4162,
+          "title": "The T-34 keyboard layout"
+        },
+        {
+          "id": "https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/",
+          "publishedOn": "2021-06-07T10:13:18.000Z",
+          "wordCount": 1663,
+          "title": "Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers"
+        },
+        {
+          "id": "https://github.com/pedronauck/docz/issues/1634",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/pedronauck/docz/issues/1634",
+          "publishedOn": "2021-06-07T09:17:27.000Z",
+          "wordCount": 2707,
+          "title": "Sorry everybody, I failed with you"
+        },
+        {
+          "id": "https://abishov.com/2021/06/06/android-studio-on-ipad.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abishov.com/2021/06/06/android-studio-on-ipad.html",
+          "publishedOn": "2021-06-07T09:09:28.000Z",
+          "wordCount": 1703,
+          "title": "Exploring Android Development on iPad"
+        },
+        {
+          "id": "https://github.com/tabulapdf/tabula-java",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/tabulapdf/tabula-java",
+          "publishedOn": "2021-06-07T05:46:06.000Z",
+          "wordCount": 1174,
+          "title": "Tabula – Extract tables from PDF files"
+        },
+        {
+          "id": "https://www.polygon.com/22519568/resident-evil-4-copyright-infringement-lawsuit-capcom",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.polygon.com/22519568/resident-evil-4-copyright-infringement-lawsuit-capcom",
+          "publishedOn": "2021-06-07T03:10:36.000Z",
+          "wordCount": 1194,
+          "title": "Artist says Capcom stole her photos for Resident Evil, Devil May Cry"
+        },
+        {
           "id": "https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams",
           "author": null,
           "description": "Comments",
@@ -5701,6 +6039,15 @@
           "publishedOn": "2021-06-06T19:21:43.000Z",
           "wordCount": 1482,
           "title": "A New Future for Icanhazip"
+        },
+        {
+          "id": "https://granta.com/notes-on-craft-jonathan-lee/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://granta.com/notes-on-craft-jonathan-lee/",
+          "publishedOn": "2021-06-06T18:28:29.000Z",
+          "wordCount": 2074,
+          "title": "How to Start a Novel"
         },
         {
           "id": "https://mastershot.app",
@@ -13081,42 +13428,6 @@
           "publishedOn": "2021-05-09T12:58:18.000Z",
           "wordCount": 81,
           "title": "Show HN: Save, annotate and organize podcasts, blog posts, newsletters, videos"
-        },
-        {
-          "id": "https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay",
-          "publishedOn": "2021-05-09T10:34:03.000Z",
-          "wordCount": 1716,
-          "title": "'Sesame Street': From Radical Experiment to Beloved TV Mainstay"
-        },
-        {
-          "id": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-          "author": null,
-          "description": "Comments",
-          "link": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-          "publishedOn": "2021-05-09T09:35:23.000Z",
-          "wordCount": 1812,
-          "title": "Advancing Sports Analytics Through AI Research"
-        },
-        {
-          "id": "https://www.iconeye.com/design/festival-of-britain-at-70-questioning-myth",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.iconeye.com/design/festival-of-britain-at-70-questioning-myth",
-          "publishedOn": "2021-05-09T05:30:40.000Z",
-          "wordCount": 2627,
-          "title": "The Festival of Britain at 70: questioning the myth"
-        },
-        {
-          "id": "https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.washingtonpost.com/business/2021/05/07/jobs-report-labor-shortage-analysis/",
-          "publishedOn": "2021-05-08T13:17:53.000Z",
-          "wordCount": 1718,
-          "title": "It’s not a ‘labor shortage,’ it’s a reassessment of work in America"
         }
       ]
     }
