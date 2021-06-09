@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341982",
+          "author": "Todd Libby",
+          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
+          "publishedOn": "2021-06-08T18:31:08.000Z",
+          "wordCount": 3029,
+          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341884",
+          "author": "Chris Coyier",
+          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
+          "publishedOn": "2021-06-08T14:16:07.000Z",
+          "wordCount": 708,
+          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
+        },
+        {
           "id": "https://css-tricks.com/?p=341805",
           "author": "Chris Coyier",
           "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -508,6 +526,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
+          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "publishedOn": "2021-06-08T12:00:00.000Z",
+          "wordCount": 2102,
+          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "author": "hello@smashingmagazine.com (Prince Chukwudire)",
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
@@ -809,15 +841,6 @@
           "publishedOn": "2021-05-11T10:00:00.000Z",
           "wordCount": 1958,
           "title": "The Conference Platform We Use For Our Online Events: Hopin"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
         }
       ]
     },
@@ -826,6 +849,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
+        {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
         {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
@@ -1650,6 +1700,51 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3130042",
+          "author": "Artem Ervits",
+          "description": "PGBouncer is a lightweight connection pooler for PostgreSQL. CockroachDB is a cloud-native SQL database for building global, scalable cloud services that survive disasters.\nCockroachDB is a PostgreSQL wire compatible database, which means it aims to have tight compatibility with the PG ecosystem. Today, we're going to wire PGBouncer to work with CockroachDB. This article is meant to scratch the surface of possibilities unblocked by PGBouncer with CockroachDB and not meant to be an in-depth overview. We're currently researching this topic and will follow up with official docs on the proper architecture and sizing of PGBouncer and CockroachDB.",
+          "link": "https://dzone.com/articles/using-pgbouncer-with-cockroachdb",
+          "publishedOn": "2021-06-08T21:13:17.000Z",
+          "wordCount": 1814,
+          "title": "Using PGBouncer With CockroachDB"
+        },
+        {
+          "id": "https://dzone.com/articles/3124867",
+          "author": "Michael Bogan",
+          "description": "It's safe to say that every modern web application these days relies to some degree on three foundational web standards: HTML, CSS, and JavaScript. While HTML has largely stabilized since the HTML5 standard, both CSS and JavaScript continue to evolve to meet developers' and users' needs.\nThe evolving nature of these three technologies has lead to the introduction of web components, a cross-browser solution for building complex web apps. On top of this open source standard, Salesforce developed Lightning Web Components (LWC) as a fast, enterprise-grade wrapper around vanilla web components. The result is a thin, performant, and feature-packed framework built entirely on the open web.",
+          "link": "https://dzone.com/articles/decorators-and-mixins-in-lightning-web-components",
+          "publishedOn": "2021-06-08T14:52:45.000Z",
+          "wordCount": 1461,
+          "title": "Decorators and Mixins in Lightning Web Components"
+        },
+        {
+          "id": "https://dzone.com/articles/3128970",
+          "author": "Jean-Paul Mochet",
+          "description": "On April 22, 2021, during the Orbit 2021 symposium of the TypeDB community, I explained the progress of our work around the use case \"What are the impacts of Semantic Graph Technologies in the Analysis of Impacts of Anti-Covid Measures?”\nIn fact, the challenges of the open-source project: PKN12 (Pandemic Knowledge Network, I will come back to the meaning of the number 12 ) are to propose new tools for analyzing the data (open-data) available of the epidemic, using TypeDB.",
+          "link": "https://dzone.com/articles/using-typedb-to-assess-covid-19-prevention-measure",
+          "publishedOn": "2021-06-08T14:52:05.000Z",
+          "wordCount": 1471,
+          "title": "Using TypeDB to Assess Covid-19 Prevention Measures"
+        },
+        {
+          "id": "https://dzone.com/articles/3129061",
+          "author": "Blake Team DZone",
+          "description": "Join us live on Tuesday, June 15th at Noon EDT\nDmitry Sotnikov, Chief Product Officer at API security platform company 42Crunch, will cover recent API vulnerabilities and lessons learned in this quick 30-minute live event featuring a Q&A at the end. Dmitry Sotnikov has written over 140 articles on DZone that have generated over 1 million page views.\nRSVP and join us live\n\n\nAgenda\nIntroductions\nDmitry Sotnikov will cover recent API vulnerabilities and lessons learned\nQuestion and answer will be during the end of this virtual event and DZone community meetup\nLive Question and Answer with Dmitry Sotnikov\nThere will be a live Q&A at the end of this virtual event! Have a question for Dmitry Sotnikov? Ask your questions live during the Q&A!",
+          "link": "https://dzone.com/articles/dzone-community-meetup-the-latest-api-security-vul",
+          "publishedOn": "2021-06-08T13:03:19.000Z",
+          "wordCount": 538,
+          "title": "[DZone Community Meetup] The Latest API Security Vulnerabilities with Dmitry Sotnikov"
+        },
+        {
+          "id": "https://dzone.com/articles/3130015",
+          "author": "Eric D. Schabell",
+          "description": "In our previous article from this series we introduced a use case around the data framework for retail stores.\nThe process was laid out how we've approached the use case and how portfolio solutions are the base for researching a generic architectural blueprint.\n \nThe only thing left to cover was the order in which you'll be led through the blueprint details.",
+          "link": "https://dzone.com/articles/retail-data-framework-common-architectural-element",
+          "publishedOn": "2021-06-08T12:33:40.000Z",
+          "wordCount": 1435,
+          "title": "Retail data framework - Common architectural elements"
+        },
         {
           "id": "https://dzone.com/articles/3129870",
           "author": "Sergey Bykov",
@@ -5555,141 +5650,6 @@
           "publishedOn": "2021-05-10T14:44:51.000Z",
           "wordCount": 661,
           "title": "Top 10 Most Popular Posts on DZone: April 30-May 6"
-        },
-        {
-          "id": "https://dzone.com/articles/3119307",
-          "author": "Raunak Jain",
-          "description": "A VPN is a way to keep your identity a secret and protect your traffic on the internet. Your internet traffic passes through a tunnel that encrypts your data that no one can see, such as your internet service provider or government when you connect to a VPN server.\nLet us list down why you need to use a VPN.",
-          "link": "https://dzone.com/articles/how-to-install-vpn-on-linux",
-          "publishedOn": "2021-05-10T10:09:28.000Z",
-          "wordCount": 2347,
-          "title": "How to Install VPN on Linux?"
-        },
-        {
-          "id": "https://dzone.com/articles/3119276",
-          "author": "Raunak Jain",
-          "description": "RAID stands for 'Redundant Array of Inexpensive Disks.' It is more commonly known as 'Redundant Array of Independent Disks.' It's a pool of disks that are used to create a logical volume. It's an essential method of saving or storing the same data through several hard disks to keep our data safe. This helps in situations such as disk failures, etc.\nRAID is a technique of combining multiple partitions in separate disks into a single large device or virtual storage unit. These units are called RAID arrays. di…",
-          "link": "https://dzone.com/articles/what-is-raid-in-linux",
-          "publishedOn": "2021-05-10T10:01:02.000Z",
-          "wordCount": 2040,
-          "title": "What is RAID in Linux?"
-        },
-        {
-          "id": "https://dzone.com/articles/3116329",
-          "author": "Aswani Kumar Avilala",
-          "description": "REST Assured Java Library - API Testing\nREST Assured is an open-source (free) Java library available for testing primarily the RESTful web services. REST Assured is a Java domain-specific language (DSL) for simplifying testing of REST-based web services built on top of HTTP. It supports most commonly used HTTP verbs like GET, POST, PUT/PATCH DELETE, OPTIONS, HEAD which can be used to validate &amp; verify the response of these requests.&nbsp;\nWeb API Communication",
-          "link": "https://dzone.com/articles/rest-assured-crud-framework",
-          "publishedOn": "2021-05-10T09:50:45.000Z",
-          "wordCount": 1848,
-          "title": "REST Assured: CRUD Framework for API Testing"
-        },
-        {
-          "id": "https://dzone.com/articles/3122315",
-          "author": "Vicky Pham",
-          "description": "Millennials and Gen Z now make up much of the workforce. So, it is important to adapt your workplace strategies to get the most out of them.\nThis is not to say you should discard everything you’re already doing and start again. Rather, it’s a case of looking at how these employees work, and figuring out how to make them as productive and efficient as possible.",
-          "link": "https://dzone.com/articles/10-effective-ways-to-keep-your-millennial-and-gen",
-          "publishedOn": "2021-05-10T07:53:59.000Z",
-          "wordCount": 1749,
-          "title": "10 Effective Ways to Keep Your Millennial and Gen Z Employees Productive"
-        },
-        {
-          "id": "https://dzone.com/articles/3120200",
-          "author": "Abe Dearmer",
-          "description": "Organizations of all sizes and industries now have access to ever-increasing amounts of data, far too vast for any human to comprehend. All this information is practically useless without a way to efficiently process and analyze it, revealing the valuable data-driven insights hidden within the noise.\nThe ETL (extract, transform, load) process is the most popular method of collecting data from multiple sources and loading it into a centralized data warehouse. During the ETL process, information is first extr…",
-          "link": "https://dzone.com/articles/top-7-etl-tools-for-2021",
-          "publishedOn": "2021-05-10T06:37:26.000Z",
-          "wordCount": 2986,
-          "title": "Top 7 ETL Tools for 2021"
-        },
-        {
-          "id": "https://dzone.com/articles/3027778",
-          "author": "Raman Mehta",
-          "description": "Losing any kind of confidential data is a high-risk security concern for all businesses. Especially people who run online businesses, or most commonly freelancers, often find themselves in situations where they are required to share private information, such as medical records and credit card information with their respective foreign clients. This private information, if compromised, can have catastrophic consequences on businesses and freelance careers, both from a legal and publicity point of view.\nThis i…",
-          "link": "https://dzone.com/articles/5-cyber-security-risks-every-freelancer-must-avoid-1",
-          "publishedOn": "2021-05-10T06:03:18.000Z",
-          "wordCount": 1554,
-          "title": "5 Cyber Security Risks Every Freelancer Must Avoid While Working With Foreign Clients"
-        },
-        {
-          "id": "https://dzone.com/articles/3105907",
-          "author": "Oleg Goncharenko",
-          "description": "Choosing the Best Option for Front-End Development\nReact.js vs. Angular. They are equally good at building web-based applications. Some of the world's projects are built with React.js, others of the same size, with Angular.\nThese examples emphasizing both React.js and Angular are suited for making large and scalable platforms, handling massive requests per moment.",
-          "link": "https://dzone.com/articles/react-vs-angular-who-wins-the-competition",
-          "publishedOn": "2021-05-10T05:59:59.000Z",
-          "wordCount": 1428,
-          "title": "React vs. Angular: Who Wins the Competition?"
-        },
-        {
-          "id": "https://dzone.com/articles/3122635",
-          "author": "Pavan Belagatti",
-          "description": "Embracing DevOps is essential, but keeping the software delivery and deployment pipeline safe has become more critical than ever. While attackers are keen on getting into your Docker containers or Kubernetes clusters, it is highly recommended to secure your images, pods, and clusters, which poses a nightmare to the attackers. Securing your artifacts, deployment workloads, production environments is what is taking the limelight today. While we have many tools to get the job done, it is vital to understand De…",
-          "link": "https://dzone.com/articles/adopting-devsecops-in-the-cloud-native-playground",
-          "publishedOn": "2021-05-10T05:59:23.000Z",
-          "wordCount": 1802,
-          "title": "Adopting DevSecOps in the Cloud-Native Playground"
-        },
-        {
-          "id": "https://dzone.com/articles/3120408",
-          "author": "John Schneider",
-          "description": "When the pandemic first started causing widespread infections and illness, governments around the world enacted drastic safety measures — lockdowns, deferral of elected surgeries, etc. — to contain the spread and, critically, to prevent healthcare systems from being overrun. The lockdowns should’ve helped the healthcare system 'catch up,' but a lack of technological solutions and agility prevented healthcare systems from using this time to update their tech stack.\nAI in Healthcare\nEngineers can help healthc…",
-          "link": "https://dzone.com/articles/engineers-are-applying-ai-in-the-healthcare-indust",
-          "publishedOn": "2021-05-10T05:31:29.000Z",
-          "wordCount": 938,
-          "title": "Engineers Are Applying AI in the Healthcare Industry: Here’s How"
-        },
-        {
-          "id": "https://dzone.com/articles/3123343",
-          "author": "Jawad Hasan Shani",
-          "description": "Introduction\nAn important concept in Node.js is that you want to know the way dependency management is handled. This dependency management is part of the core Node.js experience. In this post, we will learn the various patterns of dependency management and how Nodejs load dependencies.\nSo, we could write our application using a single js file for everything, but that’s not modular. Node.js makes it very simple to write modular code.",
-          "link": "https://dzone.com/articles/nodejs-dependency-management",
-          "publishedOn": "2021-05-10T04:49:32.000Z",
-          "wordCount": 1447,
-          "title": "Node.js – Dependency Management"
-        },
-        {
-          "id": "https://dzone.com/articles/3120287",
-          "author": "Arun prabhu",
-          "description": "For the people using Azure Service Bus namespaces, we often have the need to ensure the Azure Service Bus Performance by testing our system integration by generating some test messages on the Azure Service Bus resources.\nYou might need this for QA/Development for performance testing, load testing, etc.",
-          "link": "https://dzone.com/articles/test-azure-service-bus-performance-by-generating-a",
-          "publishedOn": "2021-05-10T01:29:34.000Z",
-          "wordCount": 816,
-          "title": "Test Azure Service Bus Performance by Generating a Million Test Messages"
-        },
-        {
-          "id": "https://dzone.com/articles/3121231",
-          "author": "Fred Wilson",
-          "description": "There’s a famous Mark Twain saying that goes something like this:\n“Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.”",
-          "link": "https://dzone.com/articles/eat-that-frog-a-good-time-management-strategy-or-a",
-          "publishedOn": "2021-05-10T01:14:01.000Z",
-          "wordCount": 1288,
-          "title": "Eat That Frog: A Good Time Management Strategy or a Facade?"
-        },
-        {
-          "id": "https://dzone.com/articles/3121232",
-          "author": "Fred Wilson",
-          "description": "A study by BCG/MIT finds that 90% of executives deem sustainability to be important, yet only 60% of companies incorporate sustainability as part of their business strategy, and even less (25%) integrate sustainability into the core of their business model.\nTo generate a clear business case, organizations need to write business operations with sustainability in mind, which can be done by the following two steps:",
-          "link": "https://dzone.com/articles/10-top-process-improvement-tools-you-need-to-creat",
-          "publishedOn": "2021-05-10T01:06:04.000Z",
-          "wordCount": 2789,
-          "title": "10 Top Process Improvement Tools You Need to Create a More Sustainable Business"
-        },
-        {
-          "id": "https://dzone.com/articles/3121234",
-          "author": "Fred Wilson",
-          "description": "Creating a paperless office was first theorized in 1975, in a Business Week article by a man called Vincent E. Giuliano.\nThe term “paperless office” is still going around but the need for organizations making the switch is becoming more and more obvious.",
-          "link": "https://dzone.com/articles/your-guide-to-going-paperless-in-2021",
-          "publishedOn": "2021-05-10T00:33:36.000Z",
-          "wordCount": 2200,
-          "title": "Your Guide to Going Paperless in 2021"
-        },
-        {
-          "id": "https://dzone.com/articles/3124521",
-          "author": "Rajeev Bera",
-          "description": "If you are a new or experienced developer, you have to use source control. And good chances are you are using Git to manage your source code.&nbsp;\nAnd to use Git to its full potential, you need to know Git commands. Here you will learn the most helpful Git commands that will take you from one level to another.&nbsp;",
-          "link": "https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus",
-          "publishedOn": "2021-05-09T23:43:58.000Z",
-          "wordCount": 2232,
-          "title": "Top 35 Git Commands With Examples"
         }
       ]
     },
@@ -5698,6 +5658,267 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://developer.apple.com/metal/tensorflow-plugin/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.apple.com/metal/tensorflow-plugin/",
+          "publishedOn": "2021-06-08T23:38:39.000Z",
+          "wordCount": 301,
+          "title": "Apple M1 support for TensorFlow 2.5 pluggable device API"
+        },
+        {
+          "id": "https://developer.chrome.com/en/blog/crx-scripting-api/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developer.chrome.com/en/blog/crx-scripting-api/",
+          "publishedOn": "2021-06-08T22:28:03.000Z",
+          "wordCount": 1866,
+          "title": "Introducing chrome.scripting"
+        },
+        {
+          "id": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
+          "publishedOn": "2021-06-08T22:01:52.000Z",
+          "wordCount": 819,
+          "title": "Bosch opens German chip plant"
+        },
+        {
+          "id": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
+          "publishedOn": "2021-06-08T21:34:15.000Z",
+          "wordCount": 1851,
+          "title": "Study shows how taking short breaks may help our brains learn new skills"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22",
+          "publishedOn": "2021-06-08T21:00:19.000Z",
+          "wordCount": 15,
+          "title": "Gordian Software (YC W19, Airline API Platform) Is Hiring Back End Engineers"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
+          "publishedOn": "2021-06-08T20:55:58.000Z",
+          "wordCount": 1295,
+          "title": "Microsoft Patches Six Zero-Day Security Holes"
+        },
+        {
+          "id": "https://astro.build/blog/introducing-astro",
+          "author": null,
+          "description": "Comments",
+          "link": "https://astro.build/blog/introducing-astro",
+          "publishedOn": "2021-06-08T20:46:02.000Z",
+          "wordCount": 959,
+          "title": "Astro: Ship Less JavaScript"
+        },
+        {
+          "id": "https://github.com/hendotcat/ppl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hendotcat/ppl",
+          "publishedOn": "2021-06-08T20:43:43.000Z",
+          "wordCount": 849,
+          "title": "Ppl: The command line address book"
+        },
+        {
+          "id": "https://maxhalford.github.io/blog/text-classification-by-compression/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maxhalford.github.io/blog/text-classification-by-compression/",
+          "publishedOn": "2021-06-08T20:08:27.000Z",
+          "wordCount": 1101,
+          "title": "Text Classification by Data Compression"
+        },
+        {
+          "id": "https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1",
+          "publishedOn": "2021-06-08T19:53:01.000Z",
+          "wordCount": 954,
+          "title": "Apache Superset 1.1"
+        },
+        {
+          "id": "http://pdl.perl.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://pdl.perl.org/",
+          "publishedOn": "2021-06-08T19:24:11.000Z",
+          "wordCount": 350,
+          "title": "Scientific Computing with Perl"
+        },
+        {
+          "id": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
+          "publishedOn": "2021-06-08T18:31:07.000Z",
+          "wordCount": 475,
+          "title": "Ohio sues Google, seeks to declare the internet company a public utility"
+        },
+        {
+          "id": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
+          "publishedOn": "2021-06-08T18:24:39.000Z",
+          "wordCount": 1492,
+          "title": "Real-world CSS vs. CSS-in-JS performance comparison"
+        },
+        {
+          "id": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
+          "publishedOn": "2021-06-08T17:00:59.000Z",
+          "wordCount": 8471,
+          "title": "The Consciousness of Invertebrates"
+        },
+        {
+          "id": "https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths",
+          "publishedOn": "2021-06-08T16:12:23.000Z",
+          "wordCount": 44,
+          "title": "To protect against weaponized drones, we must understand their key strengths"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27435377",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27435377",
+          "publishedOn": "2021-06-08T14:06:47.000Z",
+          "wordCount": 2776,
+          "title": "Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams"
+        },
+        {
+          "id": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
+          "author": null,
+          "description": "Comments",
+          "link": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
+          "publishedOn": "2021-06-08T13:42:14.000Z",
+          "wordCount": 1231,
+          "title": "How Netflix uses eBPF flow logs at scale for network insight"
+        },
+        {
+          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval",
+          "publishedOn": "2021-06-08T12:51:57.000Z",
+          "wordCount": 6539,
+          "title": "The Aducanumab Approval"
+        },
+        {
+          "id": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
+          "publishedOn": "2021-06-08T12:29:53.000Z",
+          "wordCount": 616,
+          "title": "How the government set up a fake bank to launder drug money (2012)"
+        },
+        {
+          "id": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
+          "publishedOn": "2021-06-08T11:49:06.000Z",
+          "wordCount": 439,
+          "title": "Terraform 1.0"
+        },
+        {
+          "id": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
+          "publishedOn": "2021-06-08T11:13:02.000Z",
+          "wordCount": 514,
+          "title": "Grafana 8.0"
+        },
+        {
+          "id": "http://paulgraham.com/own.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://paulgraham.com/own.html",
+          "publishedOn": "2021-06-08T10:36:03.000Z",
+          "wordCount": 2485,
+          "title": "A Project of One’s Own"
+        },
+        {
+          "id": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
+          "publishedOn": "2021-06-08T09:53:26.000Z",
+          "wordCount": 1411,
+          "title": "Don't let social media think for you"
+        },
+        {
+          "id": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
+          "publishedOn": "2021-06-08T08:30:51.000Z",
+          "wordCount": 2049,
+          "title": "Althttpd: Simple webserver in a single C file"
+        },
+        {
+          "id": "https://petapixel.com/2021/06/07/this-guy-bends-time-and-space-in-slow-motion/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://petapixel.com/2021/06/07/this-guy-bends-time-and-space-in-slow-motion/",
+          "publishedOn": "2021-06-08T07:34:04.000Z",
+          "wordCount": 822,
+          "title": "Bending time and space in slow motion"
+        },
+        {
+          "id": "https://antigonejournal.com/2021/06/socrates-examined-life/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://antigonejournal.com/2021/06/socrates-examined-life/",
+          "publishedOn": "2021-06-08T06:30:34.000Z",
+          "wordCount": 2192,
+          "title": "Socrates’ Examined Life"
+        },
+        {
+          "id": "https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of",
+          "publishedOn": "2021-06-08T06:28:44.000Z",
+          "wordCount": 3202,
+          "title": "Trying to study textbooks effectively: a year of experimentation"
+        },
+        {
+          "id": "https://inference-review.com/article/secrets",
+          "author": null,
+          "description": "Comments",
+          "link": "https://inference-review.com/article/secrets",
+          "publishedOn": "2021-06-08T06:21:31.000Z",
+          "wordCount": 4742,
+          "title": "The History of Nuclear Secrecy in the U.S."
+        },
+        {
+          "id": "https://github.com/bake-bake-bake/bakeware",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bake-bake-bake/bakeware",
+          "publishedOn": "2021-06-08T05:01:49.000Z",
+          "wordCount": 2015,
+          "title": "Bakeware: Compile any Elixir application into a single binary"
+        },
         {
           "id": "https://blog.pizzabox.computer/random/videolines/",
           "author": null,
@@ -5931,6 +6152,15 @@
           "publishedOn": "2021-06-07T09:09:28.000Z",
           "wordCount": 1703,
           "title": "Exploring Android Development on iPad"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/857502/485fadb4c27b4587/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/857502/485fadb4c27b4587/",
+          "publishedOn": "2021-06-07T06:39:38.000Z",
+          "wordCount": 9686,
+          "title": "Fedora contemplates the driverless printing future"
         },
         {
           "id": "https://github.com/tabulapdf/tabula-java",
@@ -13365,69 +13595,6 @@
           "publishedOn": "2021-05-10T13:35:06.000Z",
           "wordCount": 618,
           "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC"
-        },
-        {
-          "id": "https://github.com/OpenAstroTech/OpenAstroTracker",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/OpenAstroTech/OpenAstroTracker",
-          "publishedOn": "2021-05-10T12:18:19.000Z",
-          "wordCount": 610,
-          "title": "OpenAstroTracker: A cheap 3D-printed tracking mount for DSLR astrophotography"
-        },
-        {
-          "id": "https://techblog.bozho.net/the-syslog-hell/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techblog.bozho.net/the-syslog-hell/",
-          "publishedOn": "2021-05-10T10:27:09.000Z",
-          "wordCount": 1512,
-          "title": "The Syslog Hell"
-        },
-        {
-          "id": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-          "publishedOn": "2021-05-10T09:39:02.000Z",
-          "wordCount": 10039,
-          "title": "Why are modern 50mm lenses so damned complicated?"
-        },
-        {
-          "id": "https://github.com/alexfru/regal86",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/alexfru/regal86",
-          "publishedOn": "2021-05-10T08:46:37.000Z",
-          "wordCount": 4115,
-          "title": "Local Register Allocator for 8086"
-        },
-        {
-          "id": "https://phys.org/news/2021-05-scrap-cash-bronze-age-witnessed.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2021-05-scrap-cash-bronze-age-witnessed.html",
-          "publishedOn": "2021-05-10T05:24:39.000Z",
-          "wordCount": 1589,
-          "title": "Scrap for cash: Bronze Age witnessed revolution in small change across Europe"
-        },
-        {
-          "id": "https://archive.org/details/msdos_Microsoft_Space_Simulator_1994",
-          "author": null,
-          "description": "Comments",
-          "link": "https://archive.org/details/msdos_Microsoft_Space_Simulator_1994",
-          "publishedOn": "2021-05-10T04:45:28.000Z",
-          "wordCount": 4897,
-          "title": "Microsoft Space Simulator (1994)"
-        },
-        {
-          "id": "https://www.shelf.so/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.shelf.so/",
-          "publishedOn": "2021-05-09T12:58:18.000Z",
-          "wordCount": 81,
-          "title": "Show HN: Save, annotate and organize podcasts, blog posts, newsletters, videos"
         }
       ]
     }
