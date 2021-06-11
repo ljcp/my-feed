@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341894",
+          "author": "Kevin Powell",
+          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
+          "publishedOn": "2021-06-10T14:34:22.000Z",
+          "wordCount": 4277,
+          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342182",
+          "author": "Ikeh Akinyemi",
+          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
+          "publishedOn": "2021-06-10T14:26:47.000Z",
+          "wordCount": 2892,
+          "title": "Building a Headless CMS with Fauna and Vercel Functions"
+        },
+        {
           "id": "https://css-tricks.com/?p=340967",
           "author": "Geoff Graham",
           "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -472,42 +490,6 @@
           "publishedOn": "2021-05-12T14:31:07.000Z",
           "wordCount": 2583,
           "title": "Making Disabled Buttons More Inclusive"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340359",
-          "author": "Chris Coyier",
-          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
-          "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 498,
-          "title": "CSS Pie Timer Re-Revisited"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340186",
-          "author": "Geoff Graham",
-          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
-          "publishedOn": "2021-05-11T21:04:32.000Z",
-          "wordCount": 1416,
-          "title": "I could build this during the weekend"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339138",
-          "author": "Una Kravets",
-          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/next-gen-css-container/",
-          "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1314,
-          "title": "Next Gen CSS: @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340106",
-          "author": "Chris Coyier",
-          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
-          "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 844,
-          "title": "Distributed Persistent Rendering (DPR)"
         }
       ]
     },
@@ -516,6 +498,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
+          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
+          "publishedOn": "2021-06-10T15:00:00.000Z",
+          "wordCount": 4869,
+          "title": "Useful Front-End Boilerplates And Starter Kits",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
+          "author": "hello@smashingmagazine.com (Stefan Judis)",
+          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
+          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
+          "publishedOn": "2021-06-10T11:15:00.000Z",
+          "wordCount": 747,
+          "title": "Three Front-End Auditing Tools I Discovered Recently",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -819,24 +829,6 @@
           "publishedOn": "2021-05-12T12:42:00.000Z",
           "wordCount": 3443,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
-          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
         }
       ]
     },
@@ -845,6 +837,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b93afaacb62507dd1d8915",
+          "author": null,
+          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
+          "publishedOn": "2021-06-10T11:35:00.000Z",
+          "wordCount": 583,
+          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
+        },
         {
           "id": "60b357ad11ffb70827ef9a90",
           "author": null,
@@ -1591,69 +1592,6 @@
           "publishedOn": "2021-05-12T18:49:36.000Z",
           "wordCount": 571,
           "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
-        },
-        {
-          "id": "6096aafe2cd0545b5e944430",
-          "author": "",
-          "description": "When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting",
-          "link": "https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/",
-          "publishedOn": "2021-05-11T22:53:43.000Z",
-          "wordCount": 1344,
-          "title": "How to Use Selenium and Python to Scrape Websites More Effectively"
-        },
-        {
-          "id": "6093929601fc34080ef81a0f",
-          "author": "",
-          "description": "Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/",
-          "publishedOn": "2021-05-11T19:40:31.000Z",
-          "wordCount": 1815,
-          "title": "How to Write a Résumé – Practical Guide with Example Résumé"
-        },
-        {
-          "id": "609a73156008950828b3f2ce",
-          "author": "",
-          "description": "In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As",
-          "link": "https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/",
-          "publishedOn": "2021-05-11T17:50:09.000Z",
-          "wordCount": 1096,
-          "title": "How to Build Beautiful Page Transitions in Angular"
-        },
-        {
-          "id": "609552842cd0545b5e943bcd",
-          "author": "",
-          "description": "The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/",
-          "publishedOn": "2021-05-11T17:29:13.000Z",
-          "wordCount": 1373,
-          "title": "How to Get a Job by Building Relationships – Advice from a Senior Software Engineer"
-        },
-        {
-          "id": "60856789dd38b9088c2bf4ff",
-          "author": "",
-          "description": "Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash",
-          "link": "https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/",
-          "publishedOn": "2021-05-11T15:24:00.000Z",
-          "wordCount": 2519,
-          "title": "JavaScript Hash Table – Associative Array Hashing in JS"
-        },
-        {
-          "id": "60977de12cd0545b5e944661",
-          "author": "",
-          "description": "In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,",
-          "link": "https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/",
-          "publishedOn": "2021-05-11T15:22:27.000Z",
-          "wordCount": 1680,
-          "title": "Why You Should Start Using Chakra UI"
-        },
-        {
-          "id": "60998ee76008950828b3ed10",
-          "author": "",
-          "description": "Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this",
-          "link": "https://www.freecodecamp.org/news/how-to-design-good-typography/",
-          "publishedOn": "2021-05-11T12:56:14.000Z",
-          "wordCount": 413,
-          "title": "How to Design Good Typography - Free Treehouse Course"
         }
       ]
     },
@@ -1662,6 +1600,15 @@
       "feedUrl": "http://feeds.dzone.com/publications",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/refcardz/2977927",
+          "author": "Lindsay Smith",
+          "description": "End-to-end (E2E) tests are often neglected, due in large part to the effort required to implement them. In many cases, E2E tests are performed by hand, which can be a tedious and error-prone task. Automation solves many of these problems by ensuring a consistent, production-like test coverage of the system. In this Refcard, learn the fundamentals of E2E test automation through test coverage, integration, and no-code options.",
+          "link": "https://dzone.com/refcardz/end-to-end-testing-automation-essentials",
+          "publishedOn": "2021-06-10T19:50:57.000Z",
+          "wordCount": 1613,
+          "title": "End-to-End Testing Automation Essentials"
+        },
         {
           "id": "https://dzone.com/refcardz/3130680",
           "author": "Lindsay Smith",
@@ -1714,6 +1661,60 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3130046",
+          "author": "Nick Rendall",
+          "description": "The following is the second blog in a series on feature flags in CI/CD. To read the first blog on feature flags in CI, click here. \nAre you having problems realizing the speed and agility promised by continuous delivery (CD)? Does continually delivering new code seem impossible to you? Feature flags might be the tool you're missing. Without them, implementing CD is difficult. With feature flags, it's not just easier; it's better.",
+          "link": "https://dzone.com/articles/introduction-to-feature-flags-in-cd",
+          "publishedOn": "2021-06-10T21:05:50.000Z",
+          "wordCount": 1809,
+          "title": "Introduction to Feature Flags in CD"
+        },
+        {
+          "id": "https://dzone.com/articles/3130166",
+          "author": "Sydney Lai",
+          "description": "Nic Raboy remembers the challenge of database management from his experience at a previous employer that ultimately led him to a career as Senior Developer Advocate at MongoDB. \"Every time we had to scale, which was about once a year, we had to throw more money at servers to make them more powerful. Not only that, but you had to actually shut down the database to scale it up. We'd have to worry about backups and making sure that things don't go south during the process.\"\nMongoDB helps solve many of the pain points of database management by delivering a distributed database platform built for the cloud era. Millions of developers around the world use MongoDB to power companies with massive troves of data to manage, such as Google, SAP, eBay, Sega and EA.",
+          "link": "https://dzone.com/articles/seize-the-database-a-conversation-with-mongodbs-ni",
+          "publishedOn": "2021-06-10T20:57:27.000Z",
+          "wordCount": 1088,
+          "title": "Seize the Database: A Conversation With MongoDB's Nic Raboy"
+        },
+        {
+          "id": "https://dzone.com/refcardz/2977927",
+          "author": "Lindsay Smith",
+          "description": "End-to-end (E2E) tests are often neglected, due in large part to the effort required to implement them. In many cases, E2E tests are performed by hand, which can be a tedious and error-prone task. Automation solves many of these problems by ensuring a consistent, production-like test coverage of the system. In this Refcard, learn the fundamentals of E2E test automation through test coverage, integration, and no-code options.",
+          "link": "https://dzone.com/refcardz/end-to-end-testing-automation-essentials",
+          "publishedOn": "2021-06-10T19:50:57.000Z",
+          "wordCount": 1613,
+          "title": "End-to-End Testing Automation Essentials"
+        },
+        {
+          "id": "https://dzone.com/articles/3125444",
+          "author": "Tom James",
+          "description": "Introduction\nWe’ve all been there when we have to manually redline our designs so developers know exactly what our perfect designs are actually showing; we have even tried sending over source files for our devs to use when implementing. But isn’t there a better way of sending over detailed design information? \nThere are ways we can make markups easier and a way of disseminating this information quicker and more efficiently. This is of the utmost importance; if a developer doesn’t have all the information in front of them they will not spend precious time digging around for important information, a good handoff is a detailed project with information to hand or directly on top of the designs for quick implementation.",
+          "link": "https://dzone.com/articles/how-to-handoff-accurate-specs",
+          "publishedOn": "2021-06-10T15:21:22.000Z",
+          "wordCount": 1584,
+          "title": "Design Implementation With App Development"
+        },
+        {
+          "id": "https://dzone.com/articles/3125354",
+          "author": "Hanna Barabakh",
+          "description": "Introduction\nIn the early 2000s, technology skyrocketed. Some of the most popular platforms we know today emerged, and their creators set their sights on the stratosphere. From Facebook and Youtube to iPhones and Fitbits—the digital transformation was rampant. It was from this melting pot of innovation that the podcast was born. \nToday podcasting is one of the most used platforms out there. In this piece, we’ll talk you through all things podcast-related and give you our top list of popular SaaS podcasts in 2021.",
+          "link": "https://dzone.com/articles/popular-saas-podcasts-for-2021",
+          "publishedOn": "2021-06-10T14:56:09.000Z",
+          "wordCount": 2274,
+          "title": "Popular SaaS Podcasts for 2021"
+        },
+        {
+          "id": "https://dzone.com/articles/3124325",
+          "author": "Abhishek Bathwal",
+          "description": "This short article contains the Dataweave 2.0 code for reading a dynamic value from a property file based on the input passed.\nCreated a property file that contains the Abbreviation and Description for some defined values.",
+          "link": "https://dzone.com/articles/reading-dynamic-values-from-property-file-in-dataw",
+          "publishedOn": "2021-06-10T14:42:09.000Z",
+          "wordCount": 430,
+          "title": "Reading Dynamic Values from a Property File in Dataweave 2.0 (Mule 4)"
+        },
         {
           "id": "https://dzone.com/articles/3127630",
           "author": "Harsha Chandnani",
@@ -5538,96 +5539,6 @@
           "publishedOn": "2021-05-12T16:32:35.000Z",
           "wordCount": 1114,
           "title": "Java HTML Report in a Few Lines of Code"
-        },
-        {
-          "id": "https://dzone.com/articles/3122679",
-          "author": "Laura Bouchard",
-          "description": "Whether you rely on them for business or personal use, it’s safe to say that we interact with URLs on a daily basis. They are our gateway to provide and access information across the web, and due to their universal nature, they are constantly scrutinized by attackers for security vulnerabilities. One type of risk that can be difficult to identify is if your URL is a server administration path; if it is, it could become a potential target for remote access attacks. To clarify, server administration paths are…",
-          "link": "https://dzone.com/articles/how-to-check-a-url-for-high-risk-or-vulnerable-pat",
-          "publishedOn": "2021-05-11T22:29:17.000Z",
-          "wordCount": 840,
-          "title": "How to Check a URL for High-Risk or Vulnerable Paths in Java"
-        },
-        {
-          "id": "https://dzone.com/articles/3123623",
-          "author": "Mark Gardner",
-          "description": "Let's assume for the moment that you're writing a Perl module or application. You'd like to maintain some level of software quality (or kwalitee), so you're writing a suite of test scripts. Whether you're writing them first (good for you for practicing test-driven development!) or the application code is already there, you'll probably be reaching for Test::Simple, Test::More, or one of the Test2::Suite bundles. With the latter two you're immediately confronted with a choice: do you count up the number of te…",
-          "link": "https://dzone.com/articles/testing-perl-to-plan-or-not-to-plan",
-          "publishedOn": "2021-05-11T22:27:33.000Z",
-          "wordCount": 739,
-          "title": "Testing Perl: To Plan or Not to Plan"
-        },
-        {
-          "id": "https://dzone.com/articles/3122740",
-          "author": "Taavi Rehemägi",
-          "description": "In 2021 it’s common practice for businesses to use a pay-as-you-go/use pricing model. It’s no different with Amazon. It’s also the primary reason why this article is such an important read for all those looking to reduce their AWS Lambda costs.&nbsp;\nIn this article, we will go over six actionable strategies to optimize the cost relating to our AWS Lambda usage.",
-          "link": "https://dzone.com/articles/6-lambda-optimization-strategies-that-work",
-          "publishedOn": "2021-05-11T21:51:47.000Z",
-          "wordCount": 1479,
-          "title": "6 Lambda Optimization Strategies that Work"
-        },
-        {
-          "id": "https://dzone.com/articles/3121300",
-          "author": "Nickolas Fisher",
-          "description": "One powerful feature of Microsoft SQL Server is common table, which lets you store a temporary result and execute a statement after using that result set. This can be especially helpful when trying to accomplish complicated processes, like those that SQL Server isn’t well suited to handle. CTEs make challenges easier to solve by breaking difficult operations into two distinct steps.\nIn this tutorial, you will learn how to use Microsoft SQL Server to write common table expressions. Next, you will learn how t…",
-          "link": "https://dzone.com/articles/learn-how-to-write-secure-sql-common-table-express",
-          "publishedOn": "2021-05-11T21:33:09.000Z",
-          "wordCount": 2893,
-          "title": "Learn How to Write Secure SQL Common Table Expressions"
-        },
-        {
-          "id": "https://dzone.com/articles/3122683",
-          "author": "James Sugrue",
-          "description": "One of the best things about AWS Lambda is the variety of ways that you can create a serverless function. For example, you can dive right into the console, or use approaches like Chalice or the Serverless Framework, to name a few. For me, the latest way, announced at re:Invent 2020, is the most efficient way of testing your serverless function locally and dealing with large or awkward dependencies in your code. As you’d expect, this works perfectly with AWS SAM. This post will give you a quickstart into wha…",
-          "link": "https://dzone.com/articles/container-images-for-aws-lambda-with-python",
-          "publishedOn": "2021-05-11T21:26:56.000Z",
-          "wordCount": 1120,
-          "title": "Container Images for AWS Lambda With Python"
-        },
-        {
-          "id": "https://dzone.com/articles/3121401",
-          "author": "Sven Loesekann",
-          "description": "This is the third article of the series. The first article is about integrating Bing Maps with Angular and Spring Boot with Jpa. The second article is about adding a new shape to the map and storing it in the Spring Boot backend.\nThis article is about removing properties of a map with a modal panel to confirm and delete it in the database. The project AngularAndSpringWithMaps is used as an example. To remove a property the property has to be clicked on.",
-          "link": "https://dzone.com/articles/using-bing-maps-to-remove-shapes-with-angular-in-a",
-          "publishedOn": "2021-05-11T15:59:47.000Z",
-          "wordCount": 1802,
-          "title": "Using Bing Maps to remove Shapes With Angular in a Spring Boot Application"
-        },
-        {
-          "id": "https://dzone.com/articles/3120198",
-          "author": "Soren Pedersen",
-          "description": "The initial stages of the Agile software development journey can be exciting. It’s a time of possibility and experimentation.\nBut these feelings start to wane when stakeholders try to figure out the cost of getting the project from 0 to 100. The team might want to play with a couple of&nbsp;automation tools, but they require an extra set of expert hands. Or there’s some research worth stretching out, but that means more data and more man-hours.",
-          "link": "https://dzone.com/articles/estimates-can-impede-agile-development-heres-how-t",
-          "publishedOn": "2021-05-11T15:33:21.000Z",
-          "wordCount": 1718,
-          "title": "Estimates Can Impede Agile Development, Here's How to Budget"
-        },
-        {
-          "id": "https://dzone.com/articles/3113811",
-          "author": "Sreekumar C",
-          "description": "Introduction\nWhile building multiple apps, you will come across reusable code. This common code can be packaged, versioned, and hosted so that it can be reused within the organization.&nbsp;\nAzure DevOps Artifacts is a service that is part of the Azure DevOps toolset, which allows organizations to create and share libraries securely within the organization.",
-          "link": "https://dzone.com/articles/azure-devops-artifacts",
-          "publishedOn": "2021-05-11T14:58:41.000Z",
-          "wordCount": 880,
-          "title": "Use Shared Packages From an Azure DevOps Feed in a Maven Project"
-        },
-        {
-          "id": "https://dzone.com/articles/3116285",
-          "author": "Subin Sabu",
-          "description": "Every day you visit grocery stores, clothing stores, e-commerce portals, or a bank. Ever wondered how they keep track of customers, employees, and other crucial information?\nThe answer is databases.",
-          "link": "https://dzone.com/articles/couchdb-vs-mariadb-which-is-better",
-          "publishedOn": "2021-05-11T14:10:40.000Z",
-          "wordCount": 1103,
-          "title": "CouchDB vs. MariaDB: Which Is Better?"
-        },
-        {
-          "id": "https://dzone.com/articles/3120602",
-          "author": "Ram Lakshmanan",
-          "description": "In our series of chaos engineering articles, we have been learning to simulate various performance problems. In this post, let’s discuss how to simulate a StackOverflow error. A StackOverflow error is a runtime error. In this post, we'll simulate a StackOverflowError, diagnose it, and solve the problem.\nSample Program\nHere is a sample program from the open source BuggyApp application, which would generate java.lang.StackOverflowError.",
-          "link": "https://dzone.com/articles/chaos-engineering-stackoverflow-error",
-          "publishedOn": "2021-05-11T13:44:04.000Z",
-          "wordCount": 623,
-          "title": "Chaos Engineering – Stackoverflow Error"
         }
       ]
     },
@@ -5637,6 +5548,258 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75",
+          "publishedOn": "2021-06-10T23:12:18.000Z",
+          "wordCount": 28,
+          "title": "Chrome abandons 'simplified domain experiment' in omnibar"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-021-01560-4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-021-01560-4",
+          "publishedOn": "2021-06-10T22:47:34.000Z",
+          "wordCount": 1941,
+          "title": "Chime has detected 535 fast radio bursts, quadrupling the known tally"
+        },
+        {
+          "id": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox",
+          "publishedOn": "2021-06-10T22:31:36.000Z",
+          "wordCount": 894,
+          "title": "FDA approves drug to treat smallpox"
+        },
+        {
+          "id": "https://lkml.org/lkml/2021/6/10/957",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lkml.org/lkml/2021/6/10/957",
+          "publishedOn": "2021-06-10T21:57:43.000Z",
+          "wordCount": 696,
+          "title": "Linus Torvalds: Get vaccinated. Stop believing the anti-vax lies"
+        },
+        {
+          "id": "https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/",
+          "publishedOn": "2021-06-10T21:35:34.000Z",
+          "wordCount": 1554,
+          "title": "Physicists measure the gravitational force between the smallest masses yet"
+        },
+        {
+          "id": "https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html",
+          "publishedOn": "2021-06-10T21:05:21.000Z",
+          "wordCount": 5512,
+          "title": "The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple"
+        },
+        {
+          "id": "https://www.kraftful.com/blog/engineering-roles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.kraftful.com/blog/engineering-roles",
+          "publishedOn": "2021-06-10T21:00:42.000Z",
+          "wordCount": 434,
+          "title": "Kraftful (YC S19) hiring a founding engineer to build an IoT platform"
+        },
+        {
+          "id": "https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations",
+          "author": null,
+          "description": "Comments",
+          "link": "https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations",
+          "publishedOn": "2021-06-10T20:22:10.000Z",
+          "wordCount": 1459,
+          "title": "Using aligned word vectors for instant translations with Python and Rust"
+        },
+        {
+          "id": "https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/",
+          "publishedOn": "2021-06-10T19:51:36.000Z",
+          "wordCount": 1264,
+          "title": "Raspberry Pi WiFi to ethernet bridge"
+        },
+        {
+          "id": "https://flightaware.engineering/using-argo-to-train-predictive-models/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://flightaware.engineering/using-argo-to-train-predictive-models/",
+          "publishedOn": "2021-06-10T19:16:16.000Z",
+          "wordCount": 3050,
+          "title": "Using Argo to Train Predictive Models at FlightAware"
+        },
+        {
+          "id": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
+          "publishedOn": "2021-06-10T18:25:17.000Z",
+          "wordCount": 1991,
+          "title": "Privacy Analysis of FLoC"
+        },
+        {
+          "id": "https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/",
+          "publishedOn": "2021-06-10T18:19:17.000Z",
+          "wordCount": 916,
+          "title": "Heart inflammation cases in young men higher than expected after mRNA vaccines"
+        },
+        {
+          "id": "https://keathley.io/blog/good-and-bad-elixir.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://keathley.io/blog/good-and-bad-elixir.html",
+          "publishedOn": "2021-06-10T18:18:52.000Z",
+          "wordCount": 1690,
+          "title": "Good and Bad Elixir"
+        },
+        {
+          "id": "https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car",
+          "publishedOn": "2021-06-10T16:02:58.000Z",
+          "wordCount": 44,
+          "title": "Software is eating the car"
+        },
+        {
+          "id": "https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/",
+          "publishedOn": "2021-06-10T16:02:44.000Z",
+          "wordCount": 1294,
+          "title": "Link shorteners: the long and short of why you shouldn’t use them"
+        },
+        {
+          "id": "https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/",
+          "publishedOn": "2021-06-10T16:01:41.000Z",
+          "wordCount": 2932,
+          "title": "Privilege escalation with polkit: How to get root on Linux with a seven-year-ol"
+        },
+        {
+          "id": "https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin",
+          "publishedOn": "2021-06-10T15:58:17.000Z",
+          "wordCount": null,
+          "title": "A robot to replace the need for farmers to go inside the grain bin"
+        },
+        {
+          "id": "https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d",
+          "author": null,
+          "description": "Comments",
+          "link": "https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d",
+          "publishedOn": "2021-06-10T15:57:46.000Z",
+          "wordCount": 2980,
+          "title": "My startup journey"
+        },
+        {
+          "id": "https://ez.substack.com/p/the-work-from-home-future-is-destroying",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ez.substack.com/p/the-work-from-home-future-is-destroying",
+          "publishedOn": "2021-06-10T15:38:49.000Z",
+          "wordCount": 3360,
+          "title": "The work-from-home future is destroying bosses' brains"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27461564",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27461564",
+          "publishedOn": "2021-06-10T15:04:10.000Z",
+          "wordCount": 2640,
+          "title": "Launch HN: Okay (YC W20) – Analytics for engineering teams"
+        },
+        {
+          "id": "https://tryapl.org",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tryapl.org",
+          "publishedOn": "2021-06-10T14:02:39.000Z",
+          "wordCount": 1434,
+          "title": "Try APL"
+        },
+        {
+          "id": "https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/",
+          "publishedOn": "2021-06-10T12:45:23.000Z",
+          "wordCount": 1989,
+          "title": "Rqlite 6.0: the evolution of a distributed database design"
+        },
+        {
+          "id": "https://stripe.com/tax",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stripe.com/tax",
+          "publishedOn": "2021-06-10T12:09:49.000Z",
+          "wordCount": 2402,
+          "title": "Stripe Tax"
+        },
+        {
+          "id": "https://iism.org/article/developers-can-t-fix-bad-management-57",
+          "author": null,
+          "description": "Comments",
+          "link": "https://iism.org/article/developers-can-t-fix-bad-management-57",
+          "publishedOn": "2021-06-10T09:39:24.000Z",
+          "wordCount": 3,
+          "title": "Developers can't fix bad management (2020)"
+        },
+        {
+          "id": "https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/",
+          "publishedOn": "2021-06-10T09:03:58.000Z",
+          "wordCount": 2934,
+          "title": "DNA jumps between animal species, but no one knows how often"
+        },
+        {
+          "id": "https://developers.soundcloud.com/blog/did-i-break-you",
+          "author": null,
+          "description": "Comments",
+          "link": "https://developers.soundcloud.com/blog/did-i-break-you",
+          "publishedOn": "2021-06-10T06:37:51.000Z",
+          "wordCount": 1772,
+          "title": "Did I break you? Reverse dependency verification"
+        },
+        {
+          "id": "https://www.historytoday.com/reviews/all-sea",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/reviews/all-sea",
+          "publishedOn": "2021-06-10T00:34:05.000Z",
+          "wordCount": 882,
+          "title": "All at Sea"
+        },
+        {
+          "id": "https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/",
+          "publishedOn": "2021-06-10T00:24:49.000Z",
+          "wordCount": 756,
+          "title": "The Amateur Photographers of Midcentury São Paulo"
+        },
+        {
           "id": "https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/",
           "author": null,
           "description": "Comments",
@@ -5644,6 +5807,15 @@
           "publishedOn": "2021-06-09T22:56:37.000Z",
           "wordCount": 936,
           "title": "Reddit Sunsets Secret Santa and Reddit Gifts"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique",
+          "publishedOn": "2021-06-09T22:22:23.000Z",
+          "wordCount": 2194,
+          "title": "The Prison Cell of Ludger Sylbaris"
         },
         {
           "id": "https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html",
@@ -5779,6 +5951,15 @@
           "publishedOn": "2021-06-09T16:31:01.000Z",
           "wordCount": 38,
           "title": "Show HN: A tool to self host game servers with a free static IP"
+        },
+        {
+          "id": "https://www.platformer.news/p/will-apple-mail-end-the-newsletter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.platformer.news/p/will-apple-mail-end-the-newsletter",
+          "publishedOn": "2021-06-09T14:25:53.000Z",
+          "wordCount": 2740,
+          "title": "Will Apple Mail threaten the newsletter boom?"
         },
         {
           "id": "https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801",
@@ -13312,258 +13493,6 @@
           "publishedOn": "2021-05-12T12:34:28.000Z",
           "wordCount": 1791,
           "title": "Writing a Programming Book in 2021"
-        },
-        {
-          "id": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
-          "author": null,
-          "description": "Comments",
-          "link": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
-          "publishedOn": "2021-05-12T12:04:37.000Z",
-          "wordCount": 469,
-          "title": "Haiku OS ported and running on RISC-V"
-        },
-        {
-          "id": "http://blog.erlang.org/My-OTP-24-Highlights/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.erlang.org/My-OTP-24-Highlights/",
-          "publishedOn": "2021-05-12T11:18:17.000Z",
-          "wordCount": 2869,
-          "title": "Erlang/OTP 24 highlights"
-        },
-        {
-          "id": "https://madned.substack.com/p/thin-pipe-part-i",
-          "author": null,
-          "description": "Comments",
-          "link": "https://madned.substack.com/p/thin-pipe-part-i",
-          "publishedOn": "2021-05-12T11:01:50.000Z",
-          "wordCount": 3003,
-          "title": "My multi-decade quest for rural broadband"
-        },
-        {
-          "id": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
-          "publishedOn": "2021-05-12T09:56:06.000Z",
-          "wordCount": 12287,
-          "title": "Reverse Engineering an Unknown Microcontroller"
-        },
-        {
-          "id": "https://build.mmm.page",
-          "author": null,
-          "description": "Comments",
-          "link": "https://build.mmm.page",
-          "publishedOn": "2021-05-12T09:37:28.000Z",
-          "wordCount": 1,
-          "title": "Show HN: Mmm.page – Drag and drop personal website creator"
-        },
-        {
-          "id": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
-          "publishedOn": "2021-05-12T07:21:35.000Z",
-          "wordCount": 20970,
-          "title": "An analysis of Bitcoin's throughput bottlenecks"
-        },
-        {
-          "id": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
-          "publishedOn": "2021-05-12T06:51:53.000Z",
-          "wordCount": 1847,
-          "title": "Building a Space-Based ISP"
-        },
-        {
-          "id": "https://openmovement.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://openmovement.org/",
-          "publishedOn": "2021-05-12T06:40:19.000Z",
-          "wordCount": null,
-          "title": "Open source mechanical Swiss watch movement"
-        },
-        {
-          "id": "http://booktwo.org/notebook/network-realism/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://booktwo.org/notebook/network-realism/",
-          "publishedOn": "2021-05-12T03:16:10.000Z",
-          "wordCount": 1625,
-          "title": "Network Realism: William Gibson and new forms of fiction (2010)"
-        },
-        {
-          "id": "https://www.airgradient.com/diy/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.airgradient.com/diy/",
-          "publishedOn": "2021-05-11T22:57:02.000Z",
-          "wordCount": 1489,
-          "title": "AirGradient: DIY Air Quality Monitoring with Open-Source Hardware & Firmware"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27123553",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27123553",
-          "publishedOn": "2021-05-11T21:09:06.000Z",
-          "wordCount": 5375,
-          "title": "Ask HN: How to negotiate continuing to work remotely?"
-        },
-        {
-          "id": "https://www.workatastartup.com/jobs/43915",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/43915",
-          "publishedOn": "2021-05-11T21:00:58.000Z",
-          "wordCount": 925,
-          "title": "KaiPod Learning (YC S21) Is Hiring"
-        },
-        {
-          "id": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/",
-          "publishedOn": "2021-05-11T20:56:08.000Z",
-          "wordCount": 2147,
-          "title": "The Arduino IDE 2.0 beta"
-        },
-        {
-          "id": "https://www.justuseemail.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.justuseemail.com/",
-          "publishedOn": "2021-05-11T20:54:24.000Z",
-          "wordCount": 329,
-          "title": "Just Use Email – How to Use Email for Everything"
-        },
-        {
-          "id": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html",
-          "publishedOn": "2021-05-11T20:27:38.000Z",
-          "wordCount": 943,
-          "title": "Facebook will ignore data collection ban issued in Germany over WhatApp rules"
-        },
-        {
-          "id": "https://www.fragattacks.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fragattacks.com/",
-          "publishedOn": "2021-05-11T18:46:24.000Z",
-          "wordCount": 6498,
-          "title": "FragAttacks: new security vulnerabilities that affect wi-fi devices"
-        },
-        {
-          "id": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/article/usa-semiconductors-idUSL1N2MX2MK",
-          "publishedOn": "2021-05-11T18:23:11.000Z",
-          "wordCount": 392,
-          "title": "Tech giants join call for funding U.S. chip production"
-        },
-        {
-          "id": "https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/",
-          "publishedOn": "2021-05-11T18:12:59.000Z",
-          "wordCount": 1850,
-          "title": "I mailed an AirTag and tracked its progress"
-        },
-        {
-          "id": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.euronews.com/2021/05/11/germany-bans-facebook-from-handling-whatsapp-data-over-privacy-concerns",
-          "publishedOn": "2021-05-11T18:00:59.000Z",
-          "wordCount": 782,
-          "title": "Germany bans Facebook from handling WhatsApp data over privacy concerns"
-        },
-        {
-          "id": "https://stratechery.com/2021/cloudflare-on-the-edge/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
-          "publishedOn": "2021-05-11T17:14:37.000Z",
-          "wordCount": 3696,
-          "title": "Cloudflare on the edge"
-        },
-        {
-          "id": "https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html",
-          "publishedOn": "2021-05-11T17:05:38.000Z",
-          "wordCount": 2417,
-          "title": "For those who can afford it, quitting has become the ultimate form of self-care"
-        },
-        {
-          "id": "http://scp-wiki.wikidot.com/scp-2521",
-          "author": null,
-          "description": "Comments",
-          "link": "http://scp-wiki.wikidot.com/scp-2521",
-          "publishedOn": "2021-05-11T16:57:55.000Z",
-          "wordCount": 923,
-          "title": "●●|●●●●●|●●|●"
-        },
-        {
-          "id": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
-          "publishedOn": "2021-05-11T16:47:53.000Z",
-          "wordCount": 2681,
-          "title": "An experiment caught a quantum system in the middle of a jump (2019)"
-        },
-        {
-          "id": "https://ianwhitestone.work/good-ds-bad-ds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ianwhitestone.work/good-ds-bad-ds/",
-          "publishedOn": "2021-05-11T16:36:10.000Z",
-          "wordCount": 912,
-          "title": "Good data scientist, bad data scientist"
-        },
-        {
-          "id": "https://blog.vamp.io/vamp-is-joining-circleci/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.vamp.io/vamp-is-joining-circleci/",
-          "publishedOn": "2021-05-11T15:24:59.000Z",
-          "wordCount": 1038,
-          "title": "Vamp is joining CircleCI"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27118794",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27118794",
-          "publishedOn": "2021-05-11T14:53:40.000Z",
-          "wordCount": 5630,
-          "title": "Launch HN: UPchieve (YC W21 Nonprofit) – Live tutoring for low-income students"
-        },
-        {
-          "id": "https://eng.uber.com/pprof-go-profiler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eng.uber.com/pprof-go-profiler/",
-          "publishedOn": "2021-05-11T14:32:06.000Z",
-          "wordCount": 3572,
-          "title": "Pprof++: A Go Profiler with Hardware Performance Monitoring"
-        },
-        {
-          "id": "https://questdb.slab.com/public/posts/p4aktor4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://questdb.slab.com/public/posts/p4aktor4",
-          "publishedOn": "2021-05-11T13:51:28.000Z",
-          "wordCount": 3,
-          "title": "Building a new vector based storage model"
         }
       ]
     }
