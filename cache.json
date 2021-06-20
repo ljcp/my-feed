@@ -472,42 +472,6 @@
           "publishedOn": "2021-05-21T14:29:16.000Z",
           "wordCount": 295,
           "title": "CSS Hell"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 631,
-          "title": "JSON in CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340933",
-          "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 991,
-          "title": "Learn CSS!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1691,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340897",
-          "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
         }
       ]
     },
@@ -878,24 +842,6 @@
           "publishedOn": "2021-05-24T11:30:00.000Z",
           "wordCount": 2665,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
-          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
-          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
         }
       ]
     },
@@ -1659,42 +1605,6 @@
           "publishedOn": "2021-05-21T15:33:45.000Z",
           "wordCount": 4309,
           "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": "",
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": "",
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
         }
       ]
     },
@@ -1755,6 +1665,15 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3134040",
+          "author": "Thomas Hansen",
+          "description": "I've been furious for the larger parts of a decade - Partially due to how our governments and the industrialised war machine of the \"United Slaves of America\" has treated Assange, Snowden and Manning, arguably spearheaded by Silicon Valley - But also due to the fact of that the internet I grew up with no longer exists. However, I am ready, bring on the storm!\nIn the 90s when I started hanging out in USENET forums, the internet was a machine for good. Its atmosphere was a feeling of that everything was possible, and together we could create better democratic tools, resulting in a better world, by simply coming together, and together do our part. If everybody pulled a little bit more than their own weight, we could all enter \"paradise on Earth\".",
+          "link": "https://dzone.com/articles/i-declare-war-upon-aws-azure-silicon-valley-and-ev",
+          "publishedOn": "2021-06-19T09:26:06.000Z",
+          "wordCount": 1291,
+          "title": "I Declare War upon AWS, Azure, Silicon Valley and every single Government on Earth"
+        },
         {
           "id": "https://dzone.com/articles/3133080",
           "author": "Sudip Sengupta",
@@ -5219,69 +5138,6 @@
           "publishedOn": "2021-05-21T13:01:09.000Z",
           "wordCount": 809,
           "title": "The “Developers (Only) Code” Fallacy"
-        },
-        {
-          "id": "https://dzone.com/articles/3126572",
-          "author": "John Vester",
-          "description": "Over the course of my 30+ year career in Information Technology, I have encountered my fair share of proof-of-concept or prototype applications which have found their way into a productional state. This has always been a direct conflict with the original intent of the work that was created.\nWhile this should be considered some form of a compliment for a job well-done, more often than not there are decisions made in those prototyping exercises which are not labeled as production-support friendly. To some deg…",
-          "link": "https://dzone.com/articles/migrating-my-heroku-based-saas-to-heroku-postgres",
-          "publishedOn": "2021-05-21T10:00:55.000Z",
-          "wordCount": 1642,
-          "title": "Migrating My Heroku-Based SaaS to Heroku Postgres"
-        },
-        {
-          "id": "https://dzone.com/articles/3125407",
-          "author": "James Carder",
-          "description": "With more companies embracing APIs, they are fast becoming the weak link in the organizational security chain. In our post-Equifax world, APIs still fly under the radar of security professionals, and the future will only bring more incidents unless leaders adopt strategies and tactics to mitigate the inherent “openness” of APIs.\nThe Equifax breach was the result of a known vulnerability in the Apache Struts web framework but not all exposures are so easily identified and patched. There are numerous potentia…",
-          "link": "https://dzone.com/articles/how-to-reduce-your-chances-of-an-api-data-breach",
-          "publishedOn": "2021-05-21T04:21:24.000Z",
-          "wordCount": 1990,
-          "title": "How to Reduce Your Chances of an API Data Breach"
-        },
-        {
-          "id": "https://dzone.com/articles/3125589",
-          "author": "James Sugrue",
-          "description": "For many enterprise-grade applications, providing a point where you can access in-depth analysis about your data has become a crucial feature. There are many approaches to this — you can build your own web application and backend that has views allowing customers to filter and analyze data. Alternatively, you can use the embedded analytics capabilities of Looker, Tableau, or Sisense — all of which are large business intelligence tools, with a host of features and connectors into all sorts of data sources.\nB…",
-          "link": "https://dzone.com/articles/creating-live-dashboards-with-quicksight",
-          "publishedOn": "2021-05-20T23:14:32.000Z",
-          "wordCount": 2906,
-          "title": "Creating Live Dashboards With QuickSight"
-        },
-        {
-          "id": "https://dzone.com/articles/3122927",
-          "author": "Twain Taylor",
-          "description": "I was recently in conversation with Shomiron Das Gupta, CEO of DNIF, a SIEM startup based out of India. He was eager to share his views on the SIEM and cybersecurity space, and talk to me about releasing a community edition of their enterprise-grade SIEM software, DNIF Hyperscale SIEM.\nImage: Shomiron Das Gupta, CEO, DNIF.",
-          "link": "https://dzone.com/articles/siem-bill-shock-is-real-try-this-budget-friendly-s",
-          "publishedOn": "2021-05-20T22:40:34.000Z",
-          "wordCount": 1317,
-          "title": "SIEM Bill Shock Is Real — Try This Budget-friendly SIEM Tool Instead"
-        },
-        {
-          "id": "https://dzone.com/articles/3124401",
-          "author": "Colin Soleim",
-          "description": "Introduction\nThe majority of the Rails custom software development work we do here at NextLink Labs deals with rehabilitating older projects that are overwhelmed with technical debt from years of development without refactoring.\nThe software problems in these websites are never introduced maliciously. Instead, these problems tend to build up gradually over months and years after many rushed deadlines, strict client demands that don't allow for refactoring, and inexperienced Rails developers trying their bes…",
-          "link": "https://dzone.com/articles/most-common-types-of-technical-debt-in-rails",
-          "publishedOn": "2021-05-20T16:57:24.000Z",
-          "wordCount": 2234,
-          "title": "Most Common Types of Technical Debt in Rails"
-        },
-        {
-          "id": "https://dzone.com/articles/3092635",
-          "author": "Claudio De Sio Cesari",
-          "description": "What you are reading is the fifth in a series of articles titled \"Stranger things in Java\", inspired by the contents of my book \"Java for Aliens\". These articles are dedicated to insights into the Java language. Better understanding the topics we use every day will allow us to master Java coding in even the most difficult scenarios.\n \n\nThe definitions for abstract class and interface have evolved since version 8 of Java, and knowing how the two now differ and interact is crucial. An understanding of their k…",
-          "link": "https://dzone.com/articles/differences-between-interfaces-and-abstract-classe",
-          "publishedOn": "2021-05-20T12:41:16.000Z",
-          "wordCount": 3093,
-          "title": "What Are the Differences Between Interfaces and Abstract Classes in 2021?"
-        },
-        {
-          "id": "https://dzone.com/articles/3122187",
-          "author": "pravin kandalkar",
-          "description": "Problem\nIf your Mule application failed to launch with the newer version of Anypoint Studio 7.9.0 with this error message:\n[ERROR] Source option 5 is no longer supported. Use 6 or later.",
-          "link": "https://dzone.com/articles/mulesoft-anypoint-studio-790",
-          "publishedOn": "2021-05-20T12:35:54.000Z",
-          "wordCount": 322,
-          "title": "Fixed: Mule Application Failure To Launch With Newest Anypoint Studio"
         }
       ]
     },
@@ -5291,6 +5147,195 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.renoise.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.renoise.com/",
+          "publishedOn": "2021-06-19T23:11:10.000Z",
+          "wordCount": 508,
+          "title": "Renoise – a DAW with a tracker-like interface"
+        },
+        {
+          "id": "https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/",
+          "publishedOn": "2021-06-19T21:34:41.000Z",
+          "wordCount": 755,
+          "title": "A specific network name can completely disable Wi-Fi on your iPhone"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist",
+          "publishedOn": "2021-06-19T21:00:30.000Z",
+          "wordCount": 812,
+          "title": "Community Phone Company (YC W19) Is Hiring"
+        },
+        {
+          "id": "https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx",
+          "publishedOn": "2021-06-19T17:26:52.000Z",
+          "wordCount": 1916,
+          "title": "Ivermectin for Prevention and Treatment of Covid-19 Infection"
+        },
+        {
+          "id": "https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC",
+          "publishedOn": "2021-06-19T15:20:40.000Z",
+          "wordCount": 428,
+          "title": "U.S. senators propose 25% tax credit for semiconductor manufacturing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27560781",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27560781",
+          "publishedOn": "2021-06-19T14:39:45.000Z",
+          "wordCount": 13479,
+          "title": "I'm Peter Roberts, immigration attorney who does work for YC startups. AMA"
+        },
+        {
+          "id": "https://greenrobot.org/release/eventbus-3-1-plain-java-support/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://greenrobot.org/release/eventbus-3-1-plain-java-support/",
+          "publishedOn": "2021-06-19T14:11:26.000Z",
+          "wordCount": 745,
+          "title": "EventBus 3.1 with plain Java support"
+        },
+        {
+          "id": "https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1",
+          "publishedOn": "2021-06-19T14:09:24.000Z",
+          "wordCount": 2121,
+          "title": "Coober Pedy, the Australian mining town where residents live underground (2020)"
+        },
+        {
+          "id": "http://adamcadre.ac/calendar/202105m.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://adamcadre.ac/calendar/202105m.html",
+          "publishedOn": "2021-06-19T13:49:58.000Z",
+          "wordCount": 1767,
+          "title": "Life as a public school teacher in the San Francisco Bay Area in 2021"
+        },
+        {
+          "id": "https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf",
+          "publishedOn": "2021-06-19T13:38:50.000Z",
+          "wordCount": 23053,
+          "title": "Taking students from schematic to silicon in one semester (2018) [pdf]"
+        },
+        {
+          "id": "https://www.getmarkup.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.getmarkup.com/",
+          "publishedOn": "2021-06-19T13:37:39.000Z",
+          "wordCount": 39,
+          "title": "Show HN: An annotation tool for ML and NLP"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Casu_martzu",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Casu_martzu",
+          "publishedOn": "2021-06-19T13:24:19.000Z",
+          "wordCount": 1914,
+          "title": "Casu Martzu"
+        },
+        {
+          "id": "https://knowablemagazine.org/article/living-world/2021/evolution-dad",
+          "author": null,
+          "description": "Comments",
+          "link": "https://knowablemagazine.org/article/living-world/2021/evolution-dad",
+          "publishedOn": "2021-06-19T12:59:35.000Z",
+          "wordCount": 100,
+          "title": "Evolution of the Dad"
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-021-01627-2",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-021-01627-2",
+          "publishedOn": "2021-06-19T12:33:13.000Z",
+          "wordCount": 2526,
+          "title": "Mathematicians welcome computer-assisted proof in ‘grand unification’ theory"
+        },
+        {
+          "id": "https://morrick.me/archives/9368",
+          "author": null,
+          "description": "Comments",
+          "link": "https://morrick.me/archives/9368",
+          "publishedOn": "2021-06-19T12:15:13.000Z",
+          "wordCount": 1958,
+          "title": "Safari 15 on Mac OS, a user interface mess"
+        },
+        {
+          "id": "https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/",
+          "publishedOn": "2021-06-19T12:09:37.000Z",
+          "wordCount": 1091,
+          "title": "North Carolina tells retired engineer he can't talk about engineering"
+        },
+        {
+          "id": "https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html",
+          "publishedOn": "2021-06-19T12:07:27.000Z",
+          "wordCount": 908,
+          "title": "Spectre mitigations murder userspace performance"
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/",
+          "publishedOn": "2021-06-19T10:13:34.000Z",
+          "wordCount": 1012,
+          "title": "Newly discovered Vigilante malware outs software pirates and blocks them"
+        },
+        {
+          "id": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/",
+          "publishedOn": "2021-06-19T10:01:24.000Z",
+          "wordCount": 5680,
+          "title": "A Tour of Safe Tracing GC Designs in Rust"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/history/inside-tombs-saqqara-180977932/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/history/inside-tombs-saqqara-180977932/",
+          "publishedOn": "2021-06-19T10:01:05.000Z",
+          "wordCount": 4872,
+          "title": "Inside The Tombs of Saqqara"
+        },
+        {
+          "id": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+          "publishedOn": "2021-06-19T04:51:25.000Z",
+          "wordCount": 1087,
+          "title": "Deep reinforcement learning will transform manufacturing as we know it"
+        },
+        {
           "id": "https://politicalphilosopher.net/2015/05/15/featured-philosop-her-elizabeth-barnes/",
           "author": null,
           "description": "Comments",
@@ -5298,6 +5343,15 @@
           "publishedOn": "2021-06-18T23:50:53.000Z",
           "wordCount": 6497,
           "title": "Confessions of a bitter cripple (2015)"
+        },
+        {
+          "id": "https://peewee.com/2021/06/18/rest-in-peace-john-paragon/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://peewee.com/2021/06/18/rest-in-peace-john-paragon/",
+          "publishedOn": "2021-06-18T23:46:46.000Z",
+          "wordCount": 477,
+          "title": "Rest In Peace, John. I was lucky to know you so deeply"
         },
         {
           "id": "https://kneelingbus.substack.com/p/162-minimum-viable-self",
@@ -5480,6 +5534,15 @@
           "title": "Excess deaths and SARS-CoV2 vaccinations in Scotland"
         },
         {
+          "id": "https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/",
+          "publishedOn": "2021-06-18T09:19:12.000Z",
+          "wordCount": 1505,
+          "title": "Commodore 64 and Raspberry Pi 4 = Synth6581"
+        },
+        {
           "id": "http://www.mistys-internet.website/blog/blog/2015/01/02/widescreen-gaming-in-the-90s/",
           "author": null,
           "description": "Comments",
@@ -5487,6 +5550,24 @@
           "publishedOn": "2021-06-18T07:54:18.000Z",
           "wordCount": 560,
           "title": "Widescreen Gaming in the 90s"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27548204",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27548204",
+          "publishedOn": "2021-06-18T07:38:29.000Z",
+          "wordCount": 6670,
+          "title": "Ask HN: What huge mistake did you make early in your career?"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AJhx8SeI0Q8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=AJhx8SeI0Q8",
+          "publishedOn": "2021-06-18T06:20:32.000Z",
+          "wordCount": 17,
+          "title": "MiSTer FPGA GBA Splitscreen Multiplayer"
         },
         {
           "id": "http://www.bbc.com/travel/story/20181120-the-birthplace-of-the-modern-apple",
@@ -5732,6 +5813,24 @@
           "title": "Syria’s exam-related Internet shutdowns"
         },
         {
+          "id": "https://www.researchgate.net/publication/319392963_A_Swingogram_Representation_for_Tracking_Micro-Rhythmic_Variation_in_Jazz_Performances",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.researchgate.net/publication/319392963_A_Swingogram_Representation_for_Tracking_Micro-Rhythmic_Variation_in_Jazz_Performances",
+          "publishedOn": "2021-06-17T11:27:06.000Z",
+          "wordCount": 15066,
+          "title": "Tracking Micro-Rhythmic Variation in Jazz Performances (2017)"
+        },
+        {
+          "id": "https://saagarjha.com/blog/2020/04/12/designing-a-better-strcpy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://saagarjha.com/blog/2020/04/12/designing-a-better-strcpy/",
+          "publishedOn": "2021-06-17T09:50:50.000Z",
+          "wordCount": 2288,
+          "title": "Designing a better strcpy"
+        },
+        {
           "id": "https://www.w3.org/Provider/Style/URI.html",
           "author": null,
           "description": "Comments",
@@ -5766,6 +5865,33 @@
           "publishedOn": "2021-06-17T07:33:59.000Z",
           "wordCount": 2148,
           "title": "ZFS fans, rejoice – RAIDz expansion will be a thing soon"
+        },
+        {
+          "id": "https://www.zverovich.net/2021/06/16/safe-formatting-api.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.zverovich.net/2021/06/16/safe-formatting-api.html",
+          "publishedOn": "2021-06-17T05:50:57.000Z",
+          "wordCount": 1235,
+          "title": "A quest for safe text formatting API"
+        },
+        {
+          "id": "https://github.com/laramies/theHarvester",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/laramies/theHarvester",
+          "publishedOn": "2021-06-17T05:17:27.000Z",
+          "wordCount": 1301,
+          "title": "TheHarvester: Emails, subdomains and names harvester for OSINT"
+        },
+        {
+          "id": "https://asciiflow.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://asciiflow.com/",
+          "publishedOn": "2021-06-17T04:58:50.000Z",
+          "wordCount": 3,
+          "title": "ASCIIFlow Diagram Tool"
         },
         {
           "id": "https://stripe.com/terminal",
@@ -12894,339 +13020,6 @@
           "publishedOn": "2021-05-21T13:28:41.000Z",
           "wordCount": 3373,
           "title": "Launch HN: Journey (YC W21) – a better tool for selling software"
-        },
-        {
-          "id": "https://jenson.org/games/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jenson.org/games/",
-          "publishedOn": "2021-05-21T12:15:56.000Z",
-          "wordCount": 5036,
-          "title": "Video Games Inspire Great UX (2019)"
-        },
-        {
-          "id": "https://web.dev/learn/css/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-21T12:10:56.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS"
-        },
-        {
-          "id": "https://developer.oculus.com/blog/a-vr-frames-life/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://developer.oculus.com/blog/a-vr-frames-life/",
-          "publishedOn": "2021-05-21T11:14:38.000Z",
-          "wordCount": 2019,
-          "title": "A VR Frame’s Life"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Atomic_gardening",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Atomic_gardening",
-          "publishedOn": "2021-05-21T11:08:12.000Z",
-          "wordCount": 1325,
-          "title": "Atomic Gardening"
-        },
-        {
-          "id": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
-          "publishedOn": "2021-05-21T11:04:08.000Z",
-          "wordCount": 962,
-          "title": "What’s your API’s “Time To 200”?"
-        },
-        {
-          "id": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cbc.ca/news/science/coffee-stenophylla-1.5995940",
-          "publishedOn": "2021-05-21T11:01:19.000Z",
-          "wordCount": 1145,
-          "title": "Scientists rediscover lost coffee species suited to a warmer climate"
-        },
-        {
-          "id": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-          "publishedOn": "2021-05-21T10:44:09.000Z",
-          "wordCount": 983,
-          "title": "Isotope study hints ancient Greeks used foreign fighters in key battle"
-        },
-        {
-          "id": "https://blog.freesound.org/?p=1340",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.freesound.org/?p=1340",
-          "publishedOn": "2021-05-21T10:25:05.000Z",
-          "wordCount": 806,
-          "title": "Freesound just reached 500K Creative Commons sounds"
-        },
-        {
-          "id": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
-          "publishedOn": "2021-05-21T09:25:21.000Z",
-          "wordCount": 1556,
-          "title": "The Jame of Life"
-        },
-        {
-          "id": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html",
-          "publishedOn": "2021-05-21T08:08:50.000Z",
-          "wordCount": 1927,
-          "title": "How to port your OS to EC2"
-        },
-        {
-          "id": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
-          "publishedOn": "2021-05-21T07:52:39.000Z",
-          "wordCount": 2637,
-          "title": "My thoughts about the Principal role"
-        },
-        {
-          "id": "https://github.com/cassiozen/useStateMachine",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/cassiozen/useStateMachine",
-          "publishedOn": "2021-05-21T07:01:14.000Z",
-          "wordCount": 1465,
-          "title": "useStateMachine: A ½ kb state machine hook for React"
-        },
-        {
-          "id": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
-          "publishedOn": "2021-05-21T05:32:00.000Z",
-          "wordCount": 2233,
-          "title": "The curious case of the disappearing Polish S (2015)"
-        },
-        {
-          "id": "https://yarchive.net/blog/carrington-event/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://yarchive.net/blog/carrington-event/",
-          "publishedOn": "2021-05-21T01:28:06.000Z",
-          "wordCount": 2449,
-          "title": "The Carrington Event: not something to worry about (2020)"
-        },
-        {
-          "id": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
-          "publishedOn": "2021-05-20T23:05:07.000Z",
-          "wordCount": 2273,
-          "title": "The Anus Is an Evolutionary Marvel"
-        },
-        {
-          "id": "https://github.com/hollyjackson/NYT_Content_Analysis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/hollyjackson/NYT_Content_Analysis",
-          "publishedOn": "2021-05-20T23:02:50.000Z",
-          "wordCount": 992,
-          "title": "Content Bias Analysis of the New York Times"
-        },
-        {
-          "id": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
-          "publishedOn": "2021-05-20T21:44:18.000Z",
-          "wordCount": 1839,
-          "title": "SimuLand, a lab environment to simulate attacker tradecraft"
-        },
-        {
-          "id": "https://ionescu007.github.io/SimpleVisor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ionescu007.github.io/SimpleVisor/",
-          "publishedOn": "2021-05-20T21:40:16.000Z",
-          "wordCount": 1672,
-          "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
-        },
-        {
-          "id": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/#CVE-2021-29956",
-          "publishedOn": "2021-05-20T21:25:27.000Z",
-          "wordCount": 610,
-          "title": "Thunderbird stored OpenPGP secret keys without master password protection"
-        },
-        {
-          "id": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/",
-          "publishedOn": "2021-05-20T21:25:03.000Z",
-          "wordCount": 983,
-          "title": "Red Cross honors Igiugig woman for helping light runway during nighttime medevac"
-        },
-        {
-          "id": "https://nautil.us/issue/100/outsiders/the-man-who-drank-cholera-and-launched-the-yogurt-craze-rp",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nautil.us/issue/100/outsiders/the-man-who-drank-cholera-and-launched-the-yogurt-craze-rp",
-          "publishedOn": "2021-05-20T21:07:32.000Z",
-          "wordCount": 2685,
-          "title": "Ilya Metchnikoff laid the foundation for modern probiotics (2015)"
-        },
-        {
-          "id": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
-          "publishedOn": "2021-05-20T21:00:37.000Z",
-          "wordCount": 48,
-          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
-        },
-        {
-          "id": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
-          "author": null,
-          "description": "Comments",
-          "link": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
-          "publishedOn": "2021-05-20T20:27:02.000Z",
-          "wordCount": 6846,
-          "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission"
-        },
-        {
-          "id": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
-          "publishedOn": "2021-05-20T20:18:32.000Z",
-          "wordCount": 1447,
-          "title": "Why RISC-V doesn't yet support KVM"
-        },
-        {
-          "id": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
-          "publishedOn": "2021-05-20T20:01:28.000Z",
-          "wordCount": 14589,
-          "title": "Extreme HTTP Performance Tuning"
-        },
-        {
-          "id": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
-          "publishedOn": "2021-05-20T19:20:29.000Z",
-          "wordCount": 665,
-          "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router"
-        },
-        {
-          "id": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/",
-          "publishedOn": "2021-05-20T19:16:40.000Z",
-          "wordCount": 980,
-          "title": "Five Oregon counties vote to leave state, create 'Greater Idaho'"
-        },
-        {
-          "id": "https://www.spectacles.com/new-spectacles",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.spectacles.com/new-spectacles",
-          "publishedOn": "2021-05-20T18:00:05.000Z",
-          "wordCount": 12,
-          "title": "New Snap Spectacles Feature Augmented Reality Display"
-        },
-        {
-          "id": "https://javier.xyz/pintr/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://javier.xyz/pintr/",
-          "publishedOn": "2021-05-20T17:22:33.000Z",
-          "wordCount": 50,
-          "title": "Show HN: Tool that turns your images into plotter-like line drawings"
-        },
-        {
-          "id": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
-          "publishedOn": "2021-05-20T16:43:51.000Z",
-          "wordCount": 2634,
-          "title": "Physicists identify the engine powering black hole energy beams"
-        },
-        {
-          "id": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
-          "publishedOn": "2021-05-20T16:31:47.000Z",
-          "wordCount": 3017,
-          "title": "CRISPR Editing in Primates"
-        },
-        {
-          "id": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
-          "publishedOn": "2021-05-20T16:10:26.000Z",
-          "wordCount": 1811,
-          "title": "WebContainers: Run Node.js natively in the browser"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27222985",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27222985",
-          "publishedOn": "2021-05-20T16:08:30.000Z",
-          "wordCount": 4179,
-          "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
-        },
-        {
-          "id": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-          "publishedOn": "2021-05-20T15:31:06.000Z",
-          "wordCount": 3653,
-          "title": "Spintronics: Build Mechanical Circuits"
-        },
-        {
-          "id": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
-          "publishedOn": "2021-05-20T14:29:55.000Z",
-          "wordCount": 1980,
-          "title": "Undefined behavior in C is a reading error"
-        },
-        {
-          "id": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators",
-          "publishedOn": "2021-05-20T13:24:19.000Z",
-          "wordCount": 1326,
-          "title": "Native speakers are hard to understand in a lingua franca situation"
-        },
-        {
-          "id": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-          "publishedOn": "2021-05-20T13:12:49.000Z",
-          "wordCount": 196,
-          "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\""
         }
       ]
     }
