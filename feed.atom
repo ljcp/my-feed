@@ -2,10 +2,504 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:29:52.093Z</updated>
+    <updated>2021-06-26T00:24:28.293Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Correctly implementing a spinlock in Modern C++]]></title>
+        <id>https://rigtorp.se/spinlock/</id>
+        <link href="https://rigtorp.se/spinlock/"/>
+        <updated>2021-06-25T22:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry, we replaced that old technology, “see-through glass”]]></title>
+        <id>https://twitter.com/RunDaltonRun/status/1408507323031592964</id>
+        <link href="https://twitter.com/RunDaltonRun/status/1408507323031592964"/>
+        <updated>2021-06-25T21:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Which book or course gave you an unfair advantage?]]></title>
+        <id>https://news.ycombinator.com/item?id=27636743</id>
+        <link href="https://news.ycombinator.com/item?id=27636743"/>
+        <updated>2021-06-25T21:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What's your experience working for a YC backed startup?]]></title>
+        <id>https://news.ycombinator.com/item?id=27636593</id>
+        <link href="https://news.ycombinator.com/item?id=27636593"/>
+        <updated>2021-06-25T21:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneSignal (Messaging and Push Notification APIs) is hiring a full stack engineer]]></title>
+        <id>https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96</id>
+        <link href="https://onesignal.com/careers/b824ffc4-ac55-4744-b7d8-b5ace6272e96"/>
+        <updated>2021-06-25T21:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy remasters reignite controversies over pixel art]]></title>
+        <id>https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art</id>
+        <link href="https://www.vice.com/en/article/qj83yp/final-fantasy-remasters-reignite-controversies-over-pixel-art"/>
+        <updated>2021-06-25T20:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Carbon Uses PrestoDB With Ahana to Power Real-Time Customer Dashboards]]></title>
+        <id>https://dzone.com/articles/3134302</id>
+        <link href="https://dzone.com/articles/how-carbon-uses-prestodb-with-ahana-to-power-real"/>
+        <updated>2021-06-25T20:36:48.000Z</updated>
+        <summary type="html"><![CDATA[The author, Jordan Hoggart, was not compensated by Ahana for this review.
+The Background
+At the base of Carbon’s real-time, first-party data platform is our analytics component, which combines a range of behavioral, contextual, and revenue data, which is then displayed within a dashboard in a series of charts, graphs, and breakdowns to give a visual representation of the most important actionable data. Whilst we pre-calculate as much of the information as possible, there are different filters that allow users to drill deeper into the data, which makes querying critical.]]></summary>
+        <author>
+            <name>Jordan Hoggart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preliminary Assessment: Unidentified Aerial Phenomena]]></title>
+        <id>https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena</id>
+        <link href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena"/>
+        <updated>2021-06-25T20:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Agile Fails Because of Corporate Culture]]></title>
+        <id>https://dzone.com/articles/3127019</id>
+        <link href="https://dzone.com/articles/why-agile-fails-because-of-corporate-culture"/>
+        <updated>2021-06-25T20:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Large corporations are increasingly longing to be like startups: Flat hierarchies and the absence of formal procedures result in unseen productivity; doing without restraining bureaucracy allows for remarkable speed, innovation, and creativity.
+Speed, innovation, and creativity: It's exactly these things most corporations are desperately lacking. In turn, it's only logical for big companies to want to take a leaf out of the startups' book. Where the clumsy imitation of a start-up mentality fails or maybe isn't even an option, the magic word agile soon echoes through the aisles. Because you know, the competition is already successfully agile, every consultant can deliver ready-made, highly scaled agile wonders on demand in no time at all, and even the house and farm service provider has had experience with it for a long time, but simply wasn't asked about it until now. So "agile" gets written on the banner, swarms of self-proclaimed evangelists get unleashed onto the staff and off they go on a journey into a brighter future.]]></summary>
+        <author>
+            <name>Thomas Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyBook Users Urged to Unplug Devices from Internet]]></title>
+        <id>https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/</id>
+        <link href="https://krebsonsecurity.com/2021/06/mybook-users-urged-to-unplug-devices-from-internet/"/>
+        <updated>2021-06-25T20:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting up Airflow 2.0]]></title>
+        <id>https://dzone.com/articles/3127029</id>
+        <link href="https://dzone.com/articles/part-3-setting-up-airflow-20"/>
+        <updated>2021-06-25T19:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi, welcome back.
+In this part of the tutorial, we will discuss how to run airflow locally.]]></summary>
+        <author>
+            <name>Jyoti Sachdeva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is HashSet? | HashSet Introduction and Sample Programs | Java Collections Framework]]></title>
+        <id>https://dzone.com/articles/3128096</id>
+        <link href="https://dzone.com/articles/what-is-hashset-hashset-introduction-and-sample-pr"/>
+        <updated>2021-06-25T19:41:47.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer look at HashSet | HashSet Introduction and Sample Programs | Java Collections Framework. Let's get started!]]></summary>
+        <author>
+            <name>Ram N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Inyerface – A worst-practice UI experiment]]></title>
+        <id>https://userinyerface.com/</id>
+        <link href="https://userinyerface.com/"/>
+        <updated>2021-06-25T19:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Formula for Success: AI-Powered Online Document Verification]]></title>
+        <id>https://dzone.com/articles/3127055</id>
+        <link href="https://dzone.com/articles/the-simple-formula-to-success-ai-powered-online-do"/>
+        <updated>2021-06-25T19:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Identity theft cases are progressing by leaps and bounds in this modern age of technological advancements. The rate at which fraudulent activities are evolving is directly proportional to the momentum at which technology is progressing. Also, the data production rate is increasing with the progression of the human population. Do you know that 2.5 quadrillion bytes of information are generated each day? 
+Considering the rate at which data is produced and utilized all across the globe, the acquisition of sophisticated measures for the protection of such data is something that must not be neglected by enterprises of all sizes at any cost. Keeping in view the swift pace of progression in identity theft cases, robust mechanisms such as real-time identity verification solutions, especially document verification must be incorporated for the enhancement of security protocols and to combat illicit money transfers, counterfeits, chargebacks, and other relevant fraudulent activities.]]></summary>
+        <author>
+            <name>Ryan Jason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empower Your Business With Big Data + Real-Time Analytics in TiDB]]></title>
+        <id>https://dzone.com/articles/3124995</id>
+        <link href="https://dzone.com/articles/empower-your-business-with-big-data-real-time-anal"/>
+        <updated>2021-06-25T19:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Big data, in recent years, is not just a buzzword, but also a growing need for ambitious companies. With skyrocketing data scale and stringent requirements on data freshness, big data-related scenarios are becoming complicated and multi-dimensional. Thus, many companies use real-time data warehouses to meet their business demand.
+But data warehouses are not the only option. An emerging category of databases, Hybrid Analytical/Transactional Processing (HTAP) databases, can serve you just as well as data warehouses, if not better. HTAP databases can handle Online Transactional Processing (OLTP) workloads and respond quickly to big data analytical requests in real time.]]></summary>
+        <author>
+            <name>yueyue zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Group Video Calls]]></title>
+        <id>https://telegram.org/blog/group-video-calls</id>
+        <link href="https://telegram.org/blog/group-video-calls"/>
+        <updated>2021-06-25T19:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Miami condo collapse is a reminder of America's artificial land problem]]></title>
+        <id>https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill</id>
+        <link href="https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill"/>
+        <updated>2021-06-25T19:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Querying Parquet with Precision Using DuckDB]]></title>
+        <id>https://duckdb.org/2021/06/25/querying-parquet.html</id>
+        <link href="https://duckdb.org/2021/06/25/querying-parquet.html"/>
+        <updated>2021-06-25T18:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mule4: Logging and Error Handling Framework]]></title>
+        <id>https://dzone.com/articles/3129362</id>
+        <link href="https://dzone.com/articles/mule4-logging-and-error-handling-framework"/>
+        <updated>2021-06-25T18:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+For any application development, reusable assets are more important, which can be shared across the organization's application. Based on requirements, it can be enhanced also. Based on my experience and knowledge, I prepare Mule4 logging and error handling framework, which can be more useful and also can get an idea to enhance according to project needs.
+Design Logging Framework
+Logging is most important while finding production issues, analyzing bugs, change code. It's also important to know how a request is being processing and responding back to the caller. I have come across the below 7 areas where we should log information/state of a request.]]></summary>
+        <author>
+            <name>webmail.ajb@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep dive into plastic monomers, additives, and processing aids]]></title>
+        <id>https://pubs.acs.org/doi/10.1021/acs.est.1c00976</id>
+        <link href="https://pubs.acs.org/doi/10.1021/acs.est.1c00976"/>
+        <updated>2021-06-25T18:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemical space is really big (2014)]]></title>
+        <id>https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article</id>
+        <link href="https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article"/>
+        <updated>2021-06-25T18:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bflat: C# as you know it but with Go-like tooling]]></title>
+        <id>https://github.com/MichalStrehovsky/bflat</id>
+        <link href="https://github.com/MichalStrehovsky/bflat"/>
+        <updated>2021-06-25T18:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A man whose software ate the world]]></title>
+        <id>https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world</id>
+        <link href="https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world"/>
+        <updated>2021-06-25T18:08:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Guide to SRE: Incident Severity Levels]]></title>
+        <id>https://dzone.com/articles/3132105</id>
+        <link href="https://dzone.com/articles/practical-guide-to-sre-incident-severity-levels"/>
+        <updated>2021-06-25T17:44:15.000Z</updated>
+        <summary type="html"><![CDATA[In companies with constant growth and large scale, incidents are inevitable. A robust incident management strategy eventually leads to better management and handling of issues. It is an essential part of reliability engineering, ensuring that a team is prepared to manage incidents. It can prevent the loss of millions of dollars in revenue in times of breaches or downtimes. Good incident management improves customer experience and empowers engineering teams to meet their uptime goals. 
+In this blog, we will discuss how companies can identify and prioritize incidents for faster resolution. Incidents could vary a lot on the surface level, and hence it is essential to classify them according to specific, well-defined parameters. All incidents are not equal. For instance, a system outage during peak hours is much more stressful than handling when most customers are asleep.]]></summary>
+        <author>
+            <name>nancy chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Paradigms for Dummies: What Every Programmer Should Know (2009) [pdf]]]></title>
+        <id>https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf</id>
+        <link href="https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"/>
+        <updated>2021-06-25T17:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Static Code Analysis]]></title>
+        <id>https://dzone.com/refcardz/3133561</id>
+        <link href="https://dzone.com/refcardz/getting-started-with-static-code-analysis"/>
+        <updated>2021-06-25T16:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Static code analysis is the practice of examining application’s source, bytecode, or binary code without ever executing the program code itself. Instead, the code under review is analyzed to identify any defects, flaws, or vulnerabilities which may compromise the integrity or security of the application itself. In this Refcard, we explore the necessary components and steps for getting started with static code analysis, including CI/CD integrations, OWASP Benchmark, and more.]]></summary>
+        <author>
+            <name>Lindsay Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Static Code Analysis]]></title>
+        <id>https://dzone.com/refcardz/3133561</id>
+        <link href="https://dzone.com/refcardz/getting-started-with-static-code-analysis"/>
+        <updated>2021-06-25T16:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Static code analysis is the practice of examining application’s source, bytecode, or binary code without ever executing the program code itself. Instead, the code under review is analyzed to identify any defects, flaws, or vulnerabilities which may compromise the integrity or security of the application itself. In this Refcard, we explore the necessary components and steps for getting started with static code analysis, including CI/CD integrations, OWASP Benchmark, and more.]]></summary>
+        <author>
+            <name>Lindsay Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Develop a Scalable Event Listener for Blockchain]]></title>
+        <id>https://dzone.com/articles/3134303</id>
+        <link href="https://dzone.com/articles/guidance-to-develop-a-scalable-event-listener-for"/>
+        <updated>2021-06-25T15:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Developing a Scalable Event Listener for Hyperledger Fabric
+Using an event listener for replicating data stored in Hyperledger Fabric ledgers is an emerging pattern in todays’ enterprise solutions based on Hyperledger Fabric oriented distributed ledger technology-based platform. This article will provide a comprehensive guide for building an event listener using Hyperledger fabric-sdk-go. All the examples have assumed the usage of Hyperledger Fabric v2.2.x platform.
+Why We Need Event Listeners
+For many blockchain-based applications, it has been observed that there is a requirement of storing all or some of the assets into an off-chain data storage. There could be several motivations for such requirements. Some of the frequently encountered cases are]]></summary>
+        <author>
+            <name>Jignesh Karia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where did my 256 GB go? Mobile storage Analysis [pdf]]]></title>
+        <id>https://dl.acm.org/doi/pdf/10.1145/3460095</id>
+        <link href="https://dl.acm.org/doi/pdf/10.1145/3460095"/>
+        <updated>2021-06-25T15:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL (2020)]]></title>
+        <id>https://hoverbear.org/blog/postgresql-hierarchical-structures/</id>
+        <link href="https://hoverbear.org/blog/postgresql-hierarchical-structures/"/>
+        <updated>2021-06-25T15:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Use Optional to Fix Our Method Contract]]></title>
+        <id>https://dzone.com/articles/3133105</id>
+        <link href="https://dzone.com/articles/lets-use-optional-to-fix-our-method-contract"/>
+        <updated>2021-06-25T15:10:49.000Z</updated>
+        <summary type="html"><![CDATA[A method is a contract; when we define one, we put our thoughts into it. We specify the parameters with their type and also a return type. When we invoke a method, we expect it to behave according to the contract. If it doesn’t, it’s a violation of the contract.
+We deal with such a violation all the time. We invoke a method with its proper arguments, and we get a return. However, sometimes we end up getting a null, which is, in fact, a clear violation. We shouldn’t accept such a violation. If a method cannot return the value of the specified type, it should mention that in the method signature, the method may or may not be returning the value you are expecting. If we know it from the method signature, we then write our code accordingly.]]></summary>
+        <author>
+            <name>A N M Bazlur Rahman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Cross-Platform Native Mobile Apps Using Java/Kotlin for iOS, Android, Desktop, and Web]]></title>
+        <id>https://dzone.com/articles/3123012</id>
+        <link href="https://dzone.com/articles/create-native-mobile-apps-using-java-kotlin-and-ma"/>
+        <updated>2021-06-25T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The new Codename One Maven build makes building native mobile and desktop apps trivial… It’s also free and open source to boot!
+We can get started by opening start.codenameone.com.]]></summary>
+        <author>
+            <name>Shai Almog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT Data Management: Why You Need It and What Are Its Ultimate Challenges?]]></title>
+        <id>https://dzone.com/articles/3129066</id>
+        <link href="https://dzone.com/articles/iot-data-management-why-you-need-it-and-what-are-i"/>
+        <updated>2021-06-25T14:59:25.000Z</updated>
+        <summary type="html"><![CDATA[As a top contributor to the massive volumes of data created across the globe, IoT needs leaner approaches to data management and enhanced sensibility towards data governance. Today’s unprecedented levels of heterogeneity, volume, and connectivity call for data management strategies that consider scale, data gravity, and integration. 
+Why IoT Data Management?
+What drives the need for data management within an organization? Below are some answers:]]></summary>
+        <author>
+            <name>Zornitsa Dimitrova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win $10,000 in the IBM Build-A-Bot Challenge: Automation for Good]]></title>
+        <id>https://dzone.com/articles/3134381</id>
+        <link href="https://dzone.com/articles/win-10000-in-the-ibm-build-a-bot-challenge-automat"/>
+        <updated>2021-06-25T14:42:57.000Z</updated>
+        <summary type="html"><![CDATA[IBM is holding a challenge and wants to know how you can use Automation for Good!
+The Details
+The IBM Build-A-Bot Challenge is open from June 15 to July 15, 2021 at Midnight ET. There are two prizes of $10,000 each, one for the Best IBM Robotic Process Automation Solution that Improves Your Workplace and the other for the Best IBM Robotic Process Automation Solution that Solves a Social Challenge. You can enter one submission in each category. You can work alone or in teams of up to five people.]]></summary>
+        <author>
+            <name>David Jenness</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One gallon of Milk and a medium sized Cloud please]]></title>
+        <id>https://dzone.com/articles/3132668</id>
+        <link href="https://dzone.com/articles/one-gallon-of-milk-and-a-medium-sized-cloud-please"/>
+        <updated>2021-06-25T14:41:10.000Z</updated>
+        <summary type="html"><![CDATA[My ISP is Marco, and I don't mean Marco as in Ltd or Inc - No, I mean Marco my neighbour. He lives 200 meters away from me, and serves half the village I live in with internet. A long time ago before traditional ISP companies even bothered to offer internet in the village, Marco installed antennas around the entire village, offered internet services to all who wanted it, and is today the largest ISP in my village. Today of course we've got several huge ISPs in Cyprus, but nobody really care. We've got Marco, and we're happy with using his internet. He was there for us when nobody else cared, so why would we want to switch to some huge giga corporation today?
+When the big banks stopped allowing people to pay their bills over the counter, Marco stepped in, and is now paying people's bills too. Need your bills paid? Drop by at Marco's internet store, leave enough cash to cover your bill, add 2 EURO commission on top, and your bills are paid within a day or two. Needless to say, but for the older people in my village, such an offer is precious, since most of the really old people in my village don't even know how to pay their bills online.]]></summary>
+        <author>
+            <name>Thomas Hansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS acquires Wickr]]></title>
+        <id>https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/</id>
+        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
+        <updated>2021-06-25T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SirenDNS – A Watchtower for Your Domains (Anti-domain-squatting)]]></title>
+        <id>https://sirendns.com</id>
+        <link href="https://sirendns.com"/>
+        <updated>2021-06-25T12:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was let go for refusing to deploy a dark pattern]]></title>
+        <id>https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv</id>
+        <link href="https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv"/>
+        <updated>2021-06-25T11:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
+        <updated>2021-06-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Games is an Instant Flash to the past]]></title>
+        <id>https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/</id>
+        <link href="https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/"/>
+        <updated>2021-06-25T11:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rally, a novel privacy-first data sharing platform]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/</id>
+        <link href="https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/"/>
+        <updated>2021-06-25T10:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the text terminal cursor is important for accessibility]]></title>
+        <id>https://blind.guru/blog/2021-06-25-brick.html</id>
+        <link href="https://blind.guru/blog/2021-06-25-brick.html"/>
+        <updated>2021-06-25T10:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud adoption - An architectural introduction]]></title>
+        <id>https://dzone.com/articles/3132650</id>
+        <link href="https://dzone.com/articles/cloud-adoption-an-architectural-introduction"/>
+        <updated>2021-06-25T10:15:03.000Z</updated>
+        <summary type="html"><![CDATA[This article launches a new series exploring the cloud adoption architecture. It's focusing on presenting access to ways of mapping successful implementations for specific use cases.
+It's an interesting challenge creating architectural content based on common customer adoption patterns. That's very different from most of the traditional marketing activities usually associated with generating content for the sole purpose of positioning products for solutions. When you're basing the content on actual execution in solution delivery, you're cutting out the chuff.]]></summary>
+        <author>
+            <name>Eric D. Schabell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood test that finds 50 types of cancer is accurate enough to be rolled out]]></title>
+        <id>https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out</id>
+        <link href="https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out"/>
+        <updated>2021-06-25T09:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WD My Book users wake up to find their data deleted]]></title>
         <id>https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/</id>
@@ -101,6 +595,16 @@ What Is an Archetype?
 A maven archetype is a templated project. Maven offers several archetypes that allow you to create new maven modules ready to run in few seconds.]]></summary>
         <author>
             <name>Tomas Dias Almeida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weather Forecasting Tricks Series: Timing a Front (2004)]]></title>
+        <id>http://www.theweatherprediction.com/habyhints2/424/</id>
+        <link href="http://www.theweatherprediction.com/habyhints2/424/"/>
+        <updated>2021-06-24T19:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -257,6 +761,16 @@ This Refcard serves as a reference to the key characteristics of distributed SQL
         <id>https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with</id>
         <link href="https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with"/>
         <updated>2021-06-24T16:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cats and the Good Life]]></title>
+        <id>https://lareviewofbooks.org/article/cats-and-the-good-life/</id>
+        <link href="https://lareviewofbooks.org/article/cats-and-the-good-life/"/>
+        <updated>2021-06-24T16:16:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -807,6 +1321,16 @@ I would like to divide the core challenges into three categories primarily:]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Disproportionate amount of bad online behaviour stems from psychological issues]]></title>
+        <id>https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/</id>
+        <link href="https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/"/>
+        <updated>2021-06-23T17:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NEORV32: A customizable RISC-V SoC]]></title>
         <id>https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/</id>
         <link href="https://blog.adafruit.com/2021/06/23/neorv32-a-customizable-risc-v-soc-riscv-fpga/"/>
@@ -1031,6 +1555,16 @@ A data mesh is a type of data platform architecture that embraces the ubiquity
         <id>https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/</id>
         <link href="https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/"/>
         <updated>2021-06-23T11:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Machine learning automation from creating to using models in production]]></title>
+        <id>https://github.com/nidhaloff/igel/tree/v0.4.0</id>
+        <link href="https://github.com/nidhaloff/igel/tree/v0.4.0"/>
+        <updated>2021-06-23T11:27:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -15056,620 +15590,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://news.ycombinator.com/item?id=27302195</id>
         <link href="https://news.ycombinator.com/item?id=27302195"/>
         <updated>2021-05-27T12:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I, as someone who is visually impaired, use my iPhone (2020)]]></title>
-        <id>https://twitter.com/Kristy_Viers/status/1287189581926981634</id>
-        <link href="https://twitter.com/Kristy_Viers/status/1287189581926981634"/>
-        <updated>2021-05-27T12:16:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Data Wrangling]]></title>
-        <id>https://catalyst.coop/2021/05/23/automated-data-wrangling/</id>
-        <link href="https://catalyst.coop/2021/05/23/automated-data-wrangling/"/>
-        <updated>2021-05-27T11:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I Built Multiplayer Deathmatch Joust]]></title>
-        <id>https://joust.life/</id>
-        <link href="https://joust.life/"/>
-        <updated>2021-05-27T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elliptic Curve Cryptography Explained (2019)]]></title>
-        <id>https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/</id>
-        <link href="https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/"/>
-        <updated>2021-05-27T11:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a free blogging/bookmarking platform with discussions/discovery]]></title>
-        <id>http://wndr.xyz</id>
-        <link href="http://wndr.xyz"/>
-        <updated>2021-05-27T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primates change their 'accent' to avoid conflict]]></title>
-        <id>https://phys.org/news/2021-05-primates-accent-conflict.html</id>
-        <link href="https://phys.org/news/2021-05-primates-accent-conflict.html"/>
-        <updated>2021-05-27T10:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Klarna users are being signed in to random accounts]]></title>
-        <id>https://twitter.com/esraefe/status/1397842160607711232</id>
-        <link href="https://twitter.com/esraefe/status/1397842160607711232"/>
-        <updated>2021-05-27T10:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How are you using unikernels?]]></title>
-        <id>https://news.ycombinator.com/item?id=27301210</id>
-        <link href="https://news.ycombinator.com/item?id=27301210"/>
-        <updated>2021-05-27T10:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevConf.US 2021 - Containers, OpenShift, Architecture Blueprints, and Diagram Tooling]]></title>
-        <id>https://dzone.com/articles/3125948</id>
-        <link href="https://dzone.com/articles/devconfus-2021-containers-openshift-architecture-b"/>
-        <updated>2021-05-27T08:18:55.000Z</updated>
-        <summary type="html"><![CDATA[DevConf.US 2021 has kicked off their call for papers this last month and of course it will be a virtual event (hopefully for this one last time) hosted on September 2-3. It's the 4th annual, free, Red Hat sponsored technology conference for community project and professional contributors to Free and Open Source technologies coming to a web browser near you!
- 
- 
-There is no admission or ticket charge for DevConf.US events. However, you are required to complete a free registration. Talks, presentations and workshops will all be in English.]]></summary>
-        <author>
-            <name>Eric D. Schabell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
-        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/</id>
-        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
-        <updated>2021-05-27T08:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need To Know About Stress Testing Your Software]]></title>
-        <id>https://dzone.com/articles/3127902</id>
-        <link href="https://dzone.com/articles/everything-you-need-to-know-about-stress-testing-y"/>
-        <updated>2021-05-27T06:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Stress testing is a type of testing that verifies the reliability and stability of software applications. The goal of this kind of testing is to measure the error handling capabilities of the software to ensure that it does not crash under extremely heavy load conditions.
-Let us consider two scenarios where website traffic may increase:]]></summary>
-        <author>
-            <name>Vakul Gotra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to SAP Testing]]></title>
-        <id>https://dzone.com/articles/3127901</id>
-        <link href="https://dzone.com/articles/a-complete-guide-to-sap-testing"/>
-        <updated>2021-05-27T06:45:13.000Z</updated>
-        <summary type="html"><![CDATA[SAP (Systems, Applications, and Products) is a software package that enterprises use to manage business processes. It integrates all operations including finance, sales, production, logistics, distribution, accounting, and human resources. 
-By executing all business processes in a SAP system, information can flow from one module to another without unnecessary data entry. SAP software helps enterprises to run business processes efficiently while reducing operational costs.]]></summary>
-        <author>
-            <name>Vakul Gotra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Find Long-Sought Building Blocks for Special Polynomials]]></title>
-        <id>https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525</id>
-        <link href="https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525"/>
-        <updated>2021-05-27T05:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Control-flow integrity in Linux 5.13]]></title>
-        <id>https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/</id>
-        <link href="https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/"/>
-        <updated>2021-05-27T04:26:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Carle has died]]></title>
-        <id>https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html</id>
-        <link href="https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html"/>
-        <updated>2021-05-27T03:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solution Thinking Design]]></title>
-        <id>https://dzone.com/articles/3027736</id>
-        <link href="https://dzone.com/articles/solution-thinking-workshop"/>
-        <updated>2021-05-27T03:17:52.000Z</updated>
-        <summary type="html"><![CDATA[Context
-You are modernizing a Core System and have defined a Target Business Architecture (BA) that will replace it. You are following the defined modernization roadmap and are in charge of the modernization of one of the Business Capabilities of the Target Business Architecture. Now, you need to understand how the current Core System is addressing the Business Capability, i.e., you have to map which legacy system is providing the business capabilities associated with this system in the BA. 
-Usually, the core system will be a set of monoliths, applications, services, and transactions that are integrated and tightly coupled so that if you map all of them and its integrations, you will end up with a picture like this one:]]></summary>
-        <author>
-            <name>Ram Ravishankar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Security Weekly: Issue #135]]></title>
-        <id>https://dzone.com/articles/3127886</id>
-        <link href="https://dzone.com/articles/api-security-weekly-issue-135"/>
-        <updated>2021-05-27T02:50:46.000Z</updated>
-        <summary type="html"><![CDATA[This week, we take a look at how cybercriminals exploit leaked API keys to steal millions of dollars from cryptoexchanges. In addition, we also have the recent API vulnerabilities in Rocket.Chat, the upcoming change in Let’s Encrypt root certificate and its impact on APIs, and another video on common GraphQL API vulnerabilities.
-Vulnerability: API Keys and Cryptoexchanges
-Researchers from CyberNews found how cybercriminals locate and exploit API keys from cryptocurrency exchanges to steal millions of dollars.]]></summary>
-        <author>
-            <name>Dmitry Sotnikov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I still like C and strongly dislike C++]]></title>
-        <id>https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/</id>
-        <link href="https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/"/>
-        <updated>2021-05-26T23:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When scientific orthodoxy resembles religious dogma]]></title>
-        <id>https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/</id>
-        <link href="https://www.scientificamerican.com/article/when-scientific-orthodoxy-resembles-religious-dogma/"/>
-        <updated>2021-05-26T22:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKreen: Human Centric Smartphones for Everyone]]></title>
-        <id>https://skreen.site/</id>
-        <link href="https://skreen.site/"/>
-        <updated>2021-05-26T21:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Composite 2 Images Together in Java]]></title>
-        <id>https://dzone.com/articles/3127838</id>
-        <link href="https://dzone.com/articles/how-to-composite-two-images-together-in-java"/>
-        <updated>2021-05-26T21:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a way to jazz up your websites or applications? Creating compelling imagery to accompany your copywriting, service offerings, and projects can be an excellent method for ramping up your content. One type of imagery that has become incredibly popular, especially during the digital age, is the composite image. A composite image is made up of two or more images, which are merged together to create a single composition. The resulting composite image often depicts people or objects in implausible, improbable, or impossible circumstances, such as a 21st-century man in an 18th-century city, or a castle in the clouds. Another slightly more practical application of the technique is to integrate photos of landscapes or backgrounds with lighting or other visual aspects that are generally technically or physically unachievable.
-While this technique may sound relatively uncomplicated in our current technology-driven world, it was a different story when the composite image was first created in the mid-1800s. Artists and photographers began toying with the layering effect by literally cutting, gluing, and juxtaposing photos and paintings together to market and memorialize large social events. As society moved into the World War I era, the process utilized the virtual reality effect to create scenes of soldiers with their loved ones, as well as propaganda for the war effort.]]></summary>
-        <author>
-            <name>Laura Bouchard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can't have too many angel investors]]></title>
-        <id>https://waseem.substack.com/p/you-cant-have-too-many-angels</id>
-        <link href="https://waseem.substack.com/p/you-cant-have-too-many-angels"/>
-        <updated>2021-05-26T21:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers and Product Managers]]></title>
-        <id>https://jobs.lever.co/rescale</id>
-        <link href="https://jobs.lever.co/rescale"/>
-        <updated>2021-05-26T21:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
-        <id>https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext</id>
-        <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
-        <updated>2021-05-26T20:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB to Couchbase: An Introduction to Developers and Experts]]></title>
-        <id>https://dzone.com/articles/2984234</id>
-        <link href="https://dzone.com/articles/introduction-to-couchbase-for-mongodb-developers-a-1"/>
-        <updated>2021-05-26T20:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Gray and Reuter
- 
-By any measure, MongoDB is a popular document-oriented JSON database. In the last dozen years, it has grown from its humble beginnings of a single lock per database to a modern multi-document transaction with snapshot isolation. MongoDB University has trained a large number of developers to develop the MongoDB database.
-There are many JSON databases now. While it's easy to start with MongoDB to learn NoSQL and flexible JSON schema, many customers choose Couchbase for performance, scale, and SQL. As you progress in your database evaluation and evolution, you should learn about other JSON databases. We're working on an online training course for MongoDB experts to learn Couchbase easily. Until we publish that, you'll have to read this article. :)]]></summary>
-        <author>
-            <name>Keshav Murthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video Streaming With Akka Streams]]></title>
-        <id>https://dzone.com/articles/3126901</id>
-        <link href="https://dzone.com/articles/hello-world-in-akka"/>
-        <updated>2021-05-26T20:36:48.000Z</updated>
-        <summary type="html"><![CDATA[First of all, do not let the title deceive you — it will not be simple println(“Hello world”) but with Actor System. Today, we will implement your first (sorry if I assumed wrongly) video streaming service. Namely, I will use Akka HTTP and Streams to create a REST API capable of streaming a video file, in mp4 format, in a way that matches the expectations of HTML5 <video> tag. Besides, I will also add a few words about Akka and some components like Akka Streams to give you some theoretical background before you start coding. But first, one question.
-Why Video Streaming?
-There are three main reasons behind choosing video streaming as the topic for today’s article. The first one is that it is an absorbing and complex subject for me, especially on a large scale (like Netflix) and I have always wanted to learn more about it. The next reason is that it is a niche topic, so a project based around video streaming can be a great addition to anyone's portfolio - this one is especially important for people who want to start their journey with Scala and Akka. Last but not least it is very interesting way to get familiar with Akka Streams, which in fact makes this whole operation much easier.]]></summary>
-        <author>
-            <name>Bartłomiej Żyliński</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Basic Guide to Extractors in Scala]]></title>
-        <id>https://dzone.com/articles/3010619</id>
-        <link href="https://dzone.com/articles/how-to-use-extractors-in-scala"/>
-        <updated>2021-05-26T20:11:57.000Z</updated>
-        <summary type="html"><![CDATA[This blog will guide you through the basic understanding of extractors in Scala.
-An extractor is an object that has a method. It takes an object as an input and gives back arguments. Custom extractors are created using the "unapply" method. The method is called extractor because it takes an element of the same set and extracts some of its parts. The method, also called injection, acts as a constructor, takes some arguments, and yields an element of a given set.]]></summary>
-        <author>
-            <name>Jyoti Sachdeva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
-        <id>https://pasquale.cool/internet-mob</id>
-        <link href="https://pasquale.cool/internet-mob"/>
-        <updated>2021-05-26T19:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What AWS Lambda Metrics Should You Definitely Be Monitoring?]]></title>
-        <id>https://dzone.com/articles/3122895</id>
-        <link href="https://dzone.com/articles/what-aws-lambda-metrics-should-you-definitely-be-m"/>
-        <updated>2021-05-26T19:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Your application does not need to be “huge” for it to have enough functions and abstraction to get lost in it. As a DevOps engineer, you can’t cover every single factor. Showing relevant facts and asking the right questions is crucial! So, when there’s a fire, you can troubleshoot in no time.
-Every organization is unique, and every workload has its own utility. That said, we can still have a generalized approach, and we can start by listing a few desirable qualities that you may want from your AWS application:]]></summary>
-        <author>
-            <name>Taavi Rehemägi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why and how GitHub is adopting OpenTelemetry]]></title>
-        <id>https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/</id>
-        <link href="https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/"/>
-        <updated>2021-05-26T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy – A curated list of services and alternatives that respect privacy]]></title>
-        <id>https://github.com/pluja/awesome-privacy</id>
-        <link href="https://github.com/pluja/awesome-privacy"/>
-        <updated>2021-05-26T19:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Web IDE in a Weekend]]></title>
-        <id>https://dzone.com/articles/3125929</id>
-        <link href="https://dzone.com/articles/creating-a-web-ide-in-a-weekend"/>
-        <updated>2021-05-26T18:47:55.000Z</updated>
-        <summary type="html"><![CDATA[If I had a dollar for every time somebody asked me to create a Web IDE, I could buy myself at least 3 cappuccinos - Hence, obviously this is something people are interested in. So why not burn a weekend actually doing it I thought to myself. And the results can be found below.
-Notice, I won't be challenging Visual Studio or Rider IDE for a "feature battle" anytime soon, but then again neither can you run their stuff on your phone - Which you can with my stuff ;)]]></summary>
-        <author>
-            <name>Thomas Hansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servers as they should be – shipping early 2022]]></title>
-        <id>https://oxide.computer</id>
-        <link href="https://oxide.computer"/>
-        <updated>2021-05-26T18:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new algorithm for graph crossings, hiding in plain sight (2020)]]></title>
-        <id>https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly</id>
-        <link href="https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly"/>
-        <updated>2021-05-26T18:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the “X-AMZN-Trace-Id” Header for Request Tracing Through AWS Load Balancer]]></title>
-        <id>https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm</id>
-        <link href="https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm"/>
-        <updated>2021-05-26T18:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Document Generation With Dynamic Image Generation]]></title>
-        <id>https://dzone.com/articles/3123706</id>
-        <link href="https://dzone.com/articles/document-generation-with-dynamic-image-generation"/>
-        <updated>2021-05-26T18:22:47.000Z</updated>
-        <summary type="html"><![CDATA[One of the most fascinating aspects of Adobe Document Generation is how incredibly flexible it is. One aspect of the API that can really enhance the final result is the ability to include images in your template. In a typical use case, you would provide a static image defined in your data used with the API. In this blog post I’m going to demonstrate a more advanced example — dynamically generating images, in our case, charts, on the fly.
-The Basics
-Before we get into a more advanced demo, let’s quickly cover the basics. (My coworker has a very deep look into Document Generation and images you should check out as well.) As our docs describe, using a dynamic image in your Word template requires a few steps.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
-        <id>606f4f5fd5756f080ba96b65</id>
-        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
-        <updated>2021-05-26T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Find Subreddits for Your Niche]]></title>
-        <id>https://www.findareddit.com/</id>
-        <link href="https://www.findareddit.com/"/>
-        <updated>2021-05-26T17:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
-        <id>https://css-tricks.com/?p=339759</id>
-        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
-        <updated>2021-05-26T17:56:34.000Z</updated>
-        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
-The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Web Components]]></title>
-        <id>https://css-tricks.com/?p=340901</id>
-        <link href="https://css-tricks.com/links-on-web-components/"/>
-        <updated>2021-05-26T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
-…
-The post Links on Web Components appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Applications for Making Geographical Maps]]></title>
-        <id>https://dzone.com/articles/3124689</id>
-        <link href="https://dzone.com/articles/7-best-applications-for-making-geographical-maps"/>
-        <updated>2021-05-26T17:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Maps are used to depict the relationship between key elements. This might include objects, space, an area, etc. Spatial information has long been interpreted using cartography since at least 7 BC. However, it isn’t known when the concept might have originally taken root.
-Geographical maps in the modern era are a key aspect for understanding spatial information to collect digital data for commercial reasons associated with places, people, and activities, and educational and scientific purposes. This spatial information can be best mapped using many handy applications. Below is our pick of the 7 best applications for making geographical maps. This list covers both basic and advanced applications, catering to different types of users and applications of geographical maps.]]></summary>
-        <author>
-            <name>ralfllanasas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Announces Funding for Startups]]></title>
-        <id>https://openai.com/fund/</id>
-        <link href="https://openai.com/fund/"/>
-        <updated>2021-05-26T17:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different browsers see different colors]]></title>
-        <id>https://mux.com/blog/your-browser-and-my-browser-see-different-colors/</id>
-        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
-        <updated>2021-05-26T17:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using NetBSD’s pkgsrc everywhere I can]]></title>
-        <id>https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/</id>
-        <link href="https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/"/>
-        <updated>2021-05-26T17:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you ever hurt yourself from your own code?]]></title>
-        <id>https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code</id>
-        <link href="https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code"/>
-        <updated>2021-05-26T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Look at What/How/Why Books Sell (2016)]]></title>
-        <id>https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/</id>
-        <link href="https://electricliterature.com/everything-you-wanted-to-know-about-book-sales-but-were-afraid-to-ask/"/>
-        <updated>2021-05-26T15:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
-        <id>https://crispgm.com/page/neovim-is-overpowering.html</id>
-        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
-        <updated>2021-05-26T14:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Rules To Integrate Third-Party Scripts]]></title>
-        <id>https://dzone.com/articles/3123567</id>
-        <link href="https://dzone.com/articles/10-rules-to-integrate-third-party-scripts"/>
-        <updated>2021-05-26T14:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Third-party scripts can cause negative load-time effects. Why is this an issue? Well, in Google’s view, a poorly-optimized page should not rank highly. Instead, search results should favor pages with fundamental design strengths—including JavaScript minification, rapid execution time, and render-friendly scripting. 
-In reflection of this belief, Google has planned the gradual release of a major update to its search algorithm that is scheduled for June through August of 2021. This update will increase the importance of a page’s loading speed as a contributing factor to a web page’s overall ranking on Google’s search results page.  As a result, how third-party scripts impact page load times is becoming more important than ever.]]></summary>
-        <author>
-            <name>Holly Chessman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Clogging]]></title>
-        <id>https://dzone.com/articles/3123331</id>
-        <link href="https://dzone.com/articles/how-much-do-you-know-about-css-clogging"/>
-        <updated>2021-05-26T14:43:54.000Z</updated>
-        <summary type="html"><![CDATA[I recently visited a blog called "Does CSS loading cause blockage?" I opened it with a learning attitude, but it seemed that what was said was not completely correct, so I searched all kinds of information everywhere, and then I summarized it myself, 
-Will CSS Loading Cause Blockage?
-First of all, the answer is definitely yes. The loading of css will not only block the parsing of HTML, but also block the execution of JS.]]></summary>
-        <author>
-            <name>shaoyang liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Best Practices To Secure Your WooCommerce Store]]></title>
-        <id>https://dzone.com/articles/3124525</id>
-        <link href="https://dzone.com/articles/11-best-practices-to-secure-your-woocommerce-store"/>
-        <updated>2021-05-26T14:28:20.000Z</updated>
-        <summary type="html"><![CDATA[WooCommerce security is an important topic which every WooCommerce store owner must know. If your WooCommerce store is not secured, you spend a lot of time-wasting on fixing the bugs and facing the risk of your website’s revenue being stolen (through phishing).
-23% of the worldwide online stores are built on the WooCommerce platform as of 2021. Since the market share of WooCommerce is enormous, the threat of WooCommerce stores being hacked is also high. So, to keep your websites highly secured, we have listed some of the best security measures to follow.]]></summary>
-        <author>
-            <name>Ranjit Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
-        <id>60aced0011ffb70827ef6d96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
-        <updated>2021-05-26T14:12:27.000Z</updated>
-        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-        <id>https://css-tricks.com/?p=340705</id>
-        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
-        <updated>2021-05-26T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
-We tested 10 different …
-The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andrei Pfeiffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon acquires MGM for $8.5B]]></title>
-        <id>https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/</id>
-        <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
-        <updated>2021-05-26T13:00:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
