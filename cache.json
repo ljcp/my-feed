@@ -436,15 +436,6 @@
           "publishedOn": "2021-05-31T17:13:02.000Z",
           "wordCount": 987,
           "title": "Local: Always Getting Better"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341163",
-          "author": "Thomas Park",
-          "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
-          "publishedOn": "2021-05-28T14:36:47.000Z",
-          "wordCount": 1844,
-          "title": "Dynamic Favicons for WordPress"
         }
       ]
     },
@@ -1557,24 +1548,6 @@
           "publishedOn": "2021-06-01T04:19:48.000Z",
           "wordCount": 6197,
           "title": "Logical Fallacies – Definition and Fallacy Examples"
-        },
-        {
-          "id": "60acf28e11ffb70827ef6dd9",
-          "author": null,
-          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
-          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
-          "publishedOn": "2021-05-28T22:58:18.000Z",
-          "wordCount": 2775,
-          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
-        },
-        {
-          "id": "60b08d8811ffb70827ef8c7b",
-          "author": null,
-          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
-          "publishedOn": "2021-05-28T16:01:05.000Z",
-          "wordCount": 1568,
-          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
         }
       ]
     },
@@ -1635,6 +1608,69 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3133491",
+          "author": "Laura Bouchard",
+          "description": "As we have discussed in previous articles, while the Word DOCX format is the go-to for creating text documents, it can be insufficient when we enter the web-based territory. When considering formatting for online documents, it is Hyper Text Markup Language (HTML) that emerges as one of the clear winners for applications and websites. This dynamic language utilizes set cues or elements to construct documents that can be transmitted to browsers and presented to end-users as a readable web page. The structure of HTML even allows for the integration of images, interactive forms, and other objects that are more difficult to create with a straightforward Word document.\nThe Word DOCX format is actually based on a different markup language, XML (Extensible Markup Language).  Microsoft transitioned its most popular programs – Word, Excel, and PowerPoint – to an open standard, XML-based format in the mid-2000s. This move was to create improvements in file size, image compression, and security, as well as to maintain an edge over their competitors. While some users still prefer the older DOC version due to its compatibility with other platforms, the DOCX format is generally the better choice for current word processing projects.",
+          "link": "https://dzone.com/articles/how-to-convert-docx-to-html-in-java",
+          "publishedOn": "2021-06-28T00:05:05.000Z",
+          "wordCount": 783,
+          "title": "How to Convert DOCX to HTML in Java"
+        },
+        {
+          "id": "https://dzone.com/articles/3131052",
+          "author": "Ryan Jason",
+          "description": "The rate at which data production is progressing is directly proportional to the human population evolving on this earth. Do you know that humans tend to produce more than 2.5 quadrillion bytes of data on a regular basis?\nHackers are unfortunately attaining benefit from this immensely produced data, due to which an increasing amount of data breaching activities are happening all across the globe. Recently in March 2021, 20 million records were breached and the number is estimated to increase in the upcoming years. This all boils us down to the reality check that it’s high time for enterprises to attain appropriate solutions to combat illegal activities.",
+          "link": "https://dzone.com/articles/impulsive-impact-of-ai-and-ml-on-document-verifica",
+          "publishedOn": "2021-06-27T23:54:17.000Z",
+          "wordCount": 1098,
+          "title": "Impulsive Impact of AI and ML on Document Verification Solution"
+        },
+        {
+          "id": "https://dzone.com/articles/3131849",
+          "author": "Huyen Pham",
+          "description": "Nowadays, many companies, organizations, and individuals are becoming more aware of the importance of technological factors in all aspects of life. This situation has resulted in the increasing need for different software products and services that cannot be created successfully without a proper software project management plan.\nOverview of Software Project Management\nProject management refers to the process of applying skills, knowledge, techniques, and tools to project activities to fulfill the requirements of the project. It usually broke down into project management phases, including project initiation, project planning, project execution, project monitoring, and project closure.",
+          "link": "https://dzone.com/articles/software-project-management-plan",
+          "publishedOn": "2021-06-27T22:41:06.000Z",
+          "wordCount": 911,
+          "title": "Software Project Management Plan"
+        },
+        {
+          "id": "https://dzone.com/articles/3129343",
+          "author": "Anna Eriksson",
+          "description": "This is part 4 of my blog series on reactive programming, which will give an introduction to R2DBC and describe how we can use Spring Data R2DBC to create a fully reactive application.\n1. What is R2DBC?\nIf you are not already familiar with reactive programming and Reactive Streams, I recommend you to first read my introduction on reactive programming which describes the motivation behind this programming paradigm.",
+          "link": "https://dzone.com/articles/r2dbc-reactive-programming-with-spring-part-4",
+          "publishedOn": "2021-06-27T22:23:37.000Z",
+          "wordCount": 1664,
+          "title": "R2DBC: Reactive Programming With Spring, Part 4"
+        },
+        {
+          "id": "https://dzone.com/articles/3129995",
+          "author": "Eddie Segal",
+          "description": "Source: Pixabay\nWhat is a Security Operations Center (SOC)?\nA SOC is responsible for maintaining, monitoring, and protecting information security in an organization. It is considered a hub of intelligence that gathers real-time information as it streams across the assets of the organization, including servers, networks, and endpoints, and uses it to identify security events and respond to them in an effective and timely manner.",
+          "link": "https://dzone.com/articles/the-soc-technology-stack-xdr-siem-waf-and-more",
+          "publishedOn": "2021-06-27T22:14:16.000Z",
+          "wordCount": 1754,
+          "title": "The SOC Technology Stack: XDR, SIEM, WAF, and More"
+        },
+        {
+          "id": "https://dzone.com/articles/3134332",
+          "author": "Philip Piletic",
+          "description": "Lots of independent developers use GitHub or its equivalents to host their code repositories. And since they're simple to use and well understood by the public, that's a great idea. But as anyone who's ever created a project that attracted a whole lot of attention can attest, the platforms aren't well-suited to distributing binaries and other software releases.\nIn most cases, GitHub projects that post binaries do so by having a single server or VPS get triggered by a webhook to compile whatever binaries the project requires. And that means every time a user tries to download the resultant binaries, they’ll be making requests to that same single server instance. That's both inefficient and a recipe for download problems.",
+          "link": "https://dzone.com/articles/build-software-distribution-cdn-using-mirrorbits",
+          "publishedOn": "2021-06-27T22:10:01.000Z",
+          "wordCount": 1282,
+          "title": "How to Build Your Software Distribution CDN Using Mirrorbits"
+        },
+        {
+          "id": "https://dzone.com/articles/3132679",
+          "author": "John Grange",
+          "description": "How confident are you in your security posture?\nA new report on the “State of Cloud Security Posture Management” reveals that 97% of cloud professionals have some level of confidence in how their organization is handling their cloud security. Yet over half of them have experienced a breach in their security, and over one-third replied that they wouldn’t be surprised if their organization made the news for a major failure. This could result not only in a major loss of data and the potential for service downtime, but a loss of reputation as well.",
+          "link": "https://dzone.com/articles/need-more-confidence-in-your-cloud-security-take-t-1",
+          "publishedOn": "2021-06-27T13:27:30.000Z",
+          "wordCount": 1591,
+          "title": "5 Ways to Increase Your Cloud Security Confidence"
+        },
         {
           "id": "https://dzone.com/articles/3130815",
           "author": "Himanshu Sheth",
@@ -5099,132 +5135,6 @@
           "publishedOn": "2021-05-29T20:00:43.000Z",
           "wordCount": 1546,
           "title": "Using TypeScript const Assertions for Fun and Profit"
-        },
-        {
-          "id": "https://dzone.com/articles/3122169",
-          "author": "Donal Tobin",
-          "description": "These days, companies have access to more data sources and formats than ever before: databases, websites, SaaS (software as a service) applications, and analytics tools, to name a few. Unfortunately, the ways businesses often store this data make it challenging to extract the valuable insights hidden within — especially when you need it for smarter data-driven business decision-making.\nStandard reporting solutions such as Google Analytics and Mixpanel can help, but there comes a time when your data analysis needs to outgrow capacity. At this point, you might consider building a custom business intelligence (BI) solution, which will have the data integration layer as its foundation.",
-          "link": "https://dzone.com/articles/what-is-etl-1",
-          "publishedOn": "2021-05-29T01:30:13.000Z",
-          "wordCount": 2780,
-          "title": "What is ETL?"
-        },
-        {
-          "id": "https://dzone.com/articles/3120268",
-          "author": "Abhinav Dubey",
-          "description": "Introduction\nProject management isn’t just about managing projects. It is a collaborative effort of stakeholders, ranging from in-house teams to outsourced partners. In all fairness, the latter is a more complicated space since an outsider in a possibly different time zone has to access your data, processes, and teams. While outsourcing digital product development projects, enterprises have a long road to trek. Issues from lack of credibility to unclear objectives are directly responsible for a failed engagement and ultimately a sub-standard quality of end output. \nIf your outsourcing partner is not performing as per expectations, the fault may be at your end. Here are the top mistakes that project managers knowingly or unknowingly commit while hiring product development partners.",
-          "link": "https://dzone.com/articles/3-mistakes-product-managers-make-while-outsourcing",
-          "publishedOn": "2021-05-29T01:23:25.000Z",
-          "wordCount": 1301,
-          "title": "3 Mistakes Product Managers Make While Outsourcing IoT Product Development"
-        },
-        {
-          "id": "https://dzone.com/articles/3122486",
-          "author": "Gaurav Gupta",
-          "description": "In an enterprise system, populating a data lake relies heavily on interdependent batch processes. Typically these data lakes are updated at a frequency set to a few hours. Today’s business demands high-quality data not in a matter of hours or days but in minutes or seconds.  \nThe typical steps to update the data lake are (a) build incremental data (b) read the existing data lake files, update incremental changes, and rewrite the data lake files (note: S3 files are immutable).  This also brings in the challenge of ACID compliance between readers and writers of a data lake.",
-          "link": "https://dzone.com/articles/aws-serverless-datalake-built-realtime-using-apach",
-          "publishedOn": "2021-05-29T01:18:27.000Z",
-          "wordCount": 1114,
-          "title": "AWS Serverless Data Lake: Built Real-time Using Apache Hudi, AWS Glue, and Kinesis Stream"
-        },
-        {
-          "id": "https://dzone.com/articles/3119675",
-          "author": "Ramesh Chauhan",
-          "description": "When it comes to designing large and complex software systems, microservices architecture is the most common choice nowadays. If you design the microservices architecture in the right way, it certainly becomes a peace of mind. However, if you make some basic mistakes while designing microservices, it becomes a pain of mind in no time. Hence, it is important to not make some basic mistakes in the first place, so as you don't have to rectify and fix them at a later stage when your microservice is already in production and being used by a vast number of consumers.\nIn this article, we will look at one such biggest and most basic mistake you don't want to make with your microservices.",
-          "link": "https://dzone.com/articles/the-biggest-microservices-mistake-you-dont-want-to",
-          "publishedOn": "2021-05-29T00:59:45.000Z",
-          "wordCount": 1743,
-          "title": "The Biggest Microservices Mistake You Don’t Want to Make"
-        },
-        {
-          "id": "https://dzone.com/articles/3103133",
-          "author": "Maksym Tatariants",
-          "description": "I hate shopping in brick-and-mortar stores. However, my interest in virtual shopping is not limited to the buyer experience only. With the MobiDev DataScience department, I’ve gained experience in working on AI technologies for virtual trials. The goal of this article is to describe how these systems work from the inside.\nHow Virtual Trial Room Technology Works\nA few years ago, the “Try before you buy” strategy was an efficient customer engagement method in outfit stores. Now, this strategy exists in the form of virtual fitting rooms. Fortune Business Insights predicted that the virtual fitting room market size is expected to reach USD 10.00 billion by 2027.",
-          "link": "https://dzone.com/articles/ar-amp-ai-technologies-for-virtual-fitting-room-de",
-          "publishedOn": "2021-05-29T00:41:23.000Z",
-          "wordCount": 2266,
-          "title": "How Virtual Fitting Room Technology Works"
-        },
-        {
-          "id": "https://dzone.com/articles/3121102",
-          "author": "Miguel Garcia",
-          "description": "Introduction\nThis is article is a follow-up to Data Platform as a Service, describes the high-level architecture, and goes into details on Data Lake. We will detail the rest of the blocks and components shown in the next articles.\nThe important thing about the architecture is not the vendor or specific product but the capabilities of the components we used. In the end, the product choice depends on many factors:",
-          "link": "https://dzone.com/articles/data-platform-new-generation-data-lakes",
-          "publishedOn": "2021-05-29T00:25:22.000Z",
-          "wordCount": 2604,
-          "title": "Data Platform: The New Generation Data Lakes"
-        },
-        {
-          "id": "https://dzone.com/articles/3046839",
-          "author": "Kunkka Li",
-          "description": "Docker is a popular open-source containerization platform and it frees your hands to build your applications in development and production. In this post, I'm going to walk you through how to build a production-grade HTTPs secured Nginx server with Docker, Docker Compose, Let’s Encrypt (its client certbot). Let’s Encrypt certificates last 90 days and will need to be renewed after the certificate expires. So I will also provide details to script the renewal in crontab in Docker container.\n1. Basic Example\nIn development, we need a basic Nginx container without HTTPs to fast setup our local test environment. I use Nginx official docker image and wrap up all the stuff with docker-compose.",
-          "link": "https://dzone.com/articles/nginx-and-https-with-lets-encrypt-certbot-and-cron",
-          "publishedOn": "2021-05-29T00:04:21.000Z",
-          "wordCount": 1228,
-          "title": "NGINX and HTTPs With Let’s Encrypt, Certbot, and Cron Dockerization In Production"
-        },
-        {
-          "id": "https://dzone.com/articles/3127960",
-          "author": "Qi Mingyu",
-          "description": "About the authors\nQi Mingyu: From Mobile Security Team of Kuaishou Security, responsible for developing the threat intelligence platform of Kuaishou\nNi Wen: From Distributed Storage Team of Kuaishou Data Platform, responsible for developing the graph database for Kuaishou\nYao Jingyi: From Distributed Storage Team of Kuaishou Data Platform, responsible for developing the graph database for Kuaishou\nAbout Kuaishou",
-          "link": "https://dzone.com/articles/handling-tens-of-billions-of-threat-intelligence-d",
-          "publishedOn": "2021-05-28T21:53:47.000Z",
-          "wordCount": 3853,
-          "title": "Handling Tens of Billions of Threat Intelligence Data With Graph Database at Kuaishou"
-        },
-        {
-          "id": "https://dzone.com/articles/3127037",
-          "author": "Otavio Santana",
-          "description": "“It is not necessary to change. Survival is not mandatory.” -W. Edwards Deming Work takes time to flow through an organization and ultimately be deployed to production where it captures value. It’s critical to reduce time-to-production. Software - for many organizations and industries - is a competitive advantage. Organizations break their larger software ambitions into smaller, independently deployable, feature -centric batches of work - microservices. In order to reduce the round-trip between stations of work, organizations collapse or consolidate as much of them as possible and automate the rest; developers and operations beget “devops,” cloud-based services and platforms automate operations work and break down the need for ITIL tickets and change management boards. But velocity, for velocity’s sake, is dangerous. Microservices invite architectural complexity that few are prepared to address. In this talk, we’ll look at how high-performance organizations like Ticketmaster, Alibaba, and Netflix make short work of that complexity with Spring Boot and Spring Cloud. In this workshop we'll look at how to build cloud-native Java systems that are elastic, agile, observable and robust.",
-          "link": "https://dzone.com/articles/cloud-native-java-by-josh-long",
-          "publishedOn": "2021-05-28T20:43:29.000Z",
-          "wordCount": 411,
-          "title": "Cloud Native Java by Josh Long"
-        },
-        {
-          "id": "https://dzone.com/articles/3128007",
-          "author": "Sacha Labourey",
-          "description": "For many companies, getting products out the door faster is one of the main reasons to adopt DevOps. But speeding up software delivery is only one aspect of why companies should embrace an agile CI/CD approach. There are other things to take into consideration and, if you are a financial institution, the list can be even bigger.\nI recently chatted with Ben Angell and Sanmat Jhanjhari of Nationwide Building Society as part of the virtual DevOps Enterprise Summit Europe. Ben leads the DevOps Engineering team and Sanmat is lead DevOps architect at the UK-based mutual financial institution, which is also the largest building society in the world.",
-          "link": "https://dzone.com/articles/why-going-fast-is-not-all-for-nationwide-building",
-          "publishedOn": "2021-05-28T14:40:45.000Z",
-          "wordCount": 1083,
-          "title": "Why ''Going Fast'' Is Not All for Nationwide Building Society"
-        },
-        {
-          "id": "https://dzone.com/articles/3128005",
-          "author": "David Bermingham",
-          "description": "I get asked this question all the time, so I figured it was time to write a blog post, record a video and write some code to automate the process so that it completes in under a minute.\nFirst, some background. Typically when someone asks me how to do this, I point them to the DataKeeper documentation.",
-          "link": "https://dzone.com/articles/extend-your-existing-sql-server-failover-cluster-i",
-          "publishedOn": "2021-05-28T14:26:03.000Z",
-          "wordCount": 683,
-          "title": "Extend Your Existing SQL Server Failover Cluster Instance to the Cloud for Disaster Recovery"
-        },
-        {
-          "id": "https://dzone.com/articles/2561455",
-          "author": "Hakan Altındağ",
-          "description": "Mastering Two-Way TLS\nThis tutorial will walk you through the process of protecting your application with TLS authentication, only allowing access for certain users based on their certificates. This means that you can choose which users are allowed to call your application.\nTable of Contents\nIntroduction\nTutorial\n  \nStarting the server\nSaying hello to the server (without encryption)\nEnabling HTTPS on the server (one-way TLS)\nRequire the client to identify itself (two way TLS)\nTwo way TLS based on trusting the Certificate Authority\n\n \nAutomated scripts\nTested HTTP Clients\nDemo and walk-through video\nIntroduction\nThis sample project demonstrates a basic setup of a server and a client. The communication between the server and client happens through HTTP, so there is no encryption at all yet. The goal is to ensure that all communication will be encrypted.",
-          "link": "https://dzone.com/articles/hakky54mutual-tls-1",
-          "publishedOn": "2021-05-28T14:09:03.000Z",
-          "wordCount": 3511,
-          "title": "How to Easily Set Up Mutual TLS"
-        },
-        {
-          "id": "https://dzone.com/articles/3127999",
-          "author": "Naomi Kromer",
-          "description": "Identity and access management are critical components of many applications. However, enterprise companies that are using multiple EKS, AKS, or GKE cloud Kubernetes clusters for various projects may find it challenging to identify the right level of access for different users, especially when there are multiple users and groups of users who are coming, going, and moving between teams.  \nAs teams expand their usage of Kubernetes, clusters and workloads will exist in different environments. One team may be building their stack on cloud provider “A,” while another team is building a stack on cloud provider “B.” Even on a single public cloud service, clusters may exist in different environments, and IT isn’t even aware of these things. This makes tracking all of the individual logins and permissions across the organization next to impossible, especially when there are multiple accounts and access levels to manage. And the problem only grows in complexity as more people on-board, off-board, or change teams, and projects multiply.",
-          "link": "https://dzone.com/articles/kubernetes-identity-and-access-management-made-eas",
-          "publishedOn": "2021-05-28T13:45:47.000Z",
-          "wordCount": 632,
-          "title": "Kubernetes Identity and Access Management Made Easier With D2iQ"
-        },
-        {
-          "id": "https://dzone.com/articles/3122697",
-          "author": "Jessica Anne",
-          "description": "Are you a full stack developer? If you are, it goes without saying that you are an efficient multitasker and a true master of your niche. But have you ever asked yourself if your web development techniques have scope for betterment? Could your project planning use more efficiency to better your results?\nIf you said yes to both, read to find out how you can approach your next full stack project to yield great results.",
-          "link": "https://dzone.com/articles/get-better-result-full-stack-project",
-          "publishedOn": "2021-05-28T13:45:47.000Z",
-          "wordCount": 1258,
-          "title": "How to Approach Your Next Full Stack Project for Better Results"
         }
       ]
     },
@@ -5233,6 +5143,222 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://danilafe.com/blog/math_rendering_is_wrong/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danilafe.com/blog/math_rendering_is_wrong/",
+          "publishedOn": "2021-06-27T23:27:23.000Z",
+          "wordCount": 1652,
+          "title": "Math Rendering Is Wrong"
+        },
+        {
+          "id": "https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213",
+          "publishedOn": "2021-06-27T23:11:28.000Z",
+          "wordCount": 657,
+          "title": "Canada to Make Online Hate Speech a Crime Punishable by $16,000 Fine"
+        },
+        {
+          "id": "https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/",
+          "publishedOn": "2021-06-27T22:36:49.000Z",
+          "wordCount": 2871,
+          "title": "Metformin trial reduces seizures and brain tumours in Tuberous Sclerosis"
+        },
+        {
+          "id": "https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md",
+          "publishedOn": "2021-06-27T20:26:27.000Z",
+          "wordCount": 209,
+          "title": "Reverse-engineering the Final Fantasy: Theatrhythm track format"
+        },
+        {
+          "id": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
+          "publishedOn": "2021-06-27T20:06:41.000Z",
+          "wordCount": 4464,
+          "title": "Typed Programs Don't Leak Data"
+        },
+        {
+          "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/",
+          "publishedOn": "2021-06-27T20:04:18.000Z",
+          "wordCount": 11984,
+          "title": "Challenges in the diagnosis of magnesium status"
+        },
+        {
+          "id": "https://github.com/cirosantilli/x86-bare-metal-examples",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cirosantilli/x86-bare-metal-examples",
+          "publishedOn": "2021-06-27T19:04:39.000Z",
+          "wordCount": 10541,
+          "title": "x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming"
+        },
+        {
+          "id": "https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
+          "publishedOn": "2021-06-27T18:55:29.000Z",
+          "wordCount": 1793,
+          "title": "Let's code a TCP/IP stack"
+        },
+        {
+          "id": "https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back",
+          "publishedOn": "2021-06-27T18:55:10.000Z",
+          "wordCount": 1677,
+          "title": "Schools Are Spying on Students – But Students Can Fight Back"
+        },
+        {
+          "id": "https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365",
+          "publishedOn": "2021-06-27T18:23:02.000Z",
+          "wordCount": 1714,
+          "title": "Cuba′s Covid vaccine rivals Pfizer, Moderna"
+        },
+        {
+          "id": "https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/",
+          "publishedOn": "2021-06-27T17:54:01.000Z",
+          "wordCount": 3207,
+          "title": "The genius of William Shawn"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27653357",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27653357",
+          "publishedOn": "2021-06-27T17:24:03.000Z",
+          "wordCount": 4039,
+          "title": "Ask HN: How to learn how to sell?"
+        },
+        {
+          "id": "https://www.unisonweb.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.unisonweb.org/",
+          "publishedOn": "2021-06-27T16:05:51.000Z",
+          "wordCount": 187,
+          "title": "Unison Programming Language"
+        },
+        {
+          "id": "https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/",
+          "publishedOn": "2021-06-27T16:00:00.000Z",
+          "wordCount": 2392,
+          "title": "Citing a serious flight test incident, FAA slows Boeing 777X certification"
+        },
+        {
+          "id": "https://constructionphysics.substack.com/p/lumber-price-faq",
+          "author": null,
+          "description": "Comments",
+          "link": "https://constructionphysics.substack.com/p/lumber-price-faq",
+          "publishedOn": "2021-06-27T15:11:17.000Z",
+          "wordCount": 2348,
+          "title": "Why wood has gotten so dang expensive"
+        },
+        {
+          "id": "https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html",
+          "publishedOn": "2021-06-27T14:47:04.000Z",
+          "wordCount": 961,
+          "title": "Windows 11, Amazon, and Uncomfortable Questions"
+        },
+        {
+          "id": "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/",
+          "publishedOn": "2021-06-27T14:44:41.000Z",
+          "wordCount": 750,
+          "title": "Turbo Rascal Syntax Error"
+        },
+        {
+          "id": "https://www.bbc.com/news/uk-57624942",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/uk-57624942",
+          "publishedOn": "2021-06-27T14:27:43.000Z",
+          "wordCount": 1953,
+          "title": "Classified Ministry of Defence documents found at bus stop"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance",
+          "publishedOn": "2021-06-27T14:15:43.000Z",
+          "wordCount": 93,
+          "title": "Binance banned from doing business in UK"
+        },
+        {
+          "id": "https://ip.sandia.gov/technology.do/techID=66",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ip.sandia.gov/technology.do/techID=66",
+          "publishedOn": "2021-06-27T14:10:06.000Z",
+          "wordCount": 761,
+          "title": "The Sandia Cooler (2016)"
+        },
+        {
+          "id": "https://roblox.fandom.com/wiki/Roblox_on_Linux",
+          "author": null,
+          "description": "Comments",
+          "link": "https://roblox.fandom.com/wiki/Roblox_on_Linux",
+          "publishedOn": "2021-06-27T13:00:11.000Z",
+          "wordCount": 3750,
+          "title": "Roblox on Linux with recent Wine 6.11"
+        },
+        {
+          "id": "https://arxiv.org/abs/2106.12684",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2106.12684",
+          "publishedOn": "2021-06-27T11:59:42.000Z",
+          "wordCount": 583,
+          "title": "A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27650775",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=27650775",
+          "publishedOn": "2021-06-27T11:45:29.000Z",
+          "wordCount": 1939,
+          "title": "Ask HN: Good books/courses to learn networking essentials for web developers?"
+        },
+        {
+          "id": "https://thehustle.co/the-economics-of-dollar-stores",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thehustle.co/the-economics-of-dollar-stores",
+          "publishedOn": "2021-06-27T10:54:40.000Z",
+          "wordCount": 1187,
+          "title": "The economics of dollar stores"
+        },
         {
           "id": "https://github.com/halfer53/winix",
           "author": null,
@@ -5423,6 +5549,24 @@
           "title": "Reddit’s disrespectful design"
         },
         {
+          "id": "https://ianopolous.peergos.me/maths/surreal",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ianopolous.peergos.me/maths/surreal",
+          "publishedOn": "2021-06-26T11:30:46.000Z",
+          "wordCount": 1818,
+          "title": "The wonderful world of Surreal numbers"
+        },
+        {
+          "id": "https://ytakano.github.io/blisp/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ytakano.github.io/blisp/",
+          "publishedOn": "2021-06-26T11:26:44.000Z",
+          "wordCount": 2009,
+          "title": "BLisp: A Statically Typed Lisp Like Language"
+        },
+        {
           "id": "https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/",
           "author": null,
           "description": "Comments",
@@ -5430,6 +5574,15 @@
           "publishedOn": "2021-06-26T11:16:14.000Z",
           "wordCount": 2071,
           "title": "Whatever Happened to UI Affordances?"
+        },
+        {
+          "id": "https://github.com/0xhh/TinyE8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/0xhh/TinyE8",
+          "publishedOn": "2021-06-26T08:00:57.000Z",
+          "wordCount": 1492,
+          "title": "I made Ben Eater's 8-bit breadboard computer Emulator in C++"
         },
         {
           "id": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
@@ -5684,6 +5837,15 @@
           "title": "Rally, a novel privacy-first data sharing platform"
         },
         {
+          "id": "https://www.nytimes.com/2021/06/25/science/puzzles-fonts-math-demaine.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/06/25/science/puzzles-fonts-math-demaine.html",
+          "publishedOn": "2021-06-25T10:58:52.000Z",
+          "wordCount": 2193,
+          "title": "Mathematically inspired typefaces"
+        },
+        {
           "id": "https://blind.guru/blog/2021-06-25-brick.html",
           "author": null,
           "description": "Comments",
@@ -5718,6 +5880,15 @@
           "publishedOn": "2021-06-25T05:18:04.000Z",
           "wordCount": 17109,
           "title": "The Queen’s Latin or Who Were the Romans, Part II: Citizens and Allies"
+        },
+        {
+          "id": "https://v2.onivim.io",
+          "author": null,
+          "description": "Comments",
+          "link": "https://v2.onivim.io",
+          "publishedOn": "2021-06-25T04:56:26.000Z",
+          "wordCount": 365,
+          "title": "Onivim 2 is a retro-futuristic modal editor"
         },
         {
           "id": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
@@ -12891,294 +13062,6 @@
           "publishedOn": "2021-05-29T12:35:49.000Z",
           "wordCount": 17384,
           "title": "Quantization and Deployment of Deep Neural Networks on Microcontrollers"
-        },
-        {
-          "id": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
-          "publishedOn": "2021-05-29T12:14:07.000Z",
-          "wordCount": 1515,
-          "title": "Google made it nearly impossible for users to keep their location private"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book",
-          "publishedOn": "2021-05-29T11:20:20.000Z",
-          "wordCount": 2699,
-          "title": "Poe’s best-selling book during his lifetime was a guide to seashells"
-        },
-        {
-          "id": "https://github.com/susam/texme",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/susam/texme",
-          "publishedOn": "2021-05-29T11:02:02.000Z",
-          "wordCount": 4654,
-          "title": "Show HN: TeXMe – Create self-rendering Markdown + LaTeX documents"
-        },
-        {
-          "id": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
-          "publishedOn": "2021-05-29T10:57:28.000Z",
-          "wordCount": 4389,
-          "title": "Ghost Stations of the Paris Metro"
-        },
-        {
-          "id": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme",
-          "publishedOn": "2021-05-29T10:54:13.000Z",
-          "wordCount": 689,
-          "title": "The pandemic revives interest in a morbid French financial scheme"
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/",
-          "publishedOn": "2021-05-29T10:22:30.000Z",
-          "wordCount": 2836,
-          "title": "Causal Inference: The Mixtape"
-        },
-        {
-          "id": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
-          "publishedOn": "2021-05-29T10:16:26.000Z",
-          "wordCount": 851,
-          "title": "Astronomers have created the largest ever map of dark matter"
-        },
-        {
-          "id": "https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/",
-          "publishedOn": "2021-05-29T08:01:05.000Z",
-          "wordCount": 1245,
-          "title": "Japanese bookstore simulator translated into English after 24 years"
-        },
-        {
-          "id": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
-          "author": null,
-          "description": "Comments",
-          "link": "https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history",
-          "publishedOn": "2021-05-29T02:28:26.000Z",
-          "wordCount": 855,
-          "title": "How Did Chop Suey Become a Staple of Chinese American Cuisine?"
-        },
-        {
-          "id": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0",
-          "publishedOn": "2021-05-29T00:17:41.000Z",
-          "wordCount": 1702,
-          "title": "Joseph Weizenbaum’s Original ELIZA"
-        },
-        {
-          "id": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
-          "publishedOn": "2021-05-28T23:39:34.000Z",
-          "wordCount": 3433,
-          "title": "Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer"
-        },
-        {
-          "id": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
-          "publishedOn": "2021-05-28T23:35:29.000Z",
-          "wordCount": 2161,
-          "title": "Pwned passwords, open source in the .NET foundation and working with the FBI"
-        },
-        {
-          "id": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables",
-          "publishedOn": "2021-05-28T22:43:25.000Z",
-          "wordCount": 2251,
-          "title": "Apple has a decade-long lead in wearables"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager",
-          "publishedOn": "2021-05-28T21:00:09.000Z",
-          "wordCount": 434,
-          "title": "Alloy Automation (YC W20) Is Hiring a Customer Success Manager"
-        },
-        {
-          "id": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
-          "author": null,
-          "description": "Comments",
-          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
-          "publishedOn": "2021-05-28T20:14:00.000Z",
-          "wordCount": 4079,
-          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
-        },
-        {
-          "id": "https://unixgame.io/unix50",
-          "author": null,
-          "description": "Comments",
-          "link": "https://unixgame.io/unix50",
-          "publishedOn": "2021-05-28T19:31:02.000Z",
-          "wordCount": 264,
-          "title": "The Unix Game"
-        },
-        {
-          "id": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
-          "publishedOn": "2021-05-28T19:23:34.000Z",
-          "wordCount": 3482,
-          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
-        },
-        {
-          "id": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
-          "publishedOn": "2021-05-28T18:48:34.000Z",
-          "wordCount": 1488,
-          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
-        },
-        {
-          "id": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
-          "publishedOn": "2021-05-28T18:46:39.000Z",
-          "wordCount": 911,
-          "title": "Overwork killed more than 745k people in a year, WHO study finds"
-        },
-        {
-          "id": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
-          "publishedOn": "2021-05-28T18:34:51.000Z",
-          "wordCount": 360,
-          "title": "PID Controller: A Simple Control Loop Mechanism"
-        },
-        {
-          "id": "https://fusebot.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://fusebot.io/",
-          "publishedOn": "2021-05-28T18:18:28.000Z",
-          "wordCount": 141,
-          "title": "Show HN: Fusebot – Developer bot for Discord and Slack"
-        },
-        {
-          "id": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
-          "publishedOn": "2021-05-28T18:04:04.000Z",
-          "wordCount": 70237,
-          "title": "Court rules climate change “duty of care” to future generations exists"
-        },
-        {
-          "id": "https://www.anthropic.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anthropic.com/",
-          "publishedOn": "2021-05-28T17:25:17.000Z",
-          "wordCount": 9,
-          "title": "Anthropic AI"
-        },
-        {
-          "id": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
-          "publishedOn": "2021-05-28T17:02:28.000Z",
-          "wordCount": 1644,
-          "title": "Why Russians do not smile (2002)"
-        },
-        {
-          "id": "https://librefoodpantry.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://librefoodpantry.org/",
-          "publishedOn": "2021-05-28T16:51:34.000Z",
-          "wordCount": 263,
-          "title": "LibreFoodPantry – a community building FOSS for food pantries"
-        },
-        {
-          "id": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
-          "publishedOn": "2021-05-28T16:47:35.000Z",
-          "wordCount": 745,
-          "title": "I quit my job to focus on SerenityOS full time"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27317635",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=27317635",
-          "publishedOn": "2021-05-28T16:46:24.000Z",
-          "wordCount": 1964,
-          "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams"
-        },
-        {
-          "id": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
-          "publishedOn": "2021-05-28T16:01:01.000Z",
-          "wordCount": 2430,
-          "title": "PostgreSQL EXPLAIN Output Explained"
-        },
-        {
-          "id": "https://ninfex.com/hello",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ninfex.com/hello",
-          "publishedOn": "2021-05-28T15:42:21.000Z",
-          "wordCount": 194,
-          "title": "Show HN: An experimental, people-powered search engine"
-        },
-        {
-          "id": "https://twitter.com/wongmjane/status/1398022730553860102",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
-          "publishedOn": "2021-05-28T14:57:19.000Z",
-          "wordCount": 196,
-          "title": "Twitter confirms Twitter Blue"
-        },
-        {
-          "id": "https://www.nature.com/articles/d41586-021-01442-9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/d41586-021-01442-9",
-          "publishedOn": "2021-05-28T13:27:47.000Z",
-          "wordCount": 1517,
-          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
-        },
-        {
-          "id": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
-          "author": null,
-          "description": "Comments",
-          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
-          "publishedOn": "2021-05-28T12:58:08.000Z",
-          "wordCount": null,
-          "title": "Physical Warp Drives"
         }
       ]
     }

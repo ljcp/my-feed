@@ -2,10 +2,330 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljcp.github.io/my-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:29:53.438Z</updated>
+    <updated>2021-06-28T00:28:03.398Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ljcp.github.io/my-feed/index.html"/>
     <link rel="self" href="https://ljcp.github.io/my-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert DOCX to HTML in Java]]></title>
+        <id>https://dzone.com/articles/3133491</id>
+        <link href="https://dzone.com/articles/how-to-convert-docx-to-html-in-java"/>
+        <updated>2021-06-28T00:05:05.000Z</updated>
+        <summary type="html"><![CDATA[As we have discussed in previous articles, while the Word DOCX format is the go-to for creating text documents, it can be insufficient when we enter the web-based territory. When considering formatting for online documents, it is Hyper Text Markup Language (HTML) that emerges as one of the clear winners for applications and websites. This dynamic language utilizes set cues or elements to construct documents that can be transmitted to browsers and presented to end-users as a readable web page. The structure of HTML even allows for the integration of images, interactive forms, and other objects that are more difficult to create with a straightforward Word document.
+The Word DOCX format is actually based on a different markup language, XML (Extensible Markup Language).  Microsoft transitioned its most popular programs – Word, Excel, and PowerPoint – to an open standard, XML-based format in the mid-2000s. This move was to create improvements in file size, image compression, and security, as well as to maintain an edge over their competitors. While some users still prefer the older DOC version due to its compatibility with other platforms, the DOCX format is generally the better choice for current word processing projects.]]></summary>
+        <author>
+            <name>Laura Bouchard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impulsive Impact of AI and ML on Document Verification Solution]]></title>
+        <id>https://dzone.com/articles/3131052</id>
+        <link href="https://dzone.com/articles/impulsive-impact-of-ai-and-ml-on-document-verifica"/>
+        <updated>2021-06-27T23:54:17.000Z</updated>
+        <summary type="html"><![CDATA[The rate at which data production is progressing is directly proportional to the human population evolving on this earth. Do you know that humans tend to produce more than 2.5 quadrillion bytes of data on a regular basis?
+Hackers are unfortunately attaining benefit from this immensely produced data, due to which an increasing amount of data breaching activities are happening all across the globe. Recently in March 2021, 20 million records were breached and the number is estimated to increase in the upcoming years. This all boils us down to the reality check that it’s high time for enterprises to attain appropriate solutions to combat illegal activities.]]></summary>
+        <author>
+            <name>Ryan Jason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math Rendering Is Wrong]]></title>
+        <id>https://danilafe.com/blog/math_rendering_is_wrong/</id>
+        <link href="https://danilafe.com/blog/math_rendering_is_wrong/"/>
+        <updated>2021-06-27T23:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada to Make Online Hate Speech a Crime Punishable by $16,000 Fine]]></title>
+        <id>https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213</id>
+        <link href="https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213"/>
+        <updated>2021-06-27T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Project Management Plan]]></title>
+        <id>https://dzone.com/articles/3131849</id>
+        <link href="https://dzone.com/articles/software-project-management-plan"/>
+        <updated>2021-06-27T22:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, many companies, organizations, and individuals are becoming more aware of the importance of technological factors in all aspects of life. This situation has resulted in the increasing need for different software products and services that cannot be created successfully without a proper software project management plan.
+Overview of Software Project Management
+Project management refers to the process of applying skills, knowledge, techniques, and tools to project activities to fulfill the requirements of the project. It usually broke down into project management phases, including project initiation, project planning, project execution, project monitoring, and project closure.]]></summary>
+        <author>
+            <name>Huyen Pham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metformin trial reduces seizures and brain tumours in Tuberous Sclerosis]]></title>
+        <id>https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/</id>
+        <link href="https://www.gosh.nhs.uk/news/gosh-led-metformin-trial-dramatically-reduces-seizures-people-tuberous-sclerosis/"/>
+        <updated>2021-06-27T22:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R2DBC: Reactive Programming With Spring, Part 4]]></title>
+        <id>https://dzone.com/articles/3129343</id>
+        <link href="https://dzone.com/articles/r2dbc-reactive-programming-with-spring-part-4"/>
+        <updated>2021-06-27T22:23:37.000Z</updated>
+        <summary type="html"><![CDATA[This is part 4 of my blog series on reactive programming, which will give an introduction to R2DBC and describe how we can use Spring Data R2DBC to create a fully reactive application.
+1. What is R2DBC?
+If you are not already familiar with reactive programming and Reactive Streams, I recommend you to first read my introduction on reactive programming which describes the motivation behind this programming paradigm.]]></summary>
+        <author>
+            <name>Anna Eriksson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SOC Technology Stack: XDR, SIEM, WAF, and More]]></title>
+        <id>https://dzone.com/articles/3129995</id>
+        <link href="https://dzone.com/articles/the-soc-technology-stack-xdr-siem-waf-and-more"/>
+        <updated>2021-06-27T22:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Source: Pixabay
+What is a Security Operations Center (SOC)?
+A SOC is responsible for maintaining, monitoring, and protecting information security in an organization. It is considered a hub of intelligence that gathers real-time information as it streams across the assets of the organization, including servers, networks, and endpoints, and uses it to identify security events and respond to them in an effective and timely manner.]]></summary>
+        <author>
+            <name>Eddie Segal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Software Distribution CDN Using Mirrorbits]]></title>
+        <id>https://dzone.com/articles/3134332</id>
+        <link href="https://dzone.com/articles/build-software-distribution-cdn-using-mirrorbits"/>
+        <updated>2021-06-27T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Lots of independent developers use GitHub or its equivalents to host their code repositories. And since they're simple to use and well understood by the public, that's a great idea. But as anyone who's ever created a project that attracted a whole lot of attention can attest, the platforms aren't well-suited to distributing binaries and other software releases.
+In most cases, GitHub projects that post binaries do so by having a single server or VPS get triggered by a webhook to compile whatever binaries the project requires. And that means every time a user tries to download the resultant binaries, they’ll be making requests to that same single server instance. That's both inefficient and a recipe for download problems.]]></summary>
+        <author>
+            <name>Philip Piletic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-engineering the Final Fantasy: Theatrhythm track format]]></title>
+        <id>https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md</id>
+        <link href="https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md"/>
+        <updated>2021-06-27T20:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typed Programs Don't Leak Data]]></title>
+        <id>https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html</id>
+        <link href="https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html"/>
+        <updated>2021-06-27T20:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenges in the diagnosis of magnesium status]]></title>
+        <id>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/</id>
+        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/"/>
+        <updated>2021-06-27T20:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming]]></title>
+        <id>https://github.com/cirosantilli/x86-bare-metal-examples</id>
+        <link href="https://github.com/cirosantilli/x86-bare-metal-examples"/>
+        <updated>2021-06-27T19:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's code a TCP/IP stack]]></title>
+        <id>https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/</id>
+        <link href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"/>
+        <updated>2021-06-27T18:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schools Are Spying on Students – But Students Can Fight Back]]></title>
+        <id>https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back</id>
+        <link href="https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back"/>
+        <updated>2021-06-27T18:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuba′s Covid vaccine rivals Pfizer, Moderna]]></title>
+        <id>https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365</id>
+        <link href="https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365"/>
+        <updated>2021-06-27T18:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The genius of William Shawn]]></title>
+        <id>https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/</id>
+        <link href="https://lithub.com/the-genius-of-william-shawn-and-the-invention-of-the-new-yorker/"/>
+        <updated>2021-06-27T17:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to learn how to sell?]]></title>
+        <id>https://news.ycombinator.com/item?id=27653357</id>
+        <link href="https://news.ycombinator.com/item?id=27653357"/>
+        <updated>2021-06-27T17:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unison Programming Language]]></title>
+        <id>https://www.unisonweb.org/</id>
+        <link href="https://www.unisonweb.org/"/>
+        <updated>2021-06-27T16:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citing a serious flight test incident, FAA slows Boeing 777X certification]]></title>
+        <id>https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/</id>
+        <link href="https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/"/>
+        <updated>2021-06-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why wood has gotten so dang expensive]]></title>
+        <id>https://constructionphysics.substack.com/p/lumber-price-faq</id>
+        <link href="https://constructionphysics.substack.com/p/lumber-price-faq"/>
+        <updated>2021-06-27T15:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11, Amazon, and Uncomfortable Questions]]></title>
+        <id>https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html</id>
+        <link href="https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html"/>
+        <updated>2021-06-27T14:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbo Rascal Syntax Error]]></title>
+        <id>https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/</id>
+        <link href="https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/"/>
+        <updated>2021-06-27T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classified Ministry of Defence documents found at bus stop]]></title>
+        <id>https://www.bbc.com/news/uk-57624942</id>
+        <link href="https://www.bbc.com/news/uk-57624942"/>
+        <updated>2021-06-27T14:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance banned from doing business in UK]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance"/>
+        <updated>2021-06-27T14:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sandia Cooler (2016)]]></title>
+        <id>https://ip.sandia.gov/technology.do/techID=66</id>
+        <link href="https://ip.sandia.gov/technology.do/techID=66"/>
+        <updated>2021-06-27T14:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Increase Your Cloud Security Confidence]]></title>
+        <id>https://dzone.com/articles/3132679</id>
+        <link href="https://dzone.com/articles/need-more-confidence-in-your-cloud-security-take-t-1"/>
+        <updated>2021-06-27T13:27:30.000Z</updated>
+        <summary type="html"><![CDATA[How confident are you in your security posture?
+A new report on the “State of Cloud Security Posture Management” reveals that 97% of cloud professionals have some level of confidence in how their organization is handling their cloud security. Yet over half of them have experienced a breach in their security, and over one-third replied that they wouldn’t be surprised if their organization made the news for a major failure. This could result not only in a major loss of data and the potential for service downtime, but a loss of reputation as well.]]></summary>
+        <author>
+            <name>John Grange</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox on Linux with recent Wine 6.11]]></title>
+        <id>https://roblox.fandom.com/wiki/Roblox_on_Linux</id>
+        <link href="https://roblox.fandom.com/wiki/Roblox_on_Linux"/>
+        <updated>2021-06-27T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT]]></title>
+        <id>https://arxiv.org/abs/2106.12684</id>
+        <link href="https://arxiv.org/abs/2106.12684"/>
+        <updated>2021-06-27T11:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Good books/courses to learn networking essentials for web developers?]]></title>
+        <id>https://news.ycombinator.com/item?id=27650775</id>
+        <link href="https://news.ycombinator.com/item?id=27650775"/>
+        <updated>2021-06-27T11:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The economics of dollar stores]]></title>
+        <id>https://thehustle.co/the-economics-of-dollar-stores</id>
+        <link href="https://thehustle.co/the-economics-of-dollar-stores"/>
+        <updated>2021-06-27T10:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I spent 5 years writing my own operating system]]></title>
         <id>https://github.com/halfer53/winix</id>
@@ -287,6 +607,26 @@ As I was beginning to refocus my career on transforming the operating models and
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The wonderful world of Surreal numbers]]></title>
+        <id>https://ianopolous.peergos.me/maths/surreal</id>
+        <link href="https://ianopolous.peergos.me/maths/surreal"/>
+        <updated>2021-06-26T11:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLisp: A Statically Typed Lisp Like Language]]></title>
+        <id>https://ytakano.github.io/blisp/</id>
+        <link href="https://ytakano.github.io/blisp/"/>
+        <updated>2021-06-26T11:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Whatever Happened to UI Affordances?]]></title>
         <id>https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/</id>
         <link href="https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/"/>
@@ -321,6 +661,16 @@ In this post, I'll present Kubernetes's Operator pattern and how it is implement
 TypeScript provides good support for both object-oriented programming and function-oriented programming (I’m not saying functional programming as I don’t want the purists to hunt me down).]]></summary>
         <author>
             <name>Eamonn Boyle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made Ben Eater's 8-bit breadboard computer Emulator in C++]]></title>
+        <id>https://github.com/0xhh/TinyE8</id>
+        <link href="https://github.com/0xhh/TinyE8"/>
+        <updated>2021-06-26T08:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -817,6 +1167,16 @@ The post How to Cancel Pending API Requests to Show Correct Data appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mathematically inspired typefaces]]></title>
+        <id>https://www.nytimes.com/2021/06/25/science/puzzles-fonts-math-demaine.html</id>
+        <link href="https://www.nytimes.com/2021/06/25/science/puzzles-fonts-math-demaine.html"/>
+        <updated>2021-06-25T10:58:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why the text terminal cursor is important for accessibility]]></title>
         <id>https://blind.guru/blog/2021-06-25-brick.html</id>
         <link href="https://blind.guru/blog/2021-06-25-brick.html"/>
@@ -872,6 +1232,16 @@ It's an interesting challenge creating architectural content based on common cus
         <id>https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/</id>
         <link href="https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/"/>
         <updated>2021-06-25T05:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onivim 2 is a retro-futuristic modal editor]]></title>
+        <id>https://v2.onivim.io</id>
+        <link href="https://v2.onivim.io"/>
+        <updated>2021-06-25T04:56:26.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -14840,534 +15210,6 @@ Since TypeScript 3.4, we’ve been able to use the as const notation for creatin
         <id>https://www.mdpi.com/1424-8220/21/9/2984/htm</id>
         <link href="https://www.mdpi.com/1424-8220/21/9/2984/htm"/>
         <updated>2021-05-29T12:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google made it nearly impossible for users to keep their location private]]></title>
-        <id>https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5</id>
-        <link href="https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5"/>
-        <updated>2021-05-29T12:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poe’s best-selling book during his lifetime was a guide to seashells]]></title>
-        <id>https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book</id>
-        <link href="https://www.atlasobscura.com/articles/edgar-allen-poe-seashell-book"/>
-        <updated>2021-05-29T11:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TeXMe – Create self-rendering Markdown + LaTeX documents]]></title>
-        <id>https://github.com/susam/texme</id>
-        <link href="https://github.com/susam/texme"/>
-        <updated>2021-05-29T11:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost Stations of the Paris Metro]]></title>
-        <id>https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/</id>
-        <link href="https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/"/>
-        <updated>2021-05-29T10:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The pandemic revives interest in a morbid French financial scheme]]></title>
-        <id>https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/05/27/the-pandemic-revives-interest-in-a-morbid-french-financial-scheme"/>
-        <updated>2021-05-29T10:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal Inference: The Mixtape]]></title>
-        <id>https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/</id>
-        <link href="https://statmodeling.stat.columbia.edu/2021/05/25/causal-inference-the-mixtape/"/>
-        <updated>2021-05-29T10:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers have created the largest ever map of dark matter]]></title>
-        <id>https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter</id>
-        <link href="https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter"/>
-        <updated>2021-05-29T10:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese bookstore simulator translated into English after 24 years]]></title>
-        <id>https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/</id>
-        <link href="https://rhizome.org/editorial/2021/may/18/true-fans-translate-fansubbing-bookstory/"/>
-        <updated>2021-05-29T08:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Did Chop Suey Become a Staple of Chinese American Cuisine?]]></title>
-        <id>https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history</id>
-        <link href="https://catapult.co/stories/comic-shing-yin-khor-chop-suey-chinese-american-food-history"/>
-        <updated>2021-05-29T02:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is ETL?]]></title>
-        <id>https://dzone.com/articles/3122169</id>
-        <link href="https://dzone.com/articles/what-is-etl-1"/>
-        <updated>2021-05-29T01:30:13.000Z</updated>
-        <summary type="html"><![CDATA[These days, companies have access to more data sources and formats than ever before: databases, websites, SaaS (software as a service) applications, and analytics tools, to name a few. Unfortunately, the ways businesses often store this data make it challenging to extract the valuable insights hidden within — especially when you need it for smarter data-driven business decision-making.
-Standard reporting solutions such as Google Analytics and Mixpanel can help, but there comes a time when your data analysis needs to outgrow capacity. At this point, you might consider building a custom business intelligence (BI) solution, which will have the data integration layer as its foundation.]]></summary>
-        <author>
-            <name>Donal Tobin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Mistakes Product Managers Make While Outsourcing IoT Product Development]]></title>
-        <id>https://dzone.com/articles/3120268</id>
-        <link href="https://dzone.com/articles/3-mistakes-product-managers-make-while-outsourcing"/>
-        <updated>2021-05-29T01:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Project management isn’t just about managing projects. It is a collaborative effort of stakeholders, ranging from in-house teams to outsourced partners. In all fairness, the latter is a more complicated space since an outsider in a possibly different time zone has to access your data, processes, and teams. While outsourcing digital product development projects, enterprises have a long road to trek. Issues from lack of credibility to unclear objectives are directly responsible for a failed engagement and ultimately a sub-standard quality of end output. 
-If your outsourcing partner is not performing as per expectations, the fault may be at your end. Here are the top mistakes that project managers knowingly or unknowingly commit while hiring product development partners.]]></summary>
-        <author>
-            <name>Abhinav Dubey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Serverless Data Lake: Built Real-time Using Apache Hudi, AWS Glue, and Kinesis Stream]]></title>
-        <id>https://dzone.com/articles/3122486</id>
-        <link href="https://dzone.com/articles/aws-serverless-datalake-built-realtime-using-apach"/>
-        <updated>2021-05-29T01:18:27.000Z</updated>
-        <summary type="html"><![CDATA[In an enterprise system, populating a data lake relies heavily on interdependent batch processes. Typically these data lakes are updated at a frequency set to a few hours. Today’s business demands high-quality data not in a matter of hours or days but in minutes or seconds.  
-The typical steps to update the data lake are (a) build incremental data (b) read the existing data lake files, update incremental changes, and rewrite the data lake files (note: S3 files are immutable).  This also brings in the challenge of ACID compliance between readers and writers of a data lake.]]></summary>
-        <author>
-            <name>Gaurav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Microservices Mistake You Don’t Want to Make]]></title>
-        <id>https://dzone.com/articles/3119675</id>
-        <link href="https://dzone.com/articles/the-biggest-microservices-mistake-you-dont-want-to"/>
-        <updated>2021-05-29T00:59:45.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to designing large and complex software systems, microservices architecture is the most common choice nowadays. If you design the microservices architecture in the right way, it certainly becomes a peace of mind. However, if you make some basic mistakes while designing microservices, it becomes a pain of mind in no time. Hence, it is important to not make some basic mistakes in the first place, so as you don't have to rectify and fix them at a later stage when your microservice is already in production and being used by a vast number of consumers.
-In this article, we will look at one such biggest and most basic mistake you don't want to make with your microservices.]]></summary>
-        <author>
-            <name>Ramesh Chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Virtual Fitting Room Technology Works]]></title>
-        <id>https://dzone.com/articles/3103133</id>
-        <link href="https://dzone.com/articles/ar-amp-ai-technologies-for-virtual-fitting-room-de"/>
-        <updated>2021-05-29T00:41:23.000Z</updated>
-        <summary type="html"><![CDATA[I hate shopping in brick-and-mortar stores. However, my interest in virtual shopping is not limited to the buyer experience only. With the MobiDev DataScience department, I’ve gained experience in working on AI technologies for virtual trials. The goal of this article is to describe how these systems work from the inside.
-How Virtual Trial Room Technology Works
-A few years ago, the “Try before you buy” strategy was an efficient customer engagement method in outfit stores. Now, this strategy exists in the form of virtual fitting rooms. Fortune Business Insights predicted that the virtual fitting room market size is expected to reach USD 10.00 billion by 2027.]]></summary>
-        <author>
-            <name>Maksym Tatariants</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Platform: The New Generation Data Lakes]]></title>
-        <id>https://dzone.com/articles/3121102</id>
-        <link href="https://dzone.com/articles/data-platform-new-generation-data-lakes"/>
-        <updated>2021-05-29T00:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-This is article is a follow-up to Data Platform as a Service, describes the high-level architecture, and goes into details on Data Lake. We will detail the rest of the blocks and components shown in the next articles.
-The important thing about the architecture is not the vendor or specific product but the capabilities of the components we used. In the end, the product choice depends on many factors:]]></summary>
-        <author>
-            <name>Miguel Garcia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joseph Weizenbaum’s Original ELIZA]]></title>
-        <id>https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0</id>
-        <link href="https://sites.google.com/view/elizagen-org/the-original-eliza?authuser=0"/>
-        <updated>2021-05-29T00:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NGINX and HTTPs With Let’s Encrypt, Certbot, and Cron Dockerization In Production]]></title>
-        <id>https://dzone.com/articles/3046839</id>
-        <link href="https://dzone.com/articles/nginx-and-https-with-lets-encrypt-certbot-and-cron"/>
-        <updated>2021-05-29T00:04:21.000Z</updated>
-        <summary type="html"><![CDATA[Docker is a popular open-source containerization platform and it frees your hands to build your applications in development and production. In this post, I'm going to walk you through how to build a production-grade HTTPs secured Nginx server with Docker, Docker Compose, Let’s Encrypt (its client certbot). Let’s Encrypt certificates last 90 days and will need to be renewed after the certificate expires. So I will also provide details to script the renewal in crontab in Docker container.
-1. Basic Example
-In development, we need a basic Nginx container without HTTPs to fast setup our local test environment. I use Nginx official docker image and wrap up all the stuff with docker-compose.]]></summary>
-        <author>
-            <name>Kunkka Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer]]></title>
-        <id>https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/</id>
-        <link href="https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/"/>
-        <updated>2021-05-28T23:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pwned passwords, open source in the .NET foundation and working with the FBI]]></title>
-        <id>https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/</id>
-        <link href="https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/"/>
-        <updated>2021-05-28T23:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
-        <updated>2021-05-28T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple has a decade-long lead in wearables]]></title>
-        <id>https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables</id>
-        <link href="https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables"/>
-        <updated>2021-05-28T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Tens of Billions of Threat Intelligence Data With Graph Database at Kuaishou]]></title>
-        <id>https://dzone.com/articles/3127960</id>
-        <link href="https://dzone.com/articles/handling-tens-of-billions-of-threat-intelligence-d"/>
-        <updated>2021-05-28T21:53:47.000Z</updated>
-        <summary type="html"><![CDATA[About the authors
-Qi Mingyu: From Mobile Security Team of Kuaishou Security, responsible for developing the threat intelligence platform of Kuaishou
-Ni Wen: From Distributed Storage Team of Kuaishou Data Platform, responsible for developing the graph database for Kuaishou
-Yao Jingyi: From Distributed Storage Team of Kuaishou Data Platform, responsible for developing the graph database for Kuaishou
-About Kuaishou]]></summary>
-        <author>
-            <name>Qi Mingyu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alloy Automation (YC W20) Is Hiring a Customer Success Manager]]></title>
-        <id>https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager</id>
-        <link href="https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager"/>
-        <updated>2021-05-28T21:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Native Java by Josh Long]]></title>
-        <id>https://dzone.com/articles/3127037</id>
-        <link href="https://dzone.com/articles/cloud-native-java-by-josh-long"/>
-        <updated>2021-05-28T20:43:29.000Z</updated>
-        <summary type="html"><![CDATA[“It is not necessary to change. Survival is not mandatory.” -W. Edwards Deming Work takes time to flow through an organization and ultimately be deployed to production where it captures value. It’s critical to reduce time-to-production. Software - for many organizations and industries - is a competitive advantage. Organizations break their larger software ambitions into smaller, independently deployable, feature -centric batches of work - microservices. In order to reduce the round-trip between stations of work, organizations collapse or consolidate as much of them as possible and automate the rest; developers and operations beget “devops,” cloud-based services and platforms automate operations work and break down the need for ITIL tickets and change management boards. But velocity, for velocity’s sake, is dangerous. Microservices invite architectural complexity that few are prepared to address. In this talk, we’ll look at how high-performance organizations like Ticketmaster, Alibaba, and Netflix make short work of that complexity with Spring Boot and Spring Cloud. In this workshop we'll look at how to build cloud-native Java systems that are elastic, agile, observable and robust.]]></summary>
-        <author>
-            <name>Otavio Santana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never mind the 1 percent: Let's talk about the 0.01 percent]]></title>
-        <id>https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent</id>
-        <link href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent"/>
-        <updated>2021-05-28T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unix Game]]></title>
-        <id>https://unixgame.io/unix50</id>
-        <link href="https://unixgame.io/unix50"/>
-        <updated>2021-05-28T19:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator backed MMO metaverse game is a blatant scam]]></title>
-        <id>https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/</id>
-        <link href="https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/"/>
-        <updated>2021-05-28T19:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's virtually impossible to read old iMessages and they take up tons of storage]]></title>
-        <id>https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/</id>
-        <link href="https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/"/>
-        <updated>2021-05-28T18:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwork killed more than 745k people in a year, WHO study finds]]></title>
-        <id>https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds</id>
-        <link href="https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds"/>
-        <updated>2021-05-28T18:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PID Controller: A Simple Control Loop Mechanism]]></title>
-        <id>https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism</id>
-        <link href="https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism"/>
-        <updated>2021-05-28T18:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Fusebot – Developer bot for Discord and Slack]]></title>
-        <id>https://fusebot.io/</id>
-        <link href="https://fusebot.io/"/>
-        <updated>2021-05-28T18:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court rules climate change “duty of care” to future generations exists]]></title>
-        <id>https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560</id>
-        <link href="https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560"/>
-        <updated>2021-05-28T18:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic AI]]></title>
-        <id>https://www.anthropic.com/</id>
-        <link href="https://www.anthropic.com/"/>
-        <updated>2021-05-28T17:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Russians do not smile (2002)]]></title>
-        <id>https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/</id>
-        <link href="https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/"/>
-        <updated>2021-05-28T17:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreFoodPantry – a community building FOSS for food pantries]]></title>
-        <id>https://librefoodpantry.org/</id>
-        <link href="https://librefoodpantry.org/"/>
-        <updated>2021-05-28T16:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I quit my job to focus on SerenityOS full time]]></title>
-        <id>https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/</id>
-        <link href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/"/>
-        <updated>2021-05-28T16:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams]]></title>
-        <id>https://news.ycombinator.com/item?id=27317635</id>
-        <link href="https://news.ycombinator.com/item?id=27317635"/>
-        <updated>2021-05-28T16:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL EXPLAIN Output Explained]]></title>
-        <id>https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/</id>
-        <link href="https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/"/>
-        <updated>2021-05-28T16:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An experimental, people-powered search engine]]></title>
-        <id>https://ninfex.com/hello</id>
-        <link href="https://ninfex.com/hello"/>
-        <updated>2021-05-28T15:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter confirms Twitter Blue]]></title>
-        <id>https://twitter.com/wongmjane/status/1398022730553860102</id>
-        <link href="https://twitter.com/wongmjane/status/1398022730553860102"/>
-        <updated>2021-05-28T14:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ''Going Fast'' Is Not All for Nationwide Building Society]]></title>
-        <id>https://dzone.com/articles/3128007</id>
-        <link href="https://dzone.com/articles/why-going-fast-is-not-all-for-nationwide-building"/>
-        <updated>2021-05-28T14:40:45.000Z</updated>
-        <summary type="html"><![CDATA[For many companies, getting products out the door faster is one of the main reasons to adopt DevOps. But speeding up software delivery is only one aspect of why companies should embrace an agile CI/CD approach. There are other things to take into consideration and, if you are a financial institution, the list can be even bigger.
-I recently chatted with Ben Angell and Sanmat Jhanjhari of Nationwide Building Society as part of the virtual DevOps Enterprise Summit Europe. Ben leads the DevOps Engineering team and Sanmat is lead DevOps architect at the UK-based mutual financial institution, which is also the largest building society in the world.]]></summary>
-        <author>
-            <name>Sacha Labourey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/?p=341163</id>
-        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
-        <updated>2021-05-28T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
-The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Thomas Park</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend Your Existing SQL Server Failover Cluster Instance to the Cloud for Disaster Recovery]]></title>
-        <id>https://dzone.com/articles/3128005</id>
-        <link href="https://dzone.com/articles/extend-your-existing-sql-server-failover-cluster-i"/>
-        <updated>2021-05-28T14:26:03.000Z</updated>
-        <summary type="html"><![CDATA[I get asked this question all the time, so I figured it was time to write a blog post, record a video and write some code to automate the process so that it completes in under a minute.
-First, some background. Typically when someone asks me how to do this, I point them to the DataKeeper documentation.]]></summary>
-        <author>
-            <name>David Bermingham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Easily Set Up Mutual TLS]]></title>
-        <id>https://dzone.com/articles/2561455</id>
-        <link href="https://dzone.com/articles/hakky54mutual-tls-1"/>
-        <updated>2021-05-28T14:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Mastering Two-Way TLS
-This tutorial will walk you through the process of protecting your application with TLS authentication, only allowing access for certain users based on their certificates. This means that you can choose which users are allowed to call your application.
-Table of Contents
-Introduction
-Tutorial
-  
-Starting the server
-Saying hello to the server (without encryption)
-Enabling HTTPS on the server (one-way TLS)
-Require the client to identify itself (two way TLS)
-Two way TLS based on trusting the Certificate Authority
-
- 
-Automated scripts
-Tested HTTP Clients
-Demo and walk-through video
-Introduction
-This sample project demonstrates a basic setup of a server and a client. The communication between the server and client happens through HTTP, so there is no encryption at all yet. The goal is to ensure that all communication will be encrypted.]]></summary>
-        <author>
-            <name>Hakan Altındağ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Identity and Access Management Made Easier With D2iQ]]></title>
-        <id>https://dzone.com/articles/3127999</id>
-        <link href="https://dzone.com/articles/kubernetes-identity-and-access-management-made-eas"/>
-        <updated>2021-05-28T13:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Identity and access management are critical components of many applications. However, enterprise companies that are using multiple EKS, AKS, or GKE cloud Kubernetes clusters for various projects may find it challenging to identify the right level of access for different users, especially when there are multiple users and groups of users who are coming, going, and moving between teams.  
-As teams expand their usage of Kubernetes, clusters and workloads will exist in different environments. One team may be building their stack on cloud provider “A,” while another team is building a stack on cloud provider “B.” Even on a single public cloud service, clusters may exist in different environments, and IT isn’t even aware of these things. This makes tracking all of the individual logins and permissions across the organization next to impossible, especially when there are multiple accounts and access levels to manage. And the problem only grows in complexity as more people on-board, off-board, or change teams, and projects multiply.]]></summary>
-        <author>
-            <name>Naomi Kromer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Approach Your Next Full Stack Project for Better Results]]></title>
-        <id>https://dzone.com/articles/3122697</id>
-        <link href="https://dzone.com/articles/get-better-result-full-stack-project"/>
-        <updated>2021-05-28T13:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Are you a full stack developer? If you are, it goes without saying that you are an efficient multitasker and a true master of your niche. But have you ever asked yourself if your web development techniques have scope for betterment? Could your project planning use more efficiency to better your results?
-If you said yes to both, read to find out how you can approach your next full stack project to yield great results.]]></summary>
-        <author>
-            <name>Jessica Anne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Had Covid? You’ll probably make antibodies for a lifetime]]></title>
-        <id>https://www.nature.com/articles/d41586-021-01442-9</id>
-        <link href="https://www.nature.com/articles/d41586-021-01442-9"/>
-        <updated>2021-05-28T13:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical Warp Drives]]></title>
-        <id>https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e</id>
-        <link href="https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"/>
-        <updated>2021-05-28T12:58:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
