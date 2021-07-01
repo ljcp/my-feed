@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343224",
+          "author": "Chris Coyier",
+          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
+          "publishedOn": "2021-06-30T20:36:52.000Z",
+          "wordCount": 645,
+          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343064",
+          "author": "Travis Almand",
+          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
+          "publishedOn": "2021-06-30T14:45:42.000Z",
+          "wordCount": 4397,
+          "title": "When a Click is Not Just a Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343182",
+          "author": "Chris Coyier",
+          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
+          "publishedOn": "2021-06-30T14:44:54.000Z",
+          "wordCount": 725,
+          "title": "Fixing a Bug in Low-Resolution Mode"
+        },
+        {
           "id": "https://css-tricks.com/?p=343470",
           "author": "Chris Coyier",
           "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -481,24 +508,6 @@
           "publishedOn": "2021-06-01T14:16:55.000Z",
           "wordCount": 926,
           "title": "Jetpack Boost Handles Critical CSS For You"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340465",
-          "author": "Jason Lengstorf",
-          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
-          "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1790,
-          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341482",
-          "author": "Chris Coyier",
-          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/local-always-getting-better/",
-          "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 987,
-          "title": "Local: Always Getting Better"
         }
       ]
     },
@@ -507,6 +516,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "author": "hello@smashingmagazine.com (Surma)",
+          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
+          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "publishedOn": "2021-06-30T12:00:00.000Z",
+          "wordCount": 4736,
+          "title": "The State Of Web Workers In 2021",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "publishedOn": "2021-06-30T09:30:00.000Z",
+          "wordCount": 3594,
+          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
@@ -898,20 +935,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
-          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
-          "publishedOn": "2021-06-01T09:00:00.000Z",
-          "wordCount": 1362,
-          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -920,6 +943,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6063b8d69618b008528a9d79",
+          "author": null,
+          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
+          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
+          "publishedOn": "2021-06-30T18:49:49.000Z",
+          "wordCount": 956,
+          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
+        },
+        {
+          "id": "6055c55b687d62084bf68804",
+          "author": null,
+          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
+          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
+          "publishedOn": "2021-06-30T14:25:53.000Z",
+          "wordCount": 12270,
+          "title": "What is The C Programming Language? A Tutorial for Beginners"
+        },
+        {
+          "id": "60d5ea736e1a1407b6b0bc8d",
+          "author": null,
+          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
+          "link": "https://www.freecodecamp.org/news/learn-react-router/",
+          "publishedOn": "2021-06-30T14:01:01.000Z",
+          "wordCount": 5542,
+          "title": "Learn React Router"
+        },
         {
           "id": "60db519527f80207bcdbb6fa",
           "author": null,
@@ -1720,15 +1770,6 @@
           "publishedOn": "2021-06-01T16:34:00.000Z",
           "wordCount": 2137,
           "title": "How to Get a Cybersecurity Job in 2021"
-        },
-        {
-          "id": "607f5fafdd38b9088c2bd0c9",
-          "author": null,
-          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
-          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
-          "publishedOn": "2021-06-01T04:19:48.000Z",
-          "wordCount": 6197,
-          "title": "Logical Fallacies – Definition and Fallacy Examples"
         }
       ]
     },
@@ -1789,6 +1830,204 @@
       "feedUrl": "http://feeds.dzone.com/home",
       "siteUrl": "https://dzone.com",
       "articles": [
+        {
+          "id": "https://dzone.com/articles/3130846",
+          "author": "Søren Pedersen",
+          "description": "There are many ways an organization practicing DevOps can capture value with a software product or service. These range from giving it amazing features to providing troubleshooting tips and instant in-built support when a software system malfunctions.\nDevOps brings development and operations teams together to deliver maximum value in the shortest time possible. As this string of activities eventually benefits the customer, they can be considered a value stream.",
+          "link": "https://dzone.com/articles/5-tips-on-how-to-improve-value-stream-performance",
+          "publishedOn": "2021-07-01T00:00:28.000Z",
+          "wordCount": 1727,
+          "title": "How to Improve Value Stream Performance with Automation"
+        },
+        {
+          "id": "https://dzone.com/articles/3134507",
+          "author": "Ganesh Hegde",
+          "description": "Azure DevOps UI provides an option to trigger multiple days or once a week. We know that many times we need to execute Azure DevOps pipeline triggers once a month, or twice a month, and this can be done using Cron Expressions in Azure DevOps.\nAzure DevOps uses NCronTab to evaluate cron expressions, so advanced expressions are not fully supported by Azure DevOps. However, most of the expression is supported so it does the job.",
+          "link": "https://dzone.com/articles/schedule-azure-devops-pipelines-using-cron-job-expression",
+          "publishedOn": "2021-06-30T23:55:53.000Z",
+          "wordCount": 1220,
+          "title": "Schedule Pipelines in Azure DevOps Using Cron Expressions"
+        },
+        {
+          "id": "https://dzone.com/articles/3136169",
+          "author": "Matthew Groves",
+          "description": "A single database server for a small set of applications and data has historically worked well. However, when exposed to a large, public user base, the only way to increase the capacity of these servers is to upgrade them to a more expensive server.\nTo improve capacity, move the database software to another single machine with more memory, more disk space, and more processors. This is \"vertical scaling\". The drawback to this approach is that it may require downtime. There's also a ceiling on the performance that can be obtained from a single machine. (See Herb Sutter's The Free Lunch is Over).",
+          "link": "https://dzone.com/articles/distributed-databases-an-overview",
+          "publishedOn": "2021-06-30T22:43:28.000Z",
+          "wordCount": 1092,
+          "title": "Distributed Databases: An Overview"
+        },
+        {
+          "id": "https://dzone.com/articles/3136165",
+          "author": "Tyler Mitchell",
+          "description": "This brief intro to several geospatial data concepts covers spatial databases, spatial indexing, and using GeoJSON data in NoSQL.\nWhat Is Spatial Data?\nSpatial data are data types (files, databases, web services) that encode geographic information for use in location-aware applications.\n \nWhen writing a book on web-based mapping 15 years ago, my readers were forced to learn a stack of mostly new technology. Geographers had to learn the tech and developers had to learn the domain. That included web servers, SQL applications, and a bit of PHP. But the big \"new thing\" was using spatial data. Although more prevalent today, application developers still need to understand how to work with this domain-specific spatial data type.",
+          "link": "https://dzone.com/articles/geospatial-basics-spatial-databases-and-nosql-exam",
+          "publishedOn": "2021-06-30T22:35:26.000Z",
+          "wordCount": 2196,
+          "title": "Geospatial Basics, Spatial Databases, and NoSQL Examples"
+        },
+        {
+          "id": "https://dzone.com/articles/3128086",
+          "author": "Sabrina Moz",
+          "description": "A good job seeker would spare no effort to keep his recruiter reading his resume a little more than six seconds. He, just like you, would treat the core competencies section as crucial as the professional summary and career objective in his/her resume. \nAdditionally, adding effective resume core competencies would help your resume pass the ATS scans and other resume examining bots. Next are the best ways to incorporate core qualifications in your resume!",
+          "link": "https://dzone.com/articles/resume-with-core-competencies",
+          "publishedOn": "2021-06-30T22:20:53.000Z",
+          "wordCount": 1187,
+          "title": "Writing a Resume with Core Competencies"
+        },
+        {
+          "id": "https://dzone.com/articles/3129433",
+          "author": "Rajnish Kumar",
+          "description": "Have you ever thought about the benefits of coding apart from the fact that it is one of the most essential 21st-century skills? If your answer is yes, then you should know more about the wide range of benefits of coding. If not, then you’re in the right place to discover them.\nIn this blog, you will learn more about the benefits of coding that range beyond just learning to code. And, you’ll realize how coding enables kids to improve academic performance and acquire life skills.",
+          "link": "https://dzone.com/articles/top-5-benefits-of-coding-for-kids",
+          "publishedOn": "2021-06-30T21:33:36.000Z",
+          "wordCount": 1248,
+          "title": "5 Reasons to Teach Your Kids to Code"
+        },
+        {
+          "id": "https://dzone.com/articles/3131059",
+          "author": "Kristi Anderson",
+          "description": "You want to find the right work-life balance — but balance too often implies separating work and life into equal halves, which is nearly impossible to do in an age where they so easily bleed into one another. Who hasn’t booked a vacation from the office, or conversely, responded to a work email on vacation?\nThe recent shift to remote work has made it even more difficult to keep your personal and professional selves separate. You can no longer rely on a commute or the confines of office walls to divide your lives into parts. If this is really the new normal, your wellness relies on throwing away the notion of life and work as separate halves.",
+          "link": "https://dzone.com/articles/3-ways-to-find-work-life-balance-in-the-new-normal",
+          "publishedOn": "2021-06-30T21:24:24.000Z",
+          "wordCount": 2334,
+          "title": "3 Ways to Find Work-Life Balance in Your New Normal"
+        },
+        {
+          "id": "https://dzone.com/articles/3128204",
+          "author": "Sergey Vasiliev",
+          "description": "We continue to develop PVS-Studio as a SAST solution. Thus, one of our major goals is expanding OWASP coverage. You might ask, what's the use when there's no taint analysis? That's exactly what we thought - and decided to implement taint analysis in the C# analyzer. Curious about what we accomplished? Read on!\nNote. This article briefly touches upon the topics of SQL injections and working with SQL in C#. This theory serves as context. For in-depth information on these topics, do additional research.",
+          "link": "https://dzone.com/articles/owasp-vulnerabilities-and-taint-analysis-in-pvs-st",
+          "publishedOn": "2021-06-30T21:18:58.000Z",
+          "wordCount": 3470,
+          "title": "OWASP, Vulnerabilities, and Taint Analysis in PVS-Studio for C#. Stir, but Don't Shake"
+        },
+        {
+          "id": "https://dzone.com/articles/3126282",
+          "author": "Dariusz Włodarczyk",
+          "description": "Why using jQuery? Why bothering? Isn’t it dead? Isn’t it way too messy? Is it still being used in nowadays projects? Is it still…\n \n \nand so on and on…",
+          "link": "https://dzone.com/articles/jquery-vs-vuejs",
+          "publishedOn": "2021-06-30T21:03:11.000Z",
+          "wordCount": 1591,
+          "title": "jQuery vs Vue.js"
+        },
+        {
+          "id": "https://dzone.com/articles/3129685",
+          "author": "Irene Li",
+          "description": "Spring is a great season for hiking, especially when flowers are in full bloom. One weekend, a teacher named Jenny took her class for an outing in a park. She invited her boyfriend John along to lend her a hand.\nJohn had prepared for a carefree outdoor outing, like those in his childhood, when he would run around in the grass — but it took a different turn. His outing turned out to be something like a Q&A session that was all about flowers: the students were amazed at John’s ability to recognize flowers, and repeatedly asked him what kind of flowers they encountered. Faced with their sincere questioning and adoring expression, John, despite being a flower novice, felt obliged to give the right answer even though he had to sneak to search for it on the Internet.",
+          "link": "https://dzone.com/articles/how-a-programmer-developed-a-perfect-flower-recogn",
+          "publishedOn": "2021-06-30T19:33:34.000Z",
+          "wordCount": 1000,
+          "title": "How a Programmer Developed a Perfect Flower Recognition App"
+        },
+        {
+          "id": "https://dzone.com/articles/3026002",
+          "author": "Setu Patani",
+          "description": "We use API (Application Programming Interface) and JSON (JavaScript Object Notation) a lot these days. It is very difficult to imagine software development without both of these. APIs and JSON are a very integral part of any product. The majority of apps/products we use are having some or other API in the background and data that we pass among systems, well, most of those are JSON.  \nWhat Is {JSON:API}?\n\nJSON:API is a specification for building APIs in JSON.",
+          "link": "https://dzone.com/articles/writing-an-api-think-jsonapi",
+          "publishedOn": "2021-06-30T19:11:37.000Z",
+          "wordCount": 1054,
+          "title": "Writing an API? Think {JSON:API}"
+        },
+        {
+          "id": "https://dzone.com/articles/2933208",
+          "author": "Fred Wilson",
+          "description": "What do you do when you have a project at hand? Stress out about how to get it done, make a few dandy to-do lists on a paper about the tasks to be carried out, then stress out some more?\nOh, and it gets worse when the assignment at hand is complex — and that too, with intricate details that need constant attention. In most instances, the stakes are high and any errors can cause you substantial loss. These losses can lead to eventual setbacks that can send you off the expected trajectory of your project. A lot of times, that would otherwise be used productively, but getting back to track over and over again kind of drains the spirit.",
+          "link": "https://dzone.com/articles/16-best-software-for-task-management-free-and-paid",
+          "publishedOn": "2021-06-30T18:53:19.000Z",
+          "wordCount": 3632,
+          "title": "16 Best Software for Task Management (Free and Paid)"
+        },
+        {
+          "id": "https://dzone.com/articles/3128541",
+          "author": "Emma John",
+          "description": "Introduction\nDo you know that at this present age, an average person utilizes almost 36 cloud-based services each day? Also, Cloud data centers process nearly 94% of the total workload in 2021. \nA buzzword in the field of information technology was on the tip of the tongue of every living being a decade ago. The topic of discussion for everyone was “the cloud.” People were curious to know what exactly that thing is? Is that different from the internet? Is it safe to use? It is understandable that some of those questions might sound funny in this age, but the reality check is that’s exactly what people used to think years ago.",
+          "link": "https://dzone.com/articles/5-effective-methods-of-ensuring-cyber-security-whi",
+          "publishedOn": "2021-06-30T18:33:48.000Z",
+          "wordCount": 1312,
+          "title": "5 Effective Methods of Ensuring Cyber Security While Using Cloud Computing"
+        },
+        {
+          "id": "https://dzone.com/articles/2871024",
+          "author": "Volkan Gungor",
+          "description": "Redis Sentinel\n\n\n\nIn this article, I am going to make a basic example of how to connect to a “Redis Sentinel” configuration in a Spring application.",
+          "link": "https://dzone.com/articles/redis-sentinel-with-spring",
+          "publishedOn": "2021-06-30T18:20:24.000Z",
+          "wordCount": 964,
+          "title": "How to Connect Redis Sentinel With Spring"
+        },
+        {
+          "id": "https://dzone.com/articles/3117718",
+          "author": "Kartik Patel",
+          "description": "If your business is considering an Android development project, it will want to select an expert with the right skills and experience. Android application development can help you to build your business with a consumer application or support your team with a business-focused mobile application. In this article, we review three crucial areas of focus you will want to consider when looking at prospective Android application development partners.  \n\"When considering an Android development partner, be sure to select a partner with the skills, experience, and references to complete your project and anticipate your need for growth, expansion, and change.\"",
+          "link": "https://dzone.com/articles/3-areas-of-focus-to-consider-when-selecting-an-and-1",
+          "publishedOn": "2021-06-30T17:41:41.000Z",
+          "wordCount": 815,
+          "title": "3 Areas of Focus to Consider When Selecting an Android Development Partner"
+        },
+        {
+          "id": "https://dzone.com/articles/3132073",
+          "author": "Adam Lieberman",
+          "description": "Defining fairness is a problematic task. The definition depends heavily on context and culture and when it comes to algorithms, every problem is unique so will be solved through the use of unique datasets. Algorithmic fairness can stem from statistical and mathematical definitions and even legal definitions of the problem at hand. Furthermore, if we build models based on different definitions of fairness for the same purpose, they will produce entirely different outcomes. \nThe measure of fairness also changes with each use case. AI for credit scoring is entirely different from customer segmentation for marketing efforts, for example. In short, it’s tough to land on a catch-all definition, but for the purpose of this article, I thought I’d make the following attempt: An algorithm has fairness if it does not produce unfair outcomes for, or representations of, individuals or groups.",
+          "link": "https://dzone.com/articles/the-importance-of-defining-fairness-for-decision-m",
+          "publishedOn": "2021-06-30T17:34:11.000Z",
+          "wordCount": 1230,
+          "title": "The Importance of Defining Fairness for Decision-Making AI Models"
+        },
+        {
+          "id": "https://dzone.com/articles/3128115",
+          "author": "Nath Abby",
+          "description": "I was once asked why computers are called \"computers\" when they do so much more than compute numbers. A modern PC browses the internet, plays audio and video, generates beautiful graphics for video games and movies, simulates and predicts complex weather patterns and epidemiological risks, brings architectural and engineering blueprints to life, and much more.\nThe reason computers can do all of this because all these problems can be expressed as numerical equations, and the computer's CPU—its central processing unit—is actually little more than a simple calculator.",
+          "link": "https://dzone.com/articles/port-operating-systems-to-new-chip-architectures",
+          "publishedOn": "2021-06-30T17:26:14.000Z",
+          "wordCount": 1451,
+          "title": "Port Operating Systems to New Chip Architectures"
+        },
+        {
+          "id": "https://dzone.com/articles/3125436",
+          "author": "Irene Li",
+          "description": "Introduction\nPeople take their mobile devices wherever they go. Mobile devices have become a necessity in people's daily routines, whether it be for looking at the weather forecast, browsing news, hailing a taxi, navigating, or recording data from a workout. All of these activities are associated with location services on mobile devices.\nWith the location awareness capability offered by HarmonyOS, mobile devices will be able to obtain real-time, accurate location data. Building location-awareness into your application can also lead to a better contextual experience for application users.",
+          "link": "https://dzone.com/articles/harmonyos-device-location-geocoding-and-reverse-ge",
+          "publishedOn": "2021-06-30T17:20:38.000Z",
+          "wordCount": 2406,
+          "title": "HarmonyOS Device Location, Geocoding, and Reverse Geocoding Capabilities"
+        },
+        {
+          "id": "https://dzone.com/articles/3128084",
+          "author": "Ananda Joardar",
+          "description": "Introduction\nIn Mulesoft implementation we always come across a need of implementing a robust logging framework that helps development and operation teams monitor and debug transactions in a faster and better way. \nIn Mule 4, the JSON Logger makes the effort of such logging framework creation faster and easier. Thanks to Andres Ramirez for releasing such a cool stuff for logging, which is much powerful than out of the box Mule logging component. In this blog we will explore some of these features. The intent of this blog is to demonstrate how the JSON logger can make the implementation of a standard logging framework super simple.",
+          "link": "https://dzone.com/articles/quick-and-simple-logging-framework-json-logger",
+          "publishedOn": "2021-06-30T17:20:23.000Z",
+          "wordCount": 1685,
+          "title": "Quick and Simple Logging Framework Using JSON Logger"
+        },
+        {
+          "id": "https://dzone.com/articles/3128160",
+          "author": "Ram N",
+          "description": "In the video below, we take a closer look at how to change the default context path using the application. properties. Let's get started!",
+          "link": "https://dzone.com/articles/spring-boot-how-to-change-default-context-path-usi-2",
+          "publishedOn": "2021-06-30T15:15:45.000Z",
+          "wordCount": 296,
+          "title": "Spring Boot – How to Change Default Context Path Using the application. properties?"
+        },
+        {
+          "id": "https://dzone.com/articles/3126979",
+          "author": "Anant Jhingran",
+          "description": "Introduction\nI have been working around databases for about four decades (that does date me!). From the early days of System R and Ingres, through the commercial engines of DB2 and Oracle, the open sources of MySQL and Postgres, to the current generations of NoSQLs like MongoDB and Cassandra and scalable SQL like CockroachDB and Yugabyte, anyone who has predicted the demise of databases has proven to be wrong. SQL as the query language has persisted, evolved, and improved, but the basic select * from foo where x = 1 group by y  is the language known to hundreds of thousands of developers. Why is that? Because databases just work, and how can you say that about too many things?\nAs a frontend developer, you want to see data in logical business constructs. Say a customer has one or more addresses, then your React application would love to see data like this:",
+          "link": "https://dzone.com/articles/how-to-set-up-a-graphql-endpoint-on-a-database",
+          "publishedOn": "2021-06-30T11:30:32.000Z",
+          "wordCount": 1881,
+          "title": "How to Set Up a GraphQL Endpoint on a Database"
+        },
+        {
+          "id": "https://dzone.com/articles/3099367",
+          "author": "Hakan Altındağ",
+          "description": "Certificates Are Always a Pain in the Production Environment!  \nSecurity is the one the most important part of any application these days especially the fact that most of the applications are running on a public cloud provider puts the security part on a higher priority. One of the ways application are using to keep communications secure is through the certificate. The certificate is one of the concepts that it is not as easy as another part of software development. First, you should understand how a certificate plays in the security part to figure out how to incorporate it into your application security. Moreover, you need to know how to generate/issue a new certificate for your application. \nUnfortunately, certificate generation is not a one-time job and it has expiration date. So, it means a new certificate should be replaced with the current certificate before the expiration date comes. In most cases, the certificate information is used in configurations of a deployed application on production. Therefore, you need to generate a new certificate and redeploy your application on production. This creates difficulties for software teams to see how they can handle this issue and justify the downtime in production. Lack of knowledge and documentation in projects often makes this operation highly error prune. Therefore, there is a high chance that even after a new certificate something fails on production unexpectedly because of misconfiguration. In this article, we are going to see how we can solve this issue without having downtime on production and also any change on the application level.",
+          "link": "https://dzone.com/articles/How-To-Change-Certificate-Without-Downtime",
+          "publishedOn": "2021-06-30T11:14:50.000Z",
+          "wordCount": 2003,
+          "title": "How to Change Certificate Without Downtime"
+        },
         {
           "id": "https://dzone.com/articles/2784208",
           "author": "Fabio Borriello",
@@ -5118,105 +5357,6 @@
           "publishedOn": "2021-06-01T14:10:31.000Z",
           "wordCount": 1175,
           "title": "The Incident Review: 4 Odd Incidents Caused by Animals"
-        },
-        {
-          "id": "https://dzone.com/articles/3126676",
-          "author": "Jawad Hasan Shani",
-          "description": "Introduction\nIn this series about deploying applications in AWS, I will discuss different methods and steps required to run different applications in AWS. We will be covering different moving parts in AWS as needed to run typical applications.\nThis series will be arranged in different parts to discuss different services, topics, and/or technologies needed for application deployment and execution.",
-          "link": "https://dzone.com/articles/aws-app-deployment-basics-vpc-and-postgresql-setup",
-          "publishedOn": "2021-06-01T02:25:45.000Z",
-          "wordCount": 1357,
-          "title": "AWS App Deployment Basics: VPC and PostgreSQL Setup"
-        },
-        {
-          "id": "https://dzone.com/articles/3127717",
-          "author": "Ram Lakshmanan",
-          "description": "What happens behind the scene when a Java program is executed? In which regions objects are created? When objects become eligible for garbage collection? Where are threads stored? What is the difference between Stack and Heap? Watch this video to know more.",
-          "link": "https://dzone.com/articles/how-java-program-executed-heap-threads-stack-gc",
-          "publishedOn": "2021-06-01T02:14:16.000Z",
-          "wordCount": 329,
-          "title": "How A Java Program Is Executed? – Heap, Threads, Stack, GC [Video]"
-        },
-        {
-          "id": "https://dzone.com/articles/3126835",
-          "author": "dret",
-          "description": "In 2002, Jeff Bezos issued what is now known as the API mandate: The new direction at Amazon would be that all capabilities would have to be designed and exposed as APIs. This is an early version of what we today call API First. Most importantly, the mandate had a laser focus on the fact that APIs need the network effect to produce the most value, and thus it simply said that APIs are not optional anymore.\nThe original mandate is preserved in a GitHub Gist that captures a reaction to it, which is Stevie’s (Steve Yegge’s) famous Google platform rant.",
-          "link": "https://dzone.com/articles/jeff-bezos-api-mandate-what-the-five-rules-mean-an",
-          "publishedOn": "2021-06-01T02:11:11.000Z",
-          "wordCount": 1072,
-          "title": "Jeff Bezos’ API Mandate: What the 5 Rules Mean and Do"
-        },
-        {
-          "id": "https://dzone.com/articles/3126888",
-          "author": "Stefan Wolpers",
-          "description": "TL;DR: The Frustrated Scrum Master — When All the Effort Leads Nowhere\nThere are plenty of failure possibilities with Scrum. Given that Scrum is a framework with a reasonable yet short \"manual,\" this effect should not surprise anyone. One failure symptom of a botched agile transformation is the frustrated Scrum Master.\nJoin me and explore the consequences of a Scrum Master who has thrown in the towel in 92 seconds.",
-          "link": "https://dzone.com/articles/the-frustrated-scrum-master-when-all-the-effort-le",
-          "publishedOn": "2021-06-01T02:06:28.000Z",
-          "wordCount": 1227,
-          "title": "The Frustrated Scrum Master — When All the Effort Leads Nowhere"
-        },
-        {
-          "id": "https://dzone.com/articles/3127793",
-          "author": "Everett Berry",
-          "description": "Preface\nIf you’re a MySQL DBA or a developer that deals with MySQL instances daily, it will probably not come as a surprise if you hear that you should not run big data sets on MySQL. Ask almost any MySQL DBA, and you will hear something like:\n\"MySQL is not a fit!\"\n\"Have you looked into NoSQL?\"\n\"Use MongoDB.\"\nSome of these responses indeed have merit — for example, NoSQL-based database management systems such as MongoDB can certainly be useful when dealing with big data sets. However, contrary to popular belief, MySQL shouldn’t be so quickly ruled out — in some scenarios, MySQL (or MariaDB) might prove to be even better options for big data than their NoSQL counterparts! In this article, we will explore the things you should consider when answering the question: “Is MySQL a good option for my big data project?”",
-          "link": "https://dzone.com/articles/big-data-mysql-mission-innopossible",
-          "publishedOn": "2021-06-01T01:59:50.000Z",
-          "wordCount": 2434,
-          "title": "Big Data + MySQL = Mission InnoPossible?"
-        },
-        {
-          "id": "https://dzone.com/articles/3126151",
-          "author": "Joydeep Bhattacharya",
-          "description": "Online shopping is growing at a fast pace and is expected to reach $1 trillion by 2022. But, eCommerce shopping won’t be the same as it is now. There are several eCommerce trends that will shape the future of the eCommerce industry.\nAdvancement in voice search technologies, adoption of VR, acceptance of bitcoins, and usage of chatbots for personalized product recommendations are some of the trends that will improve the overall shopping experience of the users.",
-          "link": "https://dzone.com/articles/top-ecommerce-trends",
-          "publishedOn": "2021-06-01T01:52:03.000Z",
-          "wordCount": 1039,
-          "title": "Top 5 eCommerce Trends For 2022"
-        },
-        {
-          "id": "https://dzone.com/articles/3127026",
-          "author": "Gaurav Dhimate",
-          "description": "What is FHIR?\nTo be short and precise, FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging healthcare information electronically.\nFHIR has been developed by HL7 for using it as a stand-alone exchange standard or to be used as with other standards such as HL7 v2, CDA and CCDA",
-          "link": "https://dzone.com/articles/basics-of-fhir-1",
-          "publishedOn": "2021-06-01T01:41:42.000Z",
-          "wordCount": 938,
-          "title": "Basics of FHIR"
-        },
-        {
-          "id": "https://dzone.com/articles/3125934",
-          "author": "Pratik Das",
-          "description": "Traditionally, a majority of our applications relied on relational database systems (RDBMS) for their data storage needs. But RDBMS systems are not very efficient at handling high volumes of connected data. A graph database is purpose-built to store this category of connected data. \nIn this article, we will explore the basic concepts of a graph database and then look at some examples of graph data modeling and querying by using the Neo4j graph database.",
-          "link": "https://dzone.com/articles/working-with-neo4j-graph-database",
-          "publishedOn": "2021-06-01T01:31:48.000Z",
-          "wordCount": 2612,
-          "title": "Working With Neo4j Graph Database"
-        },
-        {
-          "id": "https://dzone.com/articles/3127001",
-          "author": "Jai Pradeesh",
-          "description": "The term technical debt was coined by Ward Cunningham in 1992. To understand technical debt, let's compare it with financial debt.\nFinancial debt is an arrangement that gives the borrowing party permission to borrow money under the condition that it is to be paid back at a later date, usually with interest. Financial debt is generally needed due to overspending, lack of financial knowledge, poorly managed budget, etc. to name a few. You might also raise a financial debt to invest in your capital-intensive business, education, etc. which would bring returns in the future. Financial debt is not always a bad thing as long as you're aware of the consequences and always keep it under control.",
-          "link": "https://dzone.com/articles/what-is-technical-debt",
-          "publishedOn": "2021-06-01T01:24:43.000Z",
-          "wordCount": 707,
-          "title": "What Is Technical Debt?"
-        },
-        {
-          "id": "https://dzone.com/articles/3127123",
-          "author": "Sophie Zoria",
-          "description": "COVID-19 Boosts Tech Innovations \nCOVID-19 has shaken the world to its core. Societies are disrupted, countries are under lockdowns, and many people are confused. Although this may sound like some sort of sci-fi, this is the current reality. However, just like any type of crisis, it forced people to develop means of dealing with the issue.\nThe virus took its toll on the life of society but technologies have experienced an unprecedented boost in development. After all, COVID-19 showed that society is highly relying on technologies to maintain its functions. As a result, now we can enjoy robot and drone deliveries, telehealth solutions, AI-powered services, and VR/AR — everything powered by the Internet. Here we will take a look at the top 7 tech innovations to watch during the pandemic.",
-          "link": "https://dzone.com/articles/top-7-tech-trends-to-watch-in-the-covid-19-pandemi",
-          "publishedOn": "2021-05-31T22:44:42.000Z",
-          "wordCount": 1266,
-          "title": "Top 7 Tech Trends to Watch in the COVID-19 Pandemic"
-        },
-        {
-          "id": "https://dzone.com/articles/3128141",
-          "author": "Sudip Sengupta",
-          "description": "CockroachDB is a cloud-native SQL database that features both scalability and consistency. The database is designed to withstand data center failures by deploying multiple instances of symmetric nodes in a cluster consisting of several machines, disks, and data centers. Kubernetes’ built-in capabilities to scale and survive node failures make it well suited to orchestrate CockroachDB’s databases. This is particularly for the reason that Kubernetes simplifies cluster management and helps maintain high-availability by replicating data across independent nodes. \nThis guide focuses on how OpenEBS LocalPV devices can be used to persist storage for Kubernetes-Hosted CockroachDB clusters.",
-          "link": "https://dzone.com/articles/deploying-cockroachdb-on-kubernetes-using-openebs",
-          "publishedOn": "2021-05-31T14:31:21.000Z",
-          "wordCount": 1290,
-          "title": "Deploying CockroachDB on Kubernetes using OpenEBS LocalPV"
         }
       ]
     },
@@ -5225,6 +5365,222 @@
       "feedUrl": "https://news.ycombinator.com/rss",
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
+        {
+          "id": "https://www.sparkfun.com/news/3917",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sparkfun.com/news/3917",
+          "publishedOn": "2021-06-30T23:00:58.000Z",
+          "wordCount": null,
+          "title": "SparkFun Hooks a Patent Troll"
+        },
+        {
+          "id": "https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seattletimes.com/business/federal-targeting-of-americans-records-is-routine-microsoft-exec-testifies/",
+          "publishedOn": "2021-06-30T22:02:47.000Z",
+          "wordCount": 1160,
+          "title": "Microsoft exec: Targeting of Americans’ records ‘routine’"
+        },
+        {
+          "id": "https://www.tesorio.com/careers#job-openings",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tesorio.com/careers#job-openings",
+          "publishedOn": "2021-06-30T21:52:24.000Z",
+          "wordCount": 386,
+          "title": "Tesorio (YC S15) Is Hiring – Join Our 100% Distributed Fintech Team"
+        },
+        {
+          "id": "https://www.rainforestqa.com/blog/accessible-quality",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.rainforestqa.com/blog/accessible-quality",
+          "publishedOn": "2021-06-30T21:45:33.000Z",
+          "wordCount": 3798,
+          "title": "Asking developers to do QA is broken – why anyone should own QA"
+        },
+        {
+          "id": "https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/",
+          "publishedOn": "2021-06-30T20:26:46.000Z",
+          "wordCount": 2093,
+          "title": "Apple Makes Mac OS X Lion and Mountain Lion Free to Download"
+        },
+        {
+          "id": "https://www.theregister.com/2021/06/30/ibm_email_outage/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2021/06/30/ibm_email_outage/",
+          "publishedOn": "2021-06-30T20:15:50.000Z",
+          "wordCount": 2619,
+          "title": "IBM's 18-month company-wide email system migration has been a disaster: sources"
+        },
+        {
+          "id": "https://jacobobryant.com/blog/understand/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jacobobryant.com/blog/understand/",
+          "publishedOn": "2021-06-30T17:59:09.000Z",
+          "wordCount": 497,
+          "title": "Move fast, but understand the problem first"
+        },
+        {
+          "id": "https://fly.io/blog/globally-distributed-postgres/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fly.io/blog/globally-distributed-postgres/",
+          "publishedOn": "2021-06-30T17:08:33.000Z",
+          "wordCount": 2350,
+          "title": "Globally Distributed Postgres"
+        },
+        {
+          "id": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc",
+          "publishedOn": "2021-06-30T16:36:33.000Z",
+          "wordCount": 2323,
+          "title": "Intuit sabotages the Child Tax Credit"
+        },
+        {
+          "id": "https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/",
+          "publishedOn": "2021-06-30T16:33:01.000Z",
+          "wordCount": 1050,
+          "title": "Robinhood to pay $70M for 'systemic supervisory failures'"
+        },
+        {
+          "id": "http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html",
+          "publishedOn": "2021-06-30T16:30:04.000Z",
+          "wordCount": 6071,
+          "title": "1970s mainframe RPGs we can no longer play"
+        },
+        {
+          "id": "https://git-history.jpalmer.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://git-history.jpalmer.dev/",
+          "publishedOn": "2021-06-30T15:24:12.000Z",
+          "wordCount": 6,
+          "title": "Show HN: An interactive visual history of Git development"
+        },
+        {
+          "id": "https://principles.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://principles.dev/",
+          "publishedOn": "2021-06-30T13:59:47.000Z",
+          "wordCount": 272,
+          "title": "Software Engineering principles to make teams better"
+        },
+        {
+          "id": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
+          "publishedOn": "2021-06-30T13:24:36.000Z",
+          "wordCount": 2006,
+          "title": "Treat Kubernetes clusters as cattle, not pets"
+        },
+        {
+          "id": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
+          "publishedOn": "2021-06-30T13:15:35.000Z",
+          "wordCount": 6347,
+          "title": "Link rot and content drift are endemic to the web"
+        },
+        {
+          "id": "https://nicholasreese.com/lessons-from-building-a-static-site-generator/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nicholasreese.com/lessons-from-building-a-static-site-generator/",
+          "publishedOn": "2021-06-30T12:56:43.000Z",
+          "wordCount": 5646,
+          "title": "Lessons from Building a Static Site Generator (2020)"
+        },
+        {
+          "id": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
+          "author": null,
+          "description": "Comments",
+          "link": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
+          "publishedOn": "2021-06-30T12:44:24.000Z",
+          "wordCount": 3684,
+          "title": "Black Hat Exploits of the Stupid-Easy 80s"
+        },
+        {
+          "id": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
+          "publishedOn": "2021-06-30T12:25:40.000Z",
+          "wordCount": 891,
+          "title": "‘Great Resignation’ gains steam as return-to-work plans take effect"
+        },
+        {
+          "id": "https://twitter.com/eevee/status/1410037309848752128",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/eevee/status/1410037309848752128",
+          "publishedOn": "2021-06-30T12:00:41.000Z",
+          "wordCount": 196,
+          "title": "GitHub co-pilot as open source code laundering?"
+        },
+        {
+          "id": "https://jacobian.org/2021/may/20/estimation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jacobian.org/2021/may/20/estimation/",
+          "publishedOn": "2021-06-30T11:29:57.000Z",
+          "wordCount": 768,
+          "title": "Software estimation is hard – do it anyway"
+        },
+        {
+          "id": "https://johz.bearblog.dev/book-review-philosophy-software-design/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://johz.bearblog.dev/book-review-philosophy-software-design/",
+          "publishedOn": "2021-06-30T10:14:33.000Z",
+          "wordCount": 1787,
+          "title": "Book Review: A Philosophy of Software Design (2020)"
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/japanese-fireworks-catalogues",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/japanese-fireworks-catalogues",
+          "publishedOn": "2021-06-30T04:32:54.000Z",
+          "wordCount": 1728,
+          "title": "Flowers of Fire: Illustrations from Japanese Fireworks Catalogues (ca. 1880s)"
+        },
+        {
+          "id": "https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING",
+          "publishedOn": "2021-06-30T04:18:34.000Z",
+          "wordCount": null,
+          "title": "A foreign seller has hijacked my Amazon Klein bottle listing"
+        },
+        {
+          "id": "https://medium.com/@fserb/metaphors-in-games-21ee033ad260",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/@fserb/metaphors-in-games-21ee033ad260",
+          "publishedOn": "2021-06-29T23:38:18.000Z",
+          "wordCount": 1762,
+          "title": "Metaphors in Games (2016)"
+        },
         {
           "id": "https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame",
           "author": null,
@@ -5280,6 +5636,15 @@
           "title": "Storytelling – Mamet’s Conflict Airing Theory"
         },
         {
+          "id": "https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/travel/article/20210616-funazushi-the-fermented-predecessor-of-modern-sushi?utm_source=bengtan&utm_medium=email",
+          "publishedOn": "2021-06-29T21:46:52.000Z",
+          "wordCount": 1874,
+          "title": "Funazushi: The fermented predecessor of modern sushi"
+        },
+        {
           "id": "https://www.eurekalert.org/pub_releases/2021-06/uoc--rta061321.php",
           "author": null,
           "description": "Comments",
@@ -5307,6 +5672,15 @@
           "title": "Let's Build a Chip with Math"
         },
         {
+          "id": "https://itnext.io/im-changing-how-i-review-code-dbf212507e5f",
+          "author": null,
+          "description": "Comments",
+          "link": "https://itnext.io/im-changing-how-i-review-code-dbf212507e5f",
+          "publishedOn": "2021-06-29T21:35:59.000Z",
+          "wordCount": 1741,
+          "title": "Changing how I review code"
+        },
+        {
           "id": "https://jobs.lever.co/buildzoom",
           "author": null,
           "description": "Comments",
@@ -5323,6 +5697,15 @@
           "publishedOn": "2021-06-29T20:38:56.000Z",
           "wordCount": 4245,
           "title": "What mRNA is good for, and what it maybe isn’t"
+        },
+        {
+          "id": "https://arstechnica.com/gaming/2021/06/what-the-hecks-an-intellivision-amico-consoles-leaky-dev-portal-offers-hints/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gaming/2021/06/what-the-hecks-an-intellivision-amico-consoles-leaky-dev-portal-offers-hints/",
+          "publishedOn": "2021-06-29T20:05:05.000Z",
+          "wordCount": 1429,
+          "title": "What’s an Intellivision Amico? Console’s leaky dev portal offers hints"
         },
         {
           "id": "https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/",
@@ -5440,6 +5823,15 @@
           "publishedOn": "2021-06-29T06:23:45.000Z",
           "wordCount": 350,
           "title": "Beets: the music geek’s media organizer"
+        },
+        {
+          "id": "https://www.laphamsquarterly.org/roundtable/families-choice",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.laphamsquarterly.org/roundtable/families-choice",
+          "publishedOn": "2021-06-29T05:49:51.000Z",
+          "wordCount": 2179,
+          "title": "Families of Choice: On the Shakers and Catholics in Early America"
         },
         {
           "id": "https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers",
@@ -5568,6 +5960,15 @@
           "title": "Show HN: The Sample – newsletters curated for you with machine learning"
         },
         {
+          "id": "https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/",
+          "publishedOn": "2021-06-28T16:17:32.000Z",
+          "wordCount": 4181,
+          "title": "“The Martian” + Starship"
+        },
+        {
           "id": "https://www.thischemicaldoesnotexist.com/",
           "author": null,
           "description": "Comments",
@@ -5602,6 +6003,15 @@
           "publishedOn": "2021-06-28T13:25:03.000Z",
           "wordCount": 1538,
           "title": "Biohackers take aim at big pharma’s stranglehold on insulin"
+        },
+        {
+          "id": "https://fs.blog/2021/06/memory-palace/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fs.blog/2021/06/memory-palace/",
+          "publishedOn": "2021-06-28T13:16:39.000Z",
+          "wordCount": 2988,
+          "title": "The Method of Loci: Build Your Memory Palace"
         },
         {
           "id": "https://ipds.io/",
@@ -12955,249 +13365,6 @@
           "publishedOn": "2021-06-01T13:15:58.000Z",
           "wordCount": 1763,
           "title": "YouTube-dl can no longer download age-restricted videos"
-        },
-        {
-          "id": "https://imadr.github.io/rotations-with-quaternions/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://imadr.github.io/rotations-with-quaternions/",
-          "publishedOn": "2021-06-01T12:03:59.000Z",
-          "wordCount": 1303,
-          "title": "Rotations with quaternions"
-        },
-        {
-          "id": "https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c",
-          "publishedOn": "2021-06-01T12:03:17.000Z",
-          "wordCount": 3074,
-          "title": "A virtual machine for microcontrollers"
-        },
-        {
-          "id": "https://www.bbc.co.uk/programmes/p067lplj",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.co.uk/programmes/p067lplj",
-          "publishedOn": "2021-06-01T09:31:12.000Z",
-          "wordCount": 264,
-          "title": "Why does the jet stream rule our weather? [audio]"
-        },
-        {
-          "id": "https://www.tondering.dk/download/sur16.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tondering.dk/download/sur16.pdf",
-          "publishedOn": "2021-06-01T08:36:21.000Z",
-          "wordCount": 7620,
-          "title": "Surreal Numbers – An Introduction [pdf]"
-        },
-        {
-          "id": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/",
-          "publishedOn": "2021-06-01T01:03:43.000Z",
-          "wordCount": 8836,
-          "title": "The Anxiety of Influencers"
-        },
-        {
-          "id": "https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time",
-          "publishedOn": "2021-06-01T00:11:51.000Z",
-          "wordCount": 1124,
-          "title": "Chinese ‘Artificial Sun’ experimental fusion reactor sets world record"
-        },
-        {
-          "id": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
-          "publishedOn": "2021-05-31T20:35:20.000Z",
-          "wordCount": 1693,
-          "title": "Sodium rutin extends lifespan and health span in mice by 10%"
-        },
-        {
-          "id": "https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://buffalonews.com/news/the-digital-wallet-of-the-future/article_321a88e4-5141-5640-bab6-a616afeb7872.html",
-          "publishedOn": "2021-05-31T19:16:54.000Z",
-          "wordCount": 1789,
-          "title": "The Digital Wallet of the Future (1996)"
-        },
-        {
-          "id": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
-          "publishedOn": "2021-05-31T18:50:23.000Z",
-          "wordCount": 38340,
-          "title": "The May 18 Gwangju Uprising"
-        },
-        {
-          "id": "https://annagat.substack.com/p/on-smoking",
-          "author": null,
-          "description": "Comments",
-          "link": "https://annagat.substack.com/p/on-smoking",
-          "publishedOn": "2021-05-31T18:50:07.000Z",
-          "wordCount": 637,
-          "title": "On Smoking"
-        },
-        {
-          "id": "https://tomcritchlow.com/2018/02/23/small-b-blogging/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tomcritchlow.com/2018/02/23/small-b-blogging/",
-          "publishedOn": "2021-05-31T18:49:31.000Z",
-          "wordCount": 1544,
-          "title": "Small B Blogging (2018)"
-        },
-        {
-          "id": "https://andersource.dev/2021/04/29/faulty_digital_clock.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://andersource.dev/2021/04/29/faulty_digital_clock.html",
-          "publishedOn": "2021-05-31T18:02:17.000Z",
-          "wordCount": 1149,
-          "title": "The faulty digital clock problem"
-        },
-        {
-          "id": "http://www.infinitecuriosity.org/vizgp/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.infinitecuriosity.org/vizgp/",
-          "publishedOn": "2021-05-31T17:54:06.000Z",
-          "wordCount": 56,
-          "title": "Interactive Visualization of Gaussian Processes"
-        },
-        {
-          "id": "https://www.dragongoserver.net/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.dragongoserver.net/",
-          "publishedOn": "2021-05-31T17:42:05.000Z",
-          "wordCount": 68,
-          "title": "Dragon Go Server"
-        },
-        {
-          "id": "https://www.sfwriter.com/wordstar.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sfwriter.com/wordstar.htm",
-          "publishedOn": "2021-05-31T16:53:16.000Z",
-          "wordCount": 3343,
-          "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
-        },
-        {
-          "id": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
-          "publishedOn": "2021-05-31T16:38:04.000Z",
-          "wordCount": 2192,
-          "title": "UUID, serial or identity columns for PostgreSQL auto-generated primary keys?"
-        },
-        {
-          "id": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
-          "author": null,
-          "description": "Comments",
-          "link": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
-          "publishedOn": "2021-05-31T16:34:16.000Z",
-          "wordCount": 2828,
-          "title": "The most expensive number in engineering"
-        },
-        {
-          "id": "https://www.elopezr.com/a-macro-view-of-nanite/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.elopezr.com/a-macro-view-of-nanite/",
-          "publishedOn": "2021-05-31T16:04:36.000Z",
-          "wordCount": 2489,
-          "title": "A Macro View of Nanite"
-        },
-        {
-          "id": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
-          "publishedOn": "2021-05-31T15:35:18.000Z",
-          "wordCount": 1505,
-          "title": "We only ever talk about the third attack on Pearl Harbor"
-        },
-        {
-          "id": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
-          "publishedOn": "2021-05-31T15:25:59.000Z",
-          "wordCount": 2013,
-          "title": "Donating my time to grow a VC-funded company: why I quit mentoring at Plato"
-        },
-        {
-          "id": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
-          "publishedOn": "2021-05-31T14:53:15.000Z",
-          "wordCount": 1436,
-          "title": "PostGIS at 20, the Beginning"
-        },
-        {
-          "id": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
-          "publishedOn": "2021-05-31T14:50:03.000Z",
-          "wordCount": 1050,
-          "title": "Google’s new popup will further weaken Facebook’s advertisement business"
-        },
-        {
-          "id": "http://wordtsar.ca/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://wordtsar.ca/",
-          "publishedOn": "2021-05-31T14:32:16.000Z",
-          "wordCount": 1342,
-          "title": "WordTsar, a WordStar Clone"
-        },
-        {
-          "id": "https://observablehq.com/@tomlarkworthy/sign-a-pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://observablehq.com/@tomlarkworthy/sign-a-pdf",
-          "publishedOn": "2021-05-31T13:51:37.000Z",
-          "wordCount": 15,
-          "title": "Sign a PDF document client-side with no data leaving the computer"
-        },
-        {
-          "id": "https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40",
-          "author": null,
-          "description": "Comments",
-          "link": "https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40",
-          "publishedOn": "2021-05-31T13:47:02.000Z",
-          "wordCount": 3296,
-          "title": "Rethinking the computer ‘desktop’ as a concept"
-        },
-        {
-          "id": "https://people.ohio.edu/postr/bapix/HLegacy.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://people.ohio.edu/postr/bapix/HLegacy.htm",
-          "publishedOn": "2021-05-31T12:58:29.000Z",
-          "wordCount": 4324,
-          "title": "The Heathkit Legacy (2013)"
-        },
-        {
-          "id": "https://www.gwern.net/docs/cs/2007-drepper.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gwern.net/docs/cs/2007-drepper.pdf",
-          "publishedOn": "2021-05-31T12:56:58.000Z",
-          "wordCount": 19525,
-          "title": "What every programmer should know about memory [pdf]"
         }
       ]
     }
